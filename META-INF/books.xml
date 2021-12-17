@@ -1,3 +1,4 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book />
+    <book slug="chemistry" collection-id="col11760" href="../collections/chemistry.collection.xml" />
+    <book slug="chemistry-atoms-first" collection-id="col12012" href="../collections/chemistry-atoms-first.collection.xml" />
 </container>
