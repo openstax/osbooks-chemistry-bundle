@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Early Ideas in Atomic Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61734</md:content-id>
+  <md:title>Early Ideas in Atomic Theory</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>State the postulates of Dalton’s atomic theory </item>
+<item>Use postulates of Dalton’s atomic theory to explain the laws of definite and multiple proportions</item>
+</list></md:abstract>
+  <md:uuid>0b8b9f6c-0e47-4e30-9b6f-7ab7c3ea17bd</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm14647408">The language used in chemistry is seen and heard in many disciplines, ranging from medicine to engineering to forensics to art. The language of chemistry includes its own vocabulary as well as its own form of shorthand. Chemical symbols are used to represent atoms and elements. Chemical formulas depict molecules as well as the composition of compounds. Chemical equations provide information about the quality and quantity of the changes associated with chemical reactions.</para>
+<section id="fs-idm59513744">
+<title>Atomic Theory through the Nineteenth Century</title>
+<para id="fs-idp22389648">The earliest recorded discussion of the basic structure of matter comes from ancient Greek philosophers, the scientists of their day. In the fifth century BC, Leucippus and Democritus argued that all matter was composed of small, finite particles that they called <emphasis effect="italics">atomos</emphasis>, a term derived from the Greek word for “indivisible.” They thought of atoms as moving particles that differed in shape and size, and which could join together. Later, Aristotle and others came to the conclusion that matter consisted of various combinations of the four “elements”—fire, earth, air, and water—and could be infinitely divided. Interestingly, these philosophers thought about atoms and “elements” as philosophical concepts, but apparently never considered performing experiments to test their ideas.</para>
+<para id="fs-idp136823072">The Aristotelian view of the composition of matter held sway for over two thousand years, until English schoolteacher John Dalton helped to revolutionize chemistry with his hypothesis that the behavior of matter could be explained using an atomic theory. First published in 1807, many of Dalton’s hypotheses about the microscopic features of matter are still valid in modern atomic theory. Here are the postulates of <term>Dalton’s atomic theory</term>.</para>
+<list id="fs-idp28280144" list-type="enumerated" number-style="arabic">
+<item>Matter is composed of exceedingly small particles called atoms. An <term class="no-emphasis">atom</term> is the smallest unit of an element that can participate in a chemical change.</item>
+<item>An <term class="no-emphasis">element</term> consists of only one type of atom, which has a mass that is characteristic of the element and is the same for all atoms of that element (<link target-id="CNX_Chem_02_01_Dalton1"/>). A macroscopic sample of an element contains an incredibly large number of atoms, all of which have identical chemical properties.
+<figure id="CNX_Chem_02_01_Dalton1">
+<media id="fs-idm67856816" alt="The left image shows a photograph of a stack of pennies. The right image calls out an area of one of the pennies, which is made up of many sphere-shaped copper atoms. The atoms are densely organized.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton1.jpg"/>
+</media>
+<caption>A pre-1982 copper penny (left) contains approximately 3 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>22</sup> copper atoms (several dozen are represented as brown spheres at the right), each of which has the same chemical properties. (credit: modification of work by “slgckgc”/Flickr)</caption>
+</figure></item>
+<item>Atoms of one element differ in properties from atoms of all other elements.</item>
+<item>A compound consists of atoms of two or more elements combined in a small, whole-number ratio. In a given compound, the numbers of atoms of each of its elements are always present in the same ratio (<link target-id="CNX_Chem_02_01_Dalton2"/>).
+<figure id="CNX_Chem_02_01_Dalton2">
+<media id="fs-idp25149184" alt="The left image shows a container with a black, powdery compound. The right image calls out the molecular structure of the powder which contains copper atoms that are clustered together with an equal number of oxygen atoms.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton2.jpg"/>
+</media>
+<caption>Copper(II) oxide, a powdery, black compound, results from the combination of two types of atoms—copper (brown spheres) and oxygen (red spheres)—in a 1:1 ratio. (credit: modification of work by “Chemicalinterest”/Wikimedia Commons)</caption>
+</figure></item>
+<item>Atoms are neither created nor destroyed during a chemical change, but are instead rearranged to yield substances that are different from those present before the change (<link target-id="CNX_Chem_02_01_Dalton3"/>).
+<figure id="CNX_Chem_02_01_Dalton3">
+<media id="fs-idm75378992" alt="The left stoppered bottle contains copper and oxygen. There is a callout which shows that copper is made up of many sphere-shaped atoms. The atoms are densely organized. The open space of the bottle contains oxygen gas, which is made up of bonded pairs of oxygen atoms that are evenly spaced. The right stoppered bottle shows the compound copper two oxide, which is a black, powdery substance. A callout from the powder shows a molecule of copper two oxide, which contains copper atoms that are clustered together with an equal number of oxygen atoms.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton3.jpg"/>
+</media>
+<caption>When the elements copper (a shiny, red-brown solid, shown here as brown spheres) and oxygen (a clear and colorless gas, shown here as red spheres) react, their atoms rearrange to form a compound containing copper and oxygen (a powdery, black solid). (credit copper: modification of work by http://images-of-elements.com/copper.php)</caption>
+</figure></item>
+</list>
+<para id="fs-idp64032864">Dalton’s atomic theory provides a microscopic explanation of the many macroscopic properties of matter that you’ve learned about. For example, if an element such as copper consists of only one kind of atom, then it cannot be broken down into simpler substances, that is, into substances composed of fewer types of atoms. And if atoms are neither created nor destroyed during a chemical change, then the total mass of matter present when matter changes from one type to another will remain constant (the law of conservation of matter).</para>
+<example id="fs-idp23171216">
+<para id="fs-idm69166560">
+<title>Testing Dalton’s Atomic Theory</title>
+In the following drawing, the green spheres represent atoms of a certain element. The purple spheres represent atoms of another element. If the spheres touch, they are part of a single unit of a compound. Does the following chemical change represented by these symbols violate any of the ideas of Dalton’s atomic theory? If so, which one?</para>
+<media id="fs-idp71137024" alt="This equation shows that the starting materials of the reaction are two bonded, green spheres, which are being combined with two smaller, bonded purple spheres. The product of the change is one purple sphere that is bonded to one green sphere.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton6_img.jpg"/>
+</media>
+<para id="fs-idm4192784">
+<title>Solution</title>
+The starting materials consist of two green spheres and two purple spheres. The products consist of only one green sphere and one purple sphere. This violates Dalton’s postulate that atoms are neither created nor destroyed during a chemical change, but are merely redistributed. (In this case, atoms appear to have been destroyed.)</para>
+<para id="fs-idp39901584">
+<title>Check Your Learning</title>
+In the following drawing, the green spheres represent atoms of a certain element. The purple spheres represent atoms of another element. If the spheres touch, they are part of a single unit of a compound. Does the following chemical change represented by these symbols violate any of the ideas of Dalton’s atomic theory? If so, which one?</para>
+<media id="fs-idp149298560" alt="This equation shows that the starting materials of the reaction are two sets of bonded, green spheres which are each being combined with two smaller, bonded purple spheres. The products of the change are two molecules that each contain one purple sphere bonded between two green spheres.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton8_img.jpg"/>
+</media>
+<note id="fs-idm55003792">
+<title>Answer:</title>
+<para id="fs-idp136824288">The starting materials consist of four green spheres and two purple spheres. The products consist of four green spheres and two purple spheres. This does not violate any of Dalton’s postulates: Atoms are neither created nor destroyed, but are redistributed in small, whole-number ratios.</para>
+</note>
+</example>
+</section>
+<para id="fs-idp28034944">Dalton knew of the experiments of French chemist Joseph Proust, who demonstrated that <emphasis effect="italics">all samples of a pure compound contain the same elements in the same proportion by mass</emphasis>. This statement is known as the <term>law of definite proportions</term> or the <term>law of constant composition</term>. The suggestion that the numbers of atoms of the elements in a given compound always exist in the same ratio is consistent with these observations. For example, when different samples of isooctane (a component of gasoline and one of the standards used in the octane rating system) are analyzed, they are found to have a carbon-to-hydrogen mass ratio of 5.33:1, as shown in <link target-id="fs-idp114534448"/>.</para>
+<table id="fs-idp114534448" summary="This table displays how much carbon and hydrogen are in samples A, B and C, as well as the mass ratio of each. Sample A contains 14.82 grams of carbon and 2.78 grams of hydrogen. Its mass ratio is, therefore, 14.82 grams of carbon over 2.78 grams of hydrogen. This ratio is equal to 5.33 grams of carbon over 1.00 gram of hydrogen. Sample B contains 22.33 grams of carbon and 4.19 grams of hydrogen. Its mass ratio is 22.3 grams of carbon over 4.19 grams of hydrogen which is equal to 5.33 grams of carbon over 1.00 gram of hydrogen. Sample C contains 19.40 grams of carbon and 3.64 grams of hydrogen. Its mass ratio is 19.40 grams of carbon over 3.63 grams of hydrogen which is equal to 5.33 grams of carbon over 1.00 gram of hydrogen." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Constant Composition of Isooctane</entry>
+</row>
+<row valign="top">
+<entry align="left">Sample</entry><entry align="left">Carbon</entry><entry align="left">Hydrogen</entry><entry align="left">Mass Ratio</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="center">A</entry><entry align="center">14.82 g</entry><entry align="center">2.78 g</entry><entry align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>14.82 g carbon</m:mtext></m:mrow><m:mrow><m:mtext>2.78 g hydrogen</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>5.33 g carbon</m:mtext></m:mrow><m:mrow><m:mtext>1.00 g hydrogen</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row valign="top">
+<entry align="center">B</entry><entry align="center">22.33 g</entry><entry align="center">4.19 g</entry><entry align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>22.33 g carbon</m:mtext></m:mrow><m:mrow><m:mtext>4.19 g hydrogen</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>5.33 g carbon</m:mtext></m:mrow><m:mrow><m:mtext>1.00 g hydrogen</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row valign="top">
+<entry align="center">C</entry><entry align="center">19.40 g</entry><entry align="center">3.64 g</entry><entry align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>19.40 g carbon</m:mtext></m:mrow><m:mrow><m:mtext>3.63 g hydrogen</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>5.33 g carbon</m:mtext></m:mrow><m:mrow><m:mtext>1.00 g hydrogen</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp149501712">It is worth noting that although all samples of a particular compound have the same mass ratio, the converse is not true in general. That is, samples that have the same mass ratio are not necessarily the same substance. For example, there are many compounds other than isooctane that also have a carbon-to-hydrogen mass ratio of 5.33:1.00.</para>
+<para id="fs-idp113358288">Dalton also used data from Proust, as well as results from his own experiments, to formulate another interesting law. The <term>law of multiple proportions</term> states that <emphasis effect="italics">when two elements react to form more than one compound, a fixed mass of one element will react with masses of the other element in a ratio of small, whole numbers</emphasis>. For example, copper and chlorine can form a green, crystalline solid with a mass ratio of 0.558 g chlorine to 1 g copper, as well as a brown crystalline solid with a mass ratio of 1.116 g chlorine to 1 g copper. These ratios by themselves may not seem particularly interesting or informative; however, if we take a ratio of these ratios, we obtain a useful and possibly surprising result: a small, whole-number ratio.</para>
+<equation id="fs-idp92779296"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mtext>1.116 g Cl</m:mtext></m:mrow><m:mrow><m:mtext>1 g Cu</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>0.558 g Cl</m:mtext></m:mrow><m:mrow><m:mtext>1 g Cu</m:mtext></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>2</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp35032848">This 2-to-1 ratio means that the brown compound has twice the amount of chlorine per amount of copper as the green compound.</para>
+<para id="fs-idm113441696">This can be explained by atomic theory if the copper-to-chlorine ratio in the brown compound is 1 copper atom to 2 chlorine atoms, and the ratio in the green compound is 1 copper atom to 1 chlorine atom. The ratio of chlorine atoms (and thus the ratio of their masses) is therefore 2 to 1 (<link target-id="CNX_Chem_02_01_MultProp"/>).</para>
+<figure id="CNX_Chem_02_01_MultProp">
+<media id="fs-idp111881472" alt="Figure A shows a pile of green powder. A callout shows that the green powder is made up of a lattice of copper atoms interspersed with chlorine atoms. The atoms are color coded brown for copper and green for chlorine. The number of copper atoms is equal to the number of chlorine atoms in the molecule. Figure B shows a pile of brown powder. A callout shows that the brown powder is also made up of copper and chlorine atoms similar to the molecule shown in figure A. However there appears to be two chlorine atoms for every copper atom in this molecule. The copper atoms in figure B bond with both the chlorine atoms and the other copper atoms. The copper atoms in figure A only bond with the chlorine atoms.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_MultProp.jpg"/>
+</media>
+<caption>Compared to the copper chlorine compound in (a), where copper is represented by brown spheres and chlorine by green spheres, the copper chlorine compound in (b) has twice as many chlorine atoms per copper atom. (credit a: modification of work by “Benjah-bmm27”/Wikimedia Commons; credit b: modification of work by “Walkerma”/Wikimedia Commons)</caption>
+</figure>
+<example id="fs-idp28025040">
+<para id="fs-idp31315072">
+<title>Laws of Definite and Multiple Proportions</title>
+A sample of compound A (a clear, colorless gas) is analyzed and found to contain 4.27 g carbon and 5.69 g oxygen. A sample of compound B (also a clear, colorless gas) is analyzed and found to contain 5.19 g carbon and 13.84 g oxygen. Are these data an example of the law of definite proportions, the law of multiple proportions, or neither? What do these data tell you about substances A and B?</para>
+<para id="fs-idm71104640">
+<title>Solution</title>
+In compound A, the mass ratio of carbon to oxygen is:<newline/>
+<equation id="fs-idm27225408"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>1.33 g O</m:mtext></m:mrow><m:mrow><m:mtext>1 g C</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idp26443712">In compound B, the mass ratio of carbon to oxygen is:<newline/>
+<equation id="fs-idm193212704"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>2.67 g O</m:mtext></m:mrow><m:mrow><m:mtext>1 g C</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idp25964592">The ratio of these ratios is:<newline/>
+<equation id="fs-idm53123280"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mtext>1.33 g O</m:mtext></m:mrow><m:mrow><m:mtext>1 g C</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>2.67 g O</m:mtext></m:mrow><m:mrow><m:mtext>1 g C</m:mtext></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idm85625680">This supports the law of multiple proportions. This means that A and B are different compounds, with A having one-half as much carbon per amount of oxygen (or twice as much carbon per amount of oxygen) as B. A possible pair of compounds that would fit this relationship would be A = CO and B = CO<sub>2</sub>.</para><para id="fs-idp13365184">
+<title>Check Your Learning</title>
+A sample of compound X (a clear, colorless, combustible liquid with a noticeable odor) is analyzed and found to contain 14.13 g carbon and 2.96 g hydrogen. A sample of compound Y (a clear, colorless, combustible liquid with a noticeable odor that is slightly different from X’s odor) is analyzed and found to contain 19.91 g carbon and 3.34 g hydrogen. Are these data an example of the law of definite proportions, the law of multiple proportions, or neither? What do these data tell you about substances X and Y?</para>
+<note id="fs-idp90686448">
+<title>Answer:</title>
+<para id="fs-idp130268400">In compound X, the mass ratio of carbon to hydrogen is <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>14.13 g C</m:mtext></m:mrow><m:mrow><m:mtext>2.96 g H</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> In compound Y, the mass ratio of carbon to oxygen is <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>19.91 g C</m:mtext></m:mrow><m:mrow><m:mtext>3.34 g H</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> The ratio of these ratios is <m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mtext>14.13 g C</m:mtext></m:mrow><m:mrow><m:mtext>2.96 g H</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>19.91 g C</m:mtext></m:mrow><m:mrow><m:mtext>3.34 g H</m:mtext></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>4.77 g C/g H</m:mtext></m:mrow><m:mrow><m:mtext>5.96 g C/g H</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0.800</m:mn><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> This small, whole-number ratio supports the law of multiple proportions. This means that X and Y are different compounds.</para>
+</note>
+</example>
+<section id="fs-idp7570768" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm8092064">The ancient Greeks proposed that matter consists of extremely small particles called atoms. Dalton postulated that each element has a characteristic type of atom that differs in properties from atoms of all other elements, and that atoms of different elements can combine in fixed, small, whole-number ratios to form compounds. Samples of a particular compound all have the same elemental proportions by mass. When two elements form different compounds, a given mass of one element will combine with masses of the other element in a small, whole-number ratio. During any chemical change, atoms are neither created nor destroyed.</para>
+</section>
+<section id="fs-idm51563888" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp69222896">
+<problem id="fs-idm56556832">
+<para id="fs-idm80213408">In the following drawing, the green spheres represent atoms of a certain element. The purple spheres represent atoms of another element. If the spheres of different elements touch, they are part of a single unit of a compound. The following chemical change represented by these spheres may violate one of the ideas of Dalton’s atomic theory. Which one?<newline/></para>
+<media id="fs-idp159684336" alt="This equation contains the starting materials of a single, green sphere plus two smaller, purple spheres bonded together. When the starting materials are added together the products of the change are one purple sphere bonded with one green sphere plus one purple sphere bonded with one green sphere.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton10_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idm51350640"><para id="fs-idp159650544">The starting materials consist of one green sphere and two purple spheres. The products consist of two green spheres and two purple spheres. This violates Dalton’s postulate that that atoms are not created during a chemical change, but are merely redistributed.</para></solution>
+</exercise>
+<exercise id="fs-idp28065472">
+<problem id="fs-idp130270640">
+<para id="fs-idp88764640">Which postulate of Dalton’s theory is consistent with the following observation concerning the weights of reactants and products? When 100 grams of solid calcium carbonate is heated, 44 grams of carbon dioxide and 56 grams of calcium oxide are produced.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm83132240">
+<problem id="fs-idp124557504">
+<para id="fs-idm69044608">Identify the postulate of Dalton’s theory that is violated by the following observations: 59.95% of one sample of titanium dioxide is titanium; 60.10% of a different sample of titanium dioxide is titanium.</para>
+</problem>
+<solution id="fs-idp140553984"><para id="fs-idp110196432">This statement violates Dalton’s fourth postulate: In a given compound, the numbers of atoms of each type (and thus also the percentage) always have the same ratio.</para></solution>
+</exercise>
+<exercise id="fs-idp146757152">
+<problem id="fs-idm73587216">
+<para id="fs-idp38338048">Samples of compound X, Y, and Z are analyzed, with results shown here.</para>
+<table id="fs-idp22296752" class="medium unnumbered" summary="This table has a “description” column, a “mass of carbon” column, and a “mass of hydrogen” column for compounds X, Y and Z. Compound X is a clear, colorless liquid with a strong odor. Its mass of carbon is 1.776 grams, and its mass of hydrogen is 0.148 grams. Compound Y is also a clear, colorless liquid with a strong odor. Its mass of carbon is 1.974 grams, and its mass of hydrogen is 0.329 grams. Compound Z is also a clear, colorless liquid with a strong odor. Its mass of carbon is 7.812 grams and its mass of hydrogen is 0.651 g.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="left">Compound</entry><entry align="center">Description</entry><entry align="center">Mass of Carbon</entry><entry align="center">Mass of Hydrogen</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">X</entry><entry align="center">clear, colorless, liquid with strong odor</entry><entry align="center">1.776 g</entry><entry align="center">0.148 g</entry>
+</row>
+<row valign="top">
+<entry align="left">Y</entry><entry align="center">clear, colorless, liquid with strong odor</entry><entry align="center">1.974 g</entry><entry align="center">0.329 g</entry>
+</row>
+<row valign="top">
+<entry align="left">Z</entry><entry align="center">clear, colorless, liquid with strong odor</entry><entry align="center">7.812 g</entry><entry align="center">0.651 g</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm32094368">Do these data provide example(s) of the law of definite proportions, the law of multiple proportions, neither, or both? What do these data tell you about compounds X, Y, and Z?</para>
+</problem>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp110829184">
+<term>Dalton’s atomic theory</term>
+<meaning id="fs-idp62055392">set of postulates that established the fundamental properties of atoms</meaning>
+</definition>
+<definition id="fs-idm56716560">
+<term>law of constant composition</term>
+<meaning id="fs-idp176800224">(also, law of definite proportions) all samples of a pure compound contain the same elements in the same proportions by mass</meaning>
+</definition>
+<definition id="fs-idp76336256">
+<term>law of definite proportions</term>
+<meaning id="fs-idm122211552">(also, law of constant composition) all samples of a pure compound contain the same elements in the same proportions by mass</meaning>
+</definition>
+<definition id="fs-idp47442976">
+<term>law of multiple proportions</term>
+<meaning id="fs-idm76569024">when two elements react to form more than one compound, a fixed mass of one element will react with masses of the other element in a ratio of small whole numbers</meaning>
+</definition>
+</glossary>
+</document>

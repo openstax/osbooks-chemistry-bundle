@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51073</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Intermolecular Forces</item>
+<item>Properties of Liquids</item>
+<item>Phase Transitions</item>
+<item>Phase Diagrams</item>
+<item>The Solid State of Matter</item>
+<item>Lattice Structures in Crystalline Solids</item>
+</list></md:abstract>
+  <md:uuid>e7694089-f2ac-4cd3-90d3-03de3f941e56</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_10_00_Punch" class="splash">
+<media id="fs-idp34998992" alt="This figure shows pieces of a white substance which appear to be sublimating. To the right of these pieces are three graduated cylinders. Each cylinder holds a different color liquid, and above the liquid, the cylinders are filled with a fog-like substance. This fog-like substance swirls out of the top and around the outside of the cylinders.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_00_Punch.jpg"/>
+</media>
+<caption>Solid carbon dioxide (“dry ice”, left) sublimes vigorously when placed in a liquid (right), cooling the liquid and generating a fog of condensed water vapor above the cylinder. (credit: modification of work by Paul Flowers)</caption>
+</figure>
+<para id="fs-idp5508192">The great distances between atoms and molecules in a gaseous phase, and the corresponding absence of any significant interactions between them, allows for simple descriptions of many physical properties that are the same for all gases, regardless of their chemical identities. As described in the final module of the chapter on gases, this situation changes at high pressures and low temperatures—conditions that permit the atoms and molecules to interact to a much greater extent. In the liquid and solid states, these interactions are of considerable strength and play an important role in determining a number of physical properties that <emphasis effect="italics">do</emphasis> depend on the chemical identity of the substance. In this chapter, the nature of these interactions and their effects on various physical properties of liquid and solid phases will be examined.</para>
+</content>
+</document>

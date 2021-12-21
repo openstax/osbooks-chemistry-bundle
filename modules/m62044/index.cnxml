@@ -1,0 +1,323 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>The Second and Third Laws of Thermodynamics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62044</md:content-id>
+  <md:title>The Second and Third Laws of Thermodynamics</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>State and explain the second and third laws of thermodynamics</item>
+<item>Calculate entropy changes for phase transitions and chemical reactions under standard conditions</item>
+</list></md:abstract>
+  <md:uuid>8f245eea-8953-4178-bc10-432e74017ae0</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idm4119136">
+<title>The Second Law of Thermodynamics</title>
+<para id="fs-idp3609760">In the quest to identify a property that may reliably predict the spontaneity of a process, we have identified a very promising candidate: entropy. Processes that involve an increase in entropy <emphasis effect="italics">of the system</emphasis> (Δ<emphasis effect="italics">S</emphasis> &gt; 0) are very often spontaneous; however, examples to the contrary are plentiful. By expanding consideration of entropy changes to include <emphasis effect="italics">the surroundings</emphasis>, we may reach a significant conclusion regarding the relation between this property and spontaneity. In thermodynamic models, the system and surroundings comprise everything, that is, the universe, and so the following is true:</para>
+<equation id="fs-idm7595760"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp115428960">To illustrate this relation, consider again the process of heat flow between two objects, one identified as the system and the other as the surroundings. There are three possibilities for such a process:</para>
+<list id="fs-idm90348816" list-type="enumerated" number-style="arabic">
+<item>The objects are at different temperatures, and heat flows from the hotter to the cooler object. <emphasis effect="italics">This is always observed to occur spontaneously.</emphasis> Designating the hotter object as the system and invoking the definition of entropy yields the following:
+<equation id="fs-idp67516128"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>−</m:mtext><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>rev</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="2em"/><m:mtext>and</m:mtext><m:mspace width="2em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>rev</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+The arithmetic signs of <emphasis effect="italics">q</emphasis><sub>rev</sub> denote the loss of heat by the system and the gain of heat by the surroundings. Since <emphasis effect="italics">T</emphasis><sub>sys</sub> &gt; <emphasis effect="italics">T</emphasis><sub>surr</sub> in this scenario, the magnitude of the entropy change for the surroundings will be greater than that for the system, and so the sum of Δ<emphasis effect="italics">S</emphasis><sub>sys</sub> and Δ<emphasis effect="italics">S</emphasis><sub>surr</sub> will yield a positive value for Δ<emphasis effect="italics">S</emphasis><sub>univ</sub>. <emphasis effect="italics">This process involves an increase in the entropy of the universe.</emphasis></item>
+<item>The objects are at different temperatures, and heat flows from the cooler to the hotter object. <emphasis effect="italics">This is never observed to occur spontaneously.</emphasis> Again designating the hotter object as the system and invoking the definition of entropy yields the following:
+<equation id="fs-idp14273600"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>rev</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="2em"/><m:mtext>and</m:mtext><m:mspace width="2em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>−</m:mtext><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>rev</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+The arithmetic signs of <emphasis effect="italics">q</emphasis><sub>rev</sub> denote the gain of heat by the system and the loss of heat by the surroundings. The magnitude of the entropy change for the surroundings will again be greater than that for the system, but in this case, the signs of the heat changes will yield a negative value for Δ<emphasis effect="italics">S</emphasis><sub>univ</sub>. <emphasis effect="italics">This process involves a decrease in the entropy of the universe.</emphasis></item>
+<item>The temperature difference between the objects is infinitesimally small, <emphasis effect="italics">T</emphasis><sub>sys</sub> ≈ <emphasis effect="italics">T</emphasis><sub>surr</sub>, and so the heat flow is thermodynamically reversible. See the previous section’s discussion). In this case, the system and surroundings experience entropy changes that are equal in magnitude and therefore sum to yield a value of zero for Δ<emphasis effect="italics">S</emphasis><sub>univ</sub>. <emphasis effect="italics">This process involves no change in the entropy of the universe.</emphasis></item>
+</list>
+<para id="fs-idp26583536">These results lead to a profound statement regarding the relation between entropy and spontaneity known as the <term>second law of thermodynamics</term>: <emphasis effect="italics">all spontaneous changes cause an increase in the entropy of the universe.</emphasis> A summary of these three relations is provided in <link target-id="fs-idp41455824"/>.</para>
+<table id="fs-idp41455824" summary="This table contains two columns and three rows. The first column has the following: “capital delta S subscript univ is greater than 0,” “capital delta S subscript univ is less than 0,” and, “capital delta S subscript univ equals 0.” The second column contains the following: “Spontaneous,” “nonspontaneous ( spontaneous in opposite direction ),” and, “reversible ( system is at equilibrium ).”" class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c2">The Second Law of Thermodynamics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry>Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> &gt; 0</entry>
+<entry>spontaneous</entry>
+</row>
+<row valign="top">
+<entry>Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> &lt; 0</entry>
+<entry>nonspontaneous (spontaneous in opposite direction)</entry>
+</row>
+<row valign="top">
+<entry>Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> = 0</entry>
+<entry>reversible (system is at equilibrium)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp172517200">For many realistic applications, the surroundings are vast in comparison to the system. In such cases, the heat gained or lost by the surroundings as a result of some process represents a very small, nearly infinitesimal, fraction of its total thermal energy. For example, combustion of a fuel in air involves transfer of heat from a system (the fuel and oxygen molecules undergoing reaction) to surroundings that are infinitely more massive (the earth’s atmosphere). As a result, <emphasis effect="italics">q</emphasis><sub>surr</sub> is a good approximation of <emphasis effect="italics">q</emphasis><sub>rev</sub>, and the second law may be stated as the following:</para>
+<equation id="fs-idp179481536"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub></m:mrow><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp5341920">We may use this equation to predict the spontaneity of a process as illustrated in <link target-id="fs-idp33042160"/>.</para>
+<example id="fs-idp33042160">
+<para id="fs-idp271291696"><title>Will Ice Spontaneously Melt?</title>
+The entropy change for the process</para>
+<equation id="fs-idp179791152"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp175389120">is 22.1 J/K and requires that the surroundings transfer 6.00 kJ of heat to the system. Is the process spontaneous at −10.00 °C? Is it spontaneous at +10.00 °C?</para>
+<para id="fs-idp54282352"><title>Solution</title>
+We can assess the spontaneity of the process by calculating the entropy change of the universe. If Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> is positive, then the process is spontaneous. At both temperatures, Δ<emphasis effect="italics">S</emphasis><sub>sys</sub> = 22.1 J/K and <emphasis effect="italics">q</emphasis><sub>surr</sub> = −6.00 kJ.</para>
+<para id="fs-idp9805936">At −10.00 °C (263.15 K), the following is true:</para>
+<equation id="fs-idp170559696"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub></m:mrow><m:mi>T</m:mi></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mtext>22.1 J/K</m:mtext><m:mo>+</m:mo><m:mfrac><m:mrow><m:mn>−6.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>J</m:mtext></m:mrow><m:mrow><m:mtext>263.15 K</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>−0.7</m:mn><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp43894736"><emphasis effect="italics">S</emphasis><sub>univ</sub> &lt; 0, so melting is nonspontaneous (<emphasis effect="italics">not</emphasis> spontaneous) at −10.0 °C.</para>
+<para id="fs-idp156182416">At 10.00 °C (283.15 K), the following is true:</para>
+<equation id="fs-idm42720272"><m:math><m:mtable><m:mtr/><m:mtr><m:mtd><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub></m:mrow><m:mi>T</m:mi></m:mfrac></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mn>22.1</m:mn><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext><m:mo>+</m:mo><m:mfrac><m:mrow><m:mn>−6.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>J</m:mtext></m:mrow><m:mrow><m:mtext>283.15 K</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>+0.9 J/K</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp34700864"><emphasis effect="italics">S</emphasis><sub>univ</sub> &gt; 0, so melting <emphasis effect="italics">is</emphasis> spontaneous at 10.00 °C.</para>
+<para id="fs-idp54808912"><title>Check Your Learning</title>
+Using this information, determine if liquid water will spontaneously freeze at the same temperatures. What can you say about the values of <emphasis effect="italics">S</emphasis><sub>univ</sub>?</para>
+<note id="fs-idp106254880"><title>Answer:</title>
+<para id="fs-idp105321744">Entropy is a state function, and freezing is the opposite of melting. At −10.00 °C spontaneous, +0.7 J/K; at +10.00 °C nonspontaneous, −0.9 J/K.</para>
+</note>
+</example>
+</section>
+<section id="fs-idp45100816">
+<title>The Third Law of Thermodynamics</title>
+<para id="fs-idm3499504">The previous section described the various contributions of matter and energy dispersal that contribute to the entropy of a system. With these contributions in mind, consider the entropy of a pure, perfectly crystalline solid possessing no kinetic energy (that is, at a temperature of absolute zero, 0 K). This system may be described by a single microstate, as its purity, perfect crystallinity and complete lack of motion means there is but one possible location for each identical atom or molecule comprising the crystal (<emphasis effect="italics">W</emphasis> = 1). According to the Boltzmann equation, the entropy of this system is zero.</para>
+<equation id="fs-idp179521936"><m:math><m:mrow><m:mi>S</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>W</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.1em"/><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></equation>
+<para id="fs-idp113461024"><emphasis effect="italics"/></para>
+<para id="fs-idm15206896">This limiting condition for a system’s entropy represents the <term>third law of thermodynamics</term>: <emphasis effect="italics">the entropy of a pure, perfect crystalline substance at 0 K is zero.</emphasis></para>
+<para id="fs-idp12220368">We can make careful calorimetric measurements to determine the temperature dependence of a substance’s entropy and to derive absolute entropy values under specific conditions. <term>Standard entropies</term> are given the label <m:math><m:mrow><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> for values determined for one mole of substance at a pressure of 1 bar and a temperature of 298 K. The <term>standard entropy change (Δ<emphasis effect="italics">S</emphasis>°)</term> for any process may be computed from the standard entropies of its reactant and product species like the following:</para>
+<equation id="fs-idp35409536"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mo>∑</m:mo><m:mi>ν</m:mi><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(products)</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mo>∑</m:mo><m:mi>ν</m:mi><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(reactants)</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm44012816">Here, ν represents stoichiometric coefficients in the balanced equation representing the process. For example, Δ<emphasis effect="italics">S</emphasis>° for the following reaction at room temperature</para>
+<equation id="fs-idm48571920"><m:math><m:mrow><m:mi>m</m:mi><m:mtext>A</m:mtext><m:mo>+</m:mo><m:mi>n</m:mi><m:mtext>B</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mtext>C</m:mtext><m:mo>+</m:mo><m:mi>y</m:mi><m:mtext>D,</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp156085024">is computed as the following:</para>
+<equation id="fs-idp34261696"><m:math><m:mrow><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mi>x</m:mi><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo stretchy="false">(</m:mo><m:mtext>C</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mi>y</m:mi><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo stretchy="false">(</m:mo><m:mtext>D</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mi>m</m:mi><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo stretchy="false">(</m:mo><m:mtext>A</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mi>n</m:mi><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo stretchy="false">(</m:mo><m:mtext>B</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp43524064"><link target-id="fs-idm78597984"/> lists some standard entropies at 298.15 K. You can find additional standard entropies in <link class="target-chapter" document="m51221">Appendix G</link>.</para>
+<table id="fs-idm78597984" summary="The table has two columns and twenty rows. The first row is a header row and it labels the columns, “Substance,” and “S subscript 298 superscript degree symbol ( J mol superscript negative 1 K superscript negative 1 ).” The second row spans both columns and contains the word, “Carbon.” Under the “Substance” column for carbon are the following: C ( s, graphite ), C ( s, diamond ), C O ( g ), C O subscript 2 ( g ), C H subscript 4 ( g ), C subscript 2 H subscript 4 ( g ), C subscript 2 H subscript 6 ( g ), C H subscript 3 O H ( l ), and C subscript 2 H subscript 5 O H ( l ). Under the “S subscript 298 superscript degree symbol ( J mol superscript negative 1 K superscript negative 1 )” column for carbon are the following: 5.740, 2.38, 197.7, 213.8, 186.3, 219.5, 229.5, 126.8, and 160.7. The twelfth row spans both columns and contains the word, “Hydrogen.” Under the “Substance” column for hydrogen are the following: H subscript 2 ( g ), H ( g ), H subscript 2 O ( g ), H subscript 2 O ( l ), H C I ( g ), and H subscript 2 S ( g ). Under the “S subscript 298 superscript degree symbol ( J mol superscript negative 1 K superscript negative 1 )” column for hydrogen are the following: 130.57, 114.6, 188.71, 69.91, 186.8, and 205.7. The nineteenth row spans both columns and contains the word, “Oxygen.” Under the “Substance” column for oxygen is O subscript 2 ( g ). Under the “S subscript 298 superscript degree symbol ( J mol superscript negative 1 K superscript negative 1 )” column for oxygen is 205.03." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c2">Standard Entropies (at 298.15 K, 1 atm)</entry>
+</row>
+<row valign="top">
+<entry align="left">Substance</entry>
+<entry align="left"><m:math><m:mrow><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> (J mol<sup>−1</sup> K<sup>−1</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry namest="c1" nameend="c2">carbon</entry>
+</row>
+<row valign="top">
+<entry align="left">C(<emphasis effect="italics">s</emphasis>, graphite)</entry>
+<entry align="center">5.740</entry>
+</row>
+<row valign="top">
+<entry align="left">C(<emphasis effect="italics">s</emphasis>, diamond)</entry>
+<entry align="center">2.38</entry>
+</row>
+<row valign="top">
+<entry align="left">CO(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">197.7</entry>
+</row>
+<row valign="top">
+<entry align="left">CO<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">213.8</entry>
+</row>
+<row valign="top">
+<entry align="left">CH<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">186.3</entry>
+</row>
+<row valign="top">
+<entry align="left">C<sub>2</sub>H<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">219.5</entry>
+</row>
+<row valign="top">
+<entry align="left">C<sub>2</sub>H<sub>6</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">229.5</entry>
+</row>
+<row valign="top">
+<entry align="left">CH<sub>3</sub>OH(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="center">126.8</entry>
+</row>
+<row valign="top">
+<entry align="left">C<sub>2</sub>H<sub>5</sub>OH(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="center">160.7</entry>
+</row>
+<row valign="top">
+<entry align="left" namest="c1" nameend="c2">hydrogen</entry>
+</row>
+<row valign="top">
+<entry align="left">H<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">130.57</entry>
+</row>
+<row valign="top">
+<entry align="left">H(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">114.6</entry>
+</row>
+<row valign="top">
+<entry align="left">H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">188.71</entry>
+</row>
+<row valign="top">
+<entry align="left">H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="center">69.91</entry>
+</row>
+<row valign="top">
+<entry align="left">HCI(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">186.8</entry>
+</row>
+<row valign="top">
+<entry align="left">H<sub>2</sub>S(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">205.7</entry>
+</row>
+<row valign="top">
+<entry align="left" namest="c1" nameend="c2">oxygen</entry>
+</row>
+<row valign="top">
+<entry align="left">O<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">205.03</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-idp173892208">
+<para id="fs-idp155406304"><title>Determination of Δ<emphasis effect="italics">S</emphasis>°</title>
+Calculate the standard entropy change for the following process:</para>
+<equation id="fs-idp582800"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp180269712"><title>Solution</title>
+The value of the standard entropy change at room temperature, <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> is the difference between the standard entropy of the product, H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>), and the standard entropy of the reactant, H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>).</para>
+<equation id="fs-idm7244112"><m:math><m:mtable><m:mtr/><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>70.0 J</m:mtext><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>188.8 J</m:mtext><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>K</m:mtext></m:mrow><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−118.8</m:mn><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>mol</m:mtext><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm47317216">The value for <m:math><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:math> is negative, as expected for this phase transition (condensation), which the previous section discussed.</para>
+<para id="fs-idp319200"><title>Check Your Learning</title>
+Calculate the standard entropy change for the following process:</para>
+<equation id="fs-idp43728512"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<note id="fs-idp34672944"><title>Answer:</title>
+<para id="fs-idm48282704">−120.6 J mol<sup>−1</sup> K<sup>−1</sup></para>
+</note>
+</example>
+<example id="fs-idp34274768">
+<para id="fs-idp44594448"><title>Determination of Δ<emphasis effect="italics">S</emphasis>°</title>
+Calculate the standard entropy change for the combustion of methanol, CH<sub>3</sub>OH:</para>
+<equation id="fs-idp22586368"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp118976224"><title>Solution</title>
+The value of the standard entropy change is equal to the difference between the standard entropies of the products and the entropies of the reactants scaled by their stoichiometric coefficients.</para>
+<equation id="fs-idp26460064"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mo>∑</m:mo><m:mi>ν</m:mi><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(products)</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mo>∑</m:mo><m:mi>ν</m:mi><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(reactants)</m:mtext></m:mrow></m:math></equation>
+<equation id="fs-idm2438144"><m:math><m:mtable><m:mtr><m:mtd><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mn>3</m:mn><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mrow><m:mo mathvariant="bold">{</m:mo><m:mrow><m:mspace width="0.1em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mn>213.8</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>70.0</m:mn></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>126.8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>205.03</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mspace width="0.2em"/></m:mrow><m:mo mathvariant="bold">}</m:mo></m:mrow><m:mo>=</m:mo><m:mn>-161.1</m:mn><m:mspace width="0.2em"/><m:mtext>J/mol·K</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm27377968"><title>Check Your Learning</title>
+Calculate the standard entropy change for the following reaction:</para>
+<equation id="fs-idp53679664"><m:math><m:mrow><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>s</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CaO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<note id="fs-idp174350576"><title>Answer:</title>
+<para id="fs-idp170733152">24.7 J/mol·K</para>
+</note>
+</example>
+</section>
+<section id="fs-idp139289936" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp116042384">The second law of thermodynamics states that a spontaneous process increases the entropy of the universe, <emphasis effect="italics">S</emphasis><sub>univ</sub> &gt; 0. If Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> &lt; 0, the process is nonspontaneous, and if Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> = 0, the system is at equilibrium. The third law of thermodynamics establishes the zero for entropy as that of a perfect, pure crystalline solid at 0 K. With only one possible microstate, the entropy is zero. We may compute the standard entropy change for a process by using standard entropy values for the reactants and products involved in the process.</para>
+</section>
+<section id="fs-idp50875552" class="key-equations">
+<title>Key Equations</title>
+<list id="fs-idp170583392" list-type="bulleted" bullet-style="bullet">
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mo>∑</m:mo><m:mtext>ν</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(products)</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mo>∑</m:mo><m:mtext>ν</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(reactants)</m:mtext></m:mrow></m:math></item>
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>rev</m:mtext></m:mrow></m:msub></m:mrow><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></item>
+<item>Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> = Δ<emphasis effect="italics">S</emphasis><sub>sys</sub> + Δ<emphasis effect="italics">S</emphasis><sub>surr</sub></item>
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>sys</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub></m:mrow><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></item>
+</list>
+</section>
+<section id="fs-idm53180608" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp47425392">
+<problem id="fs-idm9244848">
+<para id="fs-idp50899456">What is the difference between Δ<emphasis effect="italics">S</emphasis>, Δ<emphasis effect="italics">S</emphasis>°, and <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> for a chemical change?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp33735696">
+<problem id="fs-idp19329728">
+<para id="fs-idp86374576">Calculate <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> for the following changes.</para>
+<para id="fs-idp115997344">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SnCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SnCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp175062384">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CS</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CS</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp18680928">(c) <m:math><m:mrow><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp2482336">(d) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp51071904">(e) <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp171416896">(f) <m:math><m:mrow><m:mn>2</m:mn><m:mtext>HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Pb</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>PbCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp45028096">(g) <m:math><m:mrow><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>ZnSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp181091744">
+<para id="fs-idp90404752">(a) 107 J/K; (b) −86.4 J/K; (c) 133.2 J/K; (d) 118.8 J/K; (e) −326.6 J/K; (f) −171.9 J/K; (g) −7.2 J/K</para>
+</solution>
+</exercise>
+<exercise id="fs-idp174223232">
+<problem id="fs-idp51196128">
+<para id="fs-idp169035952">Determine the entropy change for the combustion of liquid ethanol, C<sub>2</sub>H<sub>5</sub>OH, under the standard conditions to give gaseous carbon dioxide and liquid water.</para></problem>
+</exercise>
+<exercise id="fs-idp170448352">
+<problem id="fs-idp7484720">
+<para id="fs-idp180337456">Determine the entropy change for the combustion of gaseous propane, C<sub>3</sub>H<sub>8</sub>, under the standard conditions to give gaseous carbon dioxide and water.</para></problem>
+<solution id="fs-idp8539648">
+<para id="fs-idp87090368">100.6 J/K</para>
+</solution>
+</exercise>
+<exercise id="fs-idp125011360">
+<problem id="fs-idp171382272">
+<para id="fs-idp156839632">“Thermite” reactions have been used for welding metal parts such as railway rails and in metal refining. One such thermite reaction is <m:math><m:mrow><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>Al</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>Fe</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math>
+Is the reaction spontaneous at room temperature under standard conditions? During the reaction, the surroundings absorb 851.8 kJ/mol of heat.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp175070256">
+<problem id="fs-idp169049488">
+<para id="fs-idp169049744">Using the relevant <m:math><m:mrow><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> values listed in <link class="target-chapter" document="m51221">Appendix G</link>, calculate <m:math><m:mrow><m:msubsup><m:mi>S</m:mi><m:mrow><m:mtext>Δ</m:mtext><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math>
+for the following changes:</para><para id="fs-idp101398384">(a) <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp168603712">(b) <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm38610640">
+<para id="fs-idm38610384">(a) −198.1 J/K; (b) −348.9 J/K</para>
+</solution>
+</exercise>
+<exercise id="fs-idp53811024">
+<problem id="fs-idp53811280">
+<para id="fs-idp53811536">From the following information, determine <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> for the following:</para>
+<para id="fs-idp105472336"><m:math><m:mrow><m:mtext>N</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mo>?</m:mo></m:mrow></m:math></para>
+<para id="fs-idp43838080"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>24.8 J/K</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp209156528"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>N</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>115.0 J/K</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp12257136"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>117.0 J/K</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp194136688">
+<problem id="fs-idp194136944">
+<para id="fs-idp15550848">By calculating Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> at each temperature, determine if the melting of 1 mole of NaCl(<emphasis effect="italics">s</emphasis>) is spontaneous at 500 °C and at 700 °C.<newline/>
+<m:math><m:mrow><m:msubsup><m:mi>S</m:mi><m:mrow><m:mtext>NaCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mn>72.11</m:mn><m:mfrac><m:mtext>J</m:mtext><m:mrow><m:mtext>mol·K</m:mtext></m:mrow></m:mfrac><m:mspace width="3em"/><m:msubsup><m:mi>S</m:mi><m:mrow><m:mtext>NaCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mn>95.06</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mtext>J</m:mtext><m:mrow><m:mtext>mol·K</m:mtext></m:mrow></m:mfrac><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>fusion</m:mtext></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>27.95 kJ/mol</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp105474192">What assumptions are made about the thermodynamic information (entropy and enthalpy values) used to solve this problem?</para>
+</problem>
+<solution id="fs-idp13901536">
+<para id="fs-idp13901792">As Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> &lt; 0 at each of these temperatures, melting is not spontaneous at either of them. The given values for entropy and enthalpy are for NaCl at 298 K. It is assumed that these do not change significantly at the higher temperatures used in the problem.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp277989936">
+<problem id="fs-idp17323648">
+<para id="fs-idp51175024">Use the standard entropy data in <link class="target-chapter" document="m51221">Appendix G</link> to determine the change in entropy for each of the reactions listed in <link target-id="fs-idm162318800" document="m61761"/>. All the processes occur at the standard conditions and 25 °C.</para></problem>
+</exercise>
+<exercise id="fs-idp127896592">
+<problem id="fs-idp127896848">
+<para id="fs-idp127897104">Use the standard entropy data in <link class="target-chapter" document="m51221">Appendix G</link> to determine the change in entropy for each of the reactions listed in <link target-id="fs-idp46279440" document="m62046"/>. All the processes occur at the standard conditions and 25 °C.</para></problem>
+<solution id="fs-idp209528688">
+<para id="fs-idp209528944">(a) 2.86 J/K; (b) 24.8 J/K; (c) −113.2 J/K; (d) −24.7 J/K; (e) 15.5 J/K; (f) 290.0 J/K</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp194754048">
+<term>second law of thermodynamics</term>
+<meaning id="fs-idp194754688">entropy of the universe increases for a spontaneous process</meaning>
+</definition>
+<definition id="fs-idp170415152">
+<term>standard entropy (<emphasis effect="italics">S</emphasis>°)</term>
+<meaning id="fs-idp170416304">entropy for a substance at 1 bar pressure; tabulated values are usually determined at 298.15 K and denoted <m:math><m:mrow><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math></meaning>
+</definition>
+<definition id="fs-idp85418944">
+<term>standard entropy change (Δ<emphasis effect="italics">S</emphasis>°)</term>
+<meaning id="fs-idp85420096">change in entropy for a reaction calculated using the standard entropies, usually at room temperature and denoted <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>S</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:math></meaning>
+</definition>
+<definition id="fs-idp90512720">
+<term>third law of thermodynamics</term>
+<meaning id="fs-idp90513360">entropy of a perfect crystal at absolute zero (0 K) is zero</meaning>
+</definition>
+</glossary>
+</document>

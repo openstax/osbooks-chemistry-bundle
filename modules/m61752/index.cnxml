@@ -1,0 +1,76 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61752</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Chemical Equilibria</item>
+<item>Equilibrium Constants</item>
+<item>Shifting Equilibria: Le Châtelier’s Principle</item>
+<item>Equilibrium Calculations</item>
+</list></md:abstract>
+  <md:uuid>0ee268fc-3252-4d25-a43e-b5a7b8610389</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_13_00_Blood" class="splash">
+<media id="fs-idm45772400" alt="An image depicts three tan squares, lying side-by-side along the upper left corner. Two of the same squares also lie side-by-side in the lower right corner. Each square has a black dot in the center. One of the squares is labeled, “C O subscript 2,” and has a double-headed arrow pointing from it to a red tube-like structure that runs between the squares across the image from the upper right to the lower left. This arrow is labeled, “C O subscript 2 dissolved in plasma.” The red tube has two round red shapes in it, and the upper one is labeled, “C O subscript 2 carried in red blood cells.” The gaps between the squares and the red tube are colored light blue. One of the squares along the top of the image is labeled, “C O subscript 2,” and is connected by a double-headed arrow to an equation in the red tube that is labeled, “C O subscript 2, a plus sign, H subscript 2 O, right-facing arrow, H subscript 2 C O subscript 3, right-facing arrow, H C O subscript 3 superscript negative sign, plus sign, H superscript positive sign.” The compound “H C O subscript 3 superscript negative sign” is then connected by a double-headed arrow to the space in the red tube and is labeled, “H C O subscript 3 superscript negative sign dissolved in plasma as carbonic acid.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_13_00_Blood.jpg"/>
+</media>
+<caption>Movement of carbon dioxide through tissues and blood cells involves several equilibrium reactions.</caption>
+</figure>
+<para id="fs-idp51855856">Imagine a beach populated with sunbathers and swimmers. As those basking in the sun get too hot and want to cool off, they head into the surf to swim. As the swimmers tire, they head to the beach to rest. If these two rates of transfer (sunbathers entering the water, swimmers leaving the water) are equal, the number of sunbathers and swimmers would be constant, or at equilibrium, although the identities of the people are constantly changing from sunbather to swimmer and back. An analogous situation occurs in chemical reactions. Reactions can occur in both directions simultaneously (reactants to products and products to reactants) and eventually reach a state of balance.</para>
+<para id="fs-idp126412048">These balanced two-way reactions occur all around and even in us. For example, they occur in our blood, where the reaction between carbon dioxide and water forms carbonic acid <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>CO</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math> (<link target-id="CNX_Chem_13_00_Blood"/>). Human physiology is adapted to the amount of ionized products produced by this reaction <m:math><m:mrow><m:mo>(</m:mo><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> and H<sup>+</sup>). This chapter provides a thorough introduction to the essential aspects of chemical equilibria.</para><para id="fs-id1167299508841">
+We now have a good understanding of chemical and physical change that allow us to determine, for any given process:<list id="fs-id1167296136723" list-type="enumerated" number-style="arabic"><item>Whether the process is endothermic or exothermic</item>
+<item>Whether the process is accompanied by an increase of decrease in entropy</item>
+<item>Whether a process will be spontaneous, non-spontaneous, or what we have called an equilibrium process</item>
+</list></para>
+<para id="fs-id1167299569802">Recall that when the value ∆<emphasis effect="italics">G</emphasis> for a reaction is zero, we consider there to be no free energy change—that is, no free energy available to do useful work. Does this mean a reaction where Δ<emphasis effect="italics">G</emphasis> = 0 comes to a complete halt? No, it does not. Just as a liquid exists in equilibrium with its vapor in a closed container, where the rates of evaporation and condensation are equal, there is a connection to the state of equilibrium for a phase change or a chemical reaction. That is, at equilibrium, the forward and reverse rates of reaction are equal. We will develop that concept and extend it to a relationship between equilibrium and free energy later in this chapter.
+</para><para id="fs-id1167296156886">
+In the explanation that follows, we will use the term <emphasis effect="italics">Q</emphasis> to refer to any reactant or product concentration or pressure. When the concentrations or pressure of reactants and products are at equilibrium, the term <emphasis effect="italics">K</emphasis> will be used. This will be more clearly explained as we go along in this chapter.
+</para>
+<para id="fs-id1167296157132">Now we will consider the connection between the free energy change and the equilibrium constant. The fundamental relationship is:<newline/>
+<m:math><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>=</m:mo><m:mi>−R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>K</m:mi></m:math>—this can be for <m:math><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mi>c</m:mi></m:mrow></m:msub></m:math> or <m:math><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mi>p</m:mi></m:mrow></m:msub></m:math> (and we will see later, any equilibrium constant we encounter).</para><para id="fs-id1167296157399">We also know that the form of <emphasis effect="italics">K</emphasis> can be used in non-equilibrium conditions as the reaction quotient, <emphasis effect="italics">Q</emphasis>. The defining relationship here is
+<equation id="eip-id1169899962411"><m:math><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>=</m:mo><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>Q</m:mi></m:math></equation>
+Without the superscript, the value of ∆<emphasis effect="italics">G</emphasis> can be calculated for any set of concentrations.
+</para><para id="fs-id1167299731582">Note that since <emphasis effect="italics">Q</emphasis> is a mass-action reaction of productions/reactants, as a reaction proceeds from left to right, product concentrations increase as reactant concentrations decrease, until <emphasis effect="italics">Q = K</emphasis>, and at which time ∆<emphasis effect="italics">G</emphasis> becomes zero:<newline/>
+<m:math><m:mn>0</m:mn><m:mo>=</m:mo><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>K</m:mi></m:math>, a relationship that reduces to our defining connection between <emphasis effect="italics">Q</emphasis> and <emphasis effect="italics">K</emphasis>.</para><para id="fs-id1167299679770">Thus, we can see clearly that as a reaction moves toward equilibrium, the value of ∆<emphasis effect="italics">G</emphasis> goes to zero.</para>
+<para id="fs-id1167299786035">Now, think back to the connection between the signs of ∆<emphasis effect="italics">G</emphasis>° and ∆<emphasis effect="italics">H</emphasis>°
+</para>
+<para id="fs-id1167299549911">
+<table id="fs-id1167299748444" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="3">
+<tbody>
+<row>
+  <entry>∆<emphasis effect="italics">H</emphasis>°</entry>
+  <entry>∆<emphasis effect="italics">S</emphasis>°</entry>
+  <entry>Result</entry>
+</row>
+<row> 
+  <entry>Negative</entry>
+  <entry>Positive</entry>
+  <entry>Always spontaneous</entry>
+</row>
+<row>
+  <entry>Positive</entry>
+  <entry>Negative</entry>
+  <entry>Never spontaneous</entry>
+</row>
+<row>
+<entry>Positive</entry>
+<entry>Positive</entry>
+<entry>Spontaneous at high temperatures</entry>
+</row>
+<row>
+<entry>Negative</entry>
+<entry>Negative</entry>
+<entry>Spontaneous at low temperatures</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+Only in the last two cases is there a point at which the process swings from spontaneous to non-spontaneous (or the reverse); in these cases, the process must pass through equilibrium when the change occurs. The concept of the connection between the free energy change and the equilibrium constant is an important one that we will expand upon in future sections. The fact that the change in free energy for an equilibrium process is zero, and that displacement of a process from that zero point results in a drive to re-establish equilibrium is fundamental to understanding the behavior of chemical reactions and phase changes.
+</para>
+</content>
+</document>

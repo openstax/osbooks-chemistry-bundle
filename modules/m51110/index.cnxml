@@ -1,0 +1,382 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Shifting Equilibria: Le Châtelier’s Principle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51110</md:content-id>
+  <md:title>Shifting Equilibria: Le Châtelier’s Principle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the ways in which an equilibrium system can be stressed</item>
+<item>Predict the response of a stressed equilibrium using Le Châtelier’s principle</item>
+</list></md:abstract>
+  <md:uuid>9a79d675-fff2-4ea1-b4d1-8c6114cbf8f5</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp137820032">As we saw in the previous section, reactions proceed in both directions (reactants go to products and products go to reactants). We can tell a reaction is at equilibrium if the reaction quotient (<emphasis effect="italics">Q</emphasis>) is equal to the equilibrium constant (<emphasis effect="italics">K</emphasis>). We next address what happens when a system at equilibrium is disturbed so that <emphasis effect="italics">Q</emphasis> is no longer equal to <emphasis effect="italics">K</emphasis>. If a system at equilibrium is subjected to a perturbance or <term>stress</term> (such as a change in concentration) the <term>position of equilibrium</term> changes. Since this stress affects the concentrations of the reactants and the products, the value of <emphasis effect="italics">Q</emphasis> will no longer equal the value of <emphasis effect="italics">K</emphasis>. To re-establish equilibrium, the system will either shift toward the products (if <emphasis effect="italics">Q &lt;</emphasis> K) or the reactants (if Q &gt; <emphasis effect="italics">K</emphasis>) until <emphasis effect="italics">Q</emphasis> returns to the same value as <emphasis effect="italics">K</emphasis>.</para>
+<para id="fs-idp113339808">This process is described by <term>Le Châtelier's principle</term>: When a chemical system at equilibrium is disturbed, it returns to equilibrium by counteracting the disturbance. As described in the previous paragraph, the disturbance causes a change in <emphasis effect="italics">Q</emphasis>; the reaction will shift to re-establish <emphasis effect="italics">Q</emphasis> = <emphasis effect="italics">K</emphasis>.</para>
+<section id="fs-idp73987856">
+<title>Predicting the Direction of a Reversible Reaction</title>
+<para id="fs-idp93896256">Le Châtelier's principle can be used to predict changes in equilibrium concentrations when a system that is at equilibrium is subjected to a stress. However, if we have a mixture of reactants and products that have not yet reached equilibrium, the changes necessary to reach equilibrium may not be so obvious. In such a case, we can compare the values of <emphasis effect="italics">Q</emphasis> and <emphasis effect="italics">K</emphasis> for the system to predict the changes.</para>
+<section id="fs-idp247675424">
+<title>Effect of Change in Concentration on Equilibrium</title>
+<para id="fs-idp170157904">A chemical system at equilibrium can be temporarily shifted out of equilibrium by adding or removing one or more of the reactants or products. The concentrations of both reactants and products then undergo additional changes to return the system to equilibrium.</para>
+<para id="fs-idp117210048">The stress on the system in <link target-id="CNX_Chem_13_03_tubes"/> is the reduction of the equilibrium concentration of SCN<sup>−</sup> (lowering the concentration of one of the reactants would cause <emphasis effect="italics">Q</emphasis> to be larger than <emphasis effect="italics">K</emphasis>). As a consequence, Le Châtelier's principle leads us to predict that the concentration of Fe(SCN)<sup>2+</sup> should decrease, increasing the concentration of SCN<sup>−</sup> part way back to its original concentration, and increasing the concentration of Fe<sup>3+</sup> above its initial equilibrium concentration.</para>
+<figure id="CNX_Chem_13_03_tubes">
+<media id="fs-idp114924576" alt="Three capped test tubes held vertically in clamps are shown in pictures labeled, “a,” “b,” and “c.” The test tube in picture a is half filled with a clear, orange liquid. The test tube in picture b is half filled with a dark, burgundy liquid. The test tube in picture c is half filled with a slightly cloudy, orange liquid.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_13_03_tubes.jpg"/>
+</media>
+<caption>(a) The test tube contains 0.1 <emphasis effect="italics">M</emphasis> Fe<sup>3+</sup>. (b) Thiocyanate ion has been added to solution in (a), forming the red Fe(SCN)<sup>2+</sup> ion. <m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>Fe</m:mtext><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>SCN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> (c) Silver nitrate has been added to the solution in (b), precipitating some of the SCN<sup>−</sup> as the white solid AgSCN. <m:math><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>SCN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>AgSCN</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> The decrease in the SCN<sup>−</sup> concentration shifts the first equilibrium in the solution to the left, decreasing the concentration (and lightening color) of the Fe(SCN)<sup>2+</sup>. (credit: modification of work by Mark Ott)</caption>
+</figure>
+<para id="fs-idp37829072">The effect of a change in concentration on a system at equilibrium is illustrated further by the equilibrium of this chemical reaction:</para>
+<equation id="fs-idp25467280"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>HI</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub><m:mi>K</m:mi><m:mi>c</m:mi></m:msub><m:mo>=</m:mo><m:mn>50.0</m:mn><m:mspace width="0.2em"/><m:mtext>at</m:mtext><m:mspace width="0.2em"/><m:mn>400</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp46581648">The numeric values for this example have been determined experimentally. A mixture of gases at 400 °C with [H<sub>2</sub>] = [I<sub>2</sub>] = 0.221 <emphasis effect="italics">M</emphasis> and [HI] = 1.563 <emphasis effect="italics">M</emphasis> is at equilibrium; for this mixture, <emphasis effect="italics">Q<sub>c</sub></emphasis> = <emphasis effect="italics">K<sub>c</sub></emphasis> = 50.0. If H<sub>2</sub> is introduced into the system so quickly that its concentration doubles before it begins to react (new [H<sub>2</sub>] = 0.442 <emphasis effect="italics">M</emphasis>), the reaction will shift so that a new equilibrium is reached, at which [H<sub>2</sub>] = 0.374 <emphasis effect="italics">M</emphasis>, [I<sub>2</sub>] = 0.153 <emphasis effect="italics">M</emphasis>, and [HI] = 1.692 <emphasis effect="italics">M</emphasis>. This gives:</para>
+<equation id="fs-idp21389744"><m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mi>c</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>HI</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:mfrac><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.692</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.374</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.153</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>50.0</m:mn><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mi>c</m:mi></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm2080992">We have stressed this system by introducing additional H<sub>2</sub>. The stress is relieved when the reaction shifts to the right, using up some (but not all) of the excess H<sub>2</sub>, reducing the amount of uncombined I<sub>2</sub>, and forming additional HI.</para>
+</section>
+<section id="fs-idp45639312">
+<title>Effect of Change in Pressure on Equilibrium</title>
+<para id="fs-idp57483552">Sometimes we can change the position of equilibrium by changing the pressure of a system. However, changes in pressure have a measurable effect only in systems in which gases are involved, and then only when the chemical reaction produces a change in the total number of gas molecules in the system. An easy way to recognize such a system is to look for different numbers of moles of gas on the reactant and product sides of the equilibrium. While evaluating pressure (as well as related factors like volume), it is important to remember that equilibrium constants are defined with regard to concentration (for <emphasis effect="italics">K<sub>c</sub></emphasis>) or partial pressure (for <emphasis effect="italics">K<sub>P</sub></emphasis>). Some changes to total pressure, like adding an inert gas that is not part of the equilibrium, will change the total pressure but not the partial pressures of the gases in the equilibrium constant expression. Thus, addition of a gas not involved in the equilibrium will not perturb the equilibrium.</para>
+<note id="fs-idp6099552" class="chemistry link-to-learning">
+<media id="fs-idp139593136" alt=" ">
+<image mime-type="image/png" src="../../media/OSC_Interactive_200.png"/>
+</media>
+<para id="fs-idp75936512">Check out this <link url="http://openstax.org/l/16equichange">link</link> to see a dramatic visual demonstration of how equilibrium changes with pressure changes.</para>
+</note>
+<para id="fs-idp214790720">As we increase the pressure of a gaseous system at equilibrium, either by decreasing the volume of the system or by adding more of one of the components of the equilibrium mixture, we introduce a stress by increasing the partial pressures of one or more of the components. In accordance with Le Châtelier's principle, a shift in the equilibrium that reduces the total number of molecules per unit of volume will be favored because this relieves the stress. The reverse reaction would be favored by a decrease in pressure.</para>
+<para id="fs-idp4303888">Consider what happens when we increase the pressure on a system in which NO, O<sub>2</sub>, and NO<sub>2</sub> are at equilibrium:</para>
+<equation id="fs-idp41715664"><m:math><m:mrow><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp53083216">The formation of additional amounts of NO<sub>2</sub> decreases the total number of molecules in the system because each time two molecules of NO<sub>2</sub> form, a total of three molecules of NO and O<sub>2</sub> are consumed. This reduces the total pressure exerted by the system and reduces, but does not completely relieve, the stress of the increased pressure. On the other hand, a decrease in the pressure on the system favors decomposition of NO<sub>2</sub> into NO and O<sub>2</sub>, which tends to restore the pressure.</para>
+<para id="fs-idp25854656">Now consider this reaction:</para>
+<equation id="fs-idp15606032"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp56870672">Because there is no change in the total number of molecules in the system during reaction, a change in pressure does not favor either formation or decomposition of gaseous nitrogen monoxide.</para>
+</section>
+<section id="fs-idp43174880">
+<title>Effect of Change in Temperature on Equilibrium</title>
+<para id="fs-idm15647776">Changing concentration or pressure perturbs an equilibrium because the reaction quotient is shifted away from the equilibrium value. Changing the temperature of a system at equilibrium has a different effect: A change in temperature actually changes the value of the equilibrium constant. However, we can qualitatively predict the effect of the temperature change by treating it as a stress on the system and applying Le Châtelier's principle.</para>
+<para id="fs-idp38603440">When hydrogen reacts with gaseous iodine, heat is evolved.</para>
+<equation id="fs-idp83787056"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>HI</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−9.4</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>exothermic</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp38799824">Because this reaction is exothermic, we can write it with heat as a product.</para>
+<equation id="fs-idp95014512"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>2HI</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>heat</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp138121600">Increasing the temperature of the reaction increases the internal energy of the system. Thus, increasing the temperature has the effect of increasing the amount of one of the products of this reaction. The reaction shifts to the left to relieve the stress, and there is an increase in the concentration of H<sub>2</sub> and I<sub>2</sub> and a reduction in the concentration of HI. Lowering the temperature of this system reduces the amount of energy present, favors the production of heat, and favors the formation of hydrogen iodide.</para>
+<para id="fs-idm24070512">When we change the temperature of a system at equilibrium, the equilibrium constant for the reaction changes. Lowering the temperature in the HI system increases the equilibrium constant: At the new equilibrium the concentration of HI has increased and the concentrations of H<sub>2</sub> and I<sub>2</sub> decreased. Raising the temperature decreases the value of the equilibrium constant, from 67.5 at 357 °C to 50.0 at 400 °C.</para>
+<para id="fs-idp56159232">Temperature affects the equilibrium between NO<sub>2</sub> and N<sub>2</sub>O<sub>4</sub> in this reaction</para>
+<equation id="fs-idp8775968"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>57.20</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp148183408">The positive Δ<emphasis effect="italics">H</emphasis> value tells us that the reaction is endothermic and could be written</para>
+<equation id="fs-idp38589680"><m:math><m:mrow><m:mtext>heat</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp156642144">At higher temperatures, the gas mixture has a deep brown color, indicative of a significant amount of brown NO<sub>2</sub> molecules. If, however, we put a stress on the system by cooling the mixture (withdrawing energy), the equilibrium shifts to the left to supply some of the energy lost by cooling. The concentration of colorless N<sub>2</sub>O<sub>4</sub> increases, and the concentration of brown NO<sub>2</sub> decreases, causing the brown color to fade.</para>
+<note id="fs-idm19849776" class="chemistry link-to-learning">
+<media id="fs-idp151173792" alt=" ">
+<image mime-type="image/png" src="../../media/OSC_Interactive_200.png"/>
+</media>
+<para id="fs-idp208856064">This interactive <link url="http://openstax.org/l/16chatelier">animation</link> allows you to apply Le Châtelier's principle to predict the effects of changes in concentration, pressure, and temperature on reactant and product concentrations.</para>
+</note>
+</section>
+</section>
+<section id="fs-idp274375376">
+<title>Catalysts Do Not Affect Equilibrium</title>
+<para id="fs-idp105247296">As we learned during our study of kinetics, a catalyst can speed up the rate of a reaction. Though this increase in reaction rate may cause a system to reach equilibrium more quickly (by speeding up the forward and reverse reactions), a catalyst has no effect on the value of an equilibrium constant nor on equilibrium concentrations.</para>
+<para id="fs-idp24954576">The interplay of changes in concentration or pressure, temperature, and the lack of an influence of a catalyst on a chemical equilibrium is illustrated in the industrial synthesis of ammonia from nitrogen and hydrogen according to the equation</para>
+<equation id="fs-idp52566624"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp53109072">A large quantity of ammonia is manufactured by this reaction. Each year, ammonia is among the top 10 chemicals, by mass, manufactured in the world. About 2 billion pounds are manufactured in the United States each year.</para>
+<para id="fs-idp52929632">Ammonia plays a vital role in our global economy. It is used in the production of fertilizers and is, itself, an important fertilizer for the growth of corn, cotton, and other crops. Large quantities of ammonia are converted to nitric acid, which plays an important role in the production of fertilizers, explosives, plastics, dyes, and fibers, and is also used in the steel industry.</para>
+<note id="fs-idp81266880" class="chemistry chemist-portrait">
+<title>Fritz Haber</title>
+<para id="fs-idp77012800">In the early 20th century, German chemist Fritz Haber (<link target-id="CNX_Chem_13_03_FritzHaber"/>) developed a practical process for converting diatomic nitrogen, which cannot be used by plants as a nutrient, to ammonia, a form of nitrogen that is easiest for plants to absorb.</para>
+<equation id="fs-idm3308416"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm3877312">The availability of nitrogen is a strong limiting factor to the growth of plants. Despite accounting for 78% of air, diatomic nitrogen (N<sub>2</sub>) is nutritionally unavailable due the tremendous stability of the nitrogen-nitrogen triple bond. For plants to use atmospheric nitrogen, the nitrogen must be converted to a more bioavailable form (this conversion is called nitrogen fixation).</para>
+<para id="fs-idp196129664">Haber was born in Breslau, Prussia (presently Wroclaw, Poland) in December 1868. He went on to study chemistry and, while at the University of Karlsruhe, he developed what would later be known as the Haber process: the catalytic formation of ammonia from hydrogen and atmospheric nitrogen under high temperatures and pressures. For this work, Haber was awarded the 1918 Nobel Prize in Chemistry for synthesis of ammonia from its elements. The Haber process was a boon to agriculture, as it allowed the production of fertilizers to no longer be dependent on mined feed stocks such as sodium nitrate. Currently, the annual production of synthetic nitrogen fertilizers exceeds 100 million tons and synthetic fertilizer production has increased the number of humans that arable land can support from 1.9 persons per hectare in 1908 to 4.3 in 2008.</para>
+<figure id="CNX_Chem_13_03_FritzHaber">
+<media id="fs-idp155335680" alt="A photo a Fritz Haber is shown.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_13_03_FritzHaber.jpg"/>
+</media>
+<caption>The work of Nobel Prize recipient Fritz Haber revolutionized agricultural practices in the early 20th century. His work also affected wartime strategies, adding chemical weapons to the artillery.</caption>
+</figure>
+<para id="fs-idp43327440">In addition to his work in ammonia production, Haber is also remembered by history as one of the fathers of chemical warfare. During World War I, he played a major role in the development of poisonous gases used for trench warfare. Regarding his role in these developments, Haber said, “During peace time a scientist belongs to the World, but during war time he belongs to his country.”<footnote id="fs-idp3083296">Herrlich, P. “The Responsibility of the Scientist: What Can History Teach Us About How Scientists Should Handle Research That Has the Potential to Create Harm?” <emphasis effect="italics">EMBO Reports</emphasis> 14 (2013): 759–764.</footnote> Haber defended the use of gas warfare against accusations that it was inhumane, saying that death was death, by whatever means it was inflicted. He stands as an example of the ethical dilemmas that face scientists in times of war and the double-edged nature of the sword of science.</para>
+<para id="fs-idm25838944">Like Haber, the products made from ammonia can be multifaceted. In addition to their value for agriculture, nitrogen compounds can also be used to achieve destructive ends. Ammonium nitrate has also been used in explosives, including improvised explosive devices. Ammonium nitrate was one of the components of the bomb used in the attack on the Alfred P. Murrah Federal Building in downtown Oklahoma City on April 19, 1995.</para>
+</note>
+<para id="fs-idp7823504">It has long been known that nitrogen and hydrogen react to form ammonia. However, it became possible to manufacture ammonia in useful quantities by the reaction of nitrogen and hydrogen only in the early 20th century after the factors that influence its equilibrium were understood.</para>
+<para id="fs-idp140313264">To be practical, an industrial process must give a large yield of product relatively quickly. One way to increase the yield of ammonia is to increase the pressure on the system in which N<sub>2</sub>, H<sub>2</sub>, and NH<sub>3</sub> are at equilibrium or are coming to equilibrium.</para>
+<equation id="fs-idp20060880"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp44583392">The formation of additional amounts of ammonia reduces the total pressure exerted by the system and somewhat reduces the stress of the increased pressure.</para>
+<para id="fs-idp21140144">Although increasing the pressure of a mixture of N<sub>2</sub>, H<sub>2</sub>, and NH<sub>3</sub> will increase the yield of ammonia, at low temperatures, the rate of formation of ammonia is slow. At room temperature, for example, the reaction is so slow that if we prepared a mixture of N<sub>2</sub> and H<sub>2</sub>, no detectable amount of ammonia would form during our lifetime. The formation of ammonia from hydrogen and nitrogen is an exothermic process:</para>
+<equation id="fs-idm143149600"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−92.2</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm92695520">Thus, increasing the temperature to increase the rate lowers the yield. If we lower the temperature to shift the equilibrium to favor the formation of more ammonia, equilibrium is reached more slowly because of the large decrease of reaction rate with decreasing temperature.</para>
+<para id="fs-idp67847120">Part of the rate of formation lost by operating at lower temperatures can be recovered by using a catalyst. The net effect of the catalyst on the reaction is to cause equilibrium to be reached more rapidly.</para>
+<para id="fs-idp56665040">In the commercial production of ammonia, conditions of about 500 °C, 150–900 atm, and the presence of a catalyst are used to give the best compromise among rate, yield, and the cost of the equipment necessary to produce and contain high-pressure gases at high temperatures (<link target-id="CNX_Chem_13_03_factory"/>).</para>
+<figure id="CNX_Chem_13_03_factory">
+<media id="fs-idp114972544" alt="A diagram is shown that is composed of three main sections. The first section shows an intake pipe labeled with blue arrows and the terms, “N subscript 2, H subscript 2, feed gases,” and “Compressor.” This pipe leads to a large chamber with a turbine in the top section and a coil in the bottom section. From top to bottom, the sections of this chamber are labeled, “Heat exchanger,” “Catalyst chamber 400 to 500 degrees C,” “Catalyst,” “Heater,” and “Preheated feed gases.” One pipe leads from the top of this chamber with red arrows and is labeled, “N H subscript 3 and unreacted N subscript 2, H subscript 2,” while another pipe leads to the bottom of the chamber and reads, “Compressor,” and has orange arrows going through it. These two pipes are connected to a square container that is labeled, “Heat exchanger,” and has red arrows going into it from the upper pipe, orange arrows going away from it to the lower pipe and into a third system. The pipes leading into and out of the heat exchanger are labeled, “Recycled N subscript 2, H subscript 2.” The third system shows a container with an interior zig-zag-shaped pipe that sits on a base that contains a curled pipe on a storage tank. From the top of the image to the bottom are the terms, “N H subscript 3 and unreacted N subscript 2, H subscript 2,” “Condenser,” “Cold water in,” “Refrigeration,” “N H subscript 3 ( l ),” and “Storage” Blue arrows lead away from the base of this system and into the second system while other blue arrows lead into the system from the right side of the diagram and back out of the same chamber.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_13_03_factory.jpg"/>
+</media>
+<caption>Commercial production of ammonia requires heavy equipment to handle the high temperatures and pressures required. This schematic outlines the design of an ammonia plant.</caption>
+</figure>
+</section>
+<section id="fs-idm26332112" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp7945600">Systems at equilibrium can be disturbed by changes to temperature, concentration, and, in some cases, volume and pressure; volume and pressure changes will disturb equilibrium if the number of moles of gas is different on the reactant and product sides of the reaction. The system's response to these disturbances is described by Le Châtelier's principle: The system will respond in a way that counteracts the disturbance. Not all changes to the system result in a disturbance of the equilibrium. Adding a catalyst affects the rates of the reactions but does not alter the equilibrium, and changing pressure or volume will not significantly disturb systems with no gases or with equal numbers of moles of gas on the reactant and product side.</para>
+<table id="fs-idm2585024" summary="This table contains four columns and seven rows. The first row is a header row and it labels each column: “Disturbance,” “Observed Change as Equilibrium is Restored,” “Direction of Shift,” and “Effect on K.” Under the “Disturbance” column are the following: “reactant added,” “product added,” “decrease in volume / increase in gas pressure,” “increase in volume / decrease in gas pressure,” “temperature increase,” and “temperature decrease.” Under the “Observed Change as Equilibrium is Restored,” column are the following: “added reactant is partially consumed,” “added product is partially consumed,” “pressure decreases,” “pressure increases,” “heat is absorbed,” and “heat is given off.” Under the “Direction of Shift” column are the following: “toward products,” “toward reactants,” “toward side with fewer moles of gas,” “toward side with fewer moles of gas,” “toward products for endothermic, toward reactants for exothermic,” and “toward reactants for endothermic, toward products for exothermic.” Under the “Effect on K” column are the following: “none,” “none,” “none,” “none,” “changes,” and “changes.”" class="span-all">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c4" align="center">Effects of Disturbances of Equilibrium and <emphasis effect="italics">K</emphasis></entry>
+</row>
+<row valign="middle">
+<entry align="left">Disturbance</entry>
+<entry align="left">Observed Change as Equilibrium is Restored</entry>
+<entry align="left">Direction of Shift</entry>
+<entry align="left">Effect on <emphasis effect="italics">K</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">reactant added</entry>
+<entry align="left">added reactant is partially consumed</entry>
+<entry align="left">toward products</entry>
+<entry align="left">none</entry>
+</row>
+<row valign="middle">
+<entry align="left">product added</entry>
+<entry align="left">added product is partially consumed</entry>
+<entry align="left">toward reactants</entry>
+<entry align="left">none</entry>
+</row>
+<row valign="middle">
+<entry align="left">decrease in volume/increase in gas pressure</entry>
+<entry align="left">pressure decreases</entry>
+<entry align="left">toward side with fewer moles of gas</entry>
+<entry align="left">none</entry>
+</row>
+<row valign="middle">
+<entry align="left">increase in volume/decrease in gas pressure</entry>
+<entry align="left">pressure increases</entry>
+<entry align="left">toward side with more moles of gas</entry>
+<entry align="left">none</entry>
+</row>
+<row valign="middle">
+<entry align="left">temperature increase</entry>
+<entry align="left">heat is absorbed</entry>
+<entry align="left">toward products for endothermic, toward reactants for exothermic</entry>
+<entry align="left">changes</entry>
+</row>
+<row valign="middle">
+<entry align="left">temperature decrease</entry>
+<entry align="left">heat is given off</entry>
+<entry align="left">toward reactants for endothermic, toward products for exothermic</entry>
+<entry align="left">changes</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+<section id="fs-idm7256160" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp6498944">
+<problem id="fs-idp58018304">
+<para id="fs-idp736656">The following equation represents a reversible decomposition:<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>CaCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>CaO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp25940960">Under what conditions will decomposition in a closed container proceed to completion so that no CaCO<sub>3</sub> remains?</para>
+</problem>
+<solution id="fs-idp109030592">
+<para id="fs-idp51761424">The amount of CaCO<sub>3</sub> must be so small that <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:math> is less than <emphasis effect="italics">K<sub>P</sub></emphasis> when the CaCO<sub>3</sub> has completely decomposed. In other words, the starting amount of CaCO<sub>3</sub> cannot completely generate the full <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:math> required for equilibrium.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp22318672">
+<problem id="fs-idp46158992">
+<para id="fs-idp8429440">Explain how to recognize the conditions under which changes in pressure would affect systems at equilibrium.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp50583536">
+<problem id="fs-idp114201312">
+<para id="fs-idm9674096">What property of a reaction can we use to predict the effect of a change in temperature on the value of an equilibrium constant?</para>
+</problem>
+<solution id="fs-idm78804960">
+<para id="fs-idp145707600">The change in enthalpy may be used. If the reaction is exothermic, the heat produced can be thought of as a product. If the reaction is endothermic the heat added can be thought of as a reactant. Additional heat would shift an exothermic reaction back to the reactants but would shift an endothermic reaction to the products. Cooling an exothermic reaction causes the reaction to shift toward the product side; cooling an endothermic reaction would cause it to shift to the reactants' side.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm24149280">
+<problem id="fs-idp83026528">
+<para id="fs-idp2454976">What would happen to the color of the solution in part (b) of <link target-id="CNX_Chem_13_03_tubes"/> if a small amount of NaOH were added and Fe(OH)<sub>3</sub> precipitated? Explain your answer.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp176997392">
+<problem id="fs-idp201726448">
+<para id="fs-idp88632768">The following reaction occurs when a burner on a gas stove is lit:<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp113241664">Is an equilibrium among CH<sub>4</sub>, O<sub>2</sub>, CO<sub>2</sub>, and H<sub>2</sub>O established under these conditions? Explain your answer.</para>
+</problem>
+<solution id="fs-idp82751184">
+<para id="fs-idp107413808">No, it is not at equilibrium. Because the system is not confined, products continuously escape from the region of the flame; reactants are also added continuously from the burner and surrounding atmosphere.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp55085984">
+<problem id="fs-idp55911200">
+<para id="fs-idp138000784">A necessary step in the manufacture of sulfuric acid is the formation of sulfur trioxide, SO<sub>3</sub>, from sulfur dioxide, SO<sub>2</sub>, and oxygen, O<sub>2</sub>, shown here. At high temperatures, the rate of formation of SO<sub>3</sub> is higher, but the equilibrium amount (concentration or partial pressure) of SO<sub>3</sub> is lower than it would be at lower temperatures.<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp28525136">(a) Does the equilibrium constant for the reaction increase, decrease, or remain about the same as the temperature increases?</para>
+<para id="fs-idp26487568">(b) Is the reaction endothermic or exothermic?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm14144048">
+<problem id="fs-idm2511216">
+<para id="fs-idp45632">Suggest four ways in which the concentration of hydrazine, N<sub>2</sub>H<sub>4</sub>, could be increased in an equilibrium described by the following equation:<newline/>
+<m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>95</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp52611824">
+<para id="fs-idp27030640">Add N<sub>2</sub>; add H<sub>2</sub>; decrease the container volume; heat the mixture.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20860880">
+<problem id="fs-idp93580528">
+<para id="fs-idp208675872">Suggest four ways in which the concentration of PH<sub>3</sub> could be increased in an equilibrium described by the following equation:<newline/>
+<m:math><m:mrow><m:msub><m:mtext>P</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>PH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>110.5</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp53124112">
+<problem id="fs-idp25636544">
+<para id="fs-idp54257744">How will an increase in temperature affect each of the following equilibria? How will a decrease in the volume of the reaction vessel affect each?</para>
+<para id="fs-idm857712">(a) <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>92</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp76135856">(b) <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>181</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm7155392">(c) <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−285</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp153795216">(d) <m:math><m:mrow><m:mtext>CaO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mrow><m:mtext>CaCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−176</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp47561040">
+<para id="fs-idp85418448">(a) Δ<emphasis effect="italics">T</emphasis> increase = shift right, Δ<emphasis effect="italics">P</emphasis> increase = shift left; (b) Δ<emphasis effect="italics">T</emphasis> increase = shift right, Δ<emphasis effect="italics">P</emphasis> increase = no effect; (c) Δ<emphasis effect="italics">T</emphasis> increase = shift left, Δ<emphasis effect="italics">P</emphasis> increase = shift left; (d) Δ<emphasis effect="italics">T</emphasis> increase = shift left, Δ<emphasis effect="italics">P</emphasis> increase = shift right.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp212372192">
+<problem id="fs-idp64029968">
+<para id="fs-idp79334080">How will an increase in temperature affect each of the following equilibria? How will a decrease in the volume of the reaction vessel affect each?</para>
+<para id="fs-idm740576">(a) <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>484</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp36815136">(b) <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−92.2</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp42775104">(c) <m:math><m:mrow><m:mn>2</m:mn><m:mtext>Br</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−224</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp41148976">(d) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>HI</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>53</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp65024704">
+<problem id="fs-idp247745376">
+<para id="fs-idp84954288">Water gas is a 1:1 mixture of carbon monoxide and hydrogen gas and is called water gas because it is formed from steam and hot carbon in the following reaction: <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> Methanol, a liquid fuel that could possibly replace gasoline, can be prepared from water gas and hydrogen at high temperature and pressure in the presence of a suitable catalyst.</para>
+<para id="fs-idp47071392">(a) Write the expression for the equilibrium constant (<emphasis effect="italics">K<sub>c</sub></emphasis>) for the reversible reaction<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−90.2</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp114921120">(b) What will happen to the concentrations of H<sub>2</sub>, CO, and CH<sub>3</sub>OH at equilibrium if more H<sub>2</sub> is added?</para>
+<para id="fs-idp237064112">(c) What will happen to the concentrations of H<sub>2</sub>, CO, and CH<sub>3</sub>OH at equilibrium if CO is removed?</para>
+<para id="fs-idp163575072">(d) What will happen to the concentrations of H<sub>2</sub>, CO, and CH<sub>3</sub>OH at equilibrium if CH<sub>3</sub>OH is added?</para>
+<para id="fs-idp112764896">(e) What will happen to the concentrations of H<sub>2</sub>, CO, and CH<sub>3</sub>OH at equilibrium if the temperature of the system is increased?</para>
+<para id="fs-idp117147216">(f) What will happen to the concentrations of H<sub>2</sub>, CO, and CH<sub>3</sub>OH at equilibrium if more catalyst is added?</para>
+</problem>
+<solution id="fs-idp262334176">
+<para id="fs-idp82839488">(a) <m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mi>c</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo stretchy="false">[</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mo>;</m:mo></m:mrow></m:math> (b) [H<sub>2</sub>] increases, [CO] decreases, [CH<sub>3</sub>OH] increases; (c), [H<sub>2</sub>] increases, [CO] decreases, [CH<sub>3</sub>OH] decreases; (d), [H<sub>2</sub>] increases, [CO] increases, [CH<sub>3</sub>OH] increases; (e), [H<sub>2</sub>] increases, [CO] increases, [CH<sub>3</sub>OH] decreases; (f), no changes.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp384696688">
+<problem id="fs-idp109307184">
+<para id="fs-idp155494352">Nitrogen and oxygen react at high temperatures.</para>
+<para id="fs-idp76209904">(a) Write the expression for the equilibrium constant (<emphasis effect="italics">K<sub>c</sub></emphasis>) for the reversible reaction<newline/>
+<m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>181</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp215116176">(b) What will happen to the concentrations of N<sub>2</sub>, O<sub>2</sub>, and NO at equilibrium if more O<sub>2</sub> is added?</para>
+<para id="fs-idp166633472">(c) What will happen to the concentrations of N<sub>2</sub>, O<sub>2</sub>, and NO at equilibrium if N<sub>2</sub> is removed?</para>
+<para id="fs-idm6587360">(d) What will happen to the concentrations of N<sub>2</sub>, O<sub>2</sub>, and NO at equilibrium if NO is added?</para>
+<para id="fs-idp125011728">(e) What will happen to the concentrations of N<sub>2</sub>, O<sub>2</sub>, and NO at equilibrium if the pressure on the system is increased by reducing the volume of the reaction vessel?</para>
+<para id="fs-idp33093872">(f) What will happen to the concentrations of N<sub>2</sub>, O<sub>2</sub>, and NO at equilibrium if the temperature of the system is increased?</para>
+<para id="fs-idm12428240">(g) What will happen to the concentrations of N<sub>2</sub>, O<sub>2</sub>, and NO at equilibrium if a catalyst is added?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp201703744">
+<problem id="fs-idp27051456">
+<para id="fs-idp27051712">Water gas, a mixture of H<sub>2</sub> and CO, is an important industrial fuel produced by the reaction of steam with red hot coke, essentially pure carbon.</para>
+<para id="fs-idp153944320">(a) Write the expression for the equilibrium constant for the reversible reaction<newline/>
+<m:math><m:mrow><m:mtext>C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>131.30</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp139982336">(b) What will happen to the concentration of each reactant and product at equilibrium if more C is added?</para>
+<para id="fs-idp37591792">(c) What will happen to the concentration of each reactant and product at equilibrium if H<sub>2</sub>O is removed?</para>
+<para id="fs-idp328747376">(d) What will happen to the concentration of each reactant and product at equilibrium if CO is added?</para>
+<para id="fs-idm3353088">(e) What will happen to the concentration of each reactant and product at equilibrium if the temperature of the system is increased?</para>
+</problem>
+<solution id="fs-idp24515792">
+<para id="fs-idm4087504">(a) <m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mi>c</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mo>;</m:mo></m:mrow></m:math> (b) [H<sub>2</sub>O] no change, [CO] no change, [H<sub>2</sub>] no change; (c) [H<sub>2</sub>O] decreases, [CO] decreases, [H<sub>2</sub>] decreases; (d) [H<sub>2</sub>O] increases, [CO] increases, [H<sub>2</sub>] decreases; (f) [H<sub>2</sub>O] decreases, [CO] increases, [H<sub>2</sub>] increases. In (b), (c), (d), and (e), the mass of carbon will change, but its concentration (activity) will not change.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp31242816">
+<problem id="fs-idp94077728">
+<para id="fs-idm14354544">Pure iron metal can be produced by the reduction of iron(III) oxide with hydrogen gas.</para>
+<para id="fs-idm5772208">(a) Write the expression for the equilibrium constant (<emphasis effect="italics">K<sub>c</sub></emphasis>) for the reversible reaction<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>Fe</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>98.7</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp103391248">(b) What will happen to the concentration of each reactant and product at equilibrium if more Fe is added?</para>
+<para id="fs-idp67029792">(c) What will happen to the concentration of each reactant and product at equilibrium if H<sub>2</sub>O is removed?</para>
+<para id="fs-idp120512464">(d) What will happen to the concentration of each reactant and product at equilibrium if H<sub>2</sub> is added?</para>
+<para id="fs-idp79018960">(e) What will happen to the concentration of each reactant and product at equilibrium if the pressure on the system is increased by reducing the volume of the reaction vessel?</para>
+<para id="fs-idm111712">(f) What will happen to the concentration of each reactant and product at equilibrium if the temperature of the system is increased?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp52451264">
+<problem id="fs-idp260986016">
+<para id="fs-idp260986272">Ammonia is a weak base that reacts with water according to this equation:<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp41532304">Will any of the following increase the percent of ammonia that is converted to the ammonium ion in water?</para>
+<para id="fs-idp26686944">(a) Addition of NaOH</para>
+<para id="fs-idp64220016">(b) Addition of HCl</para>
+<para id="fs-idp167305664">(c) Addition of NH<sub>4</sub>Cl</para>
+</problem>
+<solution id="fs-idp17565952">
+<para id="fs-idp48607168">Only (b)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp261498704">
+<problem id="fs-idm1536240">
+<para id="fs-idp25609312">Acetic acid is a weak acid that reacts with water according to this equation:<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp114009808">Will any of the following increase the percent of acetic acid that reacts and produces <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> ion?</para>
+<para id="fs-idm11269984">(a) Addition of HCl</para>
+<para id="fs-idp154007760">(b) Addition of NaOH</para>
+<para id="fs-idp27637856">(c) Addition of NaCH<sub>3</sub>CO<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp157396912">
+<problem id="fs-idp157397168">
+<para id="fs-idp150087168">Suggest two ways in which the equilibrium concentration of Ag<sup>+</sup> can be reduced in a solution of Na<sup>+</sup>, Cl<sup>−</sup>, Ag<sup>+</sup>, and <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> in contact with solid AgCl.<newline/>
+<m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>AgCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math><newline/>
+<m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−65.9</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm2616800">
+<para id="fs-idm2616544">Add NaCl or some other salt that produces Cl<sup>−</sup> to the solution. Cooling the solution forces the equilibrium to the right, precipitating more AgCl(<emphasis effect="italics">s</emphasis>).</para>
+</solution>
+</exercise>
+<exercise id="fs-idm33369776">
+<problem id="fs-idp157407216">
+<para id="fs-idp157407472">How can the pressure of water vapor be increased in the following equilibrium?<newline/>
+<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>41</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp92538384">
+<problem id="fs-idp92538640">
+<para id="fs-idm15433728">Additional solid silver sulfate, a slightly soluble solid, is added to a solution of silver ion and sulfate ion at equilibrium with solid silver sulfate.<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp46605024">Which of the following will occur?</para>
+<para id="fs-idm11431184">(a) Ag<sup>+</sup> or <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> concentrations will not change.</para>
+<para id="fs-idm13710176">(b) The added silver sulfate will dissolve.</para>
+<para id="fs-idp85951120">(c) Additional silver sulfate will form and precipitate from solution as Ag<sup>+</sup> ions and <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> ions combine.</para>
+<para id="fs-idp122046400">(d) The Ag<sup>+</sup> ion concentration will increase and the <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> ion concentration will decrease.</para>
+</problem>
+<solution id="fs-idp42969632">
+<para id="fs-idp261169472">(a)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp219741088">
+<problem id="fs-idp48823632">
+<para id="fs-idp48823888">The amino acid alanine has two isomers, α-alanine and β-alanine. When equal masses of these two compounds are dissolved in equal amounts of a solvent, the solution of α-alanine freezes at the lowest temperature. Which form, α-alanine or β-alanine, has the larger equilibrium constant for ionization <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>HX</m:mtext><m:mo stretchy="false">⇌</m:mo><m:msup><m:mtext>H</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mtext>X</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math>?</para>
+</problem>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp108249008"><term>Le Châtelier's principle</term>
+<meaning id="fs-idp154834128">when a chemical system at equilibrium is disturbed, it returns to equilibrium by counteracting the disturbance</meaning>
+</definition>
+<definition id="fs-idp58448560"><term>position of equilibrium</term>
+<meaning id="fs-idp262572352">concentrations or partial pressures of components of a reaction at equilibrium (commonly used to describe conditions before a disturbance)</meaning>
+</definition>
+<definition id="fs-idp41072528"><term>stress</term>
+<meaning id="fs-idp27353376">change to a reaction's conditions that may cause a shift in the equilibrium</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,1063 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col12012</md:content-id>
+  <md:title>Chemistry: Atoms First</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>4539ae23-1ccc-421e-9b25-843acbb6c4b0</md:uuid>
+<md:slug>chemistry-atoms-first</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m61771"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Essential Ideas</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m50979"/>
+        
+      
+    
+    
+      <col:module document="m50984"/>
+        
+      
+    
+    
+      <col:module document="m50986"/>
+        
+      
+    
+    
+      <col:module document="m50988"/>
+        
+      
+    
+    
+      <col:module document="m50989"/>
+        
+      
+    
+    
+      <col:module document="m50993"/>
+        
+      
+    
+    
+      <col:module document="m50996"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Atoms, Molecules, and Ions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m61730"/>
+        
+      
+    
+    
+      <col:module document="m61734"/>
+        
+      
+    
+    
+      <col:module document="m61735"/>
+        
+      
+    
+    
+      <col:module document="m61737"/>
+        
+      
+    
+    
+      <col:module document="m61743"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electronic Structure and Periodic Properties of Elements</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51036"/>
+        
+      
+    
+    
+      <col:module document="m61727"/>
+        
+      
+    
+    
+      <col:module document="m62038"/>
+        
+      
+    
+    
+      <col:module document="m63854"/>
+        
+      
+    
+    
+      <col:module document="m51041"/>
+        
+      
+    
+    
+      <col:module document="m51042"/>
+        
+      
+    
+    
+      <col:module document="m61746"/>
+        
+      
+    
+    
+      <col:module document="m61747"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Chemical Bonding and Molecular Geometry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m61772"/>
+        
+      
+    
+    
+      <col:module document="m51047"/>
+        
+      
+    
+    
+      <col:module document="m61751"/>
+        
+      
+    
+    
+      <col:module document="m62039"/>
+        
+      
+    
+    
+      <col:module document="m62041"/>
+        
+      
+    
+    
+      <col:module document="m51051"/>
+        
+      
+    
+    
+      <col:module document="m51053"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Advanced Theories of Bonding</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51054"/>
+        
+      
+    
+    
+      <col:module document="m61763"/>
+        
+      
+    
+    
+      <col:module document="m51057"/>
+        
+      
+    
+    
+      <col:module document="m51058"/>
+        
+      
+    
+    
+      <col:module document="m61768"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Composition of Substances and Solutions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51010"/>
+        
+      
+    
+    
+      <col:module document="m61740"/>
+        
+      
+    
+    
+      <col:module document="m61748"/>
+        
+      
+    
+    
+      <col:module document="m51014"/>
+        
+      
+    
+    
+      <col:module document="m51016"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Stoichiometry of Chemical Reactions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51020"/>
+        
+      
+    
+    
+      <col:module document="m51021"/>
+        
+      
+    
+    
+      <col:module document="m51022"/>
+        
+      
+    
+    
+      <col:module document="m51024"/>
+        
+      
+    
+    
+      <col:module document="m51029"/>
+        
+      
+    
+    
+      <col:module document="m51030"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Gases</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51060"/>
+        
+      
+    
+    
+      <col:module document="m51061"/>
+        
+      
+    
+    
+      <col:module document="m51065"/>
+        
+      
+    
+    
+      <col:module document="m61726"/>
+        
+      
+    
+    
+      <col:module document="m51067"/>
+        
+      
+    
+    
+      <col:module document="m51068"/>
+        
+      
+    
+    
+      <col:module document="m51072"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Thermochemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m61760"/>
+        
+      
+    
+    
+      <col:module document="m51033"/>
+        
+      
+    
+    
+      <col:module document="m51034"/>
+        
+      
+    
+    
+      <col:module document="m51035"/>
+        
+      
+    
+    
+      <col:module document="m61756"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Liquids and Solids</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51073"/>
+        
+      
+    
+    
+      <col:module document="m51077"/>
+        
+      
+    
+    
+      <col:module document="m51078"/>
+        
+      
+    
+    
+      <col:module document="m51079"/>
+        
+      
+    
+    
+      <col:module document="m62043"/>
+        
+      
+    
+    
+      <col:module document="m51081"/>
+        
+      
+    
+    
+      <col:module document="m51082"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Solutions and Colloids</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51083"/>
+        
+      
+    
+    
+      <col:module document="m51085"/>
+        
+      
+    
+    
+      <col:module document="m51086"/>
+        
+      
+    
+    
+      <col:module document="m51087"/>
+        
+      
+    
+    
+      <col:module document="m51088"/>
+        
+      
+    
+    
+      <col:module document="m51091"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Thermodynamics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51136"/>
+        
+      
+    
+    
+      <col:module document="m51137"/>
+        
+      
+    
+    
+      <col:module document="m62046"/>
+        
+      
+    
+    
+      <col:module document="m62044"/>
+        
+      
+    
+    
+      <col:module document="m61761"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fundamental Equilibrium Concepts</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m61752"/>
+        
+      
+    
+    
+      <col:module document="m61782"/>
+        
+      
+    
+    
+      <col:module document="m62047"/>
+        
+      
+    
+    
+      <col:module document="m61738"/>
+        
+      
+    
+    
+      <col:module document="m61755"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Acid-Base Equilibria</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51113"/>
+        
+      
+    
+    
+      <col:module document="m51116"/>
+        
+      
+    
+    
+      <col:module document="m51117"/>
+        
+      
+    
+    
+      <col:module document="m51118"/>
+        
+      
+    
+    
+      <col:module document="m51120"/>
+        
+      
+    
+    
+      <col:module document="m51121"/>
+        
+      
+    
+    
+      <col:module document="m51123"/>
+        
+      
+    
+    
+      <col:module document="m51124"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Equilibria of Other Reaction Classes</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51125"/>
+        
+      
+    
+    
+      <col:module document="m51127"/>
+        
+      
+    
+    
+      <col:module document="m51131"/>
+        
+      
+    
+    
+      <col:module document="m51134"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electrochemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51146"/>
+        
+      
+    
+    
+      <col:module document="m51148"/>
+        
+      
+    
+    
+      <col:module document="m51149"/>
+        
+      
+    
+    
+      <col:module document="m51150"/>
+        
+      
+    
+    
+      <col:module document="m51151"/>
+        
+      
+    
+    
+      <col:module document="m51152"/>
+        
+      
+    
+    
+      <col:module document="m55220"/>
+        
+      
+    
+    
+      <col:module document="m55202"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Kinetics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m61753"/>
+        
+      
+    
+    
+      <col:module document="m51097"/>
+        
+      
+    
+    
+      <col:module document="m51098"/>
+        
+      
+    
+    
+      <col:module document="m51099"/>
+        
+      
+    
+    
+      <col:module document="m51101"/>
+        
+      
+    
+    
+      <col:module document="m51102"/>
+        
+      
+    
+    
+      <col:module document="m51103"/>
+        
+      
+    
+    
+      <col:module document="m61739"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Representative Metals, Metalloids, and Nonmetals</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51154"/>
+        
+      
+    
+    
+      <col:module document="m51156"/>
+        
+      
+    
+    
+      <col:module document="m51158"/>
+        
+      
+    
+    
+      <col:module document="m51160"/>
+        
+      
+    
+    
+      <col:module document="m51162"/>
+        
+      
+    
+    
+      <col:module document="m51164"/>
+        
+      
+    
+    
+      <col:module document="m51169"/>
+        
+      
+    
+    
+      <col:module document="m51171"/>
+        
+      
+    
+    
+      <col:module document="m51172"/>
+        
+      
+    
+    
+      <col:module document="m51234"/>
+        
+      
+    
+    
+      <col:module document="m51174"/>
+        
+      
+    
+    
+      <col:module document="m51176"/>
+        
+      
+    
+    
+      <col:module document="m51178"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Transition Metals and Coordination Chemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51185"/>
+        
+      
+    
+    
+      <col:module document="m51186"/>
+        
+      
+    
+    
+      <col:module document="m51187"/>
+        
+      
+    
+    
+      <col:module document="m51188"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Nuclear Chemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51195"/>
+        
+      
+    
+    
+      <col:module document="m51196"/>
+        
+      
+    
+    
+      <col:module document="m62052"/>
+        
+      
+    
+    
+      <col:module document="m51199"/>
+        
+      
+    
+    
+      <col:module document="m51201"/>
+        
+      
+    
+    
+      <col:module document="m51203"/>
+        
+      
+    
+    
+      <col:module document="m51206"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Organic Chemistry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m51190"/>
+        
+      
+    
+    
+      <col:module document="m51191"/>
+        
+      
+    
+    
+      <col:module document="m51192"/>
+        
+      
+    
+    
+      <col:module document="m51193"/>
+        
+      
+    
+    
+      <col:module document="m51194"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m51209"/>
+        
+      
+    
+    
+      <col:module document="m51211"/>
+        
+      
+    
+    
+      <col:module document="m51213"/>
+        
+      
+    
+    
+      <col:module document="m51215"/>
+        
+      
+    
+    
+      <col:module document="m51217"/>
+        
+      
+    
+    
+      <col:module document="m51219"/>
+        
+      
+    
+    
+      <col:module document="m51221"/>
+        
+      
+    
+    
+      <col:module document="m51225"/>
+        
+      
+    
+    
+      <col:module document="m51226"/>
+        
+      
+    
+    
+      <col:module document="m51229"/>
+        
+      
+    
+    
+      <col:module document="m51230"/>
+        
+      
+    
+    
+      <col:module document="m51231"/>
+        
+      
+    
+    
+      <col:module document="m51233"/>
+        
+      
+    
+  </col:content>
+</col:collection>

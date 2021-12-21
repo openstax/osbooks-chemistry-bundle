@@ -1,0 +1,194 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Effusion and Diffusion of Gases</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51067</md:content-id>
+  <md:title>Effusion and Diffusion of Gases</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define and explain effusion and diffusion</item>
+<item>State Graham’s law and use it to compute relevant gas properties</item>
+</list></md:abstract>
+  <md:uuid>8e586ebc-1ca7-4908-9abf-10c4dadd4b81</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp171160640">If you have ever been in a room when a piping hot pizza was delivered, you have been made aware of the fact that gaseous molecules can quickly spread throughout a room, as evidenced by the pleasant aroma that soon reaches your nose. Although gaseous molecules travel at tremendous speeds (hundreds of meters per second), they collide with other gaseous molecules and travel in many different directions before reaching the desired target. At room temperature, a gaseous molecule will experience billions of collisions per second. The <term>mean free path</term> is the average distance a molecule travels between collisions. The mean free path increases with decreasing pressure; in general, the mean free path for a gaseous molecule will be hundreds of times the diameter of the molecule</para>
+<para id="fs-idp34604992">In general, we know that when a sample of gas is introduced to one part of a closed container, its molecules very quickly disperse throughout the container; this process by which molecules disperse in space in response to differences in concentration is called <term>diffusion</term> (shown in <link target-id="CNX_Chem_09_04_Diffusion"/>). The gaseous atoms or molecules are, of course, unaware of any concentration gradient, they simply move randomly—regions of higher concentration have more particles than regions of lower concentrations, and so a net movement of species from high to low concentration areas takes place. In a closed environment, diffusion will ultimately result in equal concentrations of gas throughout, as depicted in <link target-id="CNX_Chem_09_04_Diffusion"/>. The gaseous atoms and molecules continue to move, but since their concentrations are the same in both bulbs, the rates of transfer between the bulbs are equal (no <emphasis effect="italics">net</emphasis> transfer of molecules occurs).</para>
+<figure id="CNX_Chem_09_04_Diffusion">
+<media id="fs-idp77290704" alt="In this figure, three pairs of gas filled spheres or vessels are shown connected with a stopcock between them. In a, the figure is labeled, “Stopcock closed.” Above, the left sphere is labeled, “H subscript 2.” It contains approximately 30 small, white, evenly distributed circles. The sphere to its right is labeled, “O subscript 2.” It contains approximately 30 small red evenly distributed circles. In b, the figure is labeled, “Stopcock open.” The stopcock valve handle is now parallel to the tube connecting the two spheres. On the left, approximately 9 small, white circles and 4 small, red circles are present, with the red spheres appearing slightly closer to the stopcock. On the right side, approximately 25 small, red spheres and 21 small, white spheres are present, with the concentration of white spheres slightly greater near the stopcock. In c, the figure is labeled “Some time after Stopcock open.” In this situation, the red and white spheres appear evenly mixed and uniformly distributed throughout both spheres.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_04_Diffusion.jpg"/>
+</media>
+<caption>(a) Two gases, H<sub>2</sub> and O<sub>2</sub>, are initially separated. (b) When the stopcock is opened, they mix together. The lighter gas, H<sub>2</sub>, passes through the opening faster than O<sub>2</sub>, so just after the stopcock is opened, more H<sub>2</sub> molecules move to the O<sub>2</sub> side than O<sub>2</sub> molecules move to the H<sub>2</sub> side. (c) After a short time, both the slower-moving O<sub>2</sub> molecules and the faster-moving H<sub>2</sub> molecules have distributed themselves evenly on both sides of the vessel.</caption>
+</figure>
+<para id="fs-idp67962064">We are often interested in the <term>rate of diffusion</term>, the amount of gas passing through some area per unit time:</para>
+<equation id="fs-idm44153792"><m:math><m:mrow><m:mtext>rate of diffusion</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>amount of gas passing through an area</m:mtext></m:mrow><m:mrow><m:mtext>unit of time</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp14262464">The diffusion rate depends on several factors: the concentration gradient (the increase or decrease in concentration from one point to another); the amount of surface area available for diffusion; and the distance the gas particles must travel. Note also that the time required for diffusion to occur is inversely proportional to the rate of diffusion, as shown in the rate of diffusion equation.</para>
+<para id="fs-idm29004912">A process involving movement of gaseous species similar to diffusion is <term>effusion</term>, the escape of gas molecules through a tiny hole such as a pinhole in a balloon into a vacuum (<link target-id="CNX_Chem_09_04_DiffEff"/>). Although diffusion and effusion rates both depend on the molar mass of the gas involved, their rates are not equal; however, the ratios of their rates are the same.</para>
+<figure id="CNX_Chem_09_04_DiffEff">
+<media id="fs-idp10109888" alt="This figure contains two cylindrical containers which are oriented horizontally. The first is labeled “Diffusion.” In this container, approximately 25 purple and 25 green circles are shown, evenly distributed throughout the container. “Trails” behind some of the circles indicate motion. In the second container, which is labeled “Effusion,” a boundary layer is evident across the center of the cylindrical container, dividing the cylinder into two halves. A black arrow is drawn pointing through this boundary from left to right. To the left of the boundary, approximately 16 green circles and 20 purple circles are shown again with motion indicated by “trails” behind some of the circles. To the right of the boundary, only 4 purple and 16 green circles are shown.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_04_DiffEff.jpg"/>
+</media>
+<caption>Diffusion occurs when gas molecules disperse throughout a container. Effusion occurs when a gas passes through an opening that is smaller than the mean free path of the particles, that is, the average distance traveled between collisions. Effectively, this means that only one particle passes through at a time.</caption>
+</figure>
+<para id="fs-idp161500496">If a mixture of gases is placed in a container with porous walls, the gases effuse through the small openings in the walls. The lighter gases pass through the small openings more rapidly (at a higher rate) than the heavier ones (<link target-id="CNX_Chem_09_04_Effusion2"/>). In 1832, Thomas Graham studied the rates of effusion of different gases and formulated <term>Graham’s law of effusion</term>: <emphasis effect="italics">The rate of effusion of a gas is inversely proportional to the square root of the mass of its particles</emphasis>:</para>
+<equation id="fs-idp1970368"><m:math><m:mrow><m:mtext>rate of effusion</m:mtext><m:mo>∝</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:msqrt><m:mtext>ℳ</m:mtext></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp194507952">This means that if two gases A and B are at the same temperature and pressure, the ratio of their effusion rates is inversely proportional to the ratio of the square roots of the masses of their particles:</para>
+<equation id="fs-idp39119056"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>rate of effusion of A</m:mtext></m:mrow><m:mrow><m:mtext>rate of effusion of B</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mtext>B</m:mtext></m:msub></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mtext>A</m:mtext></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<figure id="CNX_Chem_09_04_Effusion2">
+<media id="fs-idp1374224" alt="This figure shows two photos. The first photo shows a blue balloon which floats above a green balloon. The green balloon is resting on a surface. Both balloons are about the same size. The second photo shows the same two balloons, but the blue one is now smaller than the green one. Both are resting on a surface.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_04_Effusion2.jpg"/>
+</media>
+<caption>A balloon filled with air (the blue one) remains full overnight. A balloon filled with helium (the green one) partially deflates because the smaller, light helium atoms effuse through small holes in the rubber much more readily than the heavier molecules of nitrogen and oxygen found in air. (credit: modification of work by Mark Ott)</caption>
+</figure>
+<example id="fs-idp118691776">
+<para id="fs-idm44727888"><title>Applying Graham’s Law to Rates of Effusion</title>
+Calculate the ratio of the rate of effusion of hydrogen to the rate of effusion of oxygen.</para>
+<para id="fs-idp11382912"><title>Solution</title>
+From Graham’s law, we have:</para>
+<equation id="fs-idm1624032"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>rate of effusion of hydrogen</m:mtext></m:mrow><m:mrow><m:mtext>rate of effusion of oxygen</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:mn>1.43</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>g L</m:mtext></m:mrow><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:mn>0.0899</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>g L</m:mtext></m:mrow><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose></m:mrow></m:msqrt></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1.20</m:mn></m:mrow><m:mrow><m:mn>0.300</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>4</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp48622928">Using molar masses:</para>
+<equation id="fs-idp216764096"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>rate of effusion of hydrogen</m:mtext></m:mrow><m:mrow><m:mtext>rate of effusion of oxygen</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:mn>32</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>g mol</m:mtext></m:mrow><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>g mol</m:mtext></m:mrow><m:mrow><m:mtext>−1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose></m:mrow></m:msqrt></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:mn>16</m:mn></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mn>1</m:mn></m:msqrt></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>4</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp43387840">Hydrogen effuses four times as rapidly as oxygen.</para>
+<para id="fs-idp77509504"><title>Check Your Learning</title>
+At a particular pressure and temperature, nitrogen gas effuses at the rate of 79 mL/s. Using the same apparatus at the same temperature and pressure, at what rate will sulfur dioxide effuse?</para>
+<note id="fs-idp100366752"><title>Answer:</title>
+<para id="fs-idp41048160">52 mL/s</para>
+</note>
+</example>
+<para id="fs-idp140432">Here’s another example, making the point about how determining times differs from determining rates.</para>
+<example id="fs-idm54710976">
+<para id="fs-idm56870480"><title>Effusion Time Calculations</title>
+It takes 243 s for 4.46 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> mol Xe to effuse through a tiny hole. Under the same conditions, how long will it take 4.46 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> mol Ne to effuse?</para>
+<para id="fs-idm63835360"><title>Solution</title>
+It is important to resist the temptation to use the times directly, and to remember how rate relates to time as well as how it relates to mass. Recall the definition of rate of effusion:</para>
+<equation id="fs-idp59574816"><m:math><m:mrow><m:mtext>rate of effusion</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>amount of gas transferred</m:mtext></m:mrow><m:mrow><m:mtext>time</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm61445488">and combine it with Graham’s law:</para>
+<equation id="fs-idp60271072"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>rate of effusion of gas Xe</m:mtext></m:mrow><m:mrow><m:mtext>rate of effusion of gas Ne</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mtext>Ne</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mtext>Xe</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp12731488">To get:</para>
+<equation id="fs-idm139751792"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mtext>amount of Xe transferred</m:mtext></m:mrow><m:mrow><m:mtext>time for Xe</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>amount of Ne transferred</m:mtext></m:mrow><m:mrow><m:mtext>time for Ne</m:mtext></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mtext>Ne</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mtext>Xe</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm19235104">Noting that <emphasis effect="italics">amount of A</emphasis> = <emphasis effect="italics">amount of B</emphasis>, and solving for <emphasis effect="italics">time for Ne</emphasis>:</para>
+<equation id="fs-idm29629840"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>amount of Xe</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mtext>time for Xe</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>amount of Ne</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mtext>time for Ne</m:mtext></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>time for Ne</m:mtext></m:mrow><m:mrow><m:mtext>time for Xe</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mtext>Ne</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mtext>Xe</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mtext>Ne</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mtext>Xe</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp60390528">and substitute values:</para>
+<equation id="fs-idm53984768"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>time for Ne</m:mtext></m:mrow><m:mrow><m:mn>243</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>20.2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g mol</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>131.3</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g mol</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac></m:mrow></m:msqrt><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0.392</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm16430224">Finally, solve for the desired quantity:</para>
+<equation id="fs-idp2514128"><m:math><m:mrow><m:mtext>time for Ne</m:mtext><m:mo>=</m:mo><m:mn>0.392</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>243</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext><m:mo>=</m:mo><m:mn>95.3</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm572880">Note that this answer is reasonable: Since Ne is lighter than Xe, the effusion rate for Ne will be larger than that for Xe, which means the time of effusion for Ne will be smaller than that for Xe.</para>
+<para id="fs-idp26714784"><title>Check Your Learning</title>
+A party balloon filled with helium deflates to <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math> of its original volume in 8.0 hours. How long will it take an identical balloon filled with the same number of moles of air (ℳ = 28.2 g/mol) to deflate to <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> of its original volume?</para>
+<note id="fs-idp35835728"><title>Answer:</title>
+<para id="fs-idp53945792">32 h</para>
+</note>
+</example>
+<para id="fs-idm19122144">Finally, here is one more example showing how to calculate molar mass from effusion rate data.</para>
+<example id="fs-idp23019808">
+<para id="fs-idm25684496"><title>Determining Molar Mass Using Graham’s Law</title>
+An unknown gas effuses 1.66 times more rapidly than CO<sub>2</sub>. What is the molar mass of the unknown gas? Can you make a reasonable guess as to its identity?</para>
+<para id="fs-idp70256064"><title>Solution</title>
+From Graham’s law, we have:</para>
+<equation id="fs-idp19320256"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>rate of effusion of Unknown</m:mtext></m:mrow><m:mrow><m:msub><m:mrow><m:mtext>rate of effusion of CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mi>U</m:mi><m:mi>n</m:mi><m:mi>k</m:mi><m:mi>n</m:mi><m:mi>o</m:mi><m:mi>w</m:mi><m:mi>n</m:mi></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm38402512">Plug in known data:</para>
+<equation id="fs-idm17423856"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>1.66</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:mn>44.0</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mi>U</m:mi><m:mi>n</m:mi><m:mi>k</m:mi><m:mi>n</m:mi><m:mi>o</m:mi><m:mi>w</m:mi><m:mi>n</m:mi></m:mrow></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp40653824">Solve:</para>
+<equation id="fs-idp174900608"><m:math><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mrow><m:mi>U</m:mi><m:mi>n</m:mi><m:mi>k</m:mi><m:mi>n</m:mi><m:mi>o</m:mi><m:mi>w</m:mi><m:mi>n</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>44.0</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:msup><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1.66</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>16.0</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp49423040">The gas could well be CH<sub>4</sub>, the only gas with this molar mass.</para>
+<para id="fs-idp22523824"><title>Check Your Learning</title>
+Hydrogen gas effuses through a porous container 8.97-times faster than an unknown gas. Estimate the molar mass of the unknown gas.</para>
+<note id="fs-idp120447376"><title>Answer:</title>
+<para id="fs-idm51199280">163 g/mol</para>
+</note>
+</example>
+<note id="fs-idp115856048" class="chemistry sciences-interconnect">
+<title>Use of Diffusion for Nuclear Energy Applications: Uranium Enrichment</title>
+<para id="fs-idp117148640">Gaseous diffusion has been used to produce enriched uranium for use in nuclear power plants and weapons. Naturally occurring uranium contains only 0.72% of <sup>235</sup>U, the kind of uranium that is “fissile,” that is, capable of sustaining a nuclear fission chain reaction. Nuclear reactors require fuel that is 2–5% <sup>235</sup>U, and nuclear bombs need even higher concentrations. One way to enrich uranium to the desired levels is to take advantage of Graham’s law. In a gaseous diffusion enrichment plant, uranium hexafluoride (UF<sub>6</sub>, the only uranium compound that is volatile enough to work) is slowly pumped through large cylindrical vessels called diffusers, which contain porous barriers with microscopic openings. The process is one of diffusion because the other side of the barrier is not evacuated. The <sup>235</sup>UF<sub>6</sub> molecules have a higher average speed and diffuse through the barrier a little faster than the heavier <sup>238</sup>UF<sub>6</sub> molecules. The gas that has passed through the barrier is slightly enriched in <sup>235</sup>UF<sub>6</sub> and the residual gas is slightly depleted. The small difference in molecular weights between <sup>235</sup>UF<sub>6</sub> and <sup>238</sup>UF<sub>6</sub> only about 0.4% enrichment, is achieved in one diffuser (<link target-id="CNX_Chem_09_04_GasDiff"/>). But by connecting many diffusers in a sequence of stages (called a cascade), the desired level of enrichment can be attained.</para>
+<figure id="CNX_Chem_09_04_GasDiff">
+<media id="fs-idp101769760" alt="This figure shows a large cylindrical container oriented horizontally. A narrow tube or pipe which is labeled “porous barrier” runs horizontally through the center of the tube and extends a short distance out from the left and right ends of the cylinder. At the far left, an arrow points right into the tube. This arrow is labele, “Uranium hexafluoride ( U F subscript 6 ).” A line segment connects the label, “High pressure feed tube,” to the tube where it enters the cylinder. In the short region of tube outside the cylinder, 5 small, purple circles and 4 small, green circles are present. Inside the cylinder, an arrow points right through the tube which contains many evenly distributed, purple circles and a handful of green circles which decrease in quantity moving left to right through the cylinder. Curved arrows extend from the inner area of the tube into the outer region of the cylinder. Three of these arrows point into the area above the tube and three point into the area below. Two line segments extend from the label, “Higher speed superscript 235 U F subscript 6 diffuses through barrier faster than superscript 238 U F subscript 6,” to two green circles in the space above the tube. In the short section of tubing just outside the cylinder, 8 small, purple circles are present. An arrow labeled, “Depleted superscript 238 U F subscript 6,” points right extending from the end of this tube. The larger space outside the tube contains approximately 100 evenly distributed small green circles and only 5 purple circles. Eight of the purple circles appear at the left end of the cylinder. A tube exits the lower right end of the cylinder. It has 5 green circles followed by a right pointing arrow and the label, “Enriched superscript 235 U F subscript 6.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_04_GasDiff.jpg"/>
+</media>
+<caption>In a diffuser, gaseous UF<sub>6</sub> is pumped through a porous barrier, which partially separates <sup>235</sup>UF<sub>6</sub> from <sup>238</sup>UF<sub>6</sub> The UF<sub>6</sub> must pass through many large diffuser units to achieve sufficient enrichment in <sup>235</sup>U.</caption>
+</figure>
+<para id="fs-idm46537712">The large scale separation of gaseous <sup>235</sup>UF<sub>6</sub> from <sup>238</sup>UF<sub>6</sub> was first done during the World War II, at the atomic energy installation in Oak Ridge, Tennessee, as part of the Manhattan Project (the development of the first atomic bomb). Although the theory is simple, this required surmounting many daunting technical challenges to make it work in practice. The barrier must have tiny, uniform holes (about 10<sup>–6</sup> cm in diameter) and be porous enough to produce high flow rates. All materials (the barrier, tubing, surface coatings, lubricants, and gaskets) need to be able to contain, but not react with, the highly reactive and corrosive UF<sub>6</sub>.</para>
+<para id="fs-idp125892592">Because gaseous diffusion plants require very large amounts of energy (to compress the gas to the high pressures required and drive it through the diffuser cascade, to remove the heat produced during compression, and so on), it is now being replaced by gas centrifuge technology, which requires far less energy. A current hot political issue is how to deny this technology to Iran, to prevent it from producing enough enriched uranium for them to use to make nuclear weapons.</para>
+</note>
+<section id="fs-idp58337632" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm7740320">Gaseous atoms and molecules move freely and randomly through space. Diffusion is the process whereby gaseous atoms and molecules are transferred from regions of relatively high concentration to regions of relatively low concentration. Effusion is a similar process in which gaseous species pass from a container to a vacuum through very small orifices. The rates of effusion of gases are inversely proportional to the square roots of their densities or to the square roots of their atoms/molecules’ masses (Graham’s law).</para>
+</section>
+<section id="fs-idp166246928" class="key-equations">
+<title>Key Equations</title>
+<list id="fs-idp78881680"><item><m:math><m:mrow><m:mtext>rate of diffusion</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>amount of gas passing through an area</m:mtext></m:mrow><m:mrow><m:mtext>unit of time</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></item>
+<item><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>rate of effusion of gas A</m:mtext></m:mrow><m:mrow><m:mtext>rate of effusion of gas B</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:msub><m:mi>m</m:mi><m:mi>B</m:mi></m:msub></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mi>m</m:mi><m:mi>A</m:mi></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mi>B</m:mi></m:msub></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:msub><m:mtext>ℳ</m:mtext><m:mi>A</m:mi></m:msub></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:math></item>
+</list>
+</section>
+<section id="fs-idm54662752" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp190361360">
+<problem id="fs-idp68001824">
+<para id="fs-idm41721952">A balloon filled with helium gas is found to take 6 hours to deflate to 50% of its original volume. How long will it take for an identical balloon filled with the same volume of hydrogen gas (instead of helium) to decrease its volume by 50%?</para>
+</problem>
+<solution id="fs-idp51577936">
+<para id="fs-idp34744720">4.2 hours</para>
+</solution>
+</exercise>
+<exercise id="fs-idm51619904">
+<problem id="fs-idm34475424">
+<para id="fs-idp113189264">Explain why the numbers of molecules are not identical in the left- and right-hand bulbs shown in the center illustration of <link target-id="CNX_Chem_09_04_Diffusion"/>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp44111184">
+<problem id="fs-idp42326496">
+<para id="fs-idm56418560">Starting with the definition of rate of effusion and Graham’s finding relating rate and molar mass, show how to derive the Graham’s law equation, relating the relative rates of effusion for two gases to their molecular masses.</para>
+</problem>
+<solution id="fs-idm48708288">
+<para id="fs-idp30823840">Effusion can be defined as the process by which a gas escapes through a pinhole into a vacuum. Graham’s law states that with a mixture of two gases A and B: <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>rate A</m:mtext></m:mrow><m:mrow><m:mtext>rate B</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>molar mass of B</m:mtext></m:mrow><m:mrow><m:mtext>molar mass of A</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> Both A and B are in the same container at the same temperature, and therefore will have the same kinetic energy:<newline/><m:math><m:mrow><m:msub><m:mrow><m:mtext>KE</m:mtext></m:mrow><m:mtext>A</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>KE</m:mtext></m:mrow><m:mtext>B</m:mtext></m:msub><m:mtext> KE</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mi>m</m:mi><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math><newline/>
+Therefore, <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>A</m:mtext></m:msub><m:msubsup><m:mi>v</m:mi><m:mtext>A</m:mtext><m:mn>2</m:mn></m:msubsup><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>B</m:mtext></m:msub><m:msubsup><m:mi>v</m:mi><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msubsup></m:mrow></m:math><newline/><m:math><m:mrow><m:mfrac><m:mrow><m:msubsup><m:mi>v</m:mi><m:mtext>A</m:mtext><m:mn>2</m:mn></m:msubsup></m:mrow><m:mrow><m:msubsup><m:mi>v</m:mi><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msubsup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>m</m:mi><m:mtext>B</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>m</m:mi><m:mtext>A</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:math><newline/><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msubsup><m:mi>v</m:mi><m:mtext>A</m:mtext><m:mn>2</m:mn></m:msubsup></m:mrow><m:mrow><m:msubsup><m:mi>v</m:mi><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msubsup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>m</m:mi><m:mtext>B</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>m</m:mi><m:mtext>A</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math><newline/><m:math><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>v</m:mi><m:mtext>A</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mtext>B</m:mtext></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>m</m:mi><m:mtext>B</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>m</m:mi><m:mtext>A</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idm54751408">
+<problem id="fs-idp39143984">
+<para id="fs-idm47335648">Heavy water, D<sub>2</sub>O (molar mass = 20.03 g mol<sup>–1</sup>), can be separated from ordinary water, H<sub>2</sub>O (molar mass = 18.01), as a result of the difference in the relative rates of diffusion of the molecules in the gas phase. Calculate the relative rates of diffusion of H<sub>2</sub>O and D<sub>2</sub>O.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm14659040">
+<problem id="fs-idp96536624">
+<para id="fs-idp67237568">Which of the following gases diffuse more slowly than oxygen? F<sub>2</sub>, Ne, N<sub>2</sub>O, C<sub>2</sub>H<sub>2</sub>, NO, Cl<sub>2</sub>, H<sub>2</sub>S</para>
+</problem>
+<solution id="fs-idp104132992">
+<para id="fs-idp221492704">F<sub>2</sub>, N<sub>2</sub>O, Cl<sub>2</sub>, H<sub>2</sub>S</para>
+</solution>
+</exercise>
+<exercise id="fs-idm82361856">
+<problem id="fs-idm108214960">
+<para id="fs-idp170749584">During the discussion of gaseous diffusion for enriching uranium, it was claimed that
+<sup>235</sup>UF<sub>6</sub> diffuses 0.4% faster than <sup>238</sup>UF<sub>6</sub>. Show the calculation that supports this value. The molar mass of <sup>235</sup>UF<sub>6</sub> = 235.043930 + 6 <m:math><m:mo>×</m:mo></m:math> 18.998403 = 349.034348 g/mol, and the molar mass of <sup>238</sup>UF<sub>6</sub> = 238.050788 + 6 <m:math><m:mo>×</m:mo></m:math> 18.998403 = 352.041206 g/mol.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm4750352">
+<problem id="fs-idm14966576">
+<para id="fs-idp235733152">Calculate the relative rate of diffusion of <sup>1</sup>H<sub>2</sub> (molar mass 2.0 g/mol) compared to that of <sup>2</sup>H<sub>2</sub> (molar mass 4.0 g/mol) and the relative rate of diffusion of O<sub>2</sub> (molar mass 32 g/mol) compared to that of O<sub>3</sub> (molar mass 48 g/mol).</para>
+</problem>
+<solution id="fs-idp122407888">
+<para id="fs-idp39170992">1.4; 1.2</para>
+</solution>
+</exercise>
+<exercise id="fs-idm32668896">
+<problem id="fs-idp36129392">
+<para id="fs-idp46648992">A gas of unknown identity diffuses at a rate of 83.3 mL/s in a diffusion apparatus in which carbon dioxide diffuses at the rate of 102 mL/s. Calculate the molecular mass of the unknown gas.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp1096352">
+<problem id="fs-idp83411760">
+<para id="fs-idm45552304">When two cotton plugs, one moistened with ammonia and the other with hydrochloric acid, are simultaneously inserted into opposite ends of a glass tube that is 87.0 cm long, a white ring of NH<sub>4</sub>Cl forms where gaseous NH<sub>3</sub> and gaseous HCl first come into contact. 
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>HCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mtext>Cl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math> At approximately what distance from the ammonia moistened plug does this occur? (Hint: Calculate the rates of diffusion for both NH<sub>3</sub> and HCl, and find out how much faster NH<sub>3</sub> diffuses than HCl.) </para></problem>
+<solution id="fs-idp38149616">
+<para id="fs-idp56783984">51.7 cm</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp133388272"><term>diffusion</term><meaning id="fs-idp223430784">movement of an atom or molecule from a region of relatively high concentration to one of relatively low concentration (discussed in this chapter with regard to gaseous species, but applicable to species in any phase)</meaning></definition>
+<definition id="fs-idp39360864"><term>effusion</term><meaning id="fs-idp64133728">transfer of gaseous atoms or molecules from a container to a vacuum through very small openings</meaning></definition>
+<definition id="fs-idp257364480"><term>Graham’s law of effusion</term><meaning id="fs-idm13770416">rates of diffusion and effusion of gases are inversely proportional to the square roots of their molecular masses</meaning></definition>
+<definition id="fs-idp132026496"><term>mean free path</term><meaning id="fs-idp40979888">average distance a molecule travels between collisions</meaning></definition>
+<definition id="fs-idp43914864"><term>rate of diffusion</term><meaning id="fs-idp39679360">amount of gas diffusing through a given area over a given time</meaning></definition>
+</glossary>
+</document>

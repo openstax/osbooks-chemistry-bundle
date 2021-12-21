@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61753</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Chemical Reaction Rates</item>
+<item>Factors Affecting Reaction Rates</item>
+<item>Rate Laws</item>
+<item>Integrated Rate Laws</item>
+<item>Collision Theory</item>
+<item>Reaction Mechanisms</item>
+<item>Catalysis</item>
+</list></md:abstract>
+  <md:uuid>37769ab3-d8e7-4035-969c-46e9e57e0c36</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_12_00_Ectotherm" class="splash">
+<media id="fs-idm5395072" alt="A photograph shows the head and part of the body of a lizard on a rock in a well-lit area.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_00_Ectotherm.jpg"/>
+</media>
+<caption>An agama lizard basks in the sun. As its body warms, the chemical reactions of its metabolism speed up.</caption>
+</figure>
+<para id="fs-idp115543984">The lizard in the photograph is not simply enjoying the sunshine or working on its tan. The heat from the sun’s rays is critical to the lizard’s survival. A warm lizard can move faster than a cold one because the chemical reactions that allow its muscles to move occur more rapidly at higher temperatures. In the absence of warmth, the lizard is an easy meal for predators.</para>
+<para id="eip-131">We have now developed a relatively complete picture of chemical and physical processes, encompassing the contributions of energy (enthalpy changes) and entropy (order and disorder). Each ultimately contributes to the determination of reaction spontaneity – that is, whether or not a process will take place spontaneously. We have also looked at the important concept of zero free energy change, where a system comes to equilibrium. What we have not yet examined is whether a process reaches equilibrium quickly or slowly.
+</para><para id="eip-894">Consider, for example, the advertising slogan “Diamonds are forever.” Are they? A look at the table of enthalpy and entropy values tells us the thermodynamically stable form of carbon is actually graphite, not diamond. Further, a calculation shows us that the conversion of diamond into graphite is indeed a spontaneous process – the G value is negative. So why do we not see diamond spontaneously forming graphite? The answer is found in the topic of this chapter, chemical kinetics, which involves the rate at which reactions take place. It turns out that while the conversion of diamond into graphite is a spontaneous process, it occurs so slowly that we do not observe the conversion taking place on any time scale we know.
+</para><para id="fs-idp260947472">The study of chemical kinetics concerns the second and third questions—that is, the rate at which a reaction yields products and the molecular-scale means by which a reaction occurs. In this chapter, we will examine the factors that influence the rates of chemical reactions, the mechanisms by which reactions proceed, and the quantitative techniques used to determine and describe the rate at which reactions occur.</para>
+</content>
+</document>

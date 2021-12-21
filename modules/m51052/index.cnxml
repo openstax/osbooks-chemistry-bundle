@@ -1,0 +1,647 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Strengths of Ionic and Covalent Bonds</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51052</md:content-id>
+  <md:title>Strengths of Ionic and Covalent Bonds</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the energetics of covalent and ionic bond formation and breakage</item>
+<item>Use the Born-Haber cycle to compute lattice energies for ionic compounds</item>
+<item>Use average covalent bond energies to estimate enthalpies of reaction</item>
+</list></md:abstract>
+  <md:uuid>117cab46-9701-42a0-855c-c2ef2a6db43c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp176876736">A bond’s strength describes how strongly each atom is joined to another atom, and therefore how much energy is required to break the bond between the two atoms. In this section, you will learn about the bond strength of covalent bonds, and then compare that to the strength of ionic bonds, which is related to the lattice energy of a compound.</para>
+<section id="fs-idp66065152">
+<title>Bond Strength: Covalent Bonds</title>
+<para id="fs-idm12470240">Stable molecules exist because covalent bonds hold the atoms together. We measure the strength of a covalent bond by the energy required to break it, that is, the energy necessary to separate the bonded atoms. Separating any pair of bonded atoms requires energy (see <link target-id="CNX_Chem_07_02_Morse" document="m51048"/>). The stronger a bond, the greater the energy required to break it.</para>
+<para id="fs-idp84340368">The energy required to break a specific covalent bond in one mole of gaseous molecules is called the bond energy or the bond dissociation energy. The bond energy for a diatomic molecule, D<sub>X–Y</sub>, is defined as the standard enthalpy change for the endothermic reaction:</para>
+<equation id="fs-idm36464112"><m:math><m:mrow><m:mtext>XY</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>X</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Y</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="3em"/><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>X−Y</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm12974112">For example, the bond energy of the pure covalent H–H bond, D<sub>H–H</sub>, is 436 kJ per mole of H–H bonds broken:</para>
+<equation id="fs-idp119487888"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="3em"/><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>H−H</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mn>436</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp244347920">Molecules with three or more atoms have two or more bonds. The sum of all bond energies in such a molecule is equal to the standard enthalpy change for the endothermic reaction that breaks all the bonds in the molecule. For example, the sum of the four C–H bond energies in CH<sub>4</sub>, 1660 kJ, is equal to the standard enthalpy change of the reaction:</para>
+<media id="fs-idp286503296" alt="A reaction is shown with Lewis structures. The first structure shows a carbon atom single bonded to four hydrogen atoms with the symbol, “( g )” written next to it. A right-facing arrow points to the letter “C” and the symbol “( g ),” which is followed by a plus sign. Next is the number 4, the letter “H” and the symbol, “( g ).” To the right of this equation is another equation: capital delta H superscript degree symbol equals 1660 k J.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_CH4bond_img.jpg"/>
+</media>
+<para id="fs-idp85707472">The average C–H bond energy, D<sub>C–H</sub>, is 1660/4 = 415 kJ/mol because there are four moles of C–H bonds broken per mole of the reaction. Although the four C–H bonds are equivalent in the original molecule, they do not each require the same energy to break; once the first bond is broken (which requires 439 kJ/mol), the remaining bonds are easier to break. The 415 kJ/mol value is the average, not the exact value required to break any one bond.</para>
+<para id="fs-idp26225392">The strength of a bond between two atoms increases as the number of electron pairs in the bond increases. Generally, as the bond strength increases, the bond length decreases. Thus, we find that triple bonds are stronger and shorter than double bonds between the same two atoms; likewise, double bonds are stronger and shorter than single bonds between the same two atoms. Average bond energies for some common bonds appear in <link target-id="fs-idp13638832"/>, and a comparison of bond lengths and bond strengths for some common bonds appears in <link target-id="fs-idm44464336"/>. When one atom bonds to various atoms in a group, the bond strength typically decreases as we move down the group. For example, C–F is 439 kJ/mol, C–Cl is 330 kJ/mol, and C–Br is 275 kJ/mol.</para>
+<table id="fs-idp13638832" summary="This table has six columns and twenty-four rows. The first row is a header row that labels the columns: “Bond,” “Bond Energy,” “Bond,” “Bond Energy,” “Bond,” and, “Bond Energy.” Under the first “Bond” column are the values: H bond to H with a single bond; H bonds to C with a single bond; H bonds to N with a single bond; H bonds to O with a single bond; H bonds to F with a single bond; H bonds to S i with a single bond; H bonds to P with a single bond; H bonds to S with a single bond; H bonds to C l with a single bond; H bonds to B r with a single bond; H bonds to I with a single bond; C bonds to C with a single bond; C bonds to C with a double bond; C bonds to C with a triple bond; C bonds to N with a single bond; C bonds to N with a double bond; C bonds to N with a triple bond; C bonds to O with a single bond; C bonds to O with a double bond; C bonds to O with a triple bond; C bonds to F with a single bond; C bonds to S i with a single bond; and C bonds to P with a single bond. Under the first “Bond Energy” column are the values: 436; 415; 390; 464; 569; 395; 320; 340; 432; 370; 295; 345; 611; 837; 290; 615; 891; 350; 741; 1080; 439; 360; and 265. Under the second “Bond” column are the values: C bonds to S with a single bond; C bonds to C l with a single bond; C bonds to B r with a single bond; C bonds to I with a single bond; N bonds to N with a single bond; N bonds to N with a double bond; N bonds to N with a triple bond; N bonds to O with a single bond; N bonds to F with a single bond; N bonds to P with a single bond; N bonds to C l with a single bond; N bonds to B r with a single bond; O bonds to O with a single bond; O bonds to O with a double bond; O bonds to F with a single bond; O bonds to S i with a single bond; O bonds to P with a single bond; O bonds to C l with a single bond; O bonds to I with a single bond; F bonds to F with a single bond; F bonds to S i with a single bond; F bonds to P with a single bond; and F bonds to S with a single bond. Under the second “Bond Energy” column are the values: 260; 330; 275; 240; 160; 418; 946; 200; 270; 210; 200; 245; 140; 498; 160; 370; 350; 205; 200; 160; 540; 489; and 285. Under the third “Bond” column are the values: F bonds to C l with a single bond; F bonds to B r with a single bond; S i bonds to S i with a single bond; S i bonds to P with a single bond; S i bonds to S with a single bond; S i bonds to C l with a single bond; S i bonds to B r with a single bond; S i bonds to I with a single bond; P bonds to P with a single bond; P bonds to S with a single bond; P bonds to C l with a single bond; P bonds to B r with a single bond; P bonds to I with a single bond; S bonds to S with a single bond; S bonds to C l with a single bond; S bonds to B r with a single bond; C l bonds to C l with a single bond; C l bonds to B r with a single bond; C l bonds to I with a single bond; B r bonds to B r with a single bond; B r bonds to I with a single bond; I bonds to I with a single bond; and the last cell in the column is empty. Under the third “Bond Energy” column are the values: 255; 235; 230; 215; 225; 359; 290; 215; 215; 230; 330; 270; 215; 215; 250; 215; 243; 220; 210; 190; 180; 150; and the last cell in the column is empty." class="span-all">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c8" align="center">Bond Energies (kJ/mol)</entry>
+</row>
+<row valign="top">
+<entry align="left">Bond</entry>
+<entry align="left">Bond Energy</entry>
+<entry align="left"/>
+<entry align="left">Bond</entry>
+<entry align="left">Bond Energy</entry>
+<entry align="left"/>
+<entry align="left">Bond</entry>
+<entry align="left">Bond Energy</entry></row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">H–H</entry>
+<entry align="left">436</entry>
+<entry align="left" morerows="22"/>
+<entry align="left">C–S</entry>
+<entry align="left">260</entry>
+<entry align="left" morerows="22"/>
+<entry align="left">F–Cl</entry>
+<entry align="left">255</entry></row>
+<row valign="top">
+<entry align="left">H–C</entry>
+<entry align="left">415</entry>
+<entry align="left">C–Cl</entry>
+<entry align="left">330</entry>
+<entry align="left">F–Br</entry>
+<entry align="left">235</entry></row>
+<row valign="top">
+<entry align="left">H–N</entry>
+<entry align="left">390</entry>
+<entry align="left">C–Br</entry>
+<entry align="left">275</entry>
+<entry align="left">Si–Si</entry>
+<entry align="left">230</entry></row>
+<row valign="top">
+<entry align="left">H–O</entry>
+<entry align="left">464</entry>
+<entry align="left">C–I</entry>
+<entry align="left">240</entry>
+<entry align="left">Si–P</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left">H–F</entry>
+<entry align="left">569</entry>
+<entry align="left">N–N</entry>
+<entry align="left">160</entry>
+<entry align="left">Si–S</entry>
+<entry align="left">225</entry></row>
+<row valign="top">
+<entry align="left">H–Si</entry>
+<entry align="left">395</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>N</m:mtext><m:mo>=</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">418</entry>
+<entry align="left">Si–Cl</entry>
+<entry align="left">359</entry></row>
+<row valign="top">
+<entry align="left">H–P</entry>
+<entry align="left">320</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>N</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">946</entry>
+<entry align="left">Si–Br</entry>
+<entry align="left">290</entry></row>
+<row valign="top">
+<entry align="left">H–S</entry>
+<entry align="left">340</entry>
+<entry align="left">N–O</entry>
+<entry align="left">200</entry>
+<entry align="left">Si–I</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left">H–Cl</entry>
+<entry align="left">432</entry>
+<entry align="left">N–F</entry>
+<entry align="left">270</entry>
+<entry align="left">P–P</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left">H–Br</entry>
+<entry align="left">370</entry>
+<entry align="left">N–P</entry>
+<entry align="left">210</entry>
+<entry align="left">P–S</entry>
+<entry align="left">230</entry></row>
+<row valign="top">
+<entry align="left">H–I</entry>
+<entry align="left">295</entry>
+<entry align="left">N–Cl</entry>
+<entry align="left">200</entry>
+<entry align="left">P–Cl</entry>
+<entry align="left">330</entry></row>
+<row valign="top">
+<entry align="left">C–C</entry>
+<entry align="left">345</entry>
+<entry align="left">N–Br</entry>
+<entry align="left">245</entry>
+<entry align="left">P–Br</entry>
+<entry align="left">270</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">611</entry>
+<entry align="left">O–O</entry>
+<entry align="left">140</entry>
+<entry align="left">P–I</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">837</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>O</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">498</entry>
+<entry align="left">S–S</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left">C–N</entry>
+<entry align="left">290</entry>
+<entry align="left">O–F</entry>
+<entry align="left">160</entry>
+<entry align="left">S–Cl</entry>
+<entry align="left">250</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">615</entry>
+<entry align="left">O–Si</entry>
+<entry align="left">370</entry>
+<entry align="left">S–Br</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">891</entry>
+<entry align="left">O–P</entry>
+<entry align="left">350</entry>
+<entry align="left">Cl–Cl</entry>
+<entry align="left">243</entry></row>
+<row valign="top">
+<entry align="left">C–O</entry>
+<entry align="left">350</entry>
+<entry align="left">O–Cl</entry>
+<entry align="left">205</entry>
+<entry align="left">Cl–Br</entry>
+<entry align="left">220</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">741</entry>
+<entry align="left">O–I</entry>
+<entry align="left">200</entry>
+<entry align="left">Cl–I</entry>
+<entry align="left">210</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1080</entry>
+<entry align="left">F–F</entry>
+<entry align="left">160</entry>
+<entry align="left">Br–Br</entry>
+<entry align="left">190</entry></row>
+<row valign="top">
+<entry align="left">C–F</entry>
+<entry align="left">439</entry>
+<entry align="left">F–Si</entry>
+<entry align="left">540</entry>
+<entry align="left">Br–I</entry>
+<entry align="left">180</entry></row>
+<row valign="top">
+<entry align="left">C–Si</entry>
+<entry align="left">360</entry>
+<entry align="left">F–P</entry>
+<entry align="left">489</entry>
+<entry align="left">I–I</entry>
+<entry align="left">150</entry></row>
+<row valign="top">
+<entry align="left">C–P</entry>
+<entry align="left">265</entry>
+<entry align="left">F–S</entry>
+<entry align="left">285</entry><entry/><entry/></row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-idm44464336" summary="This table has three columns and ten rows. The first row is a header row that labels the columns: “Bond,” “Bond Length in angstroms,” and, “Bond Energy in k J / mol.” Under the column “Bond” are the values: C bonds to C with a single bond; C bonds to C with a double bond; C bonds to C with a triple bond; C bonds to N with a single bond; C bonds to N with a double bond; C bonds to N with a triple bond; C bonds to O with a single bond; C bonds to O with a double bond; and C bonds to O with a triple bond. Under the column “Bond Length in angstroms” are the values: 1.54; 1.34; 1.20; 1.43; 1.38; 1.16; 1.43; 1.23; and 1.13. Under the column “Bond Energy in k J / mol” are the values: 345; 611; 837; 290; 615; 891; 350; 741; and 1080." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Average Bond Lengths and Bond Energies for Some Common Bonds</entry>
+</row>
+<row valign="top">
+<entry align="left">Bond</entry>
+<entry align="left">Bond Length (Å)</entry>
+<entry align="left">Bond Energy (kJ/mol)</entry></row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">C–C</entry>
+<entry align="left">1.54</entry>
+<entry align="left">345</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1.34</entry>
+<entry align="left">611</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1.20</entry>
+<entry align="left">837</entry></row>
+<row valign="top">
+<entry align="left">C–N</entry>
+<entry align="left">1.43</entry>
+<entry align="left">290</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1.38</entry>
+<entry align="left">615</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1.16</entry>
+<entry align="left">891</entry></row>
+<row valign="top">
+<entry align="left">C–O</entry>
+<entry align="left">1.43</entry>
+<entry align="left">350</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1.23</entry>
+<entry align="left">741</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1.13</entry>
+<entry align="left">1080</entry></row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp29959728">We can use bond energies to calculate approximate enthalpy changes for reactions where enthalpies of formation are not available. Calculations of this type will also tell us whether a reaction is exothermic or endothermic. An exothermic reaction (Δ<emphasis effect="italics">H</emphasis> negative, heat produced) results when the bonds in the products are stronger than the bonds in the reactants. An endothermic reaction (Δ<emphasis effect="italics">H</emphasis> positive, heat absorbed) results when the bonds in the products are weaker than those in the reactants.</para>
+<para id="fs-idp234028832">The enthalpy change, Δ<emphasis effect="italics">H</emphasis>, for a chemical reaction is approximately equal to the sum of the energy required to break all bonds in the reactants (energy “in”, positive sign) plus the energy released when all bonds are formed in the products (energy “out,” negative sign). This can be expressed mathematically in the following way:</para>
+<equation id="fs-idm40243760"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:msub><m:mtext>ƩD</m:mtext><m:mrow><m:mtext>bonds broken</m:mtext></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mtext>ƩD</m:mtext><m:mrow><m:mtext>bonds formed</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp118053616">In this expression, the symbol Ʃ means “the sum of” and D represents the bond energy in kilojoules per mole, which is always a positive number. The bond energy is obtained from a table (like <link target-id="fs-idm44464336"/>) and will depend on whether the particular bond is a single, double, or triple bond. Thus, in calculating enthalpies in this manner, it is important that we consider the bonding in all reactants and products. Because D values are typically averages for one type of bond in many different molecules, this calculation provides a rough estimate, not an exact value, for the enthalpy of reaction.</para>
+<para id="fs-idp17129504">Consider the following reaction:</para>
+<equation id="fs-idp51383312"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp77710320">or</para>
+<equation id="fs-idp56299152"><m:math><m:mrow><m:mtext>H–H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Cl–Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>H–Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp201091440">To form two moles of HCl, one mole of H–H bonds and one mole of Cl–Cl bonds must be broken. The energy required to break these bonds is the sum of the bond energy of the H–H bond (436 kJ/mol) and the Cl–Cl bond (243 kJ/mol). During the reaction, two moles of H–Cl bonds are formed (bond energy = 432 kJ/mol), releasing 2 <m:math><m:mo>×</m:mo></m:math> 432 kJ; or 864 kJ. Because the bonds in the products are stronger than those in the reactants, the reaction releases more energy than it consumes:</para>
+<equation id="fs-idp14860448"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mtext>ƩD</m:mtext><m:mrow><m:mtext>bonds broken</m:mtext></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mtext>ƩD</m:mtext><m:mrow><m:mtext>bonds formed</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>H−H</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>Cl−Cl</m:mtext></m:mrow></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>H−Cl</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>436</m:mn><m:mo>+</m:mo><m:mn>243</m:mn></m:mrow><m:mo>]</m:mo></m:mrow><m:mo>−</m:mo><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>432</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−185</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp29639024">This excess energy is released as heat, so the reaction is exothermic. <link class="target-chapter" document="m51221">Appendix G</link> gives a value for the standard molar enthalpy of formation of HCl(g), <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow><m:mo>,</m:mo></m:math> of –92.307 kJ/mol. Twice that value is –184.6 kJ, which agrees well with the answer obtained earlier for the formation of two moles of HCl.</para>
+<example id="fs-idm33428592">
+<para id="fs-idp71590928"><title>Using Bond Energies to Calculate Approximate Enthalpy Changes</title>
+Methanol, CH<sub>3</sub>OH, may be an excellent alternative fuel. The high-temperature reaction of steam and carbon produces a mixture of the gases carbon monoxide, CO, and hydrogen, H<sub>2</sub>, from which methanol can be produced. Using the bond energies in <link target-id="fs-idm44464336"/>, calculate the approximate enthalpy change, Δ<emphasis effect="italics">H</emphasis>, for the reaction here:</para>
+<equation id="fs-idp93467344"><m:math><m:mrow><m:mtext>CO</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp41458304"><title>Solution</title>First, we need to write the Lewis structures of the reactants and the products:</para>
+<media id="fs-idp525280" alt="A set of Lewis diagrams show a chemical reaction. The first structure shows a carbon atom with a lone pair of electrons triple bonded to an oxygen with a lone pair of electrons. To the right of this structure is a plus sign, then the number 2 followed by a hydrogen atom single bonded to a hydrogen atom. To the right of this structure is a right-facing arrow followed by a hydrogen atom single bonded to a carbon atom that is single bonded to two hydrogen atoms and an oxygen atom with two lone pairs of electrons. The oxygen atom is also single bonded to a hydrogen atom.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_CH3OHLew_img.jpg"/>
+</media>
+<para id="fs-idp202067232">From this, we see that Δ<emphasis effect="italics">H</emphasis> for this reaction involves the energy required to break a C–O triple bond and two H–H single bonds, as well as the energy produced by the formation of three C–H single bonds, a C–O single bond, and an O–H single bond. We can express this as follows:</para>
+<equation id="fs-idp76020096"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mrow><m:mtext>ƩD</m:mtext></m:mrow><m:mrow><m:mtext>bonds broken</m:mtext></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mrow><m:mtext>ƩD</m:mtext></m:mrow><m:mrow><m:mtext>bonds formed</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>H−H</m:mtext></m:mrow></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>C−H</m:mtext></m:mrow></m:msub></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>C−O</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>O−H</m:mtext></m:mrow></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp53734416">Using the bond energy values in <link target-id="fs-idm44464336"/>, we obtain:</para>
+<equation id="fs-idm103164880"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>1080</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>436</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>415</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>350</m:mn><m:mo>+</m:mo><m:mn>464</m:mn></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo><m:mn>−107</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp126256512">We can compare this value to the value calculated based on <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> data from Appendix G:</para>
+<equation id="fs-idp158903840"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mtext>CO</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mo>−</m:mo><m:mn>201.0</m:mn></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>−110.52</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0</m:mn></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo><m:mn>−90.5</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp56832128">Note that there is a fairly significant gap between the values calculated using the two different methods. This occurs because D values are the <emphasis effect="italics">average</emphasis> of different bond strengths; therefore, they often give only rough agreement with other data.</para>
+<para id="fs-idp36454672"><title>Check Your Learning</title>
+Ethyl alcohol, CH<sub>3</sub>CH<sub>2</sub>OH, was one of the first organic chemicals deliberately synthesized by humans. It has many uses in industry, and it is the alcohol contained in alcoholic beverages. It can be obtained by the fermentation of sugar or synthesized by the hydration of ethylene in the following reaction:</para>
+<media id="fs-idp144672" alt="A set of Lewis structures show a chemical reaction. The first structure shows two carbon atoms that are double bonded together and are each single bonded to two hydrogen atoms. This structure is followed by a plus sign, then an oxygen atom with two lone pairs of electrons single bonded to two hydrogen atoms. A right-facing arrow leads to a carbon atom single bonded to three hydrogen atoms and a second carbon atom. The second carbon atom is single bonded to two hydrogen atoms and an oxygen atom with two lone pairs of electrons. The oxygen atom is single bonded to a hydrogen atom as well.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_Ethanol_img.jpg"/>
+</media>
+<para id="fs-idp27645248">Using the bond energies in <link target-id="fs-idm44464336"/>, calculate an approximate enthalpy change, Δ<emphasis effect="italics">H</emphasis>, for this reaction.</para>
+<note id="fs-idp88406224">
+<title>Answer:</title>
+<para id="fs-idp24314032">–35 kJ</para>
+</note>
+</example>
+</section>
+<section id="fs-idm34679504">
+<title>Ionic Bond Strength and Lattice Energy</title>
+<para id="fs-idm57606496">An ionic compound is stable because of the electrostatic attraction between its positive and negative ions. The lattice energy of a compound is a measure of the strength of this attraction. The <term>lattice energy (Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub>)</term> of an ionic compound is defined as the energy required to separate one mole of the solid into its component gaseous ions. For the ionic solid MX, the lattice energy is the enthalpy change of the process:</para>
+<equation id="fs-idp69066736"><m:math><m:mrow><m:mtext>MX</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>M</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>X</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>lattice</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm45000976">Note that we are using the convention where the ionic solid is separated into ions, so our lattice energies will be <emphasis effect="italics">endothermic</emphasis> (positive values). Some texts use the equivalent but opposite convention, defining lattice energy as the energy released when separate ions combine to form a lattice and giving negative (exothermic) values. Thus, if you are looking up lattice energies in another reference, be certain to check which definition is being used. In both cases, a larger magnitude for lattice energy indicates a more stable ionic compound. For sodium chloride, Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub> = 769 kJ. Thus, it requires 769 kJ to separate one mole of solid NaCl into gaseous Na<sup>+</sup> and Cl<sup>–</sup> ions. When one mole each of gaseous Na<sup>+</sup> and Cl<sup>–</sup> ions form solid NaCl, 769 kJ of heat is released.</para>
+<para id="fs-idp17453088">The lattice energy Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub> of an ionic crystal can be expressed by the following equation (derived from Coulomb’s law, governing the forces between electric charges):</para>
+<equation id="fs-idm6917696"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>lattice</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>C</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mtext>Z</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mtext>Z</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:msub><m:mtext>R</m:mtext><m:mtext>o</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp14812032">in which C is a constant that depends on the type of crystal structure; Z<sup>+</sup> and Z<sup>–</sup> are the charges on the ions; and R<sub>o</sub> is the interionic distance (the sum of the radii of the positive and negative ions). Thus, the lattice energy of an ionic crystal increases rapidly as the charges of the ions increase and the sizes of the ions decrease. When all other parameters are kept constant, doubling the charge of both the cation and anion quadruples the lattice energy. For example, the lattice energy of LiF (Z<sup>+</sup> and Z<sup>–</sup> = 1) is 1023 kJ/mol, whereas that of MgO (Z<sup>+</sup> and Z<sup>–</sup> = 2) is 3900 kJ/mol (R<sub>o</sub> is nearly the same—about 200 pm for both compounds).</para>
+<para id="fs-idp119064064">Different interatomic distances produce different lattice energies. For example, we can compare the lattice energy of MgF<sub>2</sub> (2957 kJ/mol) to that of MgI<sub>2</sub> (2327 kJ/mol) to observe the effect on lattice energy of the smaller ionic size of F<sup>–</sup> as compared to I<sup>–</sup>.</para>
+<example id="fs-idp16649648">
+<para id="fs-idm39273856"><title>Lattice Energy Comparisons</title>
+The precious gem ruby is aluminum oxide, Al<sub>2</sub>O<sub>3</sub>, containing traces of Cr<sup>3+</sup>. The compound Al<sub>2</sub>Se<sub>3</sub> is used in the fabrication of some semiconductor devices. Which has the larger lattice energy, Al<sub>2</sub>O<sub>3</sub> or Al<sub>2</sub>Se<sub>3</sub>?</para>
+<para id="fs-idm3251216"><title>Solution</title>
+In these two ionic compounds, the charges Z<sup>+</sup> and Z<sup>–</sup> are the same, so the difference in lattice energy will depend upon R<sub>o</sub>. The O<sup>2–</sup> ion is smaller than the Se<sup>2–</sup> ion. Thus, Al<sub>2</sub>O<sub>3</sub> would have a shorter interionic distance than Al<sub>2</sub>Se<sub>3</sub>, and Al<sub>2</sub>O<sub>3</sub> would have the larger lattice energy.</para>
+<para id="fs-idp49595360"><title>Check Your Learning</title>
+Zinc oxide, ZnO, is a very effective sunscreen. How would the lattice energy of ZnO compare to that of NaCl?</para>
+<note id="fs-idp176836208">
+<title>Answer:</title>
+<para id="fs-idp821600">ZnO would have the larger lattice energy because the Z values of both the cation and the anion in ZnO are greater, and the interionic distance of ZnO is smaller than that of NaCl.</para>
+</note>
+</example>
+</section>
+<section id="fs-idp112167568"><title>The Born-Haber Cycle</title><para id="fs-idp51725632">It is not possible to measure lattice energies directly. However, the lattice energy can be calculated using the equation given in the previous section or by using a thermochemical cycle. The <term>Born-Haber cycle</term> is an application of Hess’s law that breaks down the formation of an ionic solid into a series of individual steps:</para>
+<list id="fs-idp77725760" list-type="bulleted" bullet-style="bullet">
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> the standard enthalpy of formation of the compound</item>
+<item><emphasis effect="italics">IE</emphasis>, the ionization energy of the metal</item>
+<item><emphasis effect="italics">EA</emphasis>, the electron affinity of the nonmetal</item>
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> the enthalpy of sublimation of the metal</item>
+<item><emphasis effect="italics">D</emphasis>, the bond dissociation energy of the nonmetal</item>
+<item>Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub>, the lattice energy of the compound</item>
+</list>
+<para id="fs-idm6705632"><link target-id="CNX_Chem_07_05_BornHaber"/> diagrams the Born-Haber cycle for the formation of solid cesium fluoride.</para>
+<figure id="CNX_Chem_07_05_BornHaber">
+<media id="fs-idp9559440" alt="A diagram is shown. An upward facing arrow is drawn to the far left of the chart and is labeled “H increasing.” A horizontal line is drawn at the bottom of the chart. A downward-facing, vertical arrow to the left side of this line is labeled, “Overall change.” Beside this arrow is another label, “capital delta H subscript f, equals negative 553.5 k J per mol, ( Enthalpy of formation ).” Three horizontal lines, one above the other, and all above the bottom line, are labeled, from bottom to top, as: “C s ( s ), plus sign, one half F subscript 2, ( g ),” “C s ( g ), plus sign, one half F subscript 2, ( g ),” and “C s, superscript positive sign, ( g ), plus sign, one half F subscript 2, ( g ).” Each of these lines is connected by an upward-facing vertical arrow. Each arrow is labeled, “capital delta H subscript 1, equals 76.5 k J per mol, ( Enthalpy of sublimation ),” “capital delta H subscript 2, equals 375.7 k J per mol, ( ionization energy ),” and “capital delta H subscript 3 equals 79.4 k J / mol ( one half dissociation energy ).” Another horizontal line is drawn in the center top portion of the diagram and is labeled “C s, superscript positive sign, ( g ), plus sign, F, ( g ).” There is one more horizontal line drawn to the right of the overall diagram and located halfway down the image. An arrow connects the top line to this line and is labeled, “capital delta H equals negative 328.2 k J / mol ( electron affinity ).” The line is labeled, “C s superscript positive sign ( g ) plus F superscript negative sign ( g ).” The arrow connecting this line to the bottom line is labeled, “negative capital delta H subscript lattice equals negative 756.9 k J / mol.” The arrow points to a label on the bottom line which reads, “C s F ( s ).”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_BornHaber.jpg"/>
+</media>
+<caption>The Born-Haber cycle shows the relative energies of each step involved in the formation of an ionic solid from the necessary elements in their reference states.</caption>
+</figure>
+<para id="fs-idp53345328">We begin with the elements in their most common states, Cs(<emphasis effect="italics">s</emphasis>) and F<sub>2</sub>(<emphasis effect="italics">g</emphasis>). The <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> represents the conversion of solid cesium into a gas, and then the ionization energy converts the gaseous cesium atoms into cations. In the next step, we account for the energy required to break the F–F bond to produce fluorine atoms. Converting one mole of fluorine atoms into fluoride ions is an exothermic process, so this step gives off energy (the electron affinity) and is shown as decreasing along the <emphasis effect="italics">y</emphasis>-axis. We now have one mole of Cs cations and one mole of F anions. These ions combine to produce solid cesium fluoride. The enthalpy change in this step is the negative of the lattice energy, so it is also an exothermic quantity. The total energy involved in this conversion is equal to the experimentally determined enthalpy of formation, <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> of the compound from its elements. In this case, the overall change is exothermic.</para>
+<para id="fs-idm23453808">Hess’s law can also be used to show the relationship between the enthalpies of the individual steps and the enthalpy of formation. <link target-id="fs-idm33829552"/> shows this for fluoride, CsF.</para>
+<table id="fs-idm33829552" summary="This table has two columns and six rows. The first row is labeled, “Enthalpy of sublimation of C s ( s )” and the enthalpy reaction is C s ( s ) yields C s ( g ). Beside this equation is capital delta H which equals capital delta H subscript s superscript degree symbol which also equals 76.5 k J. The second row is labeled, “One-half of the bond energy of C l subscript 2.” The equation for this is one half C l subscript 2 ( g ) yields C l ( g ). Beside this equation is capital delta H equals one half D which also equals 122 k J. The third row is labeled, “Ionization Energy of N a ( g ).” The equation for the ionization energy of N a ( g ) is N a ( g ) yields N a superscript positive sign ( g ) plus lower case e superscript negative sign. Beside this equation is capital delta H equals I E which also equals 496 k J. The fourth row is labeled, “Negative of the electron affinity of C l.” The equation for this is C l ( g ) plus lowercase e superscript negative sign yields C l superscript negative sign ( g ). Beside this equation is capital delta H equals negative E A which also equals negative 368 k J. The fifth row is labeled “Negative of the lattice energy of N a C l ( s ).” The equation for this is N a superscript positive sign ( g ) plus C l superscript negative sign ( g ) yields N a C l ( s ). Beside this equation is capital delta H equals negative capital delta H subscript lattice which also equals unknown. The sixth and final row is labeled, “Enthalpy of formation of N a C l ( s ), add steps 1 - 5.” The equation for this is capital delta H equals capital delta H subscript f superscript degree symbol which also equals capital delta H subscript s superscript degree symbol plus one-half D plus I E plus negative E A plus negative capital delta H subscript lattice. Underneath that equation, is another which is N a ( s ) plus one-half C l subscript 2 ( g ) yields N a C l ( s ) which equals negative 411 k J." class="column-header"><label/>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="middle">
+<entry align="left">Enthalpy of sublimation of Cs(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Cs</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cs</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mn>76.5</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">One-half of the bond energy of F<sub>2</sub></entry>
+<entry align="left"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>F</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>F</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mi>D</m:mi><m:mo>=</m:mo><m:mn>79.4</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ionization energy of Cs(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Cs</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cs</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mi>I</m:mi><m:mi>E</m:mi><m:mo>=</m:mo><m:mn>375.7</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">Negative of the electron affinity of F</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>F</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>F</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mi>E</m:mi><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>−328.2</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">Negative of the lattice energy of CsF(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cs</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>F</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CsF</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>−Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>lattice</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mo>?</m:mo></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">Enthalpy of formation of CsF(<emphasis effect="italics">s</emphasis>), add steps 1–5</entry>
+<entry align="left"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>f</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mi>D</m:mi><m:mo>+</m:mo><m:mi>I</m:mi><m:mi>E</m:mi><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mo>−</m:mo><m:mi>E</m:mi><m:mi>A</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mo>−</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>lattice</m:mtext></m:mrow></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Cs</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CsF</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></entry>
+<entry align="left"><m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>−553.5</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+<para id="fs-idp28364752">Thus, the lattice energy can be calculated from other values. For cesium fluoride, using this data, the lattice energy is:</para>
+<equation id="fs-idp37818096"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>lattice</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>553.5</m:mn><m:mo>+</m:mo><m:mn>76.5</m:mn><m:mo>+</m:mo><m:mn>79.4</m:mn><m:mo>+</m:mo><m:mn>375.7</m:mn><m:mo>+</m:mo><m:mn>328.2</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>kJ/mol</m:mtext><m:mo>=</m:mo><m:mn>1413.3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm78151632">The Born-Haber cycle may also be used to calculate any one of the other quantities in the equation for lattice energy, provided that the remainder is known. For example, if the relevant enthalpy of sublimation <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> ionization energy (IE), bond dissociation enthalpy (D), lattice energy Δ<emphasis effect="italics">H</emphasis><sub>lattice,</sub> and standard enthalpy of formation <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> are known, the Born-Haber cycle can be used to determine the electron affinity of an atom.</para>
+<para id="fs-idm10039728">Lattice energies calculated for ionic compounds are typically much higher than bond dissociation energies measured for covalent bonds. Whereas lattice energies typically fall in the range of 600–4000 kJ/mol (some even higher), covalent bond dissociation energies are typically between 150–400 kJ/mol for single bonds. Keep in mind, however, that these are not directly comparable values. For ionic compounds, lattice energies are associated with many interactions, as cations and anions pack together in an extended lattice. For covalent bonds, the bond dissociation energy is associated with the interaction of just two atoms.</para>
+</section><section id="fs-idp234492208" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm21693280">The strength of a covalent bond is measured by its bond dissociation energy, that is, the amount of energy required to break that particular bond in a mole of molecules. Multiple bonds are stronger than single bonds between the same atoms. The enthalpy of a reaction can be estimated based on the energy input required to break bonds and the energy released when new bonds are formed. For ionic bonds, the lattice energy is the energy required to separate one mole of a compound into its gas phase ions. Lattice energy increases for ions with higher charges and shorter distances between ions. Lattice energies are often calculated using the Born-Haber cycle, a thermochemical cycle including all of the energetic steps involved in converting elements into an ionic compound.</para>
+</section>
+<section id="fs-idm37663600" class="key-equations">
+<title>Key Equations</title>
+<list id="fs-idp25406976" list-type="bulleted" bullet-style="bullet">
+<item>Bond energy for a diatomic molecule: <m:math><m:mrow><m:mtext>XY</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>X</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Y</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="3em"/><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>X–Y</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext></m:mrow></m:math></item>
+<item>Enthalpy change: Δ<emphasis effect="italics">H</emphasis> = ƩD<sub>bonds broken</sub> – ƩD<sub>bonds formed</sub></item>
+<item>Lattice energy for a solid MX: <m:math><m:mrow><m:mtext>MX</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>M</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>X</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>lattice</m:mtext></m:mrow></m:msub></m:mrow></m:math></item>
+<item>Lattice energy for an ionic crystal: <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>lattice</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>C</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mtext>Z</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mtext>Z</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:msub><m:mtext>R</m:mtext><m:mtext>o</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:math></item>
+</list>
+</section>
+<section id="fs-idp75946800" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp18527664">
+<problem id="fs-idm31250240">
+<para id="fs-idp75695024">Which bond in each of the following pairs of bonds is the strongest?</para>
+<para id="fs-idp174181168">(a) C–C or <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp191457408">(b) C–N or <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm37995600">(c)<m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:math> or <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp19512320">(d) H–F or H–Cl</para>
+<para id="fs-idm2333776">(e) C–H or O–H</para>
+<para id="fs-idp120232048">(f) C–N or C–O</para>
+</problem>
+</exercise>
+<exercise id="fs-idp16780032">
+<problem id="fs-idp37241056">
+<para id="fs-idm20426752">Using the bond energies in <link target-id="fs-idp13638832"/>, determine the approximate enthalpy change for each of the following reactions:</para>
+<para id="fs-idp13624240">(a) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>HBr</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-idm48592992">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>I</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>HI</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-idm27033728">(c) <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp55504208">
+<para id="fs-idm5136112">(a) −114 kJ;<newline/>
+(b) 30 kJ;<newline/>
+(c) −1055 kJ</para>
+</solution>
+</exercise>
+<exercise id="fs-idp57429280">
+<problem id="fs-idp48795376">
+<para id="fs-idp240397744">Using the bond energies in <link target-id="fs-idp13638832"/>, determine the approximate enthalpy change for each of the following reactions:</para>
+<para id="fs-idp188770912">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>ClF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp123909120">(b) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp30139536">(c) <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>7</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp28520976">
+<problem id="fs-idp28294656">
+<para id="fs-idp220216256">When a molecule can form two different structures, the structure with the stronger bonds is usually the more stable form. Use bond energies to predict the correct structure of the hydroxylamine molecule:</para>
+<media id="fs-idm6604832" alt="Two Lewis structures are shows with the word “or” written in between them. The left structure shows a nitrogen atom with one lone pair of electrons single bonded to two hydrogen atoms. It is also bonded to an oxygen atom with two lone pairs of electrons. The oxygen atom is bonded to a hydrogen atom. The right structure shows a nitrogen atom single bonded to three hydrogen atoms and an oxygen atom with three lone pairs of electrons.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_Hydroxya_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp16844192">
+<para id="fs-idm52245504">The greater bond energy is in the figure on the left. It is the more stable form.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20766256">
+<problem id="fs-idm6034544">
+<para id="fs-idm22015856">How does the bond energy of HCl(<emphasis effect="italics">g</emphasis>) differ from the standard enthalpy of formation of HCl(<emphasis effect="italics">g</emphasis>)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp19159472">
+<problem id="fs-idm7424064">
+<para id="fs-idp16480976">Using the standard enthalpy of formation data in <link class="target-chapter" document="m51221">Appendix G</link>, show how the standard enthalpy of formation of HCl(<emphasis effect="italics">g</emphasis>) can be used to determine the bond energy.</para>
+</problem>
+<solution id="fs-idp65612672">
+<para id="fs-idm85832672"><newline/><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr><m:mtd><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>1</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>−Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>°</m:mo></m:msubsup></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="8.5em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>2</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>°</m:mo></m:msubsup></m:mtd></m:mtr><m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="8em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>3</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="5.5em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>1</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>2</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>3</m:mn><m:mo>°</m:mo></m:msubsup></m:mtd></m:mtr></m:mtable></m:math><newline/>
+<m:math><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd><m:mrow><m:msub><m:mi>D</m:mi><m:mrow><m:mtext>HCl</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mn>298</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mo stretchy="false">[</m:mo><m:mtext>HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mo stretchy="false">[</m:mo><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mo stretchy="false">[</m:mo><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:mtd></m:mtr><m:mtr/><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−92.307</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>217.97</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>+</m:mo><m:mn>121.3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd><m:mrow/></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mn>431.6</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:math></para></solution>
+</exercise>
+<exercise id="fs-idp65498352">
+<problem id="fs-idp23041056">
+<para id="fs-idp23041312">Using the standard enthalpy of formation data in <link class="target-chapter" document="m51221">Appendix G</link>, calculate the bond energy of the carbon-sulfur double bond in CS<sub>2</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp19660960">
+<problem id="fs-idp16871040">
+<para id="fs-idp16871296">Using the standard enthalpy of formation data in <link class="target-chapter" document="m51221">Appendix G</link>, determine which bond is stronger: the S–F bond in SF<sub>4</sub>(<emphasis effect="italics">g</emphasis>) or in SF<sub>6</sub>(<emphasis effect="italics">g</emphasis>)?</para>
+</problem>
+<solution id="fs-idp19698336">
+<para id="fs-idm223998784">The S–F bond in SF<sub>4</sub> is stronger.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm2894352">
+<problem id="fs-idm2894096">
+<para id="fs-idp88452992">Using the standard enthalpy of formation data in <link class="target-chapter" document="m51221">Appendix G</link>, determine which bond is stronger: the P–Cl bond in PCl<sub>3</sub>(<emphasis effect="italics">g</emphasis>) or in PCl<sub>5</sub>(<emphasis effect="italics">g</emphasis>)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm22310960">
+<problem id="fs-idp16666336">
+<para id="fs-idp16666592">Complete the following Lewis structure by adding bonds (not atoms), and then indicate the longest bond:</para>
+<media id="fs-idp123644096" alt="A Lewis structure is shown that is missing its bonds. It shows a horizontal row of six carbon atoms, equally spaced. Three hydrogen atoms are drawn around the first carbon, two around the second, one above the fifth, and two by the sixth.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_C6H8Lew_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp44310208">
+<para id="fs-idp46735152"> <newline/><media id="fs-idp57448112" alt="A Lewis structure is shown. A carbon atom that is single bonded to three hydrogen atoms is bonded to a second carbon atom. The second carbon atom is single bonded to two hydrogen atoms. The second carbon atom is single bonded to a third carbon atom that is triple bonded to a fourth carbon atom and single bonded to a fifth carbon atom. The fifth carbon atom is single bonded to a hydrogen atom and double bonded to a sixth carbon atom that is single bonded to two hydrogen atoms.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_C6H8ans_img.jpg"/>
+</media><newline/>
+The C–C single bonds are longest.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp57420000">
+<problem id="fs-idp78457408">
+<para id="fs-idp78457664">Use the bond energy to calculate an approximate value of Δ<emphasis effect="italics">H</emphasis> for the following reaction. Which is the more stable form of FNO<sub>2</sub>?</para>
+<media id="fs-idp40889632" alt="Two Lewis structures are shown with a right-facing arrow in between. The left structure shows a nitrogen atom double bonded to an oxygen atom with two lone pairs of electrons. It is also bonded to a fluorine atom and another oxygen atom, each with three lone pairs of electrons. The right structure shows an oxygen atom with two lone pairs of electrons double bonded to a nitrogen atom with one lone pair of electrons. This nitrogen atom is single bonded to an oxygen with two lone pairs of electrons. The oxygen atom is single bonded to a fluorine atom with three lone pairs of electrons.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_FNO2_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idp12625232">
+<problem id="fs-idp15947632">
+<para id="fs-idp15947888">Use principles of atomic structure to answer each of the following:<footnote id="fs-idp7089072">This question is taken from the Chemistry Advanced Placement Examination and is used with the permission of the Educational Testing Service.</footnote></para>
+<para id="fs-idm3330960">(a) The radius of the Ca atom is 197 pm; the radius of the Ca<sup>2+</sup> ion is 99 pm. Account for the difference.</para>
+<para id="fs-idp235052400">(b) The lattice energy of CaO(<emphasis effect="italics">s</emphasis>) is –3460 kJ/mol; the lattice energy of K<sub>2</sub>O is –2240 kJ/mol. Account for the difference.</para>
+<para id="fs-idp15127728">(c) Given these ionization values, explain the difference between Ca and K with regard to their first and second ionization energies.</para>
+<table id="fs-idm30060832" summary="This table has three columns and three rows. The first row is a header row that labels the columns: “Element,” “First Ionization Energy in k J / mol,” and “Second Ionization Energy in k J / mol.” Under the column “Element” are the letters: K and C a. Under the column “First Ionization Energy in k J / mol” are the values: 419 and 590. Under the column “Second Ionization Energy in k J / mol” are the values: 3050 and 1140." class="medium unnumbered">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="left">Element</entry>
+<entry align="left">First Ionization Energy (kJ/mol)</entry>
+<entry align="left">Second Ionization Energy (kJ/mol)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">K</entry>
+<entry align="left">419</entry>
+<entry align="left">3050</entry>
+</row>
+<row valign="top">
+<entry align="left">Ca</entry>
+<entry align="left">590</entry>
+<entry align="left">1140</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm33928080">(d) The first ionization energy of Mg is 738 kJ/mol and that of Al is 578 kJ/mol. Account for this difference.</para>
+</problem>
+<solution id="fs-idp77726624">
+<para id="fs-idp77726880">(a) When two electrons are removed from the valence shell, the Ca radius loses the outermost energy level and reverts to the lower <emphasis effect="italics">n</emphasis> = 3 level, which is much smaller in radius. (b) The +2 charge on calcium pulls the oxygen much closer compared with K, thereby increasing the lattice energy relative to a less charged ion. (c) Removal of the 4<emphasis effect="italics">s</emphasis> electron in Ca requires more energy than removal of the 4<emphasis effect="italics">s</emphasis> electron in K because of the stronger attraction of the nucleus and the extra energy required to break the pairing of the electrons. The second ionization energy for K requires that an electron be removed from a lower energy level, where the attraction is much stronger from the nucleus for the electron. In addition, energy is required to unpair two electrons in a full orbital. For Ca, the second ionization potential requires removing only a lone electron in the exposed outer energy level. (d) In Al, the removed electron is relatively unprotected and unpaired in a <emphasis effect="italics">p</emphasis> orbital. The higher energy for Mg mainly reflects the unpairing of the 2<emphasis effect="italics">s</emphasis> electron.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp46666496">
+<problem id="fs-idp46666752">
+<para id="fs-idp794240">The lattice energy of LiF is 1023 kJ/mol, and the Li–F distance is 200.8 pm. NaF crystallizes in the same structure as LiF but with a Na–F distance of 231 pm. Which of the following values most closely approximates the lattice energy of NaF: 510, 890, 1023, 1175, or 4090 kJ/mol? Explain your choice.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp236067168">
+<problem id="fs-idp236067424">
+<para id="fs-idp236067680">For which of the following substances is the least energy required to convert one mole of the solid into separate ions?</para>
+<para id="fs-idp211527872">(a) MgO</para>
+<para id="fs-idp90299856">(b) SrO</para>
+<para id="fs-idp90300240">(c) KF</para>
+<para id="fs-idp174354464">(d) CsF</para>
+<para id="fs-idp174354848">(e) MgF<sub>2</sub></para>
+</problem>
+<solution id="fs-idm38686272">
+<para id="fs-idm38686016">(d)</para>
+</solution>
+</exercise>
+<exercise id="fs-idm39061296">
+<problem id="fs-idm39061040">
+<para id="fs-idm39060784">The reaction of a metal, M, with a halogen, X<sub>2</sub>, proceeds by an exothermic reaction as indicated by this equation: <m:math><m:mrow><m:mtext>M</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>X</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>MX</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> For each of the following, indicate which option will make the reaction more exothermic. Explain your answers.</para>
+<para id="fs-idp48865984">(a) a large radius vs. a small radius for M<sup>+2</sup></para>
+<para id="fs-idm52945984">(b) a high ionization energy vs. a low ionization energy for M</para>
+<para id="fs-idm37748736">(c) an increasing bond energy for the halogen</para>
+<para id="fs-idm37748352">(d) a decreasing electron affinity for the halogen</para>
+<para id="fs-idm38878512">(e) an increasing size of the anion formed by the halogen</para>
+</problem>
+</exercise>
+<exercise id="fs-idp55219680">
+<problem id="fs-idp10681296">
+<para id="fs-idp10681552">The lattice energy of LiF is 1023 kJ/mol, and the Li–F distance is 201 pm. MgO crystallizes in the same structure as LiF but with a Mg–O distance of 205 pm. Which of the following values most closely approximates the lattice energy of MgO: 256 kJ/mol, 512 kJ/mol, 1023 kJ/mol, 2046 kJ/mol, or 4008 kJ/mol? Explain your choice.</para>
+</problem>
+<solution id="fs-idm27862768">
+<para id="fs-idm27862512">4008 kJ/mol; both ions in MgO have twice the charge of the ions in LiF; the bond length is very similar and both have the same structure; a quadrupling of the energy is expected based on the equation for lattice energy</para>
+</solution>
+</exercise>
+<exercise id="fs-idm27862256">
+<problem id="fs-idp23005264">
+<para id="fs-idp23005520">Which compound in each of the following pairs has the larger lattice energy? Note: Mg<sup>2+</sup> and Li<sup>+</sup> have similar radii; O<sup>2–</sup> and F<sup>–</sup> have similar radii. Explain your choices.</para>
+<para id="fs-idm42318048">(a) MgO or MgSe</para>
+<para id="fs-idp14229536">(b) LiF or MgO</para>
+<para id="fs-idp14229920">(c) Li<sub>2</sub>O or LiCl</para>
+<para id="fs-idm39601280">(d) Li<sub>2</sub>Se or MgO</para>
+</problem>
+</exercise>
+<exercise id="fs-idp29388832">
+<problem id="fs-idp19286528">
+<para id="fs-idp19286784">Which compound in each of the following pairs has the larger lattice energy? Note: Ba<sup>2+</sup> and</para>
+<para id="fs-idp1147008">K<sup>+</sup> have similar radii; S<sup>2–</sup> and Cl<sup>–</sup> have similar radii. Explain your choices.</para>
+<para id="fs-idp26686336">(a) K<sub>2</sub>O or Na<sub>2</sub>O</para>
+<para id="fs-idp81635552">(b) K<sub>2</sub>S or BaS</para>
+<para id="fs-idp55153232">(c) KCl or BaS</para>
+<para id="fs-idp55110752">(d) BaS or BaCl<sub>2</sub></para>
+</problem>
+<solution id="fs-idm42840528">
+<para id="fs-idm42840272">(a) Na<sub>2</sub>O; Na<sup>+</sup> has a smaller radius than K<sup>+</sup>; (b) BaS; Ba has a larger charge than K; (c) BaS; Ba and S have larger charges; (d) BaS; S has a larger charge</para>
+</solution>
+</exercise>
+<exercise id="fs-idp51586816">
+<problem id="fs-idp51587072">
+<para id="fs-idp51587328">Which of the following compounds requires the most energy to convert one mole of the solid into separate ions?</para>
+<para id="fs-idm8325008">(a) MgO</para>
+<para id="fs-idm8324624">(b) SrO</para>
+<para id="fs-idm2086432">(c) KF</para>
+<para id="fs-idm2086048">(d) CsF</para>
+<para id="fs-idp185408896">(e) MgF<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp56209472">
+<problem id="fs-idp56209728">
+<para id="fs-idp16978800">Which of the following compounds requires the most energy to convert one mole of the solid into separate ions?</para>
+<para id="fs-idp16979312">(a) K<sub>2</sub>S</para>
+<para id="fs-idp58281056">(b) K<sub>2</sub>O</para>
+<para id="fs-idp48854512">(c) CaS</para>
+<para id="fs-idp123580176">(d) Cs<sub>2</sub>S</para>
+<para id="fs-idp110456432">(e) CaO</para>
+</problem>
+<solution id="fs-idm33170544">
+<para id="fs-idm33170288">(e)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp15208208">
+<problem id="fs-idp15208464">
+<para id="fs-idp15208720">The lattice energy of KF is 794 kJ/mol, and the interionic distance is 269 pm. The Na–F</para>
+<para id="fs-idp18704480">distance in NaF, which has the same structure as KF, is 231 pm. Which of the following values is the closest approximation of the lattice energy of NaF: 682 kJ/mol, 794 kJ/mol, 924 kJ/mol, 1588 kJ/mol, or 3175 kJ/mol? Explain your answer.</para>
+</problem>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp10319376">
+<term>bond energy</term>
+<meaning id="fs-idm69489984">(also, bond dissociation energy) energy required to break a covalent bond in a gaseous substance</meaning>
+</definition>
+<definition id="fs-idp39711472">
+<term>Born-Haber cycle</term>
+<meaning id="fs-idp39712112">thermochemical cycle relating the various energetic steps involved in the formation of an ionic solid from the relevant elements</meaning>
+</definition>
+<definition id="fs-idp29295648">
+<term>lattice energy (Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub>)</term>
+<meaning id="fs-idm7620624">energy required to separate one mole of an ionic solid into its component gaseous ions</meaning>
+</definition>
+</glossary>
+</document>

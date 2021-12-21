@@ -1,0 +1,289 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Reaction Stoichiometry</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51024</md:content-id>
+  <md:title>Reaction Stoichiometry</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the concept of stoichiometry as it pertains to chemical reactions</item>
+<item>Use balanced chemical equations to derive stoichiometric factors relating amounts of reactants and products</item>
+<item>Perform stoichiometric calculations involving mass, moles, and solution molarity</item>
+</list></md:abstract>
+  <md:uuid>1ceb13be-e7cc-49ac-9386-8c6dffc6e668</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp65325120">A balanced chemical equation provides a great deal of information in a very succinct format. Chemical formulas provide the identities of the reactants and products involved in the chemical change, allowing classification of the reaction. Coefficients provide the relative numbers of these chemical species, allowing a quantitative assessment of the relationships between the amounts of substances consumed and produced by the reaction. These quantitative relationships are known as the reaction’s <term>stoichiometry</term>, a term derived from the Greek words <emphasis effect="italics">stoicheion</emphasis> (meaning “element”) and <emphasis effect="italics">metron</emphasis> (meaning “measure”). In this module, the use of balanced chemical equations for various stoichiometric applications is explored.</para>
+<para id="fs-idp92593072">The general approach to using stoichiometric relationships is similar in concept to the way people go about many common activities. Food preparation, for example, offers an appropriate comparison. A recipe for making eight pancakes calls for 1 cup pancake mix, <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> cup milk, and one egg. The “equation” representing the preparation of pancakes per this recipe is</para>
+<equation id="fs-idp116126928"><m:math><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>cup mix</m:mtext><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>cup milk</m:mtext><m:mo>+</m:mo><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>egg</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mtext>pancakes</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp78338704">If two dozen pancakes are needed for a big family breakfast, the ingredient amounts must be increased proportionally according to the amounts given in the recipe. For example, the number of eggs required to make 24 pancakes is</para>
+<equation id="fs-idp58586688"><m:math><m:mrow><m:mn>24</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>pancakes</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>egg</m:mtext></m:mrow><m:mrow><m:mn>8</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>pancakes</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>eggs</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp98270672">Balanced chemical equations are used in much the same fashion to determine the amount of one reactant required to react with a given amount of another reactant, or to yield a given amount of product, and so forth. The coefficients in the balanced equation are used to derive <term>stoichiometric factors</term> that permit computation of the desired quantity. To illustrate this idea, consider the production of ammonia by reaction of hydrogen and nitrogen:</para>
+<equation id="fs-idp124603552"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp124955072">This equation shows ammonia molecules are produced from hydrogen molecules in a 2:3 ratio, and stoichiometric factors may be derived using any amount (number) unit:</para>
+<equation id="fs-idp64965808"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:msub><m:mtext>NH</m:mtext><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>molecules</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>molecules</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mtext>or</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>2 doz</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>NH</m:mtext><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>molecules</m:mtext></m:mrow><m:mrow><m:mtext>3 doz</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>molecules</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mtext>or</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>2 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>molecules</m:mtext></m:mrow><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>molecules</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp56404080">These stoichiometric factors can be used to compute the number of ammonia molecules produced from a given number of hydrogen molecules, or the number of hydrogen molecules required to produce a given number of ammonia molecules. Similar factors may be derived for any pair of substances in any chemical equation.</para>
+<example id="fs-idp48900096">
+<para id="fs-idp77269456"><title>Moles of Reactant Required in a Reaction</title>
+How many moles of I<sub>2</sub> are required to react with 0.429 mol of Al according to the following equation (see <link target-id="CNX_Chem_04_03_iodine"/>)?</para>
+<equation id="fs-idp147980704"><m:math><m:mrow><m:mn>2</m:mn><m:mtext>Al</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>AlI</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></equation>
+<figure id="CNX_Chem_04_03_iodine">
+<media id="fs-idp52310320" alt="This figure shows three photos with an arrow leading from one to the next. The first photo shows a small pile of iodine and aluminum on a white surface. The second photo shows a small amount of purple smoke coming from the pile. The third photo shows a large amount of purple and gray smoke coming from the pile.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_iodine.jpg"/>
+</media>
+<caption>Aluminum and iodine react to produce aluminum iodide. The heat of the reaction vaporizes some of the solid iodine as a purple vapor. (credit: modification of work by Mark Ott)</caption>
+</figure>
+<para id="fs-idm34598272"><title>Solution</title>
+Referring to the balanced chemical equation, the stoichiometric factor relating the two substances of interest is <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mtext>2 mol Al</m:mtext></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> The molar amount of iodine is derived by multiplying the provided molar amount of aluminum by this factor:</para>
+<media id="fs-idp136092800" alt="This figure shows two pink rectangles. The first is labeled, “Moles of A l.” This rectangle is followed by an arrow pointing right to a second rectangle labeled, “Moles of I subscript 2.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_moleratio1_img.jpg"/>
+</media>
+<equation id="fs-idp102857120"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:msub><m:mtext>mol I</m:mtext><m:mn>2</m:mn></m:msub></m:mtd><m:mtd><m:mo>=</m:mo><m:mn>0.429</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Al</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Al</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo><m:mtext>0.644 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp30742160"><title>Check Your Learning</title>
+How many moles of Ca(OH)<sub>2</sub> are required to react with 1.36 mol of H<sub>3</sub>PO<sub>4</sub> to produce Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> according to the equation <m:math><m:mrow><m:mn>3</m:mn><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Ca</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O?</m:mtext></m:mrow></m:math></para>
+<note id="fs-idp5038208">
+<title>Answer:</title>
+<para id="fs-idp115249152">2.04 mol</para>
+</note>
+</example>
+<example id="fs-idp9124448">
+<para id="fs-idp157170976"><title>Number of Product Molecules Generated by a Reaction</title>
+How many carbon dioxide molecules are produced when 0.75 mol of propane is combusted according to this equation?</para>
+<equation id="fs-idp116053696"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp121952928"><title>Solution</title>
+The approach here is the same as for <link target-id="fs-idp48900096"/>, though the absolute number of molecules is requested, not the number of moles of molecules. This will simply require use of the moles-to-numbers conversion factor, Avogadro’s number.</para>
+<para id="fs-idp229756528">The balanced equation shows that carbon dioxide is produced from propane in a 3:1 ratio:</para>
+<equation id="fs-idp114307520"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp83056800">Using this stoichiometric factor, the provided molar amount of propane, and Avogadro’s number,</para>
+<media id="fs-idp94375456" alt="This figure shows two pink rectangles. The first is labeled, “Moles of C subscript 3 H subscript 8.” This rectangle is followed by an arrow pointing right to a second rectangle labeled, “Moles of C O subscript 2.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_moleratio2_img.jpg"/>
+</media>
+<equation id="fs-idp52373104"><m:math><m:mrow><m:mn>0.75</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>6.022</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>molecules</m:mtext></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>24</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>molecules</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm14771264"><title>Check Your Learning</title>
+How many NH<sub>3</sub> molecules are produced by the reaction of 4.0 mol of Ca(OH)<sub>2</sub> according to the following equation:</para>
+<equation id="fs-idp166213360"><m:math><m:mrow><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CaSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<note id="fs-idp15879648">
+<title>Answer:</title>
+<para id="fs-idp160971824">4.8 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>24</sup> NH<sub>3</sub> molecules</para>
+</note>
+</example>
+<para id="fs-idp222914448">These examples illustrate the ease with which the amounts of substances involved in a chemical reaction of known stoichiometry may be related. Directly measuring numbers of atoms and molecules is, however, not an easy task, and the practical application of stoichiometry requires that we use the more readily measured property of mass.</para>
+<example id="fs-idp113495744">
+<para id="fs-idp56844080"><title>Relating Masses of Reactants and Products</title>
+What mass of sodium hydroxide, NaOH, would be required to produce 16 g of the antacid milk of magnesia [magnesium hydroxide, Mg(OH)<sub>2</sub>] by the following reaction?</para>
+<equation id="fs-idp158099664"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MgCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>NaOH</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mg</m:mtext><m:msub><m:mtext>(OH)</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>NaCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm3520480"><title>Solution</title>
+The approach used previously in <link target-id="fs-idp48900096"/> and <link target-id="fs-idp9124448"/> is likewise used here; that is, we must derive an appropriate stoichiometric factor from the balanced chemical equation and use it to relate the amounts of the two substances of interest. In this case, however, masses (not molar amounts) are provided and requested, so additional steps of the sort learned in the previous chapter are required. The calculations required are outlined in this flowchart:</para>
+<media id="fs-idp38697232" alt="This figure shows four rectangles. The first is shaded yellow and is labeled, “Mass of M g ( O H ) subscript 2.” This rectangle is followed by an arrow pointing right to a second rectangle which is shaded pink and is labeled, “Moles of M g ( O H ) subscript 2.” This rectangle is followed by an arrow pointing right to a third rectangle which is shaded pink and is labeled, “Moles of N a O H.” This rectangle is followed by an arrow pointing right to a fourth rectangle which is shaded yellow and is labeled, “Mass of N a O H.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_map2_img.jpg"/>
+</media>
+<equation id="fs-idp122145840"><m:math><m:mrow><m:mn>16</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Mg</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Mg</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>58.3</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Mg</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol NaOH</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Mg</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>40.0 g NaOH</m:mtext></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol NaOH</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>22 g NaOH</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp52759328"><title>Check Your Learning</title>
+What mass of gallium oxide, Ga<sub>2</sub>O<sub>3</sub>, can be prepared from 29.0 g of gallium metal? The equation for the reaction is <m:math><m:mrow><m:mn>4</m:mn><m:mtext>Ga</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>Ga</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<note id="fs-idp214975456">
+<title>Answer:</title>
+<para id="fs-idp3589264">39.0 g</para>
+</note>
+</example>
+<example id="fs-idp274853984">
+<para id="fs-idp64260528"><title>Relating Masses of Reactants</title>
+What mass of oxygen gas, O<sub>2</sub>, from the air is consumed in the combustion of 702 g of octane, C<sub>8</sub>H<sub>18</sub>, one of the principal components of gasoline?</para>
+<equation id="fs-idp87206624"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:mn>25</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>16</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>18</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp35508016"><title>Solution</title>
+The approach required here is the same as for the <link target-id="fs-idp113495744"/>, differing only in that the provided and requested masses are both for reactant species.</para>
+<media id="fs-idp56087040" alt="This figure shows four rectangles. The first is shaded yellow and is labeled, “Mass of C subscript 8 H subscript 18.” This rectangle is followed by an arrow pointing right to a second rectangle which is shaded pink and is labeled, “Moles of C subscript 8 H subscript 18.” This rectangle is followed by an arrow pointing right to a third rectangle which is shaded pink and is labeled, “Moles of O subscript 2.” This rectangle is followed by an arrow pointing right to a fourth rectangle which is shaded yellow and is labeled, “Mass of O subscript 2.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_map3_img.jpg"/>
+</media>
+<equation id="fs-idm56417376"><m:math><m:mrow><m:mn>702</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>114.23</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>25</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>32.00 g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2.46</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp24638432"><title>Check Your Learning</title>
+What mass of CO is required to react with 25.13 g of Fe<sub>2</sub>O<sub>3</sub> according to the equation <m:math><m:mrow><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:mtext>CO</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Fe</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>?</m:mo></m:mrow></m:math></para>
+<note id="fs-idp58164000">
+<title>Answer:</title>
+<para id="fs-idp38243856">13.22 g</para>
+</note>
+</example>
+<para id="fs-idp90689472">These examples illustrate just a few instances of reaction stoichiometry calculations. Numerous variations on the beginning and ending computational steps are possible depending upon what particular quantities are provided and sought (volumes, solution concentrations, and so forth). Regardless of the details, all these calculations share a common essential component: the use of stoichiometric factors derived from balanced chemical equations. <link target-id="CNX_Chem_04_03_flowchart"/> provides a general outline of the various computational steps associated with many reaction stoichiometry calculations.</para>
+<figure id="CNX_Chem_04_03_flowchart">
+<media id="fs-idp53443040" alt="This flowchart shows 10 rectangles connected by double headed arrows. To the upper left, a rectangle is shaded lavender and is labeled, “Volume of pure substance A.” This rectangle is followed by a horizontal double headed arrow labeled, “Density.” It connects to a second rectangle which is shaded yellow and is labeled, “Mass of A.” This rectangle is followed by a double headed arrow which is labeled, “Molar Mass,” that connects to a third rectangle which is shaded pink and is labeled, “Moles of A.” To the left of this rectangle is a horizontal double headed arrow labeled, “Molarity,” which connects to a lavender rectangle which is labeled, “Volume of solution A.” The pink, “Moles of A,” rectangle is also connected with a double headed arrow below and to the left. This arrow is labeled “Avogadro’s number.” It connects to a green shaded rectangle that is labeled, “Number of particles of A.” To the right of the pink “Moles of A,” rectangle is a horizontal double headed arrow which is labeled, “Stoichiometric factor.” It connects to a second pink rectangle which is labeled, “Moles of B.” A double headed arrow which is labeled, “Molar mass,” extends from the top of this rectangle above and to the right to a yellow shaded rectangle labeled, “Mass of B.” A horizontal double headed arrow which is labeled, “Density” links to a lavender rectangle labeled, “Volume of substance B,” to the right. A horizontal double headed arrow labeled, “Molarity,” extends right to the of the pink “Moles of B” rectangle. This arrow connects to a lavender rectangle that is labeled, “Volume of substance B.” Another double headed arrow extends below and to the right of the pink “Moles of B” rectangle. This arrow is labeled “Avogadro’s number,” and it extends to a green rectangle which is labeled, “Number of particles of B.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_flowchart.jpg"/>
+</media>
+<caption>The flowchart depicts the various computational steps involved in most reaction stoichiometry calculations.</caption>
+</figure>
+<note id="fs-idp84121360" class="chemistry everyday-life">
+<title>Airbags</title>
+<para id="fs-idp124943600">Airbags (<link target-id="CNX_Chem_04_03_airbag"/>) are a safety feature provided in most automobiles since the 1990s. The effective operation of an airbag requires that it be rapidly inflated with an appropriate amount (volume) of gas when the vehicle is involved in a collision. This requirement is satisfied in many automotive airbag systems through use of explosive chemical reactions, one common choice being the decomposition of sodium azide, NaN<sub>3</sub>. When sensors in the vehicle detect a collision, an electrical current is passed through a carefully measured amount of NaN<sub>3</sub> to initiate its decomposition:</para>
+<equation id="fs-idp113504400"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NaN</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>Na</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp9645888">This reaction is very rapid, generating gaseous nitrogen that can deploy and fully inflate a typical airbag in a fraction of a second (~0.03–0.1 s). Among many engineering considerations, the amount of sodium azide used must be appropriate for generating enough nitrogen gas to fully inflate the air bag and ensure its proper function. For example, a small mass (~100 g) of NaN<sub>3</sub> will generate approximately 50 L of N<sub>2</sub>.</para>
+<figure id="CNX_Chem_04_03_airbag">
+<media id="fs-idp103197840" alt="This photograph shows the inside of an automobile from the driver’s side area. The image shows inflated airbags positioned just in front of the driver’s and passenger’s seats and along the length of the passenger side over the windows. A large, round airbag covers the steering wheel.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_airbag.jpg"/>
+</media>
+<caption>Airbags deploy upon impact to minimize serious injuries to passengers. (credit: Jon Seidman)</caption>
+</figure>
+</note>
+<section id="fs-idp102563712" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm3728016">A balanced chemical equation may be used to describe a reaction’s stoichiometry (the relationships between amounts of reactants and products). Coefficients from the equation are used to derive stoichiometric factors that subsequently may be used for computations relating reactant and product masses, molar amounts, and other quantitative properties.</para>
+</section>
+<section id="fs-idm1445952" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp166618800">
+<problem id="fs-idp148234256">
+<para id="fs-idp87549088">Write the balanced equation, then outline the steps necessary to determine the information requested in each of the following:</para>
+<para id="fs-idp84195488">(a) The number of moles and the mass of chlorine, Cl<sub>2</sub>, required to react with 10.0 g of sodium metal, Na, to produce sodium chloride, NaCl.</para>
+<para id="fs-idp186895920">(b) The number of moles and the mass of oxygen formed by the decomposition of 1.252 g of mercury(II) oxide.</para>
+<para id="fs-idp92843168">(c) The number of moles and the mass of sodium nitrate, NaNO<sub>3</sub>, required to produce 128 g of oxygen. (NaNO<sub>2</sub> is the other product.)</para>
+<para id="fs-idp8293632">(d) The number of moles and the mass of carbon dioxide formed by the combustion of 20.0 kg of carbon in an excess of oxygen.</para>
+<para id="fs-idp56955104">(e) The number of moles and the mass of copper(II) carbonate needed to produce 1.500 kg of copper(II) oxide. (CO<sub>2</sub> is the other product.)</para>
+<para id="fs-idp241908400">(f) <media id="fs-idp8901744" alt="This figure includes two structural formulas. It reads, “The number of moles and the mass of,” which is followed by a structure with two C atoms bonded with a single horizontal at the center. Both C atoms have H atoms bonded above and below. The C atom to the left has a B r atom bonded to its left. The C atom to the right has a B r atom bonded to its right. Following this structure, the figure reads, “formed by the reaction of 12.85 g of,” which is followed by a structure with two C atoms connected with a horizontal double bond. The C atom to the left has H atoms bonded above and to the left and below and to the left. The C atom to the right has H atoms bonded above and to the right and below and to the right. The figure ends with, “with an excess of B r subscript 2.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_etheneBr_img.jpg"/>
+</media>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-idp147780304">
+<problem id="fs-idp16567136">
+<para id="fs-idp53786208">Determine the number of moles and the mass requested for each reaction in <link target-id="fs-idp166618800"/>.</para></problem>
+<solution id="fs-idp9596224">
+<para id="fs-idp75003744">(a) 0.435 mol Na, 0.217 mol Cl<sub>2</sub>, 15.4 g Cl<sub>2</sub>; (b) 0.005780 mol HgO, 2.890 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> mol O<sub>2</sub>, 9.248 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−2</sup> g O<sub>2</sub>; (c) 8.00 mol NaNO<sub>3</sub>, 6.8 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>2</sup> g NaNO<sub>3</sub>; (d) 1665 mol CO<sub>2</sub>, 73.3 kg CO<sub>2</sub>; (e) 18.86 mol CuO, 2.330 kg CuCO<sub>3</sub>; (f) 0.4580 mol C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>, 86.05 g C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub></para></solution>
+</exercise>
+<exercise id="fs-idp16477696">
+<problem id="fs-idp8833552">
+<para id="fs-idp38571984">Write the balanced equation, then outline the steps necessary to determine the information requested in each of the following:</para>
+<para id="fs-idp124413456">(a) The number of moles and the mass of Mg required to react with 5.00 g of HCl and produce MgCl<sub>2</sub> and H<sub>2</sub>.</para>
+<para id="fs-idp27637888">(b) The number of moles and the mass of oxygen formed by the decomposition of 1.252 g of silver(I) oxide.</para>
+<para id="fs-idp38709616">(c) The number of moles and the mass of magnesium carbonate, MgCO<sub>3</sub>, required to produce 283 g of carbon dioxide. (MgO is the other product.)</para>
+<para id="fs-idp56997136">(d) The number of moles and the mass of water formed by the combustion of 20.0 kg of acetylene, C<sub>2</sub>H<sub>2</sub>, in an excess of oxygen.</para>
+<para id="fs-idp149673136">(e) The number of moles and the mass of barium peroxide, BaO<sub>2</sub>, needed to produce 2.500 kg of barium oxide, BaO (O<sub>2</sub> is the other product.)</para>
+<para id="fs-idp83999440">(f) <media id="fs-idp272578432" alt="This figure includes two structural formulas. It reads, “The number of moles and the mass of,” which is followed by a structure with two C atoms connected with a horizontal double bond at the center. The C atom to the left has H atoms bonded above and to the left and below and to the left. The C atom to the right has H atoms bonded above and to the right and below and to the right. Following this structure, the figure reads, “required to react with H subscript 2 O to produce 9.55 g of,” which is followed by a structure with two C atoms connected with a horizontal single bond. The C atom to the left has H atoms bonded above, to the left, and below. The C atom to the right has H atoms bonded above and below. To the right, an O atom forms a single bond with the C atom. A single H atom is bonded to the right side of the O atom.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_ethene_img.jpg"/>
+</media>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-idp61309952">
+<problem id="fs-idp89348144">
+<para id="fs-idm1240512">Determine the number of moles and the mass requested for each reaction in <link target-id="fs-idp16477696"/>.</para></problem>
+<solution id="fs-idp74968768">
+<para id="fs-idp103920384">(a) 0.0686 mol Mg, 1.67 g Mg; (b) 2.701 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> mol O<sub>2</sub>, 0.08644 g O<sub>2</sub>; (c) 6.43 mol MgCO<sub>3</sub>, 542 g MgCO<sub>3</sub> (d) 713 mol H<sub>2</sub>O, 12.8 kg H<sub>2</sub>O; (e) 16.31 mol BaO<sub>2</sub>, 2762 g BaO<sub>2</sub>; (f) 0.207 mol C<sub>2</sub>H<sub>4</sub>, 5.81 g C<sub>2</sub>H<sub>4</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp33547424">
+<problem id="fs-idp34976624">
+<para id="fs-idp57351920">H<sub>2</sub> is produced by the reaction of 118.5 mL of a 0.8775-M solution of H<sub>3</sub>PO<sub>4</sub> according to the following equation: <m:math><m:mrow><m:mn>2</m:mn><m:mtext>Cr</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CrPO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp52496304">(a) Outline the steps necessary to determine the number of moles and mass of H<sub>2</sub>.</para>
+<para id="fs-idp157608384">(b) Perform the calculations outlined.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp272460112">
+<problem id="fs-idp54862096">
+<para id="fs-idp134804848">Gallium chloride is formed by the reaction of 2.6 L of a 1.44 M solution of HCl according to the following equation: <m:math><m:mrow><m:mn>2</m:mn><m:mtext>Ga</m:mtext><m:mo>+</m:mo><m:mn>6</m:mn><m:mtext>HCl</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>GaCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp7152848">(a) Outline the steps necessary to determine the number of moles and mass of gallium chloride.</para>
+<para id="fs-idp58298672">(b) Perform the calculations outlined.</para>
+</problem>
+<solution id="fs-idp216262688">
+<para id="fs-idp32310528">(a) <m:math><m:mrow><m:mtext>volume HCl solution</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>mol HCl</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>mol GaCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>;</m:mo></m:mrow></m:math> (b) 1.25 mol GaCl<sub>3</sub>, 2.2 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>2</sup> g GaCl<sub>3</sub></para></solution>
+</exercise>
+<exercise id="fs-idp102353344">
+<problem id="fs-idp102353600">
+<para id="fs-idp102353856">I<sub>2</sub> is produced by the reaction of 0.4235 mol of CuCl<sub>2</sub> according to the following equation: <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CuCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>KI</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>CuI</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>KCl</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp81485088">(a) How many molecules of I<sub>2</sub> are produced?</para>
+<para id="fs-idp4075872">(b) What mass of I<sub>2</sub> is produced?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp172099056">
+<problem id="fs-idp172099312">
+<para id="fs-idp172099568">Silver is often extracted from ores such as K[Ag(CN)<sub>2</sub>] and then recovered by the reaction<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:mtext>K</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Zn</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2Ag</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>KCN</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para><para id="fs-idp124132784">(a) How many molecules of Zn(CN)<sub>2</sub> are produced by the reaction of 35.27 g of K[Ag(CN)<sub>2</sub>]?</para>
+<para id="fs-idp25006640">(b) What mass of Zn(CN)<sub>2</sub> is produced?</para>
+</problem>
+<solution id="fs-idp25007536">
+<para id="fs-idp18257312">(a) 5.337 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>22</sup> molecules; (b) 10.41 g Zn(CN)<sub>2</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp216213984">
+<problem id="fs-idp216214240">
+<para id="fs-idp216214496">What mass of silver oxide, Ag<sub>2</sub>O, is required to produce 25.0 g of silver sulfadiazine, AgC<sub>10</sub>H<sub>9</sub>N<sub>4</sub>SO<sub>2</sub>, from the reaction of silver oxide and sulfadiazine?<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>AgC</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>9</m:mn></m:msub><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp65199360">
+<problem id="fs-idp65199616">
+<para id="fs-idp65199872">Carborundum is silicon carbide, SiC, a very hard material used as an abrasive on sandpaper and in other applications. It is prepared by the reaction of pure sand, SiO<sub>2</sub>, with carbon at high temperature. Carbon monoxide, CO, is the other product of this reaction. Write the balanced equation for the reaction, and calculate how much SiO<sub>2</sub> is required to produce 3.00 kg of SiC.</para>
+</problem>
+<solution id="fs-idp53851712">
+<para id="fs-idp53851968"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:mtext>C</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>SiC</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>CO,</m:mtext></m:mrow></m:math> 4.50 kg SiO<sub>2</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp9841552">
+<problem id="fs-idp9841808">
+<para id="fs-idp92390640">Automotive air bags inflate when a sample of sodium azide, NaN<sub>3</sub>, is very rapidly decomposed.<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NaN</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Na</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math><newline/>
+What mass of sodium azide is required to produce 2.6 ft<sup>3</sup> (73.6 L) of nitrogen gas with a density of 1.25 g/L?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp220471472">
+<problem id="fs-idp220471728">
+<para id="fs-idp220471984">Urea, CO(NH<sub>2</sub>)<sub>2</sub>, is manufactured on a large scale for use in producing urea-formaldehyde plastics and as a fertilizer. What is the maximum mass of urea that can be manufactured from the CO<sub>2</sub> produced by combustion of <m:math><m:mrow><m:mn>1.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow></m:math> of carbon followed by the reaction?<newline/>
+<m:math><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CO</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp125512720">
+<para id="fs-idp125512976">5.00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>3</sup> kg</para>
+</solution>
+</exercise>
+<exercise id="fs-idp89497728">
+<problem id="fs-idp47779136">
+<para id="fs-idp47779392">In an accident, a solution containing 2.5 kg of nitric acid was spilled. Two kilograms of Na<sub>2</sub>CO<sub>3</sub> was quickly spread on the area and CO<sub>2</sub> was released by the reaction. Was sufficient Na<sub>2</sub>CO<sub>3</sub> used to neutralize all of the acid?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp82714064">
+<problem id="fs-idp82714320">
+<para id="fs-idp82714576">A compact car gets 37.5 miles per gallon on the highway. If gasoline contains 84.2% carbon by mass and has a density of 0.8205 g/mL, determine the mass of carbon dioxide produced during a 500-mile trip (3.785 liters per gallon).</para>
+</problem>
+<solution id="fs-idp10692944">
+<para id="fs-idp10693200">1.28 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>5</sup> g CO<sub>2</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp10650096">
+<problem id="fs-idp10650352">
+<para id="fs-idp10650608">What volume of 0.750 M hydrochloric acid solution can be prepared from the HCl produced by the reaction of 25.0 g of NaCl with excess sulfuric acid?<newline/>
+<m:math><m:mrow><m:mtext>NaCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>HCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NaHSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-idp8090960">
+<problem id="fs-idp52899056">
+<para id="fs-idp52899312">What volume of a 0.2089 <emphasis effect="italics">M</emphasis> KI solution contains enough KI to react exactly with the Cu(NO<sub>3</sub>)<sub>2</sub> in 43.88 mL of a 0.3842 <emphasis effect="italics">M</emphasis> solution of Cu(NO<sub>3</sub>)<sub>2</sub>?<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>KI</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>CuI</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>KNO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp74229920">
+<para id="fs-idp74230176">161.40 mL KI solution</para>
+</solution>
+</exercise>
+<exercise id="fs-idp158165536">
+<problem id="fs-idp158165792">
+<para id="fs-idp120503856">A mordant is a substance that combines with a dye to produce a stable fixed color in a dyed fabric. Calcium acetate is used as a mordant. It is prepared by the reaction of acetic acid with calcium hydroxide.<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo>+</m:mo><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mtext>(OH)</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp222482608">What mass of Ca(OH)<sub>2</sub> is required to react with the acetic acid in 25.0 mL of a solution having a density of 1.065 g/mL and containing 58.0% acetic acid by mass?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp149769296">
+<problem id="fs-idp149769552">
+<para id="fs-idp160104288">The toxic pigment called white lead, Pb<sub>3</sub>(OH)<sub>2</sub>(CO<sub>3</sub>)<sub>2</sub>, has been replaced in white paints by rutile, TiO<sub>2</sub>. How much rutile (g) can be prepared from 379 g of an ore that contains 88.3% ilmenite (FeTiO<sub>3</sub>) by mass?<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>FeTiO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>HCl</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>FeCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>TiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp100940224">
+<para id="fs-idp100940480">176 g TiO<sub>2</sub></para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp127461392">
+<term>stoichiometric factor</term>
+<meaning id="fs-idp127462032">ratio of coefficients in a balanced chemical equation, used in computations relating amounts of reactants and products</meaning>
+</definition>
+<definition id="fs-idp127462672">
+<term>stoichiometry</term>
+<meaning id="fs-idp117365328">relationships between the amounts of reactants and products of a chemical reaction</meaning>
+</definition>
+</glossary>
+</document>

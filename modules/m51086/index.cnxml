@@ -1,0 +1,139 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Electrolytes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51086</md:content-id>
+  <md:title>Electrolytes</md:title>
+  <md:abstract>By the end of this module, you will be able to:
+<list>
+<item>Define and give examples of electrolytes</item>
+<item>Distinguish between the physical and chemical changes that accompany dissolution of ionic and covalent electrolytes</item>
+<item>Relate electrolyte strength to solute-solvent attractive forces</item>
+</list></md:abstract>
+  <md:uuid>dd95f8bf-3cb7-4fbf-ab37-8ea13df86881</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp18381520">When some substances are dissolved in water, they undergo either a physical or a chemical change that yields ions in solution. These substances constitute an important class of compounds called <term>electrolytes</term>. Substances that do not yield ions when dissolved are called <term>nonelectrolytes</term>. If the physical or chemical process that generates the ions is essentially 100% efficient (all of the dissolved compound yields ions), then the substance is known as a <term>strong electrolyte</term>. If only a relatively small fraction of the dissolved substance undergoes the ion-producing process, it is called a <term>weak electrolyte</term>.</para>
+<para id="fs-idm8509568">Substances may be identified as strong, weak, or nonelectrolytes by measuring the electrical conductance of an aqueous solution containing the substance. To conduct electricity, a substance must contain freely mobile, charged species. Most familiar is the conduction of electricity through metallic wires, in which case the mobile, charged entities are electrons. Solutions may also conduct electricity if they contain dissolved ions, with conductivity increasing as ion concentration increases. Applying a voltage to electrodes immersed in a solution permits assessment of the relative concentration of dissolved ions, either quantitatively, by measuring the electrical current flow, or qualitatively, by observing the brightness of a light bulb included in the circuit (<link target-id="CNX_Chem_11_02_electrolyt"/>).</para>
+<figure id="CNX_Chem_11_02_electrolyt">
+<media id="fs-idm7287312" alt="This diagram shows three separate beakers. Each has a wire plugged into a wall outlet. In each case, the wire leads from the wall to the beaker and is split resulting in two ends. One end leads to a light bulb and continues on to a rectangle labeled with a plus sign. The other end leads to a rectangle labeled with a minus sign. The rectangles are in a solution. In the first beaker, labeled “Ethanol No Conductivity,” four pairs of linked small green spheres suspended in the solution between the rectangles. In the second beaker, labeled “K C l Strong Conductivity,” six individual green spheres, three labeled plus and three labeled minus are suspended in the solution. Each of the six spheres has an arrow extending from it pointing to the rectangle labeled with the opposite sign. In the third beaker, labeled “Acetic acid solution Weak conductivity,” two pairs of joined green spheres and two individual spheres, one labeled plus and one labeled minus are shown suspended between the two rectangles. The plus labeled sphere has an arrow pointing to the rectangle labeled minus and the minus labeled sphere has an arrow pointing to the rectangle labeled plus.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_electrolyt.jpg"/>
+</media>
+<caption>Solutions of nonelectrolytes such as ethanol do not contain dissolved ions and cannot conduct electricity. Solutions of electrolytes contain ions that permit the passage of electricity. The conductivity of an electrolyte solution is related to the strength of the electrolyte.</caption>
+</figure>
+<section id="fs-idm25275856">
+<title>Ionic Electrolytes</title>
+<para id="fs-idp2501472">Water and other polar molecules are attracted to ions, as shown in <link target-id="CNX_Chem_11_02_waterions"/>. The electrostatic attraction between an ion and a molecule with a dipole is called an <term>ion-dipole attraction</term>. These attractions play an important role in the dissolution of ionic compounds in water.</para>
+<figure id="CNX_Chem_11_02_waterions">
+<media id="fs-idm117781392" alt="The diagram shows eight purple spheres labeled K superscript plus and eight green spheres labeled C l superscript minus mixed and touching near the center of the diagram. Outside of this cluster of spheres are seventeen clusters of three spheres, which include one red and two white spheres. A red sphere in one of these clusters is labeled O. A white sphere is labeled H. Two of the green C l superscript minus spheres are surrounded by three of the red and white clusters, with the red spheres closer to the green spheres than the white spheres. One of the K superscript plus purple spheres is surrounded by four of the red and white clusters. The white spheres of these clusters are closest to the purple spheres.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_waterions.jpg"/>
+</media>
+<caption>As potassium chloride (KCl) dissolves in water, the ions are hydrated. The polar water molecules are attracted by the charges on the K<sup>+</sup> and Cl<sup>−</sup> ions. Water molecules in front of and behind the ions are not shown.</caption>
+</figure>
+<para id="fs-idp43584496">When ionic compounds dissolve in water, the ions in the solid separate and disperse uniformly throughout the solution because water molecules surround and solvate the ions, reducing the strong electrostatic forces between them. This process represents a physical change known as <term>dissociation</term>. Under most conditions, ionic compounds will dissociate nearly completely when dissolved, and so they are classified as strong electrolytes.</para>
+<para id="fs-idp39918704">Let us consider what happens at the microscopic level when we add solid KCl to water. Ion-dipole forces attract the positive (hydrogen) end of the polar water molecules to the negative chloride ions at the surface of the solid, and they attract the negative (oxygen) ends to the positive potassium ions. The water molecules penetrate between individual K<sup>+</sup> and Cl<sup>−</sup> ions and surround them, reducing the strong interionic forces that bind the ions together and letting them move off into solution as solvated ions, as <link target-id="CNX_Chem_11_02_waterions"/> shows. The reduction of the electrostatic attraction permits the independent motion of each hydrated ion in a dilute solution, resulting in an increase in the disorder of the system as the ions change from their fixed and ordered positions in the crystal to mobile and much more disordered states in solution. This increased disorder is responsible for the dissolution of many ionic compounds, including KCl, which dissolve with absorption of heat.</para>
+<para id="fs-idm13277360">In other cases, the electrostatic attractions between the ions in a crystal are so large, or the ion-dipole attractive forces between the ions and water molecules are so weak, that the increase in disorder cannot compensate for the energy required to separate the ions, and the crystal is insoluble. Such is the case for compounds such as calcium carbonate (limestone), calcium phosphate (the inorganic component of bone), and iron oxide (rust).</para>
+</section>
+<section id="fs-idp29082528">
+<title>Covalent Electrolytes</title>
+<para id="fs-idp617792">Pure water is an extremely poor conductor of electricity because it is only very slightly ionized—only about two out of every 1 billion molecules ionize at 25 °C. Water ionizes when one molecule of water gives up a proton (H<sup>+</sup> ion) to another molecule of water, yielding hydronium and hydroxide ions.</para><equation id="fs-idp45812272"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>OH</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm10993712">In some cases, we find that solutions prepared from covalent compounds conduct electricity because the solute molecules react chemically with the solvent to produce ions. For example, pure hydrogen chloride is a gas consisting of covalent HCl molecules. This gas contains no ions. However, when we dissolve hydrogen chloride in water, we find that the solution is a very good conductor. The water molecules play an essential part in forming ions: Solutions of hydrogen chloride in many other solvents, such as benzene, do not conduct electricity and do not contain ions.</para>
+<para id="fs-idm25981680">Hydrogen chloride is an <emphasis effect="italics">acid</emphasis>, and so its molecules react with water, transferring H<sup>+</sup> ions to form hydronium ions (H<sub><sub>3</sub></sub>O<sup>+</sup>) and chloride ions (Cl<sup>−</sup>):</para>
+<media id="fs-idp29456368" alt="A chemical equation is shown. To the left, two hydrogen atoms are linked, each with a single dash to a central oxygen atom to the left and below the oxygen symbol, which has two pairs of dots, above and to the right of the atom. A plus sign is shown to the right, then a hydrogen atom linked to the left side of chlorine atom by a single dash with three pairs of dots, above, to the right, and below the element symbol. An arrow points to the products which are three hydrogen atoms linked by single dashes to a central oxygen atom shown in brackets with superscript plus. The oxygen atom has a single pair of dots above the element symbol. This is followed by a plus and C l superscript minus. This symbol is surrounded by four pairs of dots, above and below and to the left and right of the element symbol.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_H3O_CL_img.jpg"/>
+</media>
+<para id="fs-idm4855136">This reaction is essentially 100% complete for HCl (i.e., it is a <emphasis effect="italics">strong acid</emphasis> and, consequently, a strong electrolyte). Likewise, weak acids and bases that only react partially generate relatively low concentrations of ions when dissolved in water and are classified as weak electrolytes. The reader may wish to review the discussion of strong and weak acids provided in the earlier chapter of this text on reaction classes and stoichiometry.</para>
+</section>
+<section id="fs-idm11909136" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp18654544">Substances that dissolve in water to yield ions are called electrolytes. Electrolytes may be covalent compounds that chemically react with water to produce ions (for example, acids and bases), or they may be ionic compounds that dissociate to yield their constituent cations and anions, when dissolved. Dissolution of an ionic compound is facilitated by ion-dipole attractions between the ions of the compound and the polar water molecules. Soluble ionic substances and strong acids ionize completely and are strong electrolytes, while weak acids and bases ionize to only a small extent and are weak electrolytes. Nonelectrolytes are substances that do not produce ions when dissolved in water.</para>
+</section>
+<section id="fs-idm559200" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp1366224">
+<problem id="fs-idp15031216">
+<para id="fs-idm27333072">Explain why the ions Na<sup>+</sup> and Cl<sup>−</sup> are strongly solvated in water but not in hexane, a solvent composed of nonpolar molecules.</para></problem>
+<solution id="fs-idp22937920">
+<para id="fs-idp840624">Crystals of NaCl dissolve in water, a polar liquid with a very large dipole moment, and the individual ions become strongly solvated. Hexane is a nonpolar liquid with a dipole moment of zero and, therefore, does not significantly interact with the ions of the NaCl crystals.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm26375616">
+<problem id="fs-idm48317472">
+<para id="fs-idm11906688">Explain why solutions of HBr in benzene (a nonpolar solvent) are nonconductive, while solutions in water (a polar solvent) are conductive.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp608736">
+<problem id="fs-idm46212160">
+<para id="fs-idm30316720">Consider the solutions presented:</para>
+<para id="fs-idm78750672">(a) Which of the following sketches best represents the ions in a solution of Fe(NO<sub>3</sub>)<sub>3</sub>(<emphasis effect="italics">aq</emphasis>)?</para>
+<media id="fs-idm58752" alt="In this figure, three beakers labeled x, y, and z are shown containing various arrangements of blue and red spheres suspended in solution. In beaker x, three small red spheres surround a single central blue sphere in small clusters which in turn are grouped in threes around a single red sphere, forming four larger clusters. In beaker y, the four large clusters are present without the central red spheres. Four individual red spheres are now present. In beaker z, the large clusters are not present. Twelve of the small clusters of three red and one blue sphere are present along with four single red spheres.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_Fe(NO3)3_img.jpg"/>
+</media>
+<para id="fs-idm44321280">(b) Write a balanced chemical equation showing the products of the dissolution of Fe(NO<sub>3</sub>)<sub>3</sub>.</para>
+</problem>
+<solution id="fs-idm15172320">
+<para id="fs-idm125662992">(a) Fe(NO<sub>3</sub>)<sub>3</sub> is a strong electrolyte, thus it should completely dissociate into Fe<sup>3+</sup> and <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> ions. Therefore, (z) best represents the solution. (b) <m:math><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idm785520">
+<problem id="fs-idm57125184">
+<para id="fs-idm67036112">Compare the processes that occur when methanol (CH<sub>3</sub>OH), hydrogen chloride (HCl), and sodium hydroxide (NaOH) dissolve in water. Write equations and prepare sketches showing the form in which each of these compounds is present in its respective solution.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp40604768">
+<problem id="fs-idm10702048">
+<para id="fs-idp55791360">What is the expected electrical conductivity of the following solutions?</para>
+<para id="fs-idm38868560">(a) NaOH(<emphasis effect="italics">aq</emphasis>)</para>
+<para id="fs-idm10517104">(b) HCl(<emphasis effect="italics">aq</emphasis>)</para>
+<para id="fs-idm50140880">(c) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(<emphasis effect="italics">aq</emphasis>) (glucose)</para>
+<para id="fs-idm49304096">(d) NH<sub>3</sub>(<emphasis effect="italics">aq</emphasis>)</para></problem>
+<solution id="fs-idm6139600">
+<para id="fs-idm70158128">(a) high conductivity (solute is an ionic compound that will dissociate when dissolved); (b) high conductivity (solute is a strong acid and will ionize completely when dissolved); (c) nonconductive (solute is a covalent compound, neither acid nor base, unreactive towards water); (d) low conductivity (solute is a weak base and will partially ionize when dissolved)</para>
+</solution>
+</exercise>
+<exercise id="fs-idm22188736">
+<problem id="fs-idm44373776">
+<para id="fs-idm5817440">Why are most <emphasis effect="italics">solid</emphasis> ionic compounds electrically nonconductive, whereas aqueous solutions of ionic compounds are good conductors? Would you expect a <emphasis effect="italics">liquid</emphasis> (molten) ionic compound to be electrically conductive or nonconductive? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm39772000">
+<problem id="fs-idm69993344">
+<para id="fs-idp23193408">Indicate the most important type of intermolecular attraction responsible for solvation in each of the following solutions:</para>
+<para id="fs-idm12881936">(a) the solutions in <link target-id="CNX_Chem_11_02_waterions"/></para>
+<para id="fs-idp1970576">(b) methanol, CH<sub>3</sub>OH, dissolved in ethanol, C<sub>2</sub>H<sub>5</sub>OH</para>
+<para id="fs-idp26142352">(c) methane, CH<sub>4</sub>, dissolved in benzene, C<sub>6</sub>H<sub>6</sub></para>
+<para id="fs-idm143739184">(d) the polar halocarbon CF<sub>2</sub>Cl<sub>2</sub> dissolved in the polar halocarbon CF<sub>2</sub>ClCFCl<sub>2</sub></para>
+<para id="fs-idp26201488">(e) O<sub>2</sub>(<emphasis effect="italics">l</emphasis>) in N<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</para>
+</problem>
+<solution id="fs-idm99654464">
+<para id="fs-idp39750656">(a) ion-dipole; (b) hydrogen bonds; (c) dispersion forces; (d) dipole-dipole attractions; (e) dispersion forces</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm32680960">
+<term>dissociation</term>
+<meaning id="fs-idm272144">physical process accompanying the dissolution of an ionic compound in which the compound’s constituent ions are solvated and dispersed throughout the solution</meaning>
+</definition>
+<definition id="fs-idm10926960">
+<term>electrolyte</term>
+<meaning id="fs-idm11847584">substance that produces ions when dissolved in water</meaning>
+</definition>
+<definition id="fs-idp1071840">
+<term>ion-dipole attraction</term>
+<meaning id="fs-idm121741424">electrostatic attraction between an ion and a polar molecule</meaning>
+</definition>
+<definition id="fs-idp10683312">
+<term>nonelectrolyte</term>
+<meaning id="fs-idp15468208">substance that does not produce ions when dissolved in water</meaning>
+</definition>
+<definition id="fs-idm7742384">
+<term>strong electrolyte</term>
+<meaning id="fs-idp1025072">substance that dissociates or ionizes completely when dissolved in water</meaning>
+</definition>
+<definition id="fs-idp4277680">
+<term>weak electrolyte</term>
+<meaning id="fs-idm39786640">substance that ionizes only partially when dissolved in water</meaning>
+</definition>
+</glossary>
+</document>

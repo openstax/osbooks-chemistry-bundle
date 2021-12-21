@@ -1,0 +1,254 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Entropy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62046</md:content-id>
+  <md:title>Entropy</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define entropy</item>
+<item>Explain the relationship between entropy and the number of microstates</item>
+<item>Predict the sign of the entropy change for chemical and physical processes</item>
+</list></md:abstract>
+  <md:uuid>7e9bd00b-acd2-4dc7-af8c-7140fb483196</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm1359840">In 1824, at the age of 28, Nicolas Léonard Sadi <term class="no-emphasis">Carnot</term> (<link target-id="CNX_Chem_16_03_Carnot"/>) published the results of an extensive study regarding the efficiency of steam heat engines. In a later review of Carnot’s findings, Rudolf <term class="no-emphasis">Clausius</term> introduced a new thermodynamic property that relates the spontaneous heat flow accompanying a process to the temperature at which the process takes place. This new property was expressed as the ratio of the <emphasis effect="italics">reversible</emphasis> heat (<emphasis effect="italics">q</emphasis><sub>rev</sub>) and the kelvin temperature (<emphasis effect="italics">T</emphasis>). The term <term>reversible process</term> refers to a process that takes place at such a slow rate that it is always at equilibrium and its direction can be changed (it can be “reversed”) by an infinitesimally small change is some condition. Note that the idea of a reversible process is a formalism required to support the development of various thermodynamic concepts; no real processes are truly reversible, rather they are classified as <emphasis effect="italics">irreversible</emphasis>.</para>
+<figure id="CNX_Chem_16_03_Carnot">
+<media id="fs-idm106556080" alt=" A portrait of Rudolf Clasius is shown.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_16_03_Carnot.jpg"/>
+</media>
+<caption>(a) Nicholas Léonard Sadi Carnot’s research into steam-powered machinery and (b) Rudolf Clausius’s later study of those findings led to groundbreaking discoveries about spontaneous heat flow processes.</caption>
+</figure>
+<para id="fs-idm194920048">Similar to other thermodynamic properties, this new quantity is a state function, and so its change depends only upon the initial and final states of a system. In 1865, Clausius named this property <term>entropy (<emphasis effect="italics">S</emphasis>)</term> and defined its change for any process as the following:</para>
+<equation id="fs-idm146915824"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>rev</m:mtext></m:mrow></m:msub></m:mrow><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm100781680">The entropy change for a real, irreversible process is then equal to that for the theoretical reversible process that involves the same initial and final states.</para>
+<section id="fs-idp19898544">
+<title>Entropy and Microstates</title>
+<para id="fs-idp173054032">Following the work of Carnot and Clausius, Ludwig <term class="no-emphasis">Boltzmann</term> developed a molecular-scale statistical model that related the entropy of a system to the number of <emphasis effect="italics">microstates</emphasis> possible for the system. A <term>microstate (<emphasis effect="italics">W</emphasis>)</term> is a specific configuration of the locations and energies of the atoms or molecules that comprise a system like the following:</para>
+<equation id="fs-idp33531488"><m:math><m:mrow><m:mi>S</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>W</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm109445936">Here <emphasis effect="italics">k</emphasis> is the Boltzmann constant and has a value of 1.38 <m:math><m:mo>×</m:mo></m:math> 10<sup>−23</sup> J/K.</para>
+<para id="fs-idm172030064">As for other state functions, the change in entropy for a process is the difference between its final (<emphasis effect="italics">S</emphasis><sub>f</sub>) and initial (<emphasis effect="italics">S</emphasis><sub>i</sub>) values:</para>
+<equation id="fs-idm76606496"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>=</m:mo><m:msub><m:mi>S</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>−</m:mo><m:msub><m:mi>S</m:mi><m:mtext>i</m:mtext></m:msub><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>W</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>−</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>W</m:mi><m:mtext>i</m:mtext></m:msub><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>f</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>i</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm69202464">For processes involving an increase in the number of microstates, <emphasis effect="italics">W</emphasis><sub>f</sub> &gt; <emphasis effect="italics">W</emphasis><sub>i</sub>, the entropy of the system increases, Δ<emphasis effect="italics">S</emphasis> &gt; 0. Conversely, processes that reduce the number of microstates, <emphasis effect="italics">W</emphasis><sub>f</sub> &lt; <emphasis effect="italics">W</emphasis><sub>i</sub>, yield a decrease in system entropy, Δ<emphasis effect="italics">S</emphasis> &lt; 0. This molecular-scale interpretation of entropy provides a link to the probability that a process will occur as illustrated in the next paragraphs.</para>
+<para id="fs-idm119038640">Consider the general case of a system comprised of <emphasis effect="italics">N</emphasis> particles distributed among <emphasis effect="italics">n</emphasis> boxes. The number of microstates possible for such a system is <emphasis effect="italics">n<sup>N</sup></emphasis>. For example, distributing four particles among two boxes will result in 2<sup>4</sup> = 16 different microstates as illustrated in <link target-id="CNX_Chem_16_02_Microstates"/>. Microstates with equivalent particle arrangements (not considering individual particle identities) are grouped together and are called <emphasis effect="italics">distributions</emphasis>. The probability that a system will exist with its components in a given distribution is proportional to the number of microstates within the distribution. Since entropy increases logarithmically with the number of microstates, <emphasis effect="italics">the most probable distribution is therefore the one of greatest entropy</emphasis>.</para>
+<figure id="CNX_Chem_16_02_Microstates">
+<media id="fs-idm219643568" alt="Five rows of diagrams that look like dominoes are shown and labeled a, b, c, d, and e. Row a has one “domino” that has four dots on the left side, red, green, blue and yellow in a clockwise pattern from the top left, and no dots on the right. Row b has four “dominos,” each with three dots on the left and one dot on the right. The first shows a “domino” with green, yellow and blue on the left and red on the right. The second “domino” has yellow, blue and red on the left and green on the right. The third “domino” has red, green and yellow on the left and blue on the right while the fourth has red, green and blue on the left and yellow on the right. Row c has six “dominos”, each with two dots on either side. The first has a red and green on the left and a blue and yellow on the right. The second has a red and blue on the left and a green and yellow on the right while the third has a yellow and red on the left and a green and blue on the right. The fourth has a green and blue on the left and a red and yellow on the right. The fifth has a green and yellow on the left and a red and blue on the right. The sixth has a blue and yellow on the left and a green and red on the right. Row d has four “dominos,” each with one dot on the left and three on the right. The first “domino” has red on the left and a blue, green and yellow on the right. The second has a green on the left and a red, yellow and blue on the right. The third has a blue on the left and a red, green and yellow on the right. The fourth has a yellow on the left and a red, green and blue on the right. Row e has 1 “domino” with no dots on the left and four dots on the right that are red, green, blue and yellow.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_16_02_Microstates.jpg"/></media>
+<caption>The sixteen microstates associated with placing four particles in two boxes are shown. The microstates are collected into five distributions—(a), (b), (c), (d), and (e)—based on the numbers of particles in each box.</caption>
+</figure>
+<para id="fs-idm104062656">For this system, the most probable configuration is one of the six microstates associated with distribution (c) where the particles are evenly distributed between the boxes, that is, a configuration of two particles in each box. The probability of finding the system in this configuration is <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:math> or <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>8</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> The least probable configuration of the system is one in which all four particles are in one box, corresponding to distributions (a) and (e), each with a probability of <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> The probability of finding all particles in only one box (either the left box or right box) is then <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>2</m:mn><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:math> or <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math>
+</para><para id="fs-idm150227312">As you add more particles to the system, the number of possible microstates increases exponentially (2<sup><emphasis effect="italics">N</emphasis></sup>). A macroscopic (laboratory-sized) system would typically consist of moles of particles (<emphasis effect="italics">N</emphasis> ~ 10<sup>23</sup>), and the corresponding number of microstates would be staggeringly huge. Regardless of the number of particles in the system, however, the distributions in which roughly equal numbers of particles are found in each box are always the most probable configurations.</para>
+<para id="fs-idm158412992">The previous description of an ideal gas expanding into a vacuum (<link target-id="CNX_Chem_16_02_Gas" document="m51137"/>) is a macroscopic example of this particle-in-a-box model. For this system, the most probable distribution is confirmed to be the one in which the matter is most uniformly dispersed or distributed between the two flasks. The spontaneous process whereby the gas contained initially in one flask expands to fill both flasks equally therefore yields an increase in entropy for the system.</para>
+<para id="fs-idm167918400">A similar approach may be used to describe the spontaneous flow of heat. Consider a system consisting of two objects, each containing two particles, and two units of energy (represented as “*”) in <link target-id="CNX_Chem_16_03_Energy"/>. The hot object is comprised of particles <emphasis effect="bold">A</emphasis> and <emphasis effect="bold">B</emphasis> and initially contains both energy units. The cold object is comprised of particles <emphasis effect="bold">C</emphasis> and <emphasis effect="bold">D</emphasis>, which initially has no energy units. Distribution (a) shows the three microstates possible for the initial state of the system, with both units of energy contained within the hot object. If one of the two energy units is transferred, the result is distribution (b) consisting of four microstates. If both energy units are transferred, the result is distribution (c) consisting of three microstates. And so, we may describe this system by a total of ten microstates. The probability that the heat does not flow when the two objects are brought into contact, that is, that the system remains in distribution (a), is <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math>
+More likely is the flow of heat to yield one of the other two distribution, the combined probability being <m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math>
+The most likely result is the flow of heat to yield the uniform dispersal of energy represented by distribution (b), the probability of this configuration being <m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math>
+As for the previous example of matter dispersal, extrapolating this treatment to macroscopic collections of particles dramatically increases the probability of the uniform distribution relative to the other distributions. This supports the common observation that placing hot and cold objects in contact results in spontaneous heat flow that ultimately equalizes the objects’ temperatures. And, again, this spontaneous process is also characterized by an increase in system entropy.</para>
+<figure id="CNX_Chem_16_03_Energy"><media id="fs-idm215022256" alt="Three rows labeled a, b, and c are shown and each contains rectangles with two sides where the left side is labeled, “A,” and “B,” and the right is labeled, “C,” and “D.” Row a has three rectangles where the first has a dot above and below the letter A, the second has a dot above the A and B, and the third which has a dot above and below the letter B. Row b has four rectangles; the first has a dot above A and C, the second has a dot above A and D, the third has a dot above B and C and the fourth has a dot above B and D. Row c has three rectangles; the first has a dot above and below the letter C, the second has a dot above C and D and the third has a dot above and below the letter D.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_16_03_Energy.jpg"/></media>
+<caption>This shows a microstate model describing the flow of heat from a hot object to a cold object. (a) Before the heat flow occurs, the object comprised of particles <emphasis effect="bold">A</emphasis> and <emphasis effect="bold">B</emphasis> contains both units of energy and as represented by a distribution of three microstates. (b) If the heat flow results in an even dispersal of energy (one energy unit transferred), a distribution of four microstates results. (c) If both energy units are transferred, the resulting distribution has three microstates.</caption>
+</figure>
+<example id="fs-idm141128112">
+<para id="fs-idm120145792"><title>Determination of Δ<emphasis effect="italics">S</emphasis></title>
+Consider the system shown here. What is the change in entropy for a process that converts the system from distribution (a) to (c)?</para>
+<media id="CNX_Chem_16_03_Matter_img" alt="A diagram shows one rectangle with two sides that has four dots, red, green, yellow and blue written on the left side. A right-facing arrow leads to six more two-sided rectangles, each with two dots on the left and right sides. The first rectangle has a red and green dot on the left and a blue and yellow on the right, while the second shows a red and blue on the left and a green and yellow on the right. The third rectangle has a red and yellow dot on the left and a blue and green on the right, while the fourth shows a green and blue on the left and a red and yellow on the right. The fifth rectangle has a yellow and green dot on the left and a blue and red on the right, while the sixth shows a yellow and blue on the left and a green and red on the right.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_16_03_Matter_img.jpg"/></media>
+<para id="fs-idm211323008"><title>Solution</title>
+We are interested in the following change:</para>
+<para id="fs-idm97076112">The initial number of microstates is one, the final six:</para>
+<equation id="fs-idm221426432"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>c</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1.38</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mn>6</m:mn><m:mn>1</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2.47</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm190514064">The sign of this result is consistent with expectation; since there are more microstates possible for the final state than for the initial state, the change in entropy should be positive.</para>
+<para id="fs-idm208064656"><title>Check Your Learning</title>
+Consider the system shown in <link target-id="CNX_Chem_16_03_Energy"/>. What is the change in entropy for the process where <emphasis effect="italics">all</emphasis> the energy is transferred from the hot object (<emphasis effect="bold">AB</emphasis>) to the cold object (<emphasis effect="bold">CD</emphasis>)?</para>
+<note id="fs-idp48055552">
+<title>Answer:</title>
+<para id="fs-idm145487536">0 J/K</para>
+</note>
+</example>
+</section>
+<section id="fs-idp49499248">
+<title>Predicting the Sign of Δ<emphasis effect="italics">S</emphasis></title>
+<para id="fs-idm169703584">The relationships between entropy, microstates, and matter/energy dispersal described previously allow us to make generalizations regarding the relative entropies of substances and to predict the sign of entropy changes for chemical and physical processes. Consider the phase changes illustrated in <link target-id="CNX_Chem_16_03_Entropies"/>. In the solid phase, the atoms or molecules are restricted to nearly fixed positions with respect to each other and are capable of only modest oscillations about these positions. With essentially fixed locations for the system’s component particles, the number of microstates is relatively small. In the liquid phase, the atoms or molecules are free to move over and around each other, though they remain in relatively close proximity to one another. This increased freedom of motion results in a greater variation in possible particle locations, so the number of microstates is correspondingly greater than for the solid. As a result, <emphasis effect="italics">S</emphasis><sub>liquid</sub> &gt; <emphasis effect="italics">S</emphasis><sub>solid</sub> and the process of converting a substance from solid to liquid (melting) is characterized by an increase in entropy, Δ<emphasis effect="italics">S</emphasis> &gt; 0. By the same logic, the reciprocal process (freezing) exhibits a decrease in entropy, Δ<emphasis effect="italics">S</emphasis> &lt; 0.</para>
+<figure id="CNX_Chem_16_03_Entropies"><media id="fs-idm187243744" alt="Three stoppered flasks are shown with right and left-facing arrows in between each; the first is labeled above as, “delta S greater than 0,” and below as, “delta S less than 0,” while the second is labeled above as, “delta S greater than 0,” and below as, “delta S less than 0.” A long, right-facing arrow is drawn above all the flasks and labeled, “Increasing entropy.” The left flask contains twenty-seven particles arranged in a cube in the bottom of the flask and is labeled, “Crystalline solid,” below. The middle flask contains twenty-seven particles dispersed randomly in the bottom of the flask and is labeled, “Liquid,” below. The right flask contains twenty-seven particles dispersed inside of the flask and moving rapidly and is labeled, “Gas,” below.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_16_03_Entropies.jpg"/></media>
+<caption>The entropy of a substance increases (Δ<emphasis effect="italics">S</emphasis> &gt; 0) as it transforms from a relatively ordered solid, to a less-ordered liquid, and then to a still less-ordered gas. The entropy decreases (Δ<emphasis effect="italics">S</emphasis> &lt; 0) as the substance transforms from a gas to a liquid and then to a solid.</caption>
+</figure>
+<para id="fs-idm123213200">Now consider the vapor or gas phase. The atoms or molecules occupy a <emphasis effect="italics">much</emphasis> greater volume than in the liquid phase; therefore each atom or molecule can be found in many more locations than in the liquid (or solid) phase. Consequently, for any substance, <emphasis effect="italics">S</emphasis><sub>gas</sub> &gt; <emphasis effect="italics">S</emphasis><sub>liquid</sub> &gt; <emphasis effect="italics">S</emphasis><sub>solid</sub>, and the processes of vaporization and sublimation likewise involve increases in entropy, Δ<emphasis effect="italics">S</emphasis> &gt; 0. Likewise, the reciprocal phase transitions, condensation and deposition, involve decreases in entropy, Δ<emphasis effect="italics">S</emphasis> &lt; 0.</para>
+<para id="fs-idp32863824">According to kinetic-molecular theory, the temperature of a substance is proportional to the average kinetic energy of its particles. Raising the temperature of a substance will result in more extensive vibrations of the particles in solids and more rapid translations of the particles in liquids and gases. At higher temperatures, the distribution of kinetic energies among the atoms or molecules of the substance is also broader (more dispersed) than at lower temperatures. Thus, the entropy for any substance increases with temperature (<link target-id="CNX_Chem_16_02_EntGraph"/>).</para>
+<figure id="CNX_Chem_16_02_EntGraph"><media id="fs-idm190770944" alt="Two graphs are shown. The y-axis of the left graph is labeled, “Fraction of molecules,” while the x-axis is labeled, “Velocity, v ( m / s ),” and has values of 0 through 1,500 along the axis with increments of 500. Four lines are plotted on this graph. The first, labeled, “100 K,” peaks around 200 m / s while the second, labeled, “200 K,” peaks near 300 m / s and is slightly lower on the y-axis than the first. The third line, labeled, “500 K,” peaks around 550 m / s and is lower than the first two on the y-axis. The fourth line, labeled, “1000 K,” peaks around 750 m / s and is the lowest of the four on the y-axis. Each line get increasingly broad. The second graph has a y-axis labeled, “Entropy, S,” with an upward-facing arrow and an x-axis labeled, “Temperature ( K ),” and a right-facing arrow. The graph has three equally spaced columns in the background, labeled, “Solid,” “Liquid,” and, “Gas,” from left to right. A line extends slightly upward through the first column in a slight upward direction, then goes straight up in the transition between the first two columns. In then progresses in a slight upward direction through the second column, then goes up dramatically between the second and third columns, then continues in a slight upward direction once more. The first vertical region of this line is labeled, “Melting,” and the second is labeled, “Boiling.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_16_02_EntGraph.jpg"/></media>
+<caption>Entropy increases as the temperature of a substance is raised, which corresponds to the greater spread of kinetic energies. When a substance melts or vaporizes, it experiences a significant increase in entropy.</caption>
+</figure>
+<note id="fs-idm189737360" class="chemistry link-to-learning">
+<media id="fs-idm168406032" alt=" ">
+<image mime-type="image/png" src="../../media/OSC_Interactive_200.png"/>
+</media>
+<para id="fs-idm305735232">Try this <link url="http://openstax.org/l/16freemotion">simulator</link> with interactive visualization of the dependence of particle location and freedom of motion on physical state and temperature.</para>
+</note>
+<para id="fs-idm135226880">The entropy of a substance is influenced by the structure of the particles (atoms or molecules) that comprise the substance. With regard to atomic substances, heavier atoms possess greater entropy at a given temperature than lighter atoms, which is a consequence of the relation between a particle’s mass and the spacing of quantized translational energy levels (which is a topic beyond the scope of our treatment). For molecules, greater numbers of atoms (regardless of their masses) increase the number of ways in which the molecules can vibrate and thus the number of possible microstates and the entropy of the system.</para><para id="fs-idm96833856">Finally, variations in the types of particles affects the entropy of a system. Compared to a pure substance, in which all particles are identical, the entropy of a mixture of two or more different particle types is greater. This is because of the additional orientations and interactions that are possible in a system comprised of nonidentical components. For example, when a solid dissolves in a liquid, the particles of the solid experience both a greater freedom of motion and additional interactions with the solvent particles. This corresponds to a more uniform dispersal of matter and energy and a greater number of microstates. The process of dissolution therefore involves an increase in entropy, Δ<emphasis effect="italics">S</emphasis> &gt; 0.</para>
+<para id="fs-idm224301776">Considering the various factors that affect entropy allows us to make informed predictions of the sign of Δ<emphasis effect="italics">S</emphasis> for various chemical and physical processes as illustrated in <link target-id="fs-idm151499136"/>.</para>
+<example id="fs-idm151499136">
+<para id="fs-idp52796224"><title>Predicting the Sign of ∆<emphasis effect="italics">S</emphasis></title>
+Predict the sign of the entropy change for the following processes. Indicate the reason for each of your predictions.</para>
+<para id="fs-idm216333072">(a) One mole liquid water at room temperature <m:math><m:mrow><m:mo stretchy="false">⟶</m:mo></m:mrow></m:math> one mole liquid water at 50 °C</para>
+<para id="fs-idm120870816">(b) <m:math><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>AgCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para>
+<para id="fs-idm126368960">(c) <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>6</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para><para id="fs-idm146695616">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para>
+<para id="fs-idm200549408"><title>Solution</title>
+(a) positive, temperature increases</para>
+<para id="fs-idm136327104">(b) negative, reduction in the number of ions (particles) in solution, decreased dispersal of matter</para>
+<para id="fs-idm137858960">(c) negative, net decrease in the amount of gaseous species</para>
+<para id="fs-idm119107312">(d) positive, phase transition from solid to liquid, net increase in dispersal of matter</para>
+<para id="fs-idm10344720"><title>Check Your Learning</title>
+Predict the sign of the enthalpy change for the following processes. Give a reason for your prediction.</para>
+<para id="fs-idm40731056">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NaNO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para>
+<para id="fs-idp86372496">(b) the freezing of liquid water</para>
+<para id="fs-idm69138640">(c) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para>
+<para id="fs-idm47554640">(d) <m:math><m:mrow><m:mtext>CaCO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CaO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para>
+<note id="fs-idm8656368">
+<title>Answer:</title>
+<para id="fs-idm140480768">(a) Positive; The solid dissolves to give an increase of mobile ions in solution. (b) Negative; The liquid becomes a more ordered solid. (c) Positive; The relatively ordered solid becomes a gas. (d) Positive; There is a net production of one mole of gas.</para>
+</note>
+</example>
+</section>
+<section id="fs-idm166431584" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm12417328">Entropy (<emphasis effect="italics">S</emphasis>) is a state function that can be related to the number of microstates for a system (the number of ways the system can be arranged) and to the ratio of reversible heat to kelvin temperature. It may be interpreted as a measure of the dispersal or distribution of matter and/or energy in a system, and it is often described as representing the “disorder” of the system.</para>
+<para id="fs-idm1916912">For a given substance, its entropy depends on its phase with <emphasis effect="italics">S</emphasis><sub>solid</sub> &lt; <emphasis effect="italics">S</emphasis><sub>liquid</sub> &lt; <emphasis effect="italics">S</emphasis><sub>gas</sub>. For different substances in the same physical state at a given temperature, entropy is typically greater for heavier atoms or more complex molecules. Entropy increases when a system is heated and when solutions form. Using these guidelines, the sign of entropy changes for some chemical reactions and physical changes may be reliably predicted.</para></section>
+<section id="fs-idm145716272" class="key-equations">
+<title>Key Equations</title>
+<list id="fs-idm100247232" list-type="bulleted" bullet-style="bullet">
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>rev</m:mtext></m:mrow></m:msub></m:mrow><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></item>
+<item><emphasis effect="italics">S</emphasis> = <emphasis effect="italics">k</emphasis> ln <emphasis effect="italics">W</emphasis></item>
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>f</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>i</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:math></item>
+</list>
+</section>
+<section id="fs-idm93579488" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp46279440">
+<problem id="fs-idm109400640">
+<para id="fs-idm68890768">In <link target-id="CNX_Chem_16_02_Microstates"/> all possible distributions and microstates are shown for four different particles shared between two boxes. Determine the entropy change, Δ<emphasis effect="italics">S</emphasis>, if the particles are initially evenly distributed between the two boxes, but upon redistribution all end up in Box (b).</para>
+</problem>
+</exercise>
+<exercise id="fs-idm145774432">
+<problem id="fs-idm66361200">
+<para id="fs-idm174300432">In <link target-id="CNX_Chem_16_02_Microstates"/> all of the possible distributions and microstates are shown for four different particles shared between two boxes. Determine the entropy change, Δ<emphasis effect="italics">S</emphasis>, for the system when it is converted from distribution (b) to distribution (d).</para>
+</problem>
+<solution id="fs-idm163356864">
+<para id="fs-idm50785744">There are four initial microstates and four final microstates.<newline/><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>f</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>i</m:mtext></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1.38</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>10</m:mtext></m:mrow><m:mrow><m:mn>−23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mn>4</m:mn><m:mn>4</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idm56843152">
+<problem id="fs-idm228836960">
+<para id="fs-idm224401216">How does the process described in the previous item relate to the system shown in <link target-id="CNX_Chem_16_02_Gas" document="m51137"/>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm72753056">
+<problem id="fs-idm73918544">
+<para id="fs-idp160153456">Consider a system similar to the one in <link target-id="CNX_Chem_16_02_Microstates"/>, except that it contains six particles instead of four. What is the probability of having all the particles in only one of the two boxes in the case? Compare this with the similar probability for the system of four particles that we have derived to be equal to <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> What does this comparison tell us about even larger systems?</para>
+</problem>
+<solution id="fs-idm63527680">
+<para id="fs-idm56607328">The probability for all the particles to be on one side is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>32</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> This probability is noticeably lower than the <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> result for the four-particle system. The conclusion we can make is that the probability for all the particles to stay in only one part of the system will decrease rapidly as the number of particles increases, and, for instance, the probability for all molecules of gas to gather in only one side of a room at room temperature and pressure is negligible since the number of gas molecules in the room is very large.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm215906096">
+<problem id="fs-idm170790896">
+<para id="fs-idm156781200">Consider the system shown in <link target-id="CNX_Chem_16_03_Energy"/>. What is the change in entropy for the process where the energy is initially associated only with particle A, but in the final state the energy is distributed between two different particles?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm18362192">
+<problem id="fs-idm9224608">
+<para id="fs-idm36866176">Consider the system shown in <link target-id="CNX_Chem_16_03_Energy"/>. What is the change in entropy for the process where the energy is initially associated with particles A and B, and the energy is distributed between two particles in different boxes (one in A-B, the other in C-D)?</para>
+</problem>
+<solution id="fs-idm1429872">
+<para id="fs-idp149676672">There is only one initial state. For the final state, the energy can be contained in pairs A-C, A-D, B-C, or B-D. Thus, there are four final possible states.<newline/>
+<m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mspace width="0.3em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>f</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>W</m:mi><m:mtext>i</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1.38</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1.91</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idm199093136">
+<problem id="fs-idm228522528">
+<para id="fs-idm213530176">Arrange the following sets of systems in order of increasing entropy. Assume one mole of each substance and the same temperature for each member of a set.</para>
+<para id="fs-idp44137920">(a) H<sub>2</sub>(<emphasis effect="italics">g</emphasis>), HBrO<sub>4</sub>(<emphasis effect="italics">g</emphasis>), HBr(<emphasis effect="italics">g</emphasis>)</para>
+<para id="fs-idm142133824">(b) H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>), H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>), H<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)</para>
+<para id="fs-idm163064272">(c) He(<emphasis effect="italics">g</emphasis>), Cl<sub>2</sub>(<emphasis effect="italics">g</emphasis>), P<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm215000480">
+<problem id="fs-idm104063488">
+<para id="fs-idm186954224">At room temperature, the entropy of the halogens increases from I<sub>2</sub> to Br<sub>2</sub> to Cl<sub>2</sub>. Explain.</para>
+</problem>
+<solution id="fs-idp63184464">
+<para id="fs-idm213636080">The masses of these molecules would suggest the opposite trend in their entropies. The observed trend is a result of the more significant variation of entropy with a physical state. At room temperature, I<sub>2</sub> is a solid, Br<sub>2</sub> is a liquid, and Cl<sub>2</sub> is a gas.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm12232336">
+<problem id="fs-idp76272544">
+<para id="fs-idm51261056">Consider two processes: sublimation of I<sub>2</sub>(<emphasis effect="italics">s</emphasis>) and melting of I<sub>2</sub>(<emphasis effect="italics">s</emphasis>) (Note: the latter process can occur at the same temperature but somewhat higher pressure).</para>
+<para id="fs-idp161887648"><m:math><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm49084704"><m:math><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para><para id="fs-idm55094160">Is Δ<emphasis effect="italics">S</emphasis> positive or negative in these processes? In which of the processes will the magnitude of the entropy change be greater?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm136809856">
+<problem id="fs-idm162698464">
+<para id="fs-idm100556464">Indicate which substance in the given pairs has the higher entropy value. Explain your choices.</para>
+<para id="fs-idm134468944">(a) C<sub>2</sub>H<sub>5</sub>OH(<emphasis effect="italics">l</emphasis>) or C<sub>3</sub>H<sub>7</sub>OH(<emphasis effect="italics">l</emphasis>)</para>
+<para id="fs-idp5877872">(b) C<sub>2</sub>H<sub>5</sub>OH(<emphasis effect="italics">l</emphasis>) or C<sub>2</sub>H<sub>5</sub>OH(<emphasis effect="italics">g</emphasis>)</para>
+<para id="fs-idm120697520">(c) 2H(<emphasis effect="italics">g</emphasis>) or H(<emphasis effect="italics">g</emphasis>)</para>
+</problem>
+<solution id="fs-idm141719920">
+<para id="fs-idm99883024">(a) C<sub>3</sub>H<sub>7</sub>OH(<emphasis effect="italics">l</emphasis>) as it is a larger molecule (more complex and more massive), and so more microstates describing its motions are available at any given temperature. (b) C<sub>2</sub>H<sub>5</sub>OH(<emphasis effect="italics">g</emphasis>) as it is in the gaseous state. (c) 2H(<emphasis effect="italics">g</emphasis>), since entropy is an extensive property, and so two H atoms (or two moles of H atoms) possess twice as much entropy as one atom (or one mole of atoms).</para>
+</solution>
+</exercise>
+<exercise id="fs-idm216212480">
+<problem id="fs-idp63165408">
+<para id="fs-idp47257056">Predict the sign of the entropy change for the following processes.</para>
+<para id="fs-idm96430336">(a) An ice cube is warmed to near its melting point.</para>
+<para id="fs-idp62448">(b) Exhaled breath forms fog on a cold morning.</para>
+<para id="fs-idm161394496">(c) Snow melts.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm203140096">
+<problem id="fs-idm120425360">
+<para id="fs-idm100068288">Predict the sign of the entropy change for the following processes. Give a reason for your prediction.</para><para id="fs-idm56208096">(a) <m:math><m:mrow><m:msup><m:mrow><m:mtext>Pb</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>PbS</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para>
+<para id="fs-idp39785184">(b) <m:math><m:mrow><m:mn>2</m:mn><m:mtext>Fe</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para><para id="fs-idm136698544">(c) <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>14</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>19</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>14</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>12</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math>
+</para>
+</problem>
+<solution id="fs-idm163147456">
+<para id="fs-idm194079920">(a) Negative. The relatively ordered solid precipitating decreases the number of mobile ions in solution. (b) Negative. There is a net loss of three moles of gas from reactants to products. (c) Positive. There is a net increase of seven moles of gas from reactants to products.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm213645360">
+<problem id="fs-idm92991808">
+<para id="fs-idm161095360">Write the balanced chemical equation for the combustion of methane, CH<sub>4</sub>(<emphasis effect="italics">g</emphasis>), to give carbon dioxide and water vapor. Explain why it is difficult to predict whether Δ<emphasis effect="italics">S</emphasis> is positive or negative for this chemical reaction.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp19392560">
+<problem id="fs-idm41159888">
+<para id="fs-idm71912080">Write the balanced chemical equation for the combustion of benzene, C<sub>6</sub>H<sub>6</sub>(<emphasis effect="italics">l</emphasis>), to give carbon dioxide and water vapor. Would you expect Δ<emphasis effect="italics">S</emphasis> to be positive or negative in this process?</para>
+</problem>
+<solution id="fs-idp86729376">
+<para id="fs-idm4241680"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>7.5</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math><newline/>
+There are 7.5 moles of gas initially, and 3 + 6 = 9 moles of gas in the end. Therefore, it is likely that the entropy increases as a result of this reaction, and Δ<emphasis effect="italics">S</emphasis> is positive.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm225836896">
+<term>entropy (<emphasis effect="italics">S</emphasis>)</term><meaning id="fs-idm216701616">state function that is a measure of the matter and/or energy dispersal within a system, determined by the number of system microstates often described as a measure of the disorder of the system</meaning>
+</definition>
+<definition id="fs-idm228328464">
+<term>microstate (<emphasis effect="italics">W</emphasis>)</term><meaning id="fs-idm63939616">possible configuration or arrangement of matter and energy within a system</meaning>
+</definition>
+<definition id="fs-idp48318480">
+<term>reversible process</term><meaning id="fs-idm216005888">process that takes place so slowly as to be capable of reversing direction in response to an infinitesimally small change in conditions; hypothetical construct that can only be approximated by real processes removed</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,329 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Structure and General Properties of the Metalloids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51160</md:content-id>
+  <md:title>Structure and General Properties of the Metalloids</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the general preparation, properties, and uses of the metalloids</item>
+<item>Describe the preparation, properties, and compounds of boron and silicon</item>
+</list></md:abstract>
+  <md:uuid>a9254810-9f64-4982-9419-c562bed791b7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp17717312">A series of six elements called the metalloids separate the metals from the nonmetals in the periodic table. The metalloids are boron, silicon, germanium, arsenic, antimony, and tellurium. These elements look metallic; however, they do not conduct electricity as well as metals so they are semiconductors. They are semiconductors because their electrons are more tightly bound to their nuclei than are those of metallic conductors. Their chemical behavior falls between that of metals and nonmetals. For example, the pure metalloids form covalent crystals like the nonmetals, but like the metals, they generally do not form monatomic anions. This intermediate behavior is in part due to their intermediate electronegativity values. In this section, we will briefly discuss the chemical behavior of metalloids and deal with two of these elements—boron and silicon—in more detail.</para>
+<para id="fs-idp189496896">The metalloid boron exhibits many similarities to its neighbor carbon and its diagonal neighbor silicon. All three elements form covalent compounds. However, boron has one distinct difference in that its 2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>1</sup> outer electron structure gives it one less valence electron than it has valence orbitals. Although boron exhibits an oxidation state of 3+ in most of its stable compounds, this electron deficiency provides boron with the ability to form other, sometimes fractional, oxidation states, which occur, for example, in the boron hydrides.</para>
+<para id="fs-idp63064256">Silicon has the valence shell electron configuration 3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>2</sup>, and it commonly forms tetrahedral structures in which it is <emphasis effect="italics">sp</emphasis><sup>3</sup> hybridized with a formal oxidation state of 4+. The major differences between the chemistry of carbon and silicon result from the relative strength of the carbon-carbon bond, carbon’s ability to form stable bonds to itself, and the presence of the empty 3<emphasis effect="italics">d</emphasis> valence-shell orbitals in silicon. Silicon’s empty <emphasis effect="italics">d</emphasis> orbitals and boron’s empty <emphasis effect="italics">p</emphasis> orbital enable tetrahedral silicon compounds and trigonal planar boron compounds to act as Lewis acids. Carbon, on the other hand, has no available valence shell orbitals; tetrahedral carbon compounds cannot act as Lewis acids. Germanium is very similar to silicon in its chemical behavior.</para>
+<para id="fs-idp125396304">Arsenic and antimony generally form compounds in which an oxidation state of 3+ or 5+ is exhibited; however, arsenic can form arsenides with an oxidation state of 3−. These elements tarnish only slightly in dry air but readily oxidize when warmed.</para>
+<para id="fs-idp421952">Tellurium combines directly with most elements. The most stable tellurium compounds are the tellurides—salts of Te<sup>2−</sup> formed with active metals and lanthanides—and compounds with oxygen, fluorine, and chlorine, in which tellurium normally exhibits an oxidation state 2+ or 4+. Although tellurium(VI) compounds are known (for example, TeF<sub>6</sub>), there is a marked resistance to oxidation to this maximum group oxidation state.</para>
+<section id="fs-idp249805056">
+<title>Structures of the Metalloids</title>
+<para id="fs-idm34751888">Covalent bonding is the key to the crystal structures of the metalloids. In this regard, these elements resemble nonmetals in their behavior.</para>
+<para id="fs-idp235228864">Elemental silicon, germanium, arsenic, antimony, and tellurium are lustrous, metallic-looking solids. Silicon and germanium crystallize with a diamond structure. Each atom within the crystal has covalent bonds to four neighboring atoms at the corners of a regular tetrahedron. Single crystals of silicon and germanium are giant, three-dimensional molecules. There are several allotropes of arsenic with the most stable being layer like and containing puckered sheets of arsenic atoms. Each arsenic atom forms covalent bonds to three other atoms within the sheet. The crystal structure of antimony is similar to that of arsenic, both shown in <link target-id="CNX_Chem_18_03_Structures"/>. The structures of arsenic and antimony are similar to the structure of graphite, covered later in this chapter. Tellurium forms crystals that contain infinite spiral chains of tellurium atoms. Each atom in the chain bonds to two other atoms.</para>
+<note id="fs-idp121376784" class="chemistry link-to-learning">
+<media id="fs-idp18546176" alt=" ">
+<image mime-type="image/png" src="../../media/OSC_Interactive_200.png"/>
+</media>
+<para id="fs-idm35582272">Explore a <link url="http://openstax.org/l/16crystal">cubic diamond</link> crystal structure.</para>
+</note>
+<figure id="CNX_Chem_18_03_Structures">
+<media id="fs-idm27167568" alt="Four images are shown and are labeled “a,” “b,” “c,” and “d.” Images a and b show atoms that are single bonded together arranged in a zigzag pattern in layers. Image c shows atoms that are single bonded together into hexagons that form sheets. These sheets are shown layered one above the other. Image d shows atoms that are single bonded together in twisting chains.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Structures.jpg"/>
+</media>
+<caption>(a) Arsenic and (b) antimony have a layered structure similar to that of (c) graphite, except that the layers are puckered rather than planar. (d) Elemental tellurium forms spiral chains.</caption>
+</figure>
+<para id="fs-idp12608576">Pure crystalline boron is transparent. The crystals consist of icosahedra, as shown in <link target-id="CNX_Chem_18_03_BIcosahed"/>, with a boron atom at each corner. In the most common form of boron, the icosahedra pack together in a manner similar to the cubic closest packing of spheres. All boron-boron bonds within each icosahedron are identical and are approximately 176 pm in length. In the different forms of boron, there are different arrangements and connections between the icosahedra.</para>
+<figure id="CNX_Chem_18_03_BIcosahed">
+<media id="fs-idp340430608" alt="An image shows a group of atoms, each labeled, “B,” connected together with single bonds into a symmetrical, twenty-sided shape.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_BIcosahed.jpg"/>
+</media>
+<caption>An icosahedron is a symmetrical, solid shape with 20 faces, each of which is an equilateral triangle. The faces meet at 12 corners.</caption>
+</figure>
+<para id="fs-idp125392768">The name silicon is derived from the Latin word for flint, <emphasis effect="italics">silex</emphasis>. The metalloid silicon readily forms compounds containing Si-O-Si bonds, which are of prime importance in the mineral world. This bonding capability is in contrast to the nonmetal carbon, whose ability to form carbon-carbon bonds gives it prime importance in the plant and animal worlds.</para>
+</section>
+<section id="fs-idm27196048">
+<title>Occurrence, Preparation, and Compounds of Boron and Silicon</title>
+<para id="fs-idp70329680">Boron constitutes less than 0.001% by weight of the earth’s crust. In nature, it only occurs in compounds with oxygen. Boron is widely distributed in volcanic regions as boric acid, B(OH)<sub>3</sub>, and in dry lake regions, including the desert areas of California, as borates and salts of boron oxyacids, such as borax, Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>⋅10H<sub>2</sub>O.</para>
+<para id="fs-idp96845840">Elemental boron is chemically inert at room temperature, reacting with only fluorine and oxygen to form boron trifluoride, BF<sub>3</sub>, and boric oxide, B<sub>2</sub>O<sub>3</sub>, respectively. At higher temperatures, boron reacts with all nonmetals, except tellurium and the noble gases, and with nearly all metals; it oxidizes to B<sub>2</sub>O<sub>3</sub> when heated with concentrated nitric or sulfuric acid. Boron does not react with nonoxidizing acids. Many boron compounds react readily with water to give boric acid, B(OH)<sub>3</sub> (sometimes written as H<sub>3</sub>BO<sub>3</sub>).</para>
+<para id="fs-idp120612224">Reduction of boric oxide with magnesium powder forms boron (95–98.5% pure) as a brown, amorphous powder:</para>
+<equation id="fs-idp30766032"><m:math><m:mrow><m:msub><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>3Mg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>3MgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp204527824">An <term>amorphous</term> substance is a material that appears to be a solid, but does not have a long-range order like a true solid. Treatment with hydrochloric acid removes the magnesium oxide. Further purification of the boron begins with conversion of the impure boron into boron trichloride. The next step is to heat a mixture of boron trichloride and hydrogen:</para>
+<equation id="fs-idm91488"><m:math><m:mrow><m:msub><m:mrow><m:mtext>2BCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.5em"/><m:mn>1500</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext><m:mspace width="0.5em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>6HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>253.7 kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp112457184">Silicon makes up nearly one-fourth of the mass of the earth’s crust—second in abundance only to oxygen. The crust is composed almost entirely of minerals in which the silicon atoms are at the center of the silicon-oxygen tetrahedron, which connect in a variety of ways to produce, among other things, chains, layers, and three-dimensional frameworks. These minerals constitute the bulk of most common rocks, soil, and clays. In addition, materials such as bricks, ceramics, and glasses contain silicon compounds.</para>
+<para id="fs-idp27647072">It is possible to produce silicon by the high-temperature reduction of silicon dioxide with strong reducing agents, such as carbon and magnesium:</para>
+<equation id="fs-idm50570016"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:msub><m:mtext>SiO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.4em"/><m:mtext>Δ</m:mtext><m:mspace width="0.4em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:mtext>Si</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>SiO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2Mg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.4em"/><m:mtext>Δ</m:mtext><m:mspace width="0.4em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:mtext>Si</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2MgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm43188096">Extremely pure silicon is necessary for the manufacture of semiconductor electronic devices. This process begins with the conversion of impure silicon into silicon tetrahalides, or silane (SiH<sub>4</sub>), followed by decomposition at high temperatures. Zone refining, illustrated in <link target-id="CNX_Chem_18_03_SiPurif"/>, completes the purification. In this method, a rod of silicon is heated at one end by a heat source that produces a thin cross-section of molten silicon. Slowly lowering the rod through the heat source moves the molten zone from one end of the rod to other. As this thin, molten region moves, impurities in the silicon dissolve in the liquid silicon and move with the molten region. Ultimately, the impurities move to one end of the rod, which is then cut off.</para>
+<figure id="CNX_Chem_18_03_SiPurif">
+<media id="fs-idp87854400" alt="A diagram of a long, vertical tube is shown. The side is cut away to show a glass tube inside. At the top of the glass tube is a darker section labeled, “Impure silicon,” while toward the middle of the tube is a lighter section labeled, “Molten silicon,” and the bottom of the tube contains a white substance labeled, “Pure silicon.” A downward-facing arrow is drawn on the bottom of the tube.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_SiPurif.jpg"/>
+</media>
+<caption>A zone-refining apparatus used to purify silicon.</caption>
+</figure>
+<para id="fs-idm29187152">This highly purified silicon, containing no more than one part impurity per million parts of silicon, is the most important element in the computer industry. Pure silicon is necessary in semiconductor electronic devices such as transistors, computer chips, and solar cells.</para>
+<para id="fs-idm38894288">Like some metals, passivation of silicon occurs due the formation of a very thin film of oxide (primarily silicon dioxide, SiO<sub>2</sub>). Silicon dioxide is soluble in hot aqueous base; thus, strong bases destroy the passivation. Removal of the passivation layer allows the base to dissolve the silicon, forming hydrogen gas and silicate anions. For example:</para>
+<equation id="fs-idp306866064"><m:math><m:mrow><m:mtext>Si</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp112356272">Silicon reacts with halogens at high temperatures, forming volatile tetrahalides, such as SiF<sub>4</sub>.</para>
+<para id="fs-idp120941520">Unlike carbon, silicon does not readily form double or triple bonds. Silicon compounds of the general formula SiX<sub>4</sub>, where X is a highly electronegative group, can act as Lewis acids to form six-coordinate silicon. For example, silicon tetrafluoride, SiF<sub>4</sub>, reacts with sodium fluoride to yield Na<sub>2</sub>[SiF<sub>6</sub>], which contains the octahedral <m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>[</m:mo> <m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub></m:mrow> <m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> ion in which silicon is<emphasis effect="italics"> sp</emphasis><sup>3</sup><emphasis effect="italics">d</emphasis><sup>2</sup> hybridized:</para>
+<equation id="fs-idp219248048"><m:math><m:mrow><m:mtext>2NaF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp28729488">Antimony reacts readily with stoichiometric amounts of fluorine, chlorine, bromine, or iodine, yielding trihalides or, with excess fluorine or chlorine, forming the pentahalides SbF<sub>5</sub> and SbCl<sub>5</sub>. Depending on the stoichiometry, it forms antimony(III) sulfide, Sb<sub>2</sub>S<sub>3</sub>, or antimony(V) sulfide when heated with sulfur. As expected, the metallic nature of the element is greater than that of arsenic, which lies immediately above it in group 15.</para>
+<section id="fs-idp39834912">
+<title>Boron and Silicon Halides</title>
+<para id="fs-idp29251536">Boron trihalides—BF<sub>3</sub>, BCl<sub>3</sub>, BBr<sub>3</sub>, and BI<sub>3</sub>—can be prepared by the direct reaction of the elements. These nonpolar molecules contain boron with <emphasis effect="italics">sp</emphasis><sup>2</sup> hybridization and a trigonal planar molecular geometry. The fluoride and chloride compounds are colorless gasses, the bromide is a liquid, and the iodide is a white crystalline solid.</para>
+<para id="fs-idp20855552">Except for boron trifluoride, the boron trihalides readily hydrolyze in water to form boric acid and the corresponding hydrohalic acid. Boron trichloride reacts according to the equation:</para>
+<equation id="fs-idp99815200"><m:math><m:mrow><m:msub><m:mrow><m:mtext>BCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mtext>(OH)</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>3HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp67676992">Boron trifluoride reacts with hydrofluoric acid, to yield a solution of fluoroboric acid, HBF<sub>4</sub>:</para>
+<equation id="fs-idp73493616"><m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm52704">In this reaction, the BF<sub>3</sub> molecule acts as the Lewis acid (electron pair acceptor) and accepts a pair of electrons from a fluoride ion:</para>
+<media id="fs-idp60354928" alt="Two Lewis structures are drawn and connected by a right-facing arrow. The left structure shows a boron atom surrounded by four fluorine atoms, each with four lone pairs of electrons. The left fluorine atom has a positive and negative symbol drawn next to it. The second image is the same as the first except the positive and negative signs are missing and the entire structure is surrounded by brackets. There is a negative sign outside and superscript to the brackets.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_BLewisAcid_img.jpg"/>
+</media>
+<para id="fs-idp124888224">All the tetrahalides of silicon, SiX<sub>4</sub>, have been prepared. Silicon tetrachloride can be prepared by direct chlorination at elevated temperatures or by heating silicon dioxide with chlorine and carbon:</para>
+<equation id="fs-idp144955120"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.4em"/><m:mtext>Δ</m:mtext><m:mspace width="0.4em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SiCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp138257392">Silicon tetrachloride is a covalent tetrahedral molecule, which is a nonpolar, low-boiling (57 °C), colorless liquid.</para>
+<para id="fs-idp15153872">It is possible to prepare silicon tetrafluoride by the reaction of silicon dioxide with hydrofluoric acid:</para>
+<equation id="fs-idp26130592"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>4HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>−191.2 kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp1989488">Hydrofluoric acid is the only common acid that will react with silicon dioxide or silicates. This reaction occurs because the silicon-fluorine bond is the only bond that silicon forms that is stronger than the silicon-oxygen bond. For this reason, it is possible to store all common acids, other than hydrofluoric acid, in glass containers.</para>
+<para id="fs-idm18263392">Except for silicon tetrafluoride, silicon halides are extremely sensitive to water. Upon exposure to water, SiCl<sub>4</sub> reacts rapidly with hydroxide groups, replacing all four chlorine atoms to produce unstable orthosilicic acid, Si(OH)<sub>4</sub> or H<sub>4</sub>SiO<sub>4</sub>, which slowly decomposes into SiO<sub>2</sub>.</para>
+</section>
+<section id="fs-idp46544496">
+<title>Boron and Silicon Oxides and Derivatives</title>
+<para id="fs-idp51369216">Boron burns at 700 °C in oxygen, forming boric oxide, B<sub>2</sub>O<sub>3</sub>. Boric oxide is necessary for the production of heat-resistant borosilicate glass, like that shown in <link target-id="CNX_Chem_18_02_Glass"/> and certain optical glasses. Boric oxide dissolves in hot water to form boric acid, B(OH)<sub>3</sub>:</para>
+<equation id="fs-idp275317776"><m:math><m:mrow><m:msub><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:msub><m:mrow><m:mtext>(OH)</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<figure id="CNX_Chem_18_02_Glass">
+<media id="fs-idp236200768" alt="A photo of beakers, flasks, and graduated cylinders is shown. Each piece of glassware holds a different color liquid.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_02_Glass.jpg"/>
+</media>
+<caption>Laboratory glassware, such as Pyrex and Kimax, is made of borosilicate glass because it does not break when heated. The inclusion of borates in the glass helps to mediate the effects of thermal expansion and contraction. This reduces the likelihood of thermal shock, which causes silicate glass to crack upon rapid heating or cooling. (credit: “Tweenk”/Wikimedia Commons)</caption>
+</figure>
+<para id="fs-idp122478912">The boron atom in B(OH)<sub>3</sub> is <emphasis effect="italics">sp</emphasis><sup>2</sup> hybridized and is located at the center of an equilateral triangle with oxygen atoms at the corners. In solid B(OH)<sub>3</sub>, hydrogen bonding holds these triangular units together. Boric acid, shown in <link target-id="CNX_Chem_18_02_Boricacid_img"/>, is a very weak acid that does not act as a proton donor but rather as a Lewis acid, accepting an unshared pair of electrons from the Lewis base OH<sup>−</sup>:</para>
+<equation id="fs-idp28519200"><m:math><m:mrow><m:mtext>B</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>5.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−10</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<figure id="CNX_Chem_18_02_Boricacid_img">
+<media id="fs-idp80715904" alt="A Lewis structure shows a boron atom single bonded to three oxygen atoms, each of which is single bonded to a hydrogen atom. The oxygen atoms are arranged at equal angles around the boron atom and each angle is labeled,“120 degrees.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_02_Boricacid_img.jpg"/>
+</media>
+<caption>Boric acid has a planar structure with three –OH groups spread out equally at 120° angles from each other.</caption>
+</figure>
+<para id="fs-idm19131184">Heating boric acid to 100 °C causes molecules of water to split out between pairs of adjacent –OH groups to form metaboric acid, HBO<sub>2</sub>. At about 150 °C, additional B-O-B linkages form, connecting the BO<sub>3</sub> groups together with shared oxygen atoms to form tetraboric acid, H<sub>2</sub>B<sub>4</sub>O<sub>7</sub>. Complete water loss, at still higher temperatures, results in boric oxide.</para>
+<para id="fs-idp204424928"><term>Borates</term> are salts of the oxyacids of boron. Borates result from the reactions of a base with an oxyacid or from the fusion of boric acid or boric oxide with a metal oxide or hydroxide. Borate anions range from the simple trigonal planar <m:math><m:mrow><m:msub><m:mrow><m:mtext>BO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math> ion to complex species containing chains and rings of three- and four-coordinated boron atoms. The structures of the anions found in CaB<sub>2</sub>O<sub>4</sub>, K[B<sub>5</sub>O<sub>6</sub>(OH)<sub>4</sub>]⋅2H<sub>2</sub>O (commonly written KB<sub>5</sub>O<sub>8</sub>⋅4H<sub>2</sub>O) and Na<sub>2</sub>[B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub>]⋅8H<sub>2</sub>O (commonly written Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>⋅10H<sub>2</sub>O) are shown in <link target-id="CNX_Chem_18_03_BorateAnio"/>. Commercially, the most important borate is borax, Na<sub>2</sub>[B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub>]⋅8H<sub>2</sub>O, which is an important component of some laundry detergents. Most of the supply of borax comes directly from dry lakes, such as Searles Lake in California, or is prepared from kernite, Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>⋅4H<sub>2</sub>O.</para>
+<figure id="CNX_Chem_18_03_BorateAnio">
+<media id="fs-idp89373536" alt="Three Lewis structures are shown and labeled, “a,” “b,” and “c.” Structure a shows a boron atom single bonded to two oxygen atoms. One oxygen atom has a negative charge, and the other is single bonded to a second boron atom. This boron atom is single bonded to oxygen atoms, just like the first, to create a repeating chain of these units. The first two boron atoms and their attached oxygen atoms are surrounded by a dotted-line box and labeled, “B subscript 2 O subscript 4 superscript 2 negative sign unit.” Structure b shows two hexagonal ring structures, attached together in the center by a boron atom. Each ring is made up of alternating boron and oxygen atoms, with four hydroxyl groups located at the outer upper and lower corners of the whole structure. Brackets and a superscripted negative sign surround the structure. Structure c shows an eight-sided ring structure made up of alternating boron and oxygen atoms. Each boron atom is attached to a hydroxyl group and an oxygen atom is single bonded to the first and third boron atoms. This oxygen atom is located in the center of the ring. The whole structure is surrounded by brackets and has a superscripted 2 negative sign.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_BorateAnio.jpg"/>
+</media>
+<caption>The borate anions are (a) CaB<sub>2</sub>O<sub>4</sub>, (b) KB<sub>5</sub>O<sub>8</sub>⋅4H<sub>2</sub>O, and (c) Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>⋅10H<sub>2</sub>O. The anion in CaB<sub>2</sub>O<sub>4</sub> is an “infinite” chain.</caption>
+</figure>
+<para id="fs-idp209528992">Silicon dioxide, silica, occurs in both crystalline and amorphous forms. The usual crystalline form of silicon dioxide is quartz, a hard, brittle, clear, colorless solid. It is useful in many ways—for architectural decorations, semiprecious jewels, and frequency control in radio transmitters. Silica takes many crystalline forms, or <term>polymorphs</term>, in nature. Trace amounts of Fe<sup>3+</sup> in quartz give amethyst its characteristic purple color. The term <emphasis effect="italics">quartz</emphasis> is also used for articles such as tubing and lenses that are manufactured from amorphous silica. Opal is a naturally occurring form of amorphous silica.</para>
+<para id="fs-idp71398624">The contrast in structure and physical properties between silicon dioxide and carbon dioxide is interesting, as illustrated in <link target-id="CNX_Chem_18_03_CO2vsSiO2"/>. Solid carbon dioxide (dry ice) contains single CO<sub>2</sub> molecules with each of the two oxygen atoms attached to the carbon atom by double bonds. Very weak intermolecular forces hold the molecules together in the crystal. The volatility of dry ice reflect these weak forces between molecules. In contrast, silicon dioxide is a covalent network solid. In silicon dioxide, each silicon atom links to four oxygen atoms by single bonds directed toward the corners of a regular tetrahedron, and SiO<sub>4</sub> tetrahedra share oxygen atoms. This arrangement gives a three dimensional, continuous, silicon-oxygen network. A quartz crystal is a macromolecule of silicon dioxide. The difference between these two compounds is the ability of the group 14 elements to form strong π bonds. Second-period elements, such as carbon, form very strong π bonds, which is why carbon dioxide forms small molecules with strong double bonds. Elements below the second period, such as silicon, do not form π bonds as readily as second-period elements, and when they do form, the π bonds are weaker than those formed by second-period elements. For this reason, silicon dioxide does not contain π bonds but only σ bonds.</para>
+<figure id="CNX_Chem_18_03_CO2vsSiO2">
+<media id="fs-idp119649632" alt="Two images and two photos are shown and labeled, “a,” and “b.” Image a shows a ball-and-stick model of a carbon atom single bonded to two oxygen atoms. The ball-and-stick model is labeled, “C O subscript 2.” Above this model is a photo of dry ice in a mason jar of a clear liquid. The dry ice is sublimating. The photo is labeled, “dry ice.” Image b shows four connected ring structures made up of alternating silicon and oxygen atoms that are single bonded to one another. The model is labeled, “S i O subscript 2.” Above the model is a photo labeled, “quartz.” It shows a solid crystal.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_CO2vsSiO2.jpg"/>
+</media>
+<caption>Because carbon tends to form double and triple bonds and silicon does not, (a) carbon dioxide is a discrete molecule with two C=O double bonds and (b) silicon dioxide is an infinite network of oxygen atoms bridging between silicon atoms with each silicon atom possessing four Si-O single bonds. (credit a photo: modification of work by Erica Gerdes; credit b photo: modification of work by Didier Descouens)</caption>
+</figure>
+<para id="fs-idm309152">At 1600 °C, quartz melts to yield a viscous liquid. When the liquid cools, it does not crystallize readily but usually supercools and forms a glass, also called silica. The SiO<sub>4</sub> tetrahedra in glassy silica have a random arrangement characteristic of supercooled liquids, and the glass has some very useful properties. Silica is highly transparent to both visible and ultraviolet light. For this reason, it is important in the manufacture of lamps that give radiation rich in ultraviolet light and in certain optical instruments that operate with ultraviolet light. The coefficient of expansion of silica glass is very low; therefore, rapid temperature changes do not cause it to fracture. CorningWare and other ceramic cookware contain amorphous silica.</para>
+<para id="fs-idp13738608"><term>Silicates</term> are salts containing anions composed of silicon and oxygen. In nearly all silicates, <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized silicon atoms occur at the centers of tetrahedra with oxygen at the corners. There is a variation in the silicon-to-oxygen ratio that occurs because silicon-oxygen tetrahedra may exist as discrete, independent units or may share oxygen atoms at corners in a variety of ways. In addition, the presence of a variety of cations gives rise to the large number of silicate minerals.</para>
+<para id="fs-idp23643168">Many ceramics are composed of silicates. By including small amounts of other compounds, it is possible to modify the physical properties of the silicate materials to produce ceramics with useful characteristics.</para>
+</section>
+</section>
+<section id="fs-idp128607136" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp222483968">The elements boron, silicon, germanium, arsenic, antimony, and tellurium separate the metals from the nonmetals in the periodic table. These elements, called metalloids or sometimes semimetals, exhibit properties characteristic of both metals and nonmetals. The structures of these elements are similar in many ways to those of nonmetals, but the elements are electrical semiconductors.</para>
+</section>
+<section id="fs-idp29962656" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp16930624">
+<problem id="fs-idp65412560">
+<para id="fs-idp3211696">Give the hybridization of the metalloid and the molecular geometry for each of the following compounds or ions. You may wish to review the chapters on chemical bonding and advanced covalent bonding for relevant examples.</para>
+<para id="fs-idp194546480">(a) GeH<sub>4</sub></para>
+<para id="fs-idp242773360">(b) SbF<sub>3</sub></para>
+<para id="fs-idm34368576">(c) Te(OH)<sub>6</sub></para>
+<para id="fs-idp210169744">(d) H<sub>2</sub>Te</para>
+<para id="fs-idp208832688">(e) GeF<sub>2</sub></para>
+<para id="fs-idm16344560">(f) TeCl<sub>4</sub></para>
+<para id="fs-idp2132912">(g) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp87997536">(h) SbCl<sub>5</sub></para>
+<para id="fs-idp96125920">(i) TeF<sub>6</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp187127952">
+<problem id="fs-idp28147888">
+<para id="fs-idp187106320">Write a Lewis structure for each of the following molecules or ions. You may wish to review the chapter on chemical bonding.</para>
+<para id="fs-idp16376768">(a) H<sub>3</sub>BPH<sub>3</sub></para>
+<para id="fs-idp78441920">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math></para>
+<para id="fs-idp135377104">(c) BBr<sub>3</sub></para>
+<para id="fs-idm26374944">(d) B(CH<sub>3</sub>)<sub>3</sub></para>
+<para id="fs-idp5993104">(e) B(OH)<sub>3</sub></para>
+</problem>
+<solution id="fs-idm737712">
+<para id="fs-idm26929120">(a) H<sub>3</sub>BPH<sub>3</sub>:<newline/>
+<media id="fs-idm25603392" alt="This Lewis structure is composed of a boron atom single bonded to a phosphorus atom. Each of these atoms is single bonded to three hydrogen atoms.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2a_img.jpg"/>
+</media>;<newline/>
+(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo>:</m:mo></m:mrow></m:math><newline/>
+<media id="fs-idp28628720" alt="This Lewis structure is composed of a boron atom single bonded to four fluorine atoms, each of which has three lone pairs of electrons. The structure is surrounded by brackets, and a negative sign appears as a superscript outside the brackets.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2b_img.jpg"/>
+</media>;<newline/>
+(c) BBr<sub>3</sub>:<newline/>
+<media id="fs-idp121981728" alt="This Lewis structure is composed of a boron atom single bonded to three bromine atoms, each of which has three lone pairs of electrons.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2c_img.jpg"/>
+</media>;<newline/>
+(d) B(CH<sub>3</sub>)<sub>3</sub>:<newline/>
+<media id="fs-idm25910080" alt="This Lewis structure is composed of a boron atom that is single bonded to three carbon atoms, each of which is single bonded to three hydrogen atoms.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2d_img.jpg"/>
+</media>;<newline/>
+(e) B(OH)<sub>3</sub>:<newline/>
+<media id="fs-idp252097136" alt="This Lewis structure is composed of a boron atom that is single bonded to three oxygen atoms, each of which has two lone pairs of electrons. Each oxygen atom is single bonded to a hydrogen atom.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2e_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<exercise id="fs-idp53586384">
+<problem id="fs-idp121062560">
+<para id="fs-idp194645376">Describe the hybridization of boron and the molecular structure about the boron in each of the following:</para>
+<para id="fs-idp119620096">(a) H<sub>3</sub>BPH<sub>3</sub></para>
+<para id="fs-idm60477568">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math></para>
+<para id="fs-idp121068640">(c) BBr<sub>3</sub></para>
+<para id="fs-idm116416256">(d) B(CH<sub>3</sub>)<sub>3</sub></para>
+<para id="fs-idm30852912">(e) B(OH)<sub>3</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idm42816224">
+<problem id="fs-idp86819424">
+<para id="fs-idp30962384">Using only the periodic table, write the complete electron configuration for silicon, including any empty orbitals in the valence shell. You may wish to review the chapter on electronic structure.</para>
+</problem>
+<solution id="fs-idp55549312">
+<para id="fs-idp58106064">1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>2</sup>3<emphasis effect="italics">d</emphasis><sup>0</sup>.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20024944">
+<problem id="fs-idp213844176">
+<para id="fs-idm97259088">Write a Lewis structure for each of the following molecules and ions:</para>
+<para id="fs-idp208683456">(a) (CH<sub>3</sub>)<sub>3</sub>SiH</para>
+<para id="fs-idp60130832">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp226254192">(c) Si<sub>2</sub>H<sub>6</sub></para>
+<para id="fs-idp43127200">(d) Si(OH)<sub>4</sub></para>
+<para id="fs-idp84969040">(e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp50725056">
+<problem id="fs-idp82123984">
+<para id="fs-idp67558496">Describe the hybridization of silicon and the molecular structure of the following molecules and ions:</para>
+<para id="fs-idp69779632">(a) (CH<sub>3</sub>)<sub>3</sub>SiH</para>
+<para id="fs-idp25416864">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp49172912">(c) Si<sub>2</sub>H<sub>6</sub></para>
+<para id="fs-idm16365616">(d) Si(OH)<sub>4</sub></para>
+<para id="fs-idp183591056">(e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp25496864">
+<para id="fs-idp69392464">(a) (CH<sub>3</sub>)<sub>3</sub>SiH: <emphasis effect="italics">sp</emphasis><sup>3</sup> bonding about Si; the structure is tetrahedral; (b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>4−</m:mtext></m:msup><m:mo>:</m:mo></m:mrow></m:math> <emphasis effect="italics">sp</emphasis><sup>3</sup> bonding about Si; the structure is tetrahedral; (c) Si<sub>2</sub>H<sub>6</sub>: <emphasis effect="italics">sp</emphasis><sup>3</sup> bonding about each Si; the structure is linear along the Si-Si bond; (d) Si(OH)<sub>4</sub>: <emphasis effect="italics">sp</emphasis><sup>3</sup> bonding about Si; the structure is tetrahedral; (e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mo>:</m:mo></m:mrow></m:math> <emphasis effect="italics">sp</emphasis><sup>3</sup><emphasis effect="italics">d</emphasis><sup>2</sup> bonding about Si; the structure is octahedral</para>
+</solution>
+</exercise>
+<exercise id="fs-idp46618224">
+<problem id="fs-idm2945376">
+<para id="fs-idp57647952">Describe the hybridization and the bonding of a silicon atom in elemental silicon.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp51747488">
+<problem id="fs-idm27096784">
+<para id="fs-idp48764576">Classify each of the following molecules as polar or nonpolar. You may wish to review the chapter on chemical bonding.</para>
+<para id="fs-idm17550416">(a) SiH<sub>4</sub></para>
+<para id="fs-idp208975968">(b) Si<sub>2</sub>H<sub>6</sub></para>
+<para id="fs-idm16332608">(c) SiCl<sub>3</sub>H</para>
+<para id="fs-idp90524096">(d) SiF<sub>4</sub></para>
+<para id="fs-idm26941744">(e) SiCl<sub>2</sub>F<sub>2</sub></para>
+</problem>
+<solution id="fs-idp110299456">
+<para id="fs-idp203974784">(a) nonpolar; (b) nonpolar; (c) polar; (d) nonpolar; (e) polar</para>
+</solution>
+</exercise>
+<exercise id="fs-idp26638608">
+<problem id="fs-idp208831632">
+<para id="fs-idp30605024">Silicon reacts with sulfur at elevated temperatures. If 0.0923 g of silicon reacts with sulfur to give 0.3030 g of silicon sulfide, determine the empirical formula of silicon sulfide.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp54395392">
+<problem id="fs-idp138684896">
+<para id="fs-idp29293456">Name each of the following compounds:</para>
+<para id="fs-idm27836992">(a) TeO<sub>2</sub></para>
+<para id="fs-idp19010304">(b) Sb<sub>2</sub>S<sub>3</sub></para>
+<para id="fs-idp2483680">(c) GeF<sub>4</sub></para>
+<para id="fs-idp499584">(d) SiH<sub>4</sub></para>
+<para id="fs-idp14901040">(e) GeH<sub>4</sub></para>
+</problem>
+<solution id="fs-idm49957488">
+<para id="fs-idp210135392">(a) tellurium dioxide or tellurium(IV) oxide; (b) antimony(III) sulfide; (c) germanium(IV) fluoride; (d) silane or silicon(IV) hydride; (e) germanium(IV) hydride</para>
+</solution>
+</exercise>
+<exercise id="fs-idm40238272">
+<problem id="fs-idp137987408">
+<para id="fs-idm97571584">Write a balanced equation for the reaction of elemental boron with each of the following (most of these reactions require high temperature):</para>
+<para id="fs-idm48654448">(a) F<sub>2</sub></para>
+<para id="fs-idm34339104">(b) O<sub>2</sub></para>
+<para id="fs-idp19358848">(c) S</para>
+<para id="fs-idp27801680">(d) Se</para>
+<para id="fs-idp84345808">(e) Br<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp194759200">
+<problem id="fs-idm36663888">
+<para id="fs-idm62850640">Why is boron limited to a maximum coordination number of four in its compounds?</para>
+</problem>
+<solution id="fs-idm17675584">
+<para id="fs-idp90428208">Boron has only <emphasis effect="italics">s</emphasis> and <emphasis effect="italics">p</emphasis> orbitals available, which can accommodate a maximum of four electron pairs. Unlike silicon, no <emphasis effect="italics">d</emphasis> orbitals are available in boron.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm26980560">
+<problem id="fs-idp138331408">
+<para id="fs-idp92504224">Write a formula for each of the following compounds:</para>
+<para id="fs-idp13777136">(a) silicon dioxide</para>
+<para id="fs-idp176669248">(b) silicon tetraiodide</para>
+<para id="fs-idp120538992">(c) silane</para>
+<para id="fs-idm11164048">(d) silicon carbide</para>
+<para id="fs-idp114681504">(e) magnesium silicide</para>
+</problem>
+</exercise>
+<exercise id="fs-idp50984592">
+<problem id="fs-idp189120768">
+<para id="fs-idp23402592">From the data given in <link class="target-chapter" document="m51226">Appendix I</link> , determine the standard enthalpy change and the standard free energy change for each of the following reactions:</para>
+<para id="fs-idp203481632">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>3HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm38966592">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>3HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm15187984">(c) <m:math><m:mrow><m:msub><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm22185504">
+<para id="fs-idp258684208">(a) Δ<emphasis effect="italics">H</emphasis>° = 87 kJ; Δ<emphasis effect="italics">G</emphasis>° = 44 kJ; (b) Δ<emphasis effect="italics">H</emphasis>° = −109.9 kJ; Δ<emphasis effect="italics">G°</emphasis> = −154.7 kJ; (c) Δ<emphasis effect="italics">H</emphasis>° = −510 kJ; Δ<emphasis effect="italics">G</emphasis>° = −601.5 kJ</para>
+</solution>
+</exercise>
+<exercise id="fs-idp421376">
+<problem id="fs-idm9258256">
+<para id="fs-idp52675584">A hydride of silicon prepared by the reaction of Mg<sub>2</sub>Si with acid exerted a pressure of 306 torr at 26 °C in a bulb with a volume of 57.0 mL. If the mass of the hydride was 0.0861 g, what is its molecular mass? What is the molecular formula for the hydride?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm48610704">
+<problem id="fs-idp18976640">
+<para id="fs-idm10763856">Suppose you discovered a diamond completely encased in a silicate rock. How would you chemically free the diamond without harming it?</para>
+</problem>
+<solution id="fs-idp92148192">
+<para id="fs-idp142206176">A mild solution of hydrofluoric acid would dissolve the silicate and would not harm the diamond.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp50657904">
+<term>amorphous</term>
+<meaning id="fs-idp241558336">solid material such as a glass that does not have a regular repeating component to its three-dimensional structure; a solid but not a crystal</meaning>
+</definition>
+<definition id="fs-idp42336592">
+<term>borate</term>
+<meaning id="fs-idp122324176">compound containing boron-oxygen bonds, typically with clusters or chains as a part of the chemical structure</meaning>
+</definition>
+<definition id="fs-idp20554272">
+<term>polymorph</term>
+<meaning id="fs-idp51271984">variation in crystalline structure that results in different physical properties for the resulting compound</meaning>
+</definition>
+<definition id="fs-idp17081184">
+<term>silicate</term>
+<meaning id="fs-idp356029440">compound containing silicon-oxygen bonds, with silicate tetrahedra connected in rings, sheets, or three-dimensional networks, depending on the other elements involved in the formation of the compounds</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,178 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>The Kinetic-Molecular Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51068</md:content-id>
+  <md:title>The Kinetic-Molecular Theory</md:title>
+  <md:abstract><list><item>State the postulates of the kinetic-molecular theory</item>
+<item>Use this theory’s postulates to explain the gas laws</item></list></md:abstract>
+  <md:uuid>89c575da-4772-47e8-87a5-1de83be6a38c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm127996416">The gas laws that we have seen to this point, as well as the ideal gas equation, are empirical, that is, they have been derived from experimental observations. The mathematical forms of these laws closely describe the macroscopic behavior of most gases at pressures less than about 1 or 2 atm. Although the gas laws describe relationships that have been verified by many experiments, they do not tell us why gases follow these relationships.</para>
+<para id="fs-idm165041184">The <term>kinetic molecular theory</term> (KMT) is a simple microscopic model that effectively explains the gas laws described in previous modules of this chapter. This theory is based on the following five postulates described here. (Note: The term “molecule” will be used to refer to the individual chemical species that compose the gas, although some gases are composed of atomic species, for example, the noble gases.)</para>
+<list id="fs-idm178411376" list-type="enumerated" number-style="arabic">
+<item>Gases are composed of molecules that are in continuous motion, travelling in straight lines and changing direction only when they collide with other molecules or with the walls of a container.</item>
+<item>The molecules composing the gas are negligibly small compared to the distances between them.</item>
+<item>The pressure exerted by a gas in a container results from collisions between the gas molecules and the container walls.</item>
+<item>Gas molecules exert no attractive or repulsive forces on each other or the container walls; therefore, their collisions are <emphasis effect="italics">elastic</emphasis> (do not involve a loss of energy).</item>
+<item>The average kinetic energy of the gas molecules is proportional to the kelvin temperature of the gas.</item>
+</list>
+<para id="fs-idm128213904">The test of the KMT and its postulates is its ability to explain and describe the behavior of a gas. The various gas laws can be derived from the assumptions of the KMT, which have led chemists to believe that the assumptions of the theory accurately represent the properties of gas molecules. We will first look at the individual gas laws (Boyle’s, Charles’s, Amontons’s, Avogadro’s, and Dalton’s laws) conceptually to see how the KMT explains them. Then, we will more carefully consider the relationships between molecular masses, speeds, and kinetic energies with temperature, and explain Graham’s law.</para>
+<section id="fs-idm94057008">
+<title>The Kinetic-Molecular Theory Explains the Behavior of Gases, Part I</title>
+<para id="fs-idm188928480">Recalling that gas pressure is exerted by rapidly moving gas molecules and depends directly on the number of molecules hitting a unit area of the wall per unit of time, we see that the KMT conceptually explains the behavior of a gas as follows:</para>
+<list id="fs-idm221875200" list-type="bulleted" bullet-style="bullet"><item><emphasis effect="italics">Amontons’s law.</emphasis> If the temperature is increased, the average speed and kinetic energy of the gas molecules increase. If the volume is held constant, the increased speed of the gas molecules results in more frequent and more forceful collisions with the walls of the container, therefore increasing the pressure (<link target-id="CNX_Chem_09_04_KMT2"/>).</item>
+<item><emphasis effect="italics">Charles’s law.</emphasis> If the temperature of a gas is increased, a constant pressure may be maintained only if the volume occupied by the gas increases. This will result in greater average distances traveled by the molecules to reach the container walls, as well as increased wall surface area. These conditions will decrease the both the frequency of molecule-wall collisions and the number of collisions per unit area, the combined effects of which balance the effect of increased collision forces due to the greater kinetic energy at the higher temperature.</item>
+<item><emphasis effect="italics">Boyle’s law.</emphasis> If the gas volume is decreased, the container wall area decreases and the molecule-wall collision frequency increases, both of which increase the pressure exerted by the gas (<link target-id="CNX_Chem_09_04_KMT2"/>).</item>
+<item><emphasis effect="italics">Avogadro’s law.</emphasis> At constant pressure and temperature, the frequency and force of molecule-wall collisions are constant. Under such conditions, increasing the number of gaseous molecules will require a proportional increase in the container volume in order to yield a decrease in the number of collisions per unit area to compensate for the increased frequency of collisions (<link target-id="CNX_Chem_09_04_KMT2"/>).</item>
+<item><emphasis effect="italics">Dalton’s Law.</emphasis> Because of the large distances between them, the molecules of one gas in a mixture bombard the container walls with the same frequency whether other gases are present or not, and the total pressure of a gas mixture equals the sum of the (partial) pressures of the individual gases.</item>
+</list><figure id="CNX_Chem_09_04_KMT2"><media id="fs-idm82315616" alt="This figure shows 3 pairs of pistons and cylinders. In a, which is labeled, “Charles’s Law,” the piston is positioned for the first cylinder so that just over half of the available volume contains 6 purple spheres with trails behind them. The trails indicate movement. Orange dashes extend from the interior surface of the cylinder where the spheres have collided. This cylinder is labeled, “Baseline.” In the second cylinder, the piston is in the same position, and the label, “Heat” is indicated in red capitalized text. Four red arrows with wavy stems are pointing upward to the base of the cylinder. The six purple spheres have longer trails behind them and the number of orange dashes indicating points of collision with the container walls has increased. A rectangle beneath the diagram states, “Temperature increased, Volume constant equals Increased pressure.” In b, which is labeled, “Boyle’s Law,” the first, baseline cylinder shown is identical to the first cylinder in a. In the second cylinder, the piston has been moved, decreasing the volume available to the 6 purple spheres to half of the initial volume. The six purple spheres have longer trails behind them and the number of orange dashes indicating points of collision with the container walls has increased. This second cylinder is labeled, “Volume decreased.” A rectangle beneath the diagram states, “Volume decreased, Wall area decreased equals Increased pressure.” In c, which is labeled “Avogadro’s Law,” the first, baseline cylinder shown is identical to the first cylinder in a. In the second cylinder, the number of purple spheres has changed from 6 to 12 and volume has doubled. This second cylinder is labeled “Increased gas.” A rectangle beneath the diagram states, “At constant pressure, More gas molecules added equals Increased volume.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_04_KMT2.jpg"/>
+</media>
+
+<caption>(a) When gas temperature increases, gas pressure increases due to increased force and frequency of molecular collisions. (b) When volume decreases, gas pressure increases due to increased frequency of molecular collisions. (c) When the amount of gas increases at a constant pressure, volume increases to yield a constant number of collisions per unit wall area per unit time.</caption></figure></section>
+<section id="fs-idm203169728">
+<title>Molecular Velocities and Kinetic Energy</title>
+<para id="fs-idm178235328">The previous discussion showed that the KMT qualitatively explains the behaviors described by the various gas laws. The postulates of this theory may be applied in a more quantitative fashion to derive these individual laws. To do this, we must first look at velocities and kinetic energies of gas molecules, and the temperature of a gas sample.</para>
+<para id="fs-idm49087808">In a gas sample, individual molecules have widely varying speeds; however, because of the <emphasis effect="italics">vast</emphasis> number of molecules and collisions involved, the molecular speed distribution and average speed are constant. This molecular speed distribution is known as a Maxwell-Boltzmann distribution, and it depicts the relative numbers of molecules in a bulk sample of gas that possesses a given speed (<link target-id="CNX_Chem_09_05_MolSpeed1"/>).</para>
+<figure id="CNX_Chem_09_05_MolSpeed1">
+<media id="fs-idm97447152" alt="A graph is shown. The horizontal axis is labeled, “Velocity v ( m divided by s ).” This axis is marked by increments of 20 beginning at 0 and extending up to 120. The vertical axis is labeled, “Fraction of molecules.” A positively or right-skewed curve is shown in red which begins at the origin and approaches the horizontal axis around 120 m per s. At the peak of the curve, a point is indicated with a black dot and is labeled, “v subscript p.” A vertical dashed line extends from this point to the horizontal axis at which point the intersection is labeled, “v subscript p.” Slightly to the right of the peak a second black dot is placed on the curve. This point is labeled, “v subscript r m s.” A vertical dashed line extends from this point to the horizontal axis at which point the intersection is labeled, “v subscript r m s.” The label, “O subscript 2 at T equals 300 K” appears in the open space to the right of the curve.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_05_MolSpeed1.jpg"/>
+</media>
+<caption>The molecular speed distribution for oxygen gas at 300 K is shown here. Very few molecules move at either very low or very high speeds. The number of molecules with intermediate speeds increases rapidly up to a maximum, which is the most probable speed, then drops off rapidly. Note that the most probable speed, ν<sub>p</sub>, is a little less than 400 m/s, while the root mean square speed, <emphasis effect="italics">u</emphasis><sub>rms</sub>, is closer to 500 m/s.</caption>
+</figure>
+<para id="fs-idm188037232">The kinetic energy (KE) of a particle of mass (<emphasis effect="italics">m</emphasis>) and speed (<emphasis effect="italics">u</emphasis>) is given by:</para>
+<equation id="fs-idm43195728"><m:math><m:mrow><m:mtext>KE</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mi>m</m:mi><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm178023104">Expressing mass in kilograms and speed in meters per second will yield energy values in units of joules (J = kg m<sup>2</sup> s<sup>–2</sup>). To deal with a large number of gas molecules, we use averages for both speed and kinetic energy. In the KMT, the <term>root mean square velocity</term> of a particle, <term><emphasis effect="italics">u</emphasis><sub>rms</sub></term>, is defined as the square root of the average of the squares of the velocities with <emphasis effect="italics">n</emphasis> = the number of particles:</para>
+<equation id="fs-idp57614544"><m:math><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>r</m:mtext><m:mtext>m</m:mtext><m:mtext>s</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msqrt><m:mrow><m:mover accent="true"><m:mrow><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo stretchy="true">¯</m:mo></m:mover></m:mrow></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:msubsup><m:mi>u</m:mi><m:mn>1</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:msubsup><m:mi>u</m:mi><m:mn>2</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:msubsup><m:mi>u</m:mi><m:mn>3</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:msubsup><m:mi>u</m:mi><m:mn>4</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:mo>…</m:mo></m:mrow><m:mi>n</m:mi></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></equation><para id="fs-idm140862528">The average kinetic energy for a mole of particles, KE<sub>avg</sub>, is then equal to:</para><equation id="fs-idm248247136"><m:math><m:mrow><m:msub><m:mrow><m:mtext>KE</m:mtext></m:mrow><m:mrow><m:mtext>avg</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msubsup><m:mrow><m:mi>M</m:mi><m:mi>u</m:mi></m:mrow><m:mrow><m:mtext>rms</m:mtext></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msubsup></m:mrow></m:math></equation><para id="fs-idm52829008">The KE<sub>avg</sub> of a mole of gas molecules is also directly proportional to the temperature of the gas and may be described by the equation:</para><equation id="fs-idm181584464"><m:math><m:mrow><m:msub><m:mrow><m:mtext>KE</m:mtext></m:mrow><m:mrow><m:mtext>avg</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm166238448">where <emphasis effect="italics">R</emphasis> is the gas constant and T is the kelvin temperature. When used in this equation, the appropriate form of the gas constant is 8.314 J/mol⋅K (8.314 kg m<sup>2</sup>s<sup>–2</sup>mol<sup>–1</sup>K<sup>–1</sup>). These two separate equations for KE<sub>avg</sub> may be combined and rearranged to yield a relation between molecular speed and temperature:</para><equation id="fs-idm155100320"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msubsup><m:mrow><m:mi>M</m:mi><m:mi>u</m:mi></m:mrow><m:mrow><m:mtext>rms</m:mtext></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msubsup><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:math></equation><equation id="fs-idp16162192"><m:math><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>rms</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mi>M</m:mi></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></equation><example id="fs-idm203397264">
+<para id="fs-idm217669472"><title>Calculation of <emphasis effect="italics">u</emphasis><sub>rms</sub></title>Calculate the root-mean-square velocity for a nitrogen molecule at 30 °C.</para><para id="fs-idm124389728"><title>Solution</title>
+Convert the temperature into Kelvin:</para>
+<equation id="fs-idm41104608"><m:math><m:mrow><m:mn>30</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext><m:mo>+</m:mo><m:mn>273</m:mn><m:mo>=</m:mo><m:mtext>303 K</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm144782000">Determine the molar mass of nitrogen in kilograms:</para><equation id="fs-idm215032176"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>28.0</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext></m:menclose></m:mrow><m:mrow><m:mtext>1 mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 kg</m:mtext></m:mrow><m:mrow><m:mn>1000</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0.028</m:mn><m:mspace width="0.2em"/><m:mtext>kg/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm160368176">Replace the variables and constants in the root-mean-square velocity equation, replacing Joules with the equivalent kg m<sup>2</sup>s<sup>–2</sup>:</para>
+<equation id="fs-idm151766032"><m:math><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>rms</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mi>m</m:mi></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></equation>
+<equation id="fs-idm230973056"><m:math><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>r</m:mtext><m:mtext>m</m:mtext><m:mtext>s</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>8.314</m:mn><m:mspace width="0.2em"/><m:mtext>J/mol K</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>303 K</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0.028</m:mn><m:mspace width="0.2em"/><m:mtext>kg/mol</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:msqrt><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:msqrt><m:mrow><m:mn>2.70</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>m</m:mtext><m:mn>2</m:mn></m:msup><m:msup><m:mtext>s</m:mtext><m:mrow><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:msqrt><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>519</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow></m:math></equation><para id="fs-idm87955168"><title>Check Your Learning</title>Calculate the root-mean-square velocity for a mole of oxygen molecules at –23 °C.</para><note id="fs-idm134812432"><title>Answer:</title>
+<para id="fs-idm126530816">441 m/s</para>
+</note>
+</example>
+<para id="fs-idm298779008">If the temperature of a gas increases, its KE<sub>avg</sub> increases, more molecules have higher speeds and fewer molecules have lower speeds, and the distribution shifts toward higher speeds overall, that is, to the right. If temperature decreases, KE<sub>avg</sub> decreases, more molecules have lower speeds and fewer molecules have higher speeds, and the distribution shifts toward lower speeds overall, that is, to the left. This behavior is illustrated for nitrogen gas in <link target-id="CNX_Chem_09_05_MolSpeed2"/>.</para>
+<figure id="CNX_Chem_09_05_MolSpeed2">
+<media id="fs-idm138828064" alt="A graph with four positively or right-skewed curves of varying heights is shown. The horizontal axis is labeled, “Velocity v ( m divided by s ).” This axis is marked by increments of 500 beginning at 0 and extending up to 1500. The vertical axis is labeled, “Fraction of molecules.” The label, “N subscript 2,” appears in the open space in the upper right area of the graph. The tallest and narrowest of these curves is labeled, “100 K.” Its right end appears to touch the horizontal axis around 700 m per s. It is followed by a slightly wider curve which is labeled, “200 K,” that is about three quarters of the height of the initial curve. Its right end appears to touch the horizontal axis around 850 m per s. The third curve is significantly wider and only about half the height of the initial curve. It is labeled, “500 K.” Its right end appears to touch the horizontal axis around 1450 m per s. The final curve is only about one third the height of the initial curve. It is much wider than the others, so much so that its right end has not yet reached the horizontal axis. This curve is labeled, “1000 K.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_05_MolSpeed2.jpg"/>
+</media>
+<caption>The molecular speed distribution for nitrogen gas (N<sub>2</sub>) shifts to the right and flattens as the temperature increases; it shifts to the left and heightens as the temperature decreases.</caption>
+</figure>
+<para id="fs-idm131874080">At a given temperature, all gases have the same KE<sub>avg</sub> for their molecules. Gases composed of lighter molecules have more high-speed particles and a higher <emphasis effect="italics">u<sub>rms</sub></emphasis>, with a speed distribution that peaks at relatively higher velocities. Gases consisting of heavier molecules have more low-speed particles, a lower <emphasis effect="italics">u<sub>rms</sub></emphasis>, and a speed distribution that peaks at relatively lower velocities. This trend is demonstrated by the data for a series of noble gases shown in <link target-id="CNX_Chem_09_05_MolSpeed3"/>.</para>
+<figure id="CNX_Chem_09_05_MolSpeed3">
+<media id="fs-idm50029872" alt="A graph is shown with four positively or right-skewed curves of varying heights. The horizontal axis is labeled, “Velocity v ( m divided by s ).” This axis is marked by increments of 500 beginning at 0 and extending up to 3000. The vertical axis is labeled, “Fraction of molecules.” The tallest and narrowest of these curves is labeled, “X e.” Its right end appears to touch the horizontal axis around 600 m per s. It is followed by a slightly wider curve which is labeled, “A r,” that is about half the height of the initial curve. Its right end appears to touch the horizontal axis around 900 m per s. The third curve is significantly wider and just over a third of the height of the initial curve. It is labeled, “N e.” Its right end appears to touch the horizontal axis around 1200 m per s. The final curve is only about one fourth the height of the initial curve. It is much wider than the others, so much so that its right reaches the horizontal axis around 2500 m per s. This curve is labeled, “H e.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_05_MolSpeed3.jpg"/>
+</media>
+<caption>Molecular velocity is directly related to molecular mass. At a given temperature, lighter molecules move faster on average than heavier molecules.</caption>
+</figure>
+<note id="fs-idm177038688" class="chemistry link-to-learning">
+<media id="fs-idm157411936" alt=" ">
+<image mime-type="image/png" src="../../media/OSC_Interactive_200.png"/>
+</media>
+<para id="fs-idm110634256">The <link url="http://openstax.org/l/16MolecVelocity">gas simulator</link> may be used to examine the effect of temperature on molecular velocities. Examine the simulator’s “energy histograms” (molecular speed distributions) and “species information” (which gives average speed values) for molecules of different masses at various temperatures.</para>
+</note>
+</section>
+<section id="fs-idm220495248">
+<title>The Kinetic-Molecular Theory Explains the Behavior of Gases, Part II</title>
+<para id="fs-idp30560352">According to Graham’s law, the molecules of a gas are in rapid motion and the molecules themselves are small. The average distance between the molecules of a gas is large compared to the size of the molecules. As a consequence, gas molecules can move past each other easily and diffuse at relatively fast rates.</para>
+<para id="fs-idm65845776">The rate of effusion of a gas depends directly on the (average) speed of its molecules:</para>
+<equation id="fs-idp1163392"><m:math><m:mrow><m:mtext>effusion rate</m:mtext><m:mspace width="0.2em"/><m:mo>∝</m:mo><m:mspace width="0.2em"/><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>rms</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm219209680">Using this relation, and the equation relating molecular speed to mass, Graham’s law may be easily derived as shown here:</para>
+<equation id="fs-idm166257280"><m:math><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>rms</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mi>M</m:mi></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></equation><equation id="fs-idm197441248"><m:math><m:mrow><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:msubsup><m:mi>u</m:mi><m:mrow><m:mtext>r</m:mtext><m:mtext>m</m:mtext><m:mtext>s</m:mtext></m:mrow><m:mn>2</m:mn></m:msubsup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:msup><m:mover accent="true"><m:mi>u</m:mi><m:mo>¯</m:mo></m:mover><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation><equation id="fs-idm136528624"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>effusion rate A</m:mtext></m:mrow><m:mrow><m:mtext>effusion rate B</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>r</m:mtext><m:mtext>m</m:mtext><m:mtext>s</m:mtext><m:mspace width="0.2em"/><m:mtext>A</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>r</m:mtext><m:mtext>m</m:mtext><m:mtext>s</m:mtext><m:mspace width="0.2em"/><m:mtext>B</m:mtext></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:msub><m:mi>M</m:mi><m:mtext>A</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:msub><m:mi>M</m:mi><m:mtext>B</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:msqrt><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>M</m:mi><m:mtext>B</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>M</m:mi><m:mtext>A</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></equation><para id="fs-idm131494928">The ratio of the rates of effusion is thus derived to be inversely proportional to the ratio of the square roots of their masses. This is the same relation observed experimentally and expressed as Graham’s law.</para>
+</section>
+<section id="fs-idp25934352" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp11491120">The kinetic molecular theory is a simple but very effective model that effectively explains ideal gas behavior. The theory assumes that gases consist of widely separated molecules of negligible volume that are in constant motion, colliding elastically with one another and the walls of their container with average velocities determined by their absolute temperatures. The individual molecules of a gas exhibit a range of velocities, the distribution of these velocities being dependent on the temperature of the gas and the mass of its molecules.</para>
+</section>
+<section id="fs-idm188828400" class="key-equations">
+<title>Key Equations</title>
+<list id="fs-idm218538224" list-type="bulleted" bullet-style="bullet"><item><m:math><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>r</m:mtext><m:mtext>m</m:mtext><m:mtext>s</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msqrt><m:mrow><m:mover accent="true"><m:mrow><m:msup><m:mi>u</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo stretchy="true">¯</m:mo></m:mover></m:mrow></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:msubsup><m:mi>u</m:mi><m:mn>1</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:msubsup><m:mi>u</m:mi><m:mn>2</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:msubsup><m:mi>u</m:mi><m:mn>3</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:msubsup><m:mi>u</m:mi><m:mn>4</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:mo>…</m:mo></m:mrow><m:mi>n</m:mi></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></item>
+<item><m:math><m:mrow><m:msub><m:mrow><m:mtext>KE</m:mtext></m:mrow><m:mrow><m:mtext>avg</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:math></item>
+<item><m:math><m:mrow><m:msub><m:mi>u</m:mi><m:mrow><m:mtext>rms</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mi>m</m:mi></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math></item>
+</list></section>
+<section id="fs-idm162733696" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idm159823744">
+<problem id="fs-idm150949648">
+<para id="fs-idm212848544">Using the postulates of the kinetic molecular theory, explain why a gas uniformly fills a container of any shape.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm178556768">
+<problem id="fs-idm146263632">
+<para id="fs-idm196791600">Can the speed of a given molecule in a gas double at constant temperature? Explain your answer.</para>
+</problem>
+<solution id="fs-idm99833504">
+<para id="fs-idm162271264">Yes. At any given instant, there are a range of values of molecular speeds in a sample of gas. Any single molecule can speed up or slow down as it collides with other molecules. The average velocity of all the molecules is constant at constant temperature.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm213877296">
+<problem id="fs-idm204603328">
+<para id="fs-idm59208640">Describe what happens to the average kinetic energy of ideal gas molecules when the conditions are changed as follows:</para>
+<para id="fs-idm175667504">(a) The pressure of the gas is increased by reducing the volume at constant temperature.</para>
+<para id="fs-idm148561248">(b) The pressure of the gas is increased by increasing the temperature at constant volume.</para>
+<para id="fs-idp12415536">(c) The average velocity of the molecules is increased by a factor of 2.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp16129152">
+<problem id="fs-idm136526752">
+<para id="fs-idm89452736">The distribution of molecular velocities in a sample of helium is shown in <link target-id="CNX_Chem_09_05_MolSpeed3"/>. If the sample is cooled, will the distribution of velocities look more like that of H<sub>2</sub> or of H<sub>2</sub>O? Explain your answer.</para>
+</problem>
+<solution id="fs-idm136225376">
+<para id="fs-idm161469056">H<sub>2</sub>O. Cooling slows the velocities of the He atoms, causing them to behave as though they were heavier.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp62923856">
+<problem id="fs-idm123179728">
+<para id="fs-idm214348288">What is the ratio of the average kinetic energy of a SO<sub>2</sub> molecule to that of an O<sub>2</sub> molecule in a mixture of two gases? What is the ratio of the root mean square speeds, <emphasis effect="italics">u</emphasis><sub>rms</sub>, of the two gases?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm124543936">
+<problem id="fs-idm49064864">
+<para id="fs-idm153083536">A 1-L sample of CO initially at STP is heated to 546 K, and its volume is increased to 2 L.</para><para id="fs-idm216426960">(a) What effect do these changes have on the number of collisions of the molecules of the gas per unit area of the container wall?</para>
+<para id="fs-idm124781200">(b) What is the effect on the average kinetic energy of the molecules?</para>
+<para id="fs-idm151776736">(c) What is the effect on the root mean square speed of the molecules?</para>
+</problem>
+<solution id="fs-idm175816864">
+<para id="fs-idm47263904">(a) The number of collisions per unit area of the container wall is constant. (b) The average kinetic energy doubles. (c) The root mean square speed increases to <m:math><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:math> times its initial value; <emphasis effect="italics">u</emphasis><sub>rms</sub> is proportional to <m:math><m:mrow><m:msqrt><m:mrow><m:msub><m:mrow><m:mtext>KE</m:mtext></m:mrow><m:mrow><m:mtext>avg</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt><m:mo>.</m:mo></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idm98413904">
+<problem id="fs-idm163726944">
+<para id="fs-idm110524464">The root mean square speed of H<sub>2</sub> molecules at 25 °C is about 1.6 km/s. What is the root mean square speed of a N<sub>2</sub> molecule at 25 °C?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm150122880">
+<problem id="fs-idm109601088">
+<para id="fs-idm161408528">Answer the following questions:</para>
+<para id="fs-idm184026432">(a) Is the pressure of the gas in the hot air balloon shown at the opening of this chapter greater than, less than, or equal to that of the atmosphere outside the balloon?</para>
+<para id="fs-idm277950240">(b) Is the density of the gas in the hot air balloon shown at the opening of this chapter greater than, less than, or equal to that of the atmosphere outside the balloon?</para>
+<para id="fs-idm184047024">(c) At a pressure of 1 atm and a temperature of 20 °C, dry air has a density of 1.2256 g/L. What is the (average) molar mass of dry air?</para>
+<para id="fs-idm205391088">(d) The average temperature of the gas in a hot air balloon is 1.30 <m:math><m:mo>×</m:mo></m:math> 10<sup>2</sup> °F. Calculate its density, assuming the molar mass equals that of dry air.</para>
+<para id="fs-idm182287728">(e) The lifting capacity of a hot air balloon is equal to the difference in the mass of the cool air displaced by the balloon and the mass of the gas in the balloon. What is the difference in the mass of 1.00 L of the cool air in part (c) and the hot air in part (d)?</para>
+<para id="fs-idm79081968">(f) An average balloon has a diameter of 60 feet and a volume of 1.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup> ft<sup>3</sup>. What is the lifting power of such a balloon? If the weight of the balloon and its rigging is 500 pounds, what is its capacity for carrying passengers and cargo?</para>
+<para id="fs-idm148488336">(g) A balloon carries 40.0 gallons of liquid propane (density 0.5005 g/L). What volume of CO<sub>2</sub> and H<sub>2</sub>O gas is produced by the combustion of this propane?</para>
+<para id="fs-idp4425184">(h) A balloon flight can last about 90 minutes. If all of the fuel is burned during this time, what is the approximate rate of heat loss (in kJ/min) from the hot air in the bag during the flight?</para>
+</problem>
+<solution id="fs-idm111172832">
+<para id="fs-idm120199952">(a) equal; (b) less than; (c) 29.48 g mol<sup>−1</sup>; (d) 1.0966 g L<sup>−1</sup>; (e) 0.129 g/L; (f) 4.01 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup> g; net lifting capacity = 384 lb; (g) 270 L; (h) 39.1 kJ min<sup>−1</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm194405232">
+<problem id="fs-idp25041248">
+<para id="fs-idm156558944">Show that the ratio of the rate of diffusion of Gas 1 to the rate of diffusion of Gas 2, <m:math><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> is the same at 0 °C and 100 °C.</para>
+</problem>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm198763536"><term>kinetic molecular theory</term><meaning id="fs-idm88108032">theory based on simple principles and assumptions that effectively explains ideal gas behavior</meaning></definition>
+<definition id="fs-idm271276336"><term>root mean square velocity (<emphasis effect="italics">u</emphasis><sub>rms</sub>)</term><meaning id="fs-idm216807936">measure of average velocity for a group of particles calculated as the square root of the average squared velocity</meaning>
+</definition>
+</glossary>
+</document>

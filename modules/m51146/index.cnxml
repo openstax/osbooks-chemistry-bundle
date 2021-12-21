@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51146</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Balancing Oxidation-Reduction Reactions</item>
+<item>Galvanic Cells</item>
+<item>Standard Reduction Potentials</item>
+<item>The Nernst Equation</item>
+<item>Batteries and Fuel Cells</item>
+<item>Corrosion</item>
+<item>Electrolysis</item>
+</list></md:abstract>
+  <md:uuid>fe7a0312-a2a7-46af-b001-ba187ae8547a</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_17_00_EVCharging" class="splash">
+<media id="fs-idm189620448" alt="A photograph is shown of a parked car plugged into a charging station in a paved parking area. The parking area is situated in a wooded area. People are walking in the background in the park-like atmosphere.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_00_EVCharging.jpg"/>
+</media>
+<caption>Electric vehicles contain batteries that can be recharged, thereby using electric energy to bring about a chemical change and vice versa. (credit: modification of work by Robert Couse-Baker)</caption>
+</figure>
+<para id="fs-idm9057728">Electrochemistry deals with chemical reactions that produce electricity and the changes associated with the passage of electrical current through matter. The reactions involve electron transfer, and so they are oxidation-reduction (or redox) reactions. Many metals may be purified or electroplated using electrochemical methods. Devices such as automobiles, smartphones, electronic tablets, watches, pacemakers, and many others use batteries for power. Batteries use spontaneous chemical reactions to produce electricity that can be converted into useful work. All electrochemical systems involve the transfer of electrons. In many systems, the reactions occur in a region known as the cell, where the transfer of electrons occurs at electrodes.</para></content>
+</document>
