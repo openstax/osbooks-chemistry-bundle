@@ -4,7 +4,7 @@
   <md:content-id>m51104</md:content-id>
   <md:title>Catalysis</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list><item>Explain the function of a catalyst in terms of reaction mechanisms and potential energy diagrams</item>
+<list id="list-00001"><item>Explain the function of a catalyst in terms of reaction mechanisms and potential energy diagrams</item>
 <item>List examples of catalysis in natural and industrial processes</item>
 </list></md:abstract>
   <md:uuid>7938344b-9ba7-4288-a745-81725248babb</md:uuid>
@@ -44,7 +44,7 @@ Determine which of the two diagrams here (both for the same reaction) involves a
 </example>
 <section id="fs-idm65053840">
 <title>Homogeneous Catalysts</title>
-<para id="fs-idm243256336">A <term>homogeneous catalyst</term> is present in the same phase as the reactants. It interacts with a reactant to form an intermediate substance, which then decomposes or reacts with another reactant in one or more steps to regenerate the original catalyst and form product.</para>
+<para id="fs-idm243256336">A <term id="term-00001">homogeneous catalyst</term> is present in the same phase as the reactants. It interacts with a reactant to form an intermediate substance, which then decomposes or reacts with another reactant in one or more steps to regenerate the original catalyst and form product.</para>
 <para id="fs-idm210214480">As an important illustration of homogeneous catalysis, consider the earth’s ozone layer. Ozone in the upper atmosphere, which protects the earth from ultraviolet radiation, is formed when oxygen molecules absorb ultraviolet light and undergo the reaction:</para>
 <equation id="fs-idm276049600"><m:math><m:mrow><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.7em"/><m:mi>h</m:mi><m:mi>v</m:mi><m:mspace width="0.7em"/></m:mrow></m:mover><m:mn>2</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <para id="fs-idm291675632">Ozone is a relatively unstable molecule that decomposes to yield diatomic oxygen by the reverse of this equation. This decomposition reaction is consistent with the following mechanism:</para>
@@ -56,7 +56,7 @@ Determine which of the two diagrams here (both for the same reaction) involves a
 <para id="fs-idm251830192">The nitric oxide reacts and is regenerated in these reactions. It is not permanently used up; thus, it acts as a catalyst. The rate of decomposition of ozone is greater in the presence of nitric oxide because of the catalytic activity of NO. Certain compounds that contain chlorine also catalyze the decomposition of ozone.</para>
 <note id="fs-idm195911072" class="chemistry chemist-portrait">
 <title>Mario J. Molina</title>
-<para id="fs-idm149608448">The 1995 Nobel Prize in Chemistry was shared by Paul J. Crutzen, Mario J. <term class="no-emphasis">Molina</term> (<link target-id="CNX_Chem_12_07_Molina"/>), and F. Sherwood Rowland “for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone.”<footnote id="fs-idm200652832">“The Nobel Prize in Chemistry 1995,” Nobel Prize.org, accessed February 18, 2015, http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1995/.</footnote> Molina, a Mexican citizen, carried out the majority of his work at the Massachusetts Institute of Technology (MIT).</para>
+<para id="fs-idm149608448">The 1995 Nobel Prize in Chemistry was shared by Paul J. Crutzen, Mario J. <term class="no-emphasis" id="term-00002">Molina</term> (<link target-id="CNX_Chem_12_07_Molina"/>), and F. Sherwood Rowland “for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone.”<footnote id="fs-idm200652832">“The Nobel Prize in Chemistry 1995,” Nobel Prize.org, accessed February 18, 2015, http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1995/.</footnote> Molina, a Mexican citizen, carried out the majority of his work at the Massachusetts Institute of Technology (MIT).</para>
 <figure id="CNX_Chem_12_07_Molina">
 <media id="fs-idm190322192" alt="A photograph is shown of Mario Molina. To the right of the photo, an image of Earth’s southern hemisphere is shown with a central circular region in purple with a radius of about half that of the entire hemisphere. Just outside this region is a narrow royal blue band, followed by an outer thin turquoise blue band. The majority of the outermost region is green. Two small bands of yellow are present in the lower regions of the image.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_12_07_Molina.jpg"/>
@@ -89,7 +89,7 @@ Determine which of the two diagrams here (both for the same reaction) involves a
 </section>
 <section id="fs-idm254642320">
 <title>Heterogeneous Catalysts</title>
-<para id="fs-idm31937584">A <term>heterogeneous catalyst</term> is a catalyst that is present in a different phase (usually a solid) than the reactants. Such catalysts generally function by furnishing an active surface upon which a reaction can occur. Gas and liquid phase reactions catalyzed by heterogeneous catalysts occur on the surface of the catalyst rather than within the gas or liquid phase.</para>
+<para id="fs-idm31937584">A <term id="term-00003">heterogeneous catalyst</term> is a catalyst that is present in a different phase (usually a solid) than the reactants. Such catalysts generally function by furnishing an active surface upon which a reaction can occur. Gas and liquid phase reactions catalyzed by heterogeneous catalysts occur on the surface of the catalyst rather than within the gas or liquid phase.</para>
 <para id="fs-idm52671504">Heterogeneous catalysis has at least four steps:</para>
 <list id="fs-idm202987392" list-type="enumerated" number-style="arabic">
 <item>Adsorption of the reactant onto the surface of the catalyst</item>

@@ -5,7 +5,7 @@
   <md:content-id>m51014</md:content-id>
   <md:title>Molarity</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>Describe the fundamental properties of solutions</item>
 <item>Calculate solution concentrations using molarity</item>
 <item>Perform dilution calculations using the dilution equation</item>
@@ -21,9 +21,9 @@
 <caption>Sugar is one of many components in the complex mixture known as coffee. The amount of sugar in a given amount of coffee is an important determinant of the beverage’s sweetness. (credit: Jane Whitney)</caption></figure><section id="fs-idm10227280">
 <title>Solutions</title>
 <para id="fs-idm60561504">We have previously defined solutions as homogeneous mixtures, meaning that the composition of the mixture (and therefore its properties) is uniform throughout its entire volume. Solutions occur frequently in nature and have also been implemented in many forms of manmade technology. We will explore a more thorough treatment of solution properties in the chapter on solutions and colloids, but here we will introduce some of the basic properties of solutions.</para>
-<para id="fs-idm635664">The relative amount of a given solution component is known as its <term>concentration</term>. Often, though not always, a solution contains one component with a concentration that is significantly greater than that of all other components. This component is called the <term>solvent</term> and may be viewed as the medium in which the other components are dispersed, or <term>dissolved</term>. Solutions in which water is the solvent are, of course, very common on our planet. A solution in which water is the solvent is called an <term>aqueous solution</term>.</para>
-<para id="fs-idm64279024">A <term>solute</term> is a component of a solution that is typically present at a much lower concentration than the solvent. Solute concentrations are often described with qualitative terms such as <term>dilute</term> (of relatively low concentration) and <term>concentrated</term> (of relatively high concentration).</para>
-<para id="fs-idm62212352">Concentrations may be quantitatively assessed using a wide variety of measurement units, each convenient for particular applications. <term>Molarity (<emphasis effect="italics">M</emphasis>)</term> is a useful concentration unit for many applications in chemistry. Molarity is defined as the number of moles of solute in exactly 1 liter (1 L) of the solution:</para>
+<para id="fs-idm635664">The relative amount of a given solution component is known as its <term id="term-00001">concentration</term>. Often, though not always, a solution contains one component with a concentration that is significantly greater than that of all other components. This component is called the <term id="term-00002">solvent</term> and may be viewed as the medium in which the other components are dispersed, or <term id="term-00003">dissolved</term>. Solutions in which water is the solvent are, of course, very common on our planet. A solution in which water is the solvent is called an <term id="term-00004">aqueous solution</term>.</para>
+<para id="fs-idm64279024">A <term id="term-00005">solute</term> is a component of a solution that is typically present at a much lower concentration than the solvent. Solute concentrations are often described with qualitative terms such as <term id="term-00006">dilute</term> (of relatively low concentration) and <term id="term-00007">concentrated</term> (of relatively high concentration).</para>
+<para id="fs-idm62212352">Concentrations may be quantitatively assessed using a wide variety of measurement units, each convenient for particular applications. <term id="term-00008">Molarity (<emphasis effect="italics">M</emphasis>)</term> is a useful concentration unit for many applications in chemistry. Molarity is defined as the number of moles of solute in exactly 1 liter (1 L) of the solution:</para>
 <equation id="fs-idm57520096"><m:math><m:mrow><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol solute</m:mtext></m:mrow><m:mrow><m:mtext>L solution</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math></equation>
 <example id="fs-idm98982768">
 <para id="fs-idm10181424"><title>Calculating Molar Concentrations</title>
@@ -87,7 +87,7 @@ What volume of a 1.50-<emphasis effect="italics">M</emphasis> KBr solution conta
 </section>
 <section id="fs-idm97949648">
 <title>Dilution of Solutions</title>
-<para id="fs-idm134700400"><term>Dilution</term> is the process whereby the concentration of a solution is lessened by the addition of solvent. For example, we might say that a glass of iced tea becomes increasingly diluted as the ice melts. The water from the melting ice increases the volume of the solvent (water) and the overall volume of the solution (iced tea), thereby reducing the relative concentrations of the solutes that give the beverage its taste (<link target-id="CNX_Chem_03_04_dilution"/>).</para>
+<para id="fs-idm134700400"><term id="term-00009">Dilution</term> is the process whereby the concentration of a solution is lessened by the addition of solvent. For example, we might say that a glass of iced tea becomes increasingly diluted as the ice melts. The water from the melting ice increases the volume of the solvent (water) and the overall volume of the solution (iced tea), thereby reducing the relative concentrations of the solutes that give the beverage its taste (<link target-id="CNX_Chem_03_04_dilution"/>).</para>
 <figure id="CNX_Chem_03_04_dilution"><media id="fs-idp133169776" alt="This figure shows two graduated cylinders side-by-side. The first has about half as much blue liquid as the second. The blue liquid is darker in the first cylinder than in the second.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_03_04_dilution.jpg"/>
 </media>

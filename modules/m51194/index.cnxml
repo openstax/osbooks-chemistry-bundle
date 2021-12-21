@@ -4,14 +4,14 @@
   <md:content-id>m51194</md:content-id>
   <md:title>Amines and Amides</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list><item>Describe the structure and properties of an amine</item>
+<list id="list-00001"><item>Describe the structure and properties of an amine</item>
 <item>Describe the structure and properties of an amide</item>
 </list></md:abstract>
   <md:uuid>bb13fed9-5f67-4260-acb7-20146a8f2193</md:uuid>
 </metadata>
 
 <content>
-<para id="fs-idp88512176"><term>Amines</term> are molecules that contain carbon-nitrogen bonds. The nitrogen atom in an amine has a lone pair of electrons and three bonds to other atoms, either carbon or hydrogen. Various nomenclatures are used to derive names for amines, but all involve the class-identifying suffix <emphasis effect="italics">–ine</emphasis> as illustrated here for a few simple examples:</para>
+<para id="fs-idp88512176"><term id="term-00001">Amines</term> are molecules that contain carbon-nitrogen bonds. The nitrogen atom in an amine has a lone pair of electrons and three bonds to other atoms, either carbon or hydrogen. Various nomenclatures are used to derive names for amines, but all involve the class-identifying suffix <emphasis effect="italics">–ine</emphasis> as illustrated here for a few simple examples:</para>
 <media id="fs-idp22598720" alt="Three structures are shown, each with a red, central N atom which has a pair of electron dots indicated in red above the N atoms. The first structure is labeled methyl amine. To the left of the N, a C H subscript 3 group is bonded. H atoms are bonded to the right and bottom of the central N atom. The second structure is labeled dimethyl amine. This structure has C H subscript 3 groups bonded to the left and right of the N atom and a single H atom is bonded below. The third structure is labeled trimethyl amine, which has C H subscript 3 groups bonded to the left, right, and below the central N atom.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_04_amines_img.jpg"/>
 </media>
@@ -66,7 +66,7 @@
 <caption>Poppies can be used in the production of opium, a plant latex that contains morphine from which other opiates, such as heroin, can be synthesized. (credit: Karen Roe)</caption>
 </figure>
 </note>
-<para id="fs-idp60237616"><term>Amides</term> are molecules that contain nitrogen atoms connected to the carbon atom of a carbonyl group. Like amines, various nomenclature rules may be used to name amides, but all include use of the class-specific suffix <emphasis effect="italics">-amide</emphasis>:</para>
+<para id="fs-idp60237616"><term id="term-00002">Amides</term> are molecules that contain nitrogen atoms connected to the carbon atom of a carbonyl group. Like amines, various nomenclature rules may be used to name amides, but all include use of the class-specific suffix <emphasis effect="italics">-amide</emphasis>:</para>
 <media id="fs-idp118957072" alt="This figure shows three structures. Two examples are provided. The basic structure has an H atom or R group bonded to a C atom which is double bonded to an O atom. The O atom as two sets of electron dots. The C atom is bonded to an N atom which in turn is bonded to two R groups or two H atoms. The N atom as one set of electron dots. The next structure includes acetamide, which has C H subscript 3 bonded to a C atom with a doubly bonded O atom. The second C atom is also bonded to N H subscript 2. Hexanamide has a hydrocarbon chain of length 6 involving all single bonds. The condensed structure is shown here. To the sixth C atom at the right end of the chain, an O atom is double bonded and an N H subscript 2 group is single bonded.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_04_amide1_img.jpg"/>
 </media>

@@ -5,7 +5,7 @@
   <md:content-id>m61740</md:content-id>
   <md:title>Formula Mass and the Mole Concept</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>Calculate formula masses for covalent and ionic compounds</item>
 </list></md:abstract>
   <md:uuid>c92f6dd8-774c-4d2c-af2b-d7aa3374b237</md:uuid>
@@ -15,7 +15,7 @@
 <para id="fs-idm28512">We can argue that modern chemical science began when scientists started exploring the quantitative as well as the qualitative aspects of chemistry. For example, Dalton’s atomic theory was an attempt to explain the results of measurements that allowed him to calculate the relative masses of elements combined in various compounds. Understanding the relationship between the masses of atoms and the chemical formulas of compounds allows us to quantitatively describe the composition of substances.</para>
 <section id="fs-idm30815968">
 <title>Formula Mass</title>
-<para id="fs-idp76705136">In an earlier chapter, we described the development of the atomic mass unit, the concept of average atomic masses, and the use of chemical formulas to represent the elemental makeup of substances. These ideas can be extended to calculate the <term>formula mass</term> of a substance by summing the average atomic masses of all the atoms represented in the substance’s formula.</para>
+<para id="fs-idp76705136">In an earlier chapter, we described the development of the atomic mass unit, the concept of average atomic masses, and the use of chemical formulas to represent the elemental makeup of substances. These ideas can be extended to calculate the <term id="term-00001">formula mass</term> of a substance by summing the average atomic masses of all the atoms represented in the substance’s formula.</para>
 <section id="fs-idp16940464">
 <title>Formula Mass for Covalent Substances</title>
 <para id="fs-idp128238864">For covalent substances, the formula represents the numbers and types of atoms composing a single molecule of the substance; therefore, the formula mass may be correctly referred to as a molecular mass. Consider chloroform (CHCl<sub>3</sub>), a covalent compound once used as a surgical anesthetic and now primarily used in the production of the “anti-stick” polymer, Teflon. The molecular formula of chloroform indicates that a single molecule contains one carbon atom, one hydrogen atom, and three chlorine atoms. The average molecular mass of a chloroform molecule is therefore equal to the sum of the average atomic masses of these atoms. <link target-id="CNX_Chem_03_01_chloroform"/> outlines the calculations used to derive the molecular mass of chloroform, which is 119.37 amu.</para>

@@ -4,14 +4,14 @@
   <md:content-id>m62039</md:content-id>
   <md:title>Chemical Nomenclature</md:title>
   <md:abstract>By the end of this module, you will be able to:
-<list>
+<list id="list-00001">
 <item>Derive names for common types of inorganic compounds using a systematic approach</item>
 </list></md:abstract>
   <md:uuid>7e1013d7-221b-48d9-8bc3-a8a9ed5840c1</md:uuid>
 </metadata>
 
 <content>
-<para id="fs-idp268117168"><term>Nomenclature</term>, a collection of rules for naming things, is important in science and in many other situations. This module describes an approach that is used to name simple ionic and molecular compounds, such as NaCl, CaCO<sub>3</sub>, and N<sub>2</sub>O<sub>4</sub>. The simplest of these are <term>binary compounds</term>, those containing only two elements, but we will also consider how to name ionic compounds containing polyatomic ions, and one specific, very important class of compounds known as <term class="no-emphasis">acids</term> (subsequent chapters in this text will focus on these compounds in great detail). We will limit our attention here to inorganic compounds, compounds that are composed principally of elements other than carbon, and will follow the nomenclature guidelines proposed by IUPAC. The rules for organic compounds, in which carbon is the principle element, will be treated in a later chapter on organic chemistry.</para>
+<para id="fs-idp268117168"><term id="term-00001">Nomenclature</term>, a collection of rules for naming things, is important in science and in many other situations. This module describes an approach that is used to name simple ionic and molecular compounds, such as NaCl, CaCO<sub>3</sub>, and N<sub>2</sub>O<sub>4</sub>. The simplest of these are <term id="term-00002">binary compounds</term>, those containing only two elements, but we will also consider how to name ionic compounds containing polyatomic ions, and one specific, very important class of compounds known as <term class="no-emphasis" id="term-00003">acids</term> (subsequent chapters in this text will focus on these compounds in great detail). We will limit our attention here to inorganic compounds, compounds that are composed principally of elements other than carbon, and will follow the nomenclature guidelines proposed by IUPAC. The rules for organic compounds, in which carbon is the principle element, will be treated in a later chapter on organic chemistry.</para>
 <section id="fs-idp268266480">
 <title>Ionic Compounds</title>
 <para id="fs-idp268131792">To name an inorganic compound, we need to consider the answers to several questions. First, is the compound ionic or molecular? If the compound is ionic, does the metal form ions of only one type (fixed charge) or more than one type (variable charge)? Are the ions monatomic or polyatomic? If the compound is molecular, does it contain hydrogen? If so, does it also contain oxygen? From the answers we derive, we place the compound in an appropriate category and then name it accordingly.</para>
@@ -373,7 +373,7 @@ Write the formulas for the following compounds:</para>
 </section>
 <section id="fs-idp268193776">
 <title>Binary Acids</title>
-<para id="fs-idp282238096">Some compounds containing hydrogen are members of an important class of substances known as acids. The chemistry of these compounds is explored in more detail in later chapters of this text, but for now, it will suffice to note that many acids release hydrogen ions, H<sup>+</sup>, when dissolved in water. To denote this distinct chemical property, a mixture of water with an acid is given a name derived from the compound’s name. If the compound is a <term>binary acid</term> (comprised of hydrogen and one other nonmetallic element):</para>
+<para id="fs-idp282238096">Some compounds containing hydrogen are members of an important class of substances known as acids. The chemistry of these compounds is explored in more detail in later chapters of this text, but for now, it will suffice to note that many acids release hydrogen ions, H<sup>+</sup>, when dissolved in water. To denote this distinct chemical property, a mixture of water with an acid is given a name derived from the compound’s name. If the compound is a <term id="term-00004">binary acid</term> (comprised of hydrogen and one other nonmetallic element):</para>
 <list id="fs-idp282239904" list-type="enumerated" number-style="arabic">
 <item>The word “hydrogen” is changed to the prefix <emphasis effect="italics">hydro-</emphasis></item>
 <item>The other nonmetallic element name is modified by adding the suffix -<emphasis effect="italics">ic</emphasis></item>
@@ -420,7 +420,7 @@ Write the formulas for the following compounds:</para>
 </section>
 <section id="fs-idp268349296">
 <title>Oxyacids</title>
-<para id="fs-idp279162704">Many compounds containing three or more elements (such as organic compounds or coordination compounds) are subject to specialized nomenclature rules that you will learn later. However, we will briefly discuss the important compounds known as <term>oxyacids</term>, compounds that contain hydrogen, oxygen, and at least one other element, and are bonded in such a way as to impart acidic properties to the compound (you will learn the details of this in a later chapter). Typical oxyacids consist of hydrogen combined with a polyatomic, oxygen-containing ion. To name oxyacids:</para>
+<para id="fs-idp279162704">Many compounds containing three or more elements (such as organic compounds or coordination compounds) are subject to specialized nomenclature rules that you will learn later. However, we will briefly discuss the important compounds known as <term id="term-00005">oxyacids</term>, compounds that contain hydrogen, oxygen, and at least one other element, and are bonded in such a way as to impart acidic properties to the compound (you will learn the details of this in a later chapter). Typical oxyacids consist of hydrogen combined with a polyatomic, oxygen-containing ion. To name oxyacids:</para>
 <list id="fs-idp279164064" list-type="enumerated" number-style="arabic">
 <item>Omit “hydrogen”</item>
 <item>Start with the root name of the anion</item>

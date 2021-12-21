@@ -4,7 +4,7 @@
   <md:content-id>m61755</md:content-id>
   <md:title>Equilibrium Calculations</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list><item>Write equations representing changes in concentration and pressure for chemical species in equilibrium systems</item>
+<list id="list-00001"><item>Write equations representing changes in concentration and pressure for chemical species in equilibrium systems</item>
 <item>Use algebra to perform various types of equilibrium calculations</item>
 <item>Explain how temperature affects the spontaneity of some proceses</item>
 <item>Relate standard free energy changes to equilibrium constants</item></list></md:abstract>
@@ -328,7 +328,7 @@ The incomplete combustion of carbon is described by the following equation:</par
 <equation id="fs-idm124549040"><m:math><m:mrow><m:mtext>2C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <para id="fs-idm291788752">How does the spontaneity of this process depend upon temperature?</para>
 <para id="fs-idm116939264"><title>Solution</title>
-Combustion processes are exothermic (Δ<emphasis effect="italics">H</emphasis> &lt; 0). This particular reaction involves an increase in entropy due to the accompanying increase in the amount of gaseous species (net gain of one mole of gas, Δ<emphasis effect="italics">S</emphasis> &gt; 0). The reaction is therefore spontaneous (Δ<emphasis effect="italics">G</emphasis> &lt; 0) at all temperatures.</para>
+Combustion processes are exothermic (Δ<emphasis effect="italics">H</emphasis> &lt; 0). This particular reaction involves an increase in entropy due to the accompanying increase in the amount of gaseous species (net gain of one mole of gas, Δ<emphasis effect="italics">S</emphasis> > 0). The reaction is therefore spontaneous (Δ<emphasis effect="italics">G</emphasis> &lt; 0) at all temperatures.</para>
 <para id="fs-idm189692848"><title>Check Your Learning</title>
 Popular chemical hand warmers generate heat by the air-oxidation of iron:</para>
 <equation id="fs-idm247358864"><m:math><m:mrow><m:mtext>4Fe</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
@@ -371,7 +371,7 @@ Use the information in <link class="target-chapter" document="m51221">Appendix G
 
 
 </section><section id="eip-943"><title>Free Energy and Equilibrium</title><para id="fs-idm166739792">The free energy change for a process may be viewed as a measure of its driving force. A negative value for Δ<emphasis effect="italics">G</emphasis> represents a finite driving force for the process in the forward direction, while a positive value represents a driving force for the process in the reverse direction. When Δ<emphasis effect="italics">G</emphasis> is zero, the forward and reverse driving forces are equal, and so the process occurs in both directions at the same rate (the system is at equilibrium).</para>
-<para id="fs-idm189708256">In the section on equilibrium, the <emphasis effect="italics">reaction quotient</emphasis>, <emphasis effect="italics">Q</emphasis>, was introduced as a convenient measure of the status of an equilibrium system. Recall that <emphasis effect="italics">Q</emphasis> is the numerical value of the mass action expression for the system, and that you may use its value to identify the direction in which a reaction will proceed in order to achieve equilibrium. When <emphasis effect="italics">Q</emphasis> is lesser than the equilibrium constant, <emphasis effect="italics">K</emphasis>, the reaction will proceed in the forward direction until equilibrium is reached and <emphasis effect="italics">Q</emphasis> = <emphasis effect="italics">K</emphasis>. Conversely, if <emphasis effect="italics">Q</emphasis> &gt; <emphasis effect="italics">K</emphasis>, the process will proceed in the reverse direction until equilibrium is achieved.</para><para id="fs-idm39755632">The free energy change for a process taking place with reactants and products present under nonstandard conditions, Δ<emphasis effect="italics">G</emphasis>, is related to the standard free energy change, Δ<emphasis effect="italics">G</emphasis>°, according to this equation:</para>
+<para id="fs-idm189708256">In the section on equilibrium, the <emphasis effect="italics">reaction quotient</emphasis>, <emphasis effect="italics">Q</emphasis>, was introduced as a convenient measure of the status of an equilibrium system. Recall that <emphasis effect="italics">Q</emphasis> is the numerical value of the mass action expression for the system, and that you may use its value to identify the direction in which a reaction will proceed in order to achieve equilibrium. When <emphasis effect="italics">Q</emphasis> is lesser than the equilibrium constant, <emphasis effect="italics">K</emphasis>, the reaction will proceed in the forward direction until equilibrium is reached and <emphasis effect="italics">Q</emphasis> = <emphasis effect="italics">K</emphasis>. Conversely, if <emphasis effect="italics">Q</emphasis> > <emphasis effect="italics">K</emphasis>, the process will proceed in the reverse direction until equilibrium is achieved.</para><para id="fs-idm39755632">The free energy change for a process taking place with reactants and products present under nonstandard conditions, Δ<emphasis effect="italics">G</emphasis>, is related to the standard free energy change, Δ<emphasis effect="italics">G</emphasis>°, according to this equation:</para>
 <equation id="fs-idm55093920"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>Q</m:mi></m:mrow></m:math></equation>
 <para id="fs-idm192589168"><emphasis effect="italics">R</emphasis> is the gas constant (8.314 J/K mol), <emphasis effect="italics">T</emphasis> is the kelvin or absolute temperature, and <emphasis effect="italics">Q</emphasis> is the reaction quotient. We may use this equation to predict the spontaneity for a process under any given set of conditions as illustrated in <link target-id="fs-idm192477856"/>.</para>
 <example id="fs-idm192477856">
@@ -410,13 +410,13 @@ Calculate the free energy change for this same reaction at 875 °C in a 5.00 L m
 </thead>
 <tbody>
 <row valign="top">
-<entry align="center">&gt; 1</entry>
+<entry align="center">> 1</entry>
 <entry align="center">&lt; 0</entry>
 <entry align="left">Products are more abundant at equilibrium.</entry>
 </row>
 <row valign="top">
 <entry align="center">&lt; 1</entry>
-<entry align="center">&gt; 0</entry>
+<entry align="center">> 0</entry>
 <entry align="left">Reactants are more abundant at equilibrium.</entry>
 </row>
 <row valign="top">

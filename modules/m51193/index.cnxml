@@ -4,13 +4,13 @@
   <md:content-id>m51193</md:content-id>
   <md:title>Aldehydes, Ketones, Carboxylic Acids, and Esters</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list><item>Describe the structure and properties of aldehydes, ketones, carboxylic acids and esters</item></list></md:abstract>
+<list id="list-00001"><item>Describe the structure and properties of aldehydes, ketones, carboxylic acids and esters</item></list></md:abstract>
   <md:uuid>2bf48f7a-940e-4eee-860f-1692a2c998b5</md:uuid>
 </metadata>
 
 <content>
 <para id="fs-idp53896496">Another class of organic molecules contains a carbon atom connected to an oxygen atom by a double bond, commonly called a carbonyl group. The trigonal planar carbon in the carbonyl group can attach to two other substituents leading to several subfamilies (aldehydes, ketones, carboxylic acids and esters) described in this section.</para>
-<section id="fs-idp48202688"><title>Aldehydes and Ketones</title><para id="fs-idp50721744">Both <term>aldehydes</term> and <term>ketones</term> contain a <term>carbonyl group</term>, a functional group with a carbon-oxygen double bond. The names for aldehyde and ketone compounds are derived using similar nomenclature rules as for alkanes and alcohols, and include the class-identifying suffixes <emphasis effect="italics">-al</emphasis> and <emphasis effect="italics">-one</emphasis>, respectively:</para>
+<section id="fs-idp48202688"><title>Aldehydes and Ketones</title><para id="fs-idp50721744">Both <term id="term-00001">aldehydes</term> and <term id="term-00002">ketones</term> contain a <term id="term-00003">carbonyl group</term>, a functional group with a carbon-oxygen double bond. The names for aldehyde and ketone compounds are derived using similar nomenclature rules as for alkanes and alcohols, and include the class-identifying suffixes <emphasis effect="italics">-al</emphasis> and <emphasis effect="italics">-one</emphasis>, respectively:</para>
 <media id="fs-idm18746560" alt="A C atom is shown with dashes appearing to the left and right. An O atom is double bonded above the C atom.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_03_carbonyl_img.jpg"/>
 </media>
@@ -74,7 +74,7 @@ Indicate whether the marked carbon atoms in the three molecules here are oxidize
 </media>
 <caption>Esters are responsible for the odors associated with various plants and their fruits.</caption>
 </figure>
-<para id="fs-idp44521216">Both <term>carboxylic acids</term> and <term>esters</term> contain a carbonyl group with a second oxygen atom bonded to the carbon atom in the carbonyl group by a single bond. In a carboxylic acid, the second oxygen atom also bonds to a hydrogen atom. In an ester, the second oxygen atom bonds to another carbon atom. The names for carboxylic acids and esters include prefixes that denote the lengths of the carbon chains in the molecules and are derived following nomenclature rules similar to those for inorganic acids and salts (see these examples):</para>
+<para id="fs-idp44521216">Both <term id="term-00004">carboxylic acids</term> and <term id="term-00005">esters</term> contain a carbonyl group with a second oxygen atom bonded to the carbon atom in the carbonyl group by a single bond. In a carboxylic acid, the second oxygen atom also bonds to a hydrogen atom. In an ester, the second oxygen atom bonds to another carbon atom. The names for carboxylic acids and esters include prefixes that denote the lengths of the carbon chains in the molecules and are derived following nomenclature rules similar to those for inorganic acids and salts (see these examples):</para>
 <media id="fs-idm75981808" alt="Two structures are shown. The first structure is labeled, “ethanoic acid,” and, “acetic acid.” This structure indicates a C atom to which H atoms are bonded above, below and to the left. To the right of this in red is a bonded group comprised of a C atom to which an O atom is double bonded above. To the right of the red C atom, an O atom is bonded which has an H atom bonded to its right. Both O atoms have two sets of electron dots. The second structure is labeled, “methyl ethanoate,” and, “methyl acetate.” This structure indicates a C atom to which H atoms are bonded above, below and to the left. In red, bonded to the right is a C atom with a double bonded O atom above and a single bonded O atom to the right. To the right of this last O atom in black is another C atom to which H atoms are bonded above, below and to the right. Both O atoms have two pairs of electron dots.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_03_CarboxEst2_img.jpg"/>
 </media>
