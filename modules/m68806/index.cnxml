@@ -1,0 +1,460 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Hydrolysis of Salts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68806</md:content-id>
+  <md:title>Hydrolysis of Salts</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list><item>Predict whether a salt solution will be acidic, basic, or neutral</item>
+<item>Calculate the concentrations of the various species in a salt solution</item>
+<item>Describe the acid ionization of hydrated metal ions</item>
+</list></md:abstract>
+  <md:uuid>df527820-3877-419d-97a3-62386ce24df9</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idp37481072">
+<title>Salts with Acidic Ions</title>
+<para id="fs-idm649972064">Salts are ionic compounds composed of cations and anions, either of which may be capable of undergoing an acid or base ionization reaction with water. Aqueous salt solutions, therefore, may be acidic, basic, or neutral, depending on the relative acid-base strengths of the salt's constituent ions. For example, dissolving ammonium chloride in water results in its dissociation, as described by the equation</para>
+<equation id="fs-idm209439760" class="unnumbered"><m:math>
+<m:mrow>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext></m:mrow>
+<m:mn>4</m:mn>
+</m:msub>
+<m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext></m:mrow>
+<m:mn>4</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup>
+<m:mrow>
+<m:mtext>Cl</m:mtext></m:mrow>
+<m:mo>−</m:mo>
+</m:msup>
+<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm240546096">The ammonium ion is the conjugate acid of the base ammonia, NH<sub>3</sub>; its acid ionization (or acid hydrolysis) reaction is represented by</para><equation id="fs-idm137491888a" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mtext>a</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mtext>w</m:mtext></m:mrow></m:msub><m:mtext>/</m:mtext><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mtext>b</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm238452464">Since ammonia is a weak base, <emphasis effect="italics">K</emphasis><sub>b</sub> is measurable and <emphasis effect="italics">K</emphasis><sub>a</sub> &gt; 0 (ammonium ion is a weak acid).</para>
+<para id="fs-idm249820848">The chloride ion is the conjugate base of hydrochloric acid, and so its base ionization (or <emphasis effect="italics">base hydrolysis</emphasis>) reaction is represented by</para>
+<equation id="fs-idm248062064" class="unnumbered"><m:math>
+<m:mrow>
+<m:msup>
+<m:mrow>
+<m:mtext>Cl</m:mtext></m:mrow>
+<m:mo>−</m:mo>
+</m:msup>
+<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup>
+<m:mrow>
+<m:mtext>OH</m:mtext></m:mrow>
+<m:mo>−</m:mo>
+</m:msup>
+<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub>
+<m:mi>K</m:mi>
+<m:mtext>b</m:mtext>
+</m:msub>
+<m:mo>=</m:mo><m:msub>
+<m:mi>K</m:mi>
+<m:mtext>w</m:mtext>
+</m:msub>
+<m:mtext>/</m:mtext><m:msub>
+<m:mi>K</m:mi>
+<m:mtext>a</m:mtext>
+</m:msub>
+</m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm656133776">Since HCl is a strong acid, <emphasis effect="italics">K</emphasis><sub>a</sub> is immeasurably large and <emphasis effect="italics">K</emphasis><sub>b</sub> ≈ 0 (chloride ions don’t undergo appreciable hydrolysis).</para>
+<para id="fs-idm212824304">Thus, dissolving ammonium chloride in water yields a solution of weak acid cations (<m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math>) and inert anions (Cl<sup>−</sup>), resulting in an acidic solution.</para>
+<example id="fs-idp38392128">
+<para id="fs-idm172853552"><title>Calculating the pH of an Acidic Salt Solution</title>Aniline is an amine that is used to manufacture dyes. It is isolated as anilinium chloride, <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">]</m:mo><m:mtext>Cl</m:mtext><m:mo>,</m:mo></m:mrow></m:math> a salt prepared by the reaction of the weak base aniline and hydrochloric acid. What is the pH of a 0.233 <emphasis effect="italics">M</emphasis> solution of anilinium chloride</para><equation id="fs-idm149245808" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm45558496"><title>Solution</title>The <emphasis effect="italics">K</emphasis><sub>a</sub> for anilinium ion is derived from the <emphasis effect="italics">K</emphasis><sub>b</sub> for its conjugate base, aniline (see <link document="m68866">Appendix H</link>):</para>
+<equation id="fs-idm169067840" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>w</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−14</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>4.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−10</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></equation><para id="fs-idm169484640">Using the provided information, an ICE table for this system is prepared:</para>
+<media id="fs-idm4192576" alt="This table has two main columns and four rows. The first row for the first column does not have a heading and then has the following in the first column: Initial concentration ( M ), Change ( M ), Equilibrium ( M ). The second column has the header of “C subscript 6 H subscript 5 N H subscript 3 superscript positive sign plus sign H subscript 2 O equilibrium sign C subscript 6 H subscript 5 N H subscript 2 plus sign H subscript 3 O superscript positive sign.” Under the second column is a subgroup of four columns and three rows. The first column has the following: 0.233, negative x, 0.233 minus x. The second column is blank for all three rows. The third column has the following: 0, positive x, x. The fourth column has the following: approximately 0, positive x, x." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_04_steps1_img.jpg"/>
+</media>
+<para id="fs-idm175121360">Substituting these equilibrium concentration terms into the <emphasis effect="italics">K</emphasis><sub>a</sub> expression gives</para>
+<equation id="fs-idm248611472" class="unnumbered"><m:math>
+<m:mtable columnalign="left">
+<m:mtr>
+<m:mtd>
+<m:msub>
+<m:mtext>K</m:mtext>
+<m:mi>a</m:mi>
+</m:msub>
+<m:mo>=</m:mo><m:mo stretchy="false">[</m:mo><m:msub>
+<m:mtext>C</m:mtext>
+<m:mn>6</m:mn>
+</m:msub>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:msub>
+<m:mtext>NH</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msup>
+<m:mtext>O</m:mtext>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo stretchy="false">]</m:mo><m:mtext>/</m:mtext><m:mo stretchy="false">[</m:mo><m:msub>
+<m:mtext>C</m:mtext>
+<m:mn>6</m:mn>
+</m:msub>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:msub>
+<m:mtext>NH</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo stretchy="false">]</m:mo>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>2.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mtext>−</m:mtext><m:mn>5</m:mn></m:mrow>
+</m:msup>
+<m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mtext>/</m:mtext><m:mn>0.233</m:mn><m:mo>−</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</equation>
+<para id="fs-idm252541328">Assuming <emphasis effect="italics">x</emphasis> &lt;&lt; 0.233, the equation is simplified and solved for <emphasis effect="italics">x</emphasis>:</para>
+<equation id="fs-idm204343104" class="unnumbered"><m:math>
+ <m:mtable columnalign="left">
+  <m:mtr/>
+  <m:mtr/>
+  <m:mtr>
+   <m:mtd>
+    <m:mn>2.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+     <m:mn>10</m:mn>
+     <m:mrow>
+      <m:mtext>−</m:mtext><m:mn>5</m:mn></m:mrow>
+    </m:msup>
+    <m:mo>=</m:mo><m:msup>
+     <m:mi>x</m:mi>
+     <m:mn>2</m:mn>
+    </m:msup>
+    <m:mtext>/</m:mtext><m:mn>0.233</m:mn>
+   </m:mtd>
+  </m:mtr>
+  <m:mtr>
+   <m:mtd>
+    <m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0.0023</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi>
+   </m:mtd>
+  </m:mtr>
+ </m:mtable>
+</m:math>
+</equation>
+<para id="fs-idm228289760">The ICE table defines x as the hydronium ion molarity, and so the pH is computed as</para>
+<equation id="fs-idm247349056" class="unnumbered"><m:math>
+ <m:mrow>
+  <m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mo>−</m:mo><m:mtext>log</m:mtext><m:mo stretchy="false">[</m:mo><m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>3</m:mn>
+  </m:msub>
+  <m:msup>
+   <m:mtext>O</m:mtext>
+   <m:mo>+</m:mo>
+  </m:msup>
+  <m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mtext>log</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>0.0023</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>2.64</m:mn></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm156700000"><title>Check Your Learning</title>What is the hydronium ion concentration in a 0.100-<emphasis effect="italics">M</emphasis> solution of ammonium nitrate, NH<sub>4</sub>NO<sub>3</sub>, a salt composed of the ions <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math> Which is the stronger acid <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math> or <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo>?</m:mo></m:mrow></m:math></para>
+<note id="fs-idm54595904">
+<title>Answer:</title>
+<para id="fs-idp43419152">[H<sub>3</sub>O<sup>+</sup>] = 7.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup> <emphasis effect="italics">M</emphasis>; <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math> is the stronger acid.</para>
+</note>
+</example>
+</section>
+<section id="fs-idm135179984">
+<title>Salts with Basic Ions</title>
+<para id="fs-idm119438896">As another example, consider dissolving sodium acetate in water:</para>
+<equation id="fs-idm243373152" class="unnumbered"><m:math>
+<m:mrow>
+<m:msub>
+<m:mrow>
+<m:mtext>NaCH</m:mtext></m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msub>
+<m:mrow>
+<m:mtext>CO</m:mtext></m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>⇋</m:mo><m:msup><m:mtext>Na</m:mtext><m:mo>+</m:mo></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub>
+<m:mrow>
+<m:mtext>CH</m:mtext></m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msub>
+<m:mrow>
+<m:mtext>CO</m:mtext></m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mo>−</m:mo>
+</m:msup>
+<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm237096048">The sodium ion does not undergo appreciable acid or base ionization and has no effect on the solution pH. This may seem obvious from the ion's formula, which indicates no hydrogen or oxygen atoms, but some dissolved metal ions function as weak acids, as addressed later in this section.</para>
+<para id="fs-idm248142864">The acetate ion, <m:math>
+ <m:msub>
+  <m:mtext>CH</m:mtext>
+  <m:mn>3</m:mn>
+ </m:msub>
+ <m:msub>
+  <m:mtext>CO</m:mtext>
+  <m:mn>2</m:mn>
+ </m:msub>
+ <m:msup>
+  <m:mrow/>
+  <m:mo>−</m:mo>
+ </m:msup><m:mtext>,</m:mtext>
+ </m:math> is the conjugate base of acetic acid, CH<sub>3</sub>CO<sub>2</sub>H, and so its base ionization (or <emphasis effect="italics">base hydrolysis</emphasis>) reaction is represented by</para>
+<equation id="fs-idm641525520" class="unnumbered"><m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CH</m:mtext></m:mrow>
+   <m:mn>3</m:mn>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext></m:mrow>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:msup>
+   <m:mrow/>
+   <m:mo>−</m:mo>
+  </m:msup>
+  <m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub>
+   <m:mrow>
+    <m:mtext>CH</m:mtext></m:mrow>
+   <m:mn>3</m:mn>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext></m:mrow>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>OH</m:mtext><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:msub>
+   <m:mi>K</m:mi>
+   <m:mtext>b</m:mtext>
+  </m:msub>
+  <m:mo>=</m:mo><m:msub>
+   <m:mi>K</m:mi>
+   <m:mtext>w</m:mtext>
+  </m:msub>
+  <m:mtext>/</m:mtext><m:msub>
+   <m:mi>K</m:mi>
+   <m:mtext>a</m:mtext>
+  </m:msub>
+  </m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm249385760">Because acetic acid is a weak acid, its <emphasis effect="italics">K</emphasis><sub>a</sub> is measurable and <emphasis effect="italics">K</emphasis><sub>b</sub> &gt; 0 (acetate ion is a weak base).</para>
+<para id="fs-idm248895632">Dissolving sodium acetate in water yields a solution of inert cations (Na<sup>+</sup>) and weak base anions <m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>(CH</m:mtext></m:mrow>
+   <m:mn>3</m:mn>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext></m:mrow>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:msup>
+   <m:mrow/>
+   <m:mo>−</m:mo>
+  </m:msup>
+  <m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow>
+</m:math>
+ resulting in a basic solution.</para>
+<example id="fs-idp37320880">
+<para id="fs-idm168517392"><title>Equilibrium in a Solution of a Salt of a Weak Acid and a Strong Base</title>
+Determine the acetic acid concentration in a solution with <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>0.050</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math> and [OH<sup>−</sup>] = 2.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup> <emphasis effect="italics">M</emphasis> at equilibrium. The reaction is:</para>
+<equation id="fs-idm148031584" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm2736464"><title>Solution</title>The provided equilibrium concentrations and a value for the equilibrium constant will permit calculation of the missing equilibrium concentration. The process in question is the base ionization of acetate ion, for which</para>
+<equation id="fs-idm62642320" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>for</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>w</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>for</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−14</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>5.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−10</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm121126768">Substituting the available values into the <emphasis effect="italics">K</emphasis><sub>b</sub> expression gives</para>
+<equation id="fs-idm218140928" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>5.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−10</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<equation id="fs-idp923936" class="unnumbered"><m:math><m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0.050</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>5.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−10</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm45670544">Solving the above equation for the acetic acid molarity yields [CH<sub>3</sub>CO<sub>2</sub>H] = 1.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> <emphasis effect="italics">M</emphasis>.</para>
+<para id="fs-idm54917312"><title>Check Your Learning</title>What is the pH of a 0.083-<emphasis effect="italics">M</emphasis> solution of NaCN?</para><note id="fs-idm95967568">
+<title>Answer:</title>
+<para id="fs-idm7663712">11.11</para></note>
+</example>
+</section>
+<section id="fs-idm81229520">
+<title>Salts with Acidic and Basic Ions</title>
+<para id="fs-idp31152">Some salts are composed of both acidic and basic ions, and so the pH of their solutions will depend on the relative strengths of these two species. Likewise, some salts contain a single ion that is amphiprotic, and so the relative strengths of this ion’s acid and base character will determine its effect on solution pH. For both types of salts, a comparison of the <emphasis effect="italics">K</emphasis><sub>a</sub> and <emphasis effect="italics">K</emphasis><sub>b</sub> values allows prediction of the solution’s acid-base status, as illustrated in the following example exercise.</para><example id="fs-idm161229856">
+<para id="fs-idm219032992"><title>Determining the Acidic or Basic Nature of Salts</title>
+Determine whether aqueous solutions of the following salts are acidic, basic, or neutral:</para>
+<para id="fs-idm55604816">(a) KBr</para>
+<para id="fs-idp65280880">(b) NaHCO<sub>3</sub></para>
+<para id="fs-idm82359664">(c) Na<sub>2</sub>HPO<sub>4</sub></para>
+<para id="fs-idm18348400">(d) NH<sub>4</sub>F</para>
+<para id="fs-idm117618912"><title>Solution</title>Consider each of the ions separately in terms of its effect on the pH of the solution, as shown here:</para>
+<para id="fs-idm56643648">(a) The K<sup>+</sup> cation is inert and will not affect pH. The bromide ion is the conjugate base of a strong acid, and so it is of negligible base strength (no appreciable base ionization). The solution is neutral.</para>
+<para id="fs-idm168102384">(b) The Na<sup>+</sup> cation is inert and will not affect the pH of the solution; while the <m:math><m:mrow><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> anion is amphiprotic. The <emphasis effect="italics">K</emphasis><sub>a</sub> of <m:math><m:mrow><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> is 4.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup>,and its <emphasis effect="italics">K</emphasis><sub>b</sub> is <m:math><m:mrow><m:mfrac><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−14</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>4.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>2.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para><para id="fs-idm98756192">Since <emphasis effect="italics">K</emphasis><sub>b</sub> &gt;&gt; <emphasis effect="italics">K</emphasis><sub>a</sub>, the solution is basic.</para>
+<para id="fs-idp9214400">(c) The Na<sup>+</sup> cation is inert and will not affect the pH of the solution, while the <m:math><m:mrow><m:msub><m:mrow><m:mtext>HPO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math> anion is amphiprotic. The <emphasis effect="italics">K</emphasis><sub>a</sub> of <m:math><m:mrow><m:msub><m:mrow><m:mtext>HPO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math> is 4.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−13</sup>,</para><para id="fs-idp53880096">and its <emphasis effect="italics">K</emphasis><sub>b</sub> is <m:math><m:mrow><m:mfrac><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−14</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>6.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> Because <emphasis effect="italics">K</emphasis><sub>b</sub> &gt;&gt; <emphasis effect="italics">K</emphasis><sub>a</sub>, the solution is basic.</para><para id="fs-idp10452272">(d) The <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math> ion is acidic (see above discussion) and the F<sup>−</sup> ion is basic (conjugate base of the weak acid HF). Comparing the two ionization constants: <emphasis effect="italics">K</emphasis><sub>a</sub> of <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math> is 5.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup> and the <emphasis effect="italics">K</emphasis><sub>b</sub> of F<sup>−</sup> is 1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup>, so the solution is acidic, since <emphasis effect="italics">K</emphasis><sub>a</sub> &gt; <emphasis effect="italics">K</emphasis><sub>b</sub>.</para>
+<para id="fs-idm140849264"><title>Check Your Learning</title>Determine whether aqueous solutions of the following salts are acidic, basic, or neutral:</para>
+<para id="fs-idm15098896">(a) K<sub>2</sub>CO<sub>3</sub></para>
+<para id="fs-idm75225328">(b) CaCl<sub>2</sub></para>
+<para id="fs-idm290933120">(c) KH<sub>2</sub>PO<sub>4</sub></para>
+<para id="fs-idm223869584">(d) (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub></para>
+<note id="fs-idm42020240">
+<title>Answer:</title>
+<para id="fs-idm5299888">(a) basic; (b) neutral; (c) acidic; (d) basic</para></note>
+</example>
+</section>
+<section id="fs-idm108915120">
+<title>The Ionization of Hydrated Metal Ions</title>
+<para id="fs-idm252144288">Unlike the group 1 and 2 metal ions of the preceding examples (Na<sup>+</sup>, Ca<sup>2+</sup>, etc.), some metal ions function as acids in aqueous solutions. These ions are not just loosely solvated by water molecules when dissolved, instead they are covalently bonded to a fixed number of water molecules to yield a complex ion (see chapter on coordination chemistry). As an example, the dissolution of aluminum nitrate in water is typically represented as</para>
+<equation id="fs-idm253215984" class="unnumbered"><m:math>
+ <m:mrow>
+  <m:mtext>Al</m:mtext><m:mo stretchy="false">(</m:mo><m:msub>
+   <m:mrow>
+    <m:mtext>NO</m:mtext></m:mrow>
+   <m:mn>3</m:mn>
+  </m:msub>
+  <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msup>
+   <m:mrow>
+    <m:mtext>Al</m:mtext></m:mrow>
+   <m:mn>3</m:mn>
+  </m:msup>
+  <m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub>
+   <m:mrow>
+    <m:mtext>NO</m:mtext></m:mrow>
+   <m:mn>3</m:mn>
+  </m:msub>
+  <m:msup>
+   <m:mrow/>
+   <m:mo>−</m:mo>
+  </m:msup>
+  <m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm252419632">However, the aluminum(III) ion actually reacts with six water molecules to form a stable complex ion, and so the more explicit representation of the dissolution process is</para>
+<equation id="fs-idm117678832" class="unnumbered"><m:math><m:mrow><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm251913856">As shown in <link target-id="CNX_Chem_14_04_hydronium"/>, the <m:math>
+ <m:mrow>
+  <m:mtext>Al</m:mtext><m:msub>
+   <m:mrow>
+    <m:mo stretchy="false">(</m:mo><m:msub>
+     <m:mtext>H</m:mtext>
+     <m:mtext>2</m:mtext>
+    </m:msub>
+    <m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow>
+   <m:mn>6</m:mn>
+  </m:msub>
+  <m:msup>
+   <m:mrow/>
+   <m:mrow>
+    <m:mn>3+</m:mn></m:mrow>
+  </m:msup>
+  </m:mrow>
+</m:math>
+ ions involve bonds between a central Al atom and the O atoms of the six water molecules. Consequently, the bonded water molecules' O–H bonds are more polar than in nonbonded water molecules, making the bonded molecules more prone to donation of a hydrogen ion:</para>
+<equation id="fs-idm108244016" class="unnumbered"><m:math><m:mrow><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>O</m:mtext><m:msup><m:mrow><m:mtext>H</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="4em"/><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm137552288">The conjugate base produced by this process contains five other bonded water molecules capable of acting as acids, and so the sequential or step-wise transfer of protons is possible as depicted in few equations below:</para><equation id="fs-idm46178496" class="unnumbered"><m:math><m:mrow><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>O</m:mtext><m:mtext>H</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2+</m:mn></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<equation id="fs-idm2413712" class="unnumbered"><m:math><m:mrow><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2+</m:mn></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<equation id="fs-idp12750352" class="unnumbered"><m:math><m:mrow><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp8711664">This is an example of a polyprotic acid, the topic of discussion in a later section of this chapter.</para><figure id="CNX_Chem_14_04_hydronium" class="scaled-down">
+<media id="fs-idp82299440" alt="A reaction is shown using ball and stick models. On the left, inside brackets with a superscript of 3 plus outside to the right is structure labeled “[ A l ( H subscript 2 O ) subscript 6 ] superscript 3 plus.” Inside the brackets is s central grey atom to which 6 red atoms are bonded in an arrangement that distributes them evenly about the central grey atom. Each red atom has two smaller white atoms attached in a forked or bent arrangement. Outside the brackets to the right is a space-filling model that includes a red central sphere with two smaller white spheres attached in a bent arrangement. Beneath this structure is the label “H subscript 2 O.” A double sided arrow follows. Another set of brackets follows to the right of the arrows which have a superscript of two plus outside to the right. The structure inside the brackets is similar to that on the left, except a white atom is removed from the structure. The label below is also changed to “[ A l ( H subscript 2 O ) subscript 5 O H ] superscript 2 plus.” To the right of this structure and outside the brackets is a space filling model with a central red sphere to which 3 smaller white spheres are attached. This structure is labeled “H subscript 3 O superscript plus.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_04_hydronium.jpg"/>
+</media>
+<caption>When an aluminum ion reacts with water, the hydrated aluminum ion becomes a weak acid.</caption>
+</figure>
+<para id="fs-idm167123728">Aside from the alkali metals (group 1) and some alkaline earth metals (group 2), most other metal ions will undergo acid ionization to some extent when dissolved in water. The acid strength of these complex ions typically increases with increasing charge and decreasing size of the metal ions. The first-step acid ionization equations for a few other acidic metal ions are shown below:</para><equation id="fs-idp56836016" class="unnumbered"><m:math><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2+</m:mn></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="4em"/><m:msub><m:mrow><m:mi>p</m:mi><m:mi>K</m:mi></m:mrow><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>2.74</m:mn></m:mrow></m:math></equation><equation id="fs-idm116986352" class="unnumbered"><m:math><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="4em"/><m:msub><m:mrow><m:mi>p</m:mi><m:mi>K</m:mi></m:mrow><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mo>~</m:mo><m:mn>6.3</m:mn></m:mrow></m:math></equation><equation id="fs-idm166964496" class="unnumbered"><m:math><m:mrow><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="4em"/><m:msub><m:mrow><m:mi>p</m:mi><m:mi>K</m:mi></m:mrow><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>9.6</m:mn></m:mrow></m:math></equation><example id="fs-idm171178400">
+<para id="fs-idm122608832"><title>Hydrolysis of [Al(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup></title>
+Calculate the pH of a 0.10-<emphasis effect="italics">M</emphasis> solution of aluminum chloride, which dissolves completely to give the hydrated aluminum ion <m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup></m:mrow></m:math> in solution.</para>
+<para id="fs-idp112354272"><title>Solution</title>
+The equation for the reaction and <emphasis effect="italics">K</emphasis><sub>a</sub> are:<newline/>
+<equation id="fs-idm224297104" class="unnumbered"><m:math><m:mrow><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mtext>2+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="4em"/><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></equation><newline/>
+An ICE table with the provided information is<newline/>
+<media id="fs-idm136267808" alt="This table has two main columns and four rows. The first row for the first column does not have a heading and then has the following in the first column: Initial concentration ( M ), Change ( M ), Equilibrium concentration ( M ). The second column has the header of “A l ( H subscript 2 O ) subscript 6 superscript 3 positive sign plus H subscript 2 O equilibrium arrow H subscript 3 O superscript positive sign plus A l ( H subscript 2 O ) subscript 5 ( O H ) superscript 2 positive sign.” Under the second column is a subgroup of three columns and three rows. The first column has the following: 0.10, negative x, 0.10 minus x. The second column has the following: approximately 0, positive x, x. The third column has the following: 0, positive x, x.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_04_ICETable13_img.jpg"/>
+</media><newline/>
+Substituting the expressions for the equilibrium concentrations into the equation for the ionization constant yields:<newline/>
+<equation id="fs-idm98439712" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2+</m:mn></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac></m:mrow></m:math></equation><newline/>
+<equation id="fs-idm167107760" class="unnumbered"><m:math><m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>0.10</m:mn><m:mo>−</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></equation><newline/>
+Assuming <emphasis effect="italics">x</emphasis> &lt;&lt; 0.10 and solving the simplified equation gives:<newline/>
+<equation id="fs-idp4666608" class="unnumbered"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation><newline/>
+The ICE table defined <emphasis effect="italics">x</emphasis> as equal to the hydronium ion concentration, and so the pH is calculated to be<newline/>
+<equation id="fs-idm156052944" class="unnumbered"><m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation><newline/>
+<equation id="fs-idm161964736" class="unnumbered"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2.92</m:mn><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>an acidic solution</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation></para>
+<para id="fs-idm175924752"><title>Check Your Learning</title>What is <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2+</m:mn></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> in a 0.15-<emphasis effect="italics">M</emphasis> solution of Al(NO<sub>3</sub>)<sub>3</sub> that contains enough of the strong acid HNO<sub>3</sub> to bring [H<sub>3</sub>O<sup>+</sup>] to 0.10 <emphasis effect="italics">M</emphasis>?</para>
+<note id="fs-idm38454832">
+<title>Answer:</title>
+<para id="fs-idp86512272">2.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> <emphasis effect="italics">M</emphasis></para>
+</note>
+</example>
+</section>
+<section id="fs-idm180137840" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp3314288">The ions composing salts may possess acidic or basic character, ionizing when dissolved in water to yield acidic or basic solutions. Acidic cations are typically the conjugate partners of weak bases, and basic anions are the conjugate partners of weak acids. Many metal ions bond to water molecules when dissolved to yield complex ions that may function as acids.</para>
+</section>
+<section id="fs-idm46050816" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idm95651552">
+<problem id="fs-idm116458960">
+<para id="fs-idm280233072">Determine whether aqueous solutions of the following salts are acidic, basic, or neutral:</para>
+<para id="fs-idm142584336">(a) Al(NO<sub>3</sub>)<sub>3</sub></para>
+<para id="fs-idm136682096">(b) RbI</para>
+<para id="fs-idp68276672">(c) KHCO<sub>2</sub></para>
+<para id="fs-idm121100032">(d) CH<sub>3</sub>NH<sub>3</sub>Br</para>
+</problem>
+</exercise>
+<exercise id="fs-idm161278480">
+<problem id="fs-idm30137504">
+<para id="fs-idm245309936">Determine whether aqueous solutions of the following salts are acidic, basic, or neutral:</para>
+<para id="fs-idm118859616">(a) FeCl<sub>3</sub></para>
+<para id="fs-idm120181856">(b) K<sub>2</sub>CO<sub>3</sub></para>
+<para id="fs-idm127849104">(c) NH<sub>4</sub>Br</para>
+<para id="fs-idm10166912">(d) KClO<sub>4</sub></para>
+</problem>
+<solution id="fs-idp107371776">
+<para id="fs-idm10437840">(a) acidic; (b) basic; (c) acidic; (d) neutral</para>
+</solution>
+</exercise>
+<exercise id="fs-idm1823584">
+<problem id="fs-idm138043888">
+<para id="fs-idp30279488">Novocaine, C<sub>13</sub>H<sub>21</sub>O<sub>2</sub>N<sub>2</sub>Cl, is the salt of the base procaine and hydrochloric acid. The ionization constant for procaine is 7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup>. Is a solution of novocaine acidic or basic? What are [H<sub>3</sub>O<sup>+</sup>], [OH<sup>−</sup>], and pH of a 2.0% solution by mass of novocaine, assuming that the density of the solution is 1.0 g/mL.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+</document>

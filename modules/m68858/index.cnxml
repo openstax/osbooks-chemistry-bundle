@@ -1,0 +1,367 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Biological Effects of Radiation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68858</md:content-id>
+  <md:title>Biological Effects of Radiation</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the biological impact of ionizing radiation</item>
+<item>Define units for measuring radiation exposure</item>
+<item>Explain the operation of common tools for detecting radioactivity</item>
+<item>List common sources of radiation exposure in the US</item>
+</list></md:abstract>
+  <md:uuid>f2f866c2-bcfb-434a-b3f4-918cbd2c61de</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp155340368">The increased use of radioisotopes has led to increased concerns over the effects of these materials on biological systems (such as humans). All radioactive nuclides emit high-energy particles or electromagnetic waves. When this radiation encounters living cells, it can cause heating, break chemical bonds, or ionize molecules. The most serious biological damage results when these radioactive emissions fragment or ionize molecules. For example, alpha and beta particles emitted from nuclear decay reactions possess much higher energies than ordinary chemical bond energies. When these particles strike and penetrate matter, they produce ions and molecular fragments that are extremely reactive. The damage this does to biomolecules in living organisms can cause serious malfunctions in normal cell processes, taxing the organism’s repair mechanisms and possibly causing illness or even death (<link target-id="CNX_Chem_21_06_Damage1"/>).</para>
+<figure id="CNX_Chem_21_06_Damage1" class="scaled-down">
+<media id="fs-idp82597824" alt="A diagram is shown which has a white sphere followed by a right-facing arrow and a large sphere composed of many smaller white and green spheres. The single sphere has impacted the larger sphere. A right-facing arrow leads from the larger sphere to a pair of smaller spheres which are collections of the same white and green spheres. A starburst pattern lies between these two spheres and has three right-facing arrows leading from it to two white spheres and a circle full of ten smaller, peach-colored circles with purple dots in their centers. An arrow leads downward from this circle to a box that contains a helical shape with a starburst near its top left side and is labeled “D N A damage.” A right-facing arrow leads from this circle to a second circle, with nine smaller, peach-colored circles with purple dots in their centers and one fully purple small circle labeled “Cancer cell.” A right-facing arrow leads to a final circle, this time full of the purple cells, that is labeled “Tumor.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_Damage1.jpg"/>
+</media>
+<caption>Radiation can harm biological systems by damaging the DNA of cells. If this damage is not properly repaired, the cells may divide in an uncontrolled manner and cause cancer.</caption>
+</figure>
+<section id="fs-idp26219680">
+<title>Ionizing and Nonionizing Radiation</title>
+<para id="fs-idp26867440">There is a large difference in the magnitude of the biological effects of <term>nonionizing radiation</term> (for example, light and microwaves) and <term>ionizing radiation</term>, emissions energetic enough to knock electrons out of molecules (for example, α and β particles, γ rays, X-rays, and high-energy ultraviolet radiation) (<link target-id="CNX_Chem_21_06_IonRadSpec"/>).</para>
+<figure id="CNX_Chem_21_06_IonRadSpec">
+<media id="fs-idp63337488" alt="A diagram has two vertical sections. The upper section has two right-facing, horizontal arrows labeled “Increasing energy, E” and “Increasing frequency, rho symbol,” respectively. A left-facing, horizontal arrow lies below the first two and is labeled “Increasing wavelength, lambda symbol.” Beginning on the left side of the diagram, a horizontal, sinusoidal line begins and moves across the diagram to the far right, becoming increasingly more compact. The lower section of the diagram has a double ended, horizontal arrow along its top, with the left end drawn in red and labeled “Non-ionizing” and the right end drawn in green and labeled “Ionizing.” Below this is a set of terms, read from left to right as “Broadcast and wireless radio,” “Microwave,” “Terahertz,” “Infrared,” “Visible light,” “Ultraviolet,” “X dash ray,” and “Gamma.” Four columns lie below this row of terms. The first contains the phrases “Non-thermal” and “Induces low currents” while the second reads “Thermal” and “Induces high currents, Heating.” The third contains the phrases “Optical” and “Excites electrons, Photo, dash, chemical effects” while the fourth reads “Broken bonds” and “Damages D N A.” A series of terms lie below these columns are read, from left to right, “Static field,” “Power line,” “A M radio,” “F M radio,” “Microwave oven,” “Heat lamp,” “Tanning booth” and “Medical x, dash rays.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_IonRadSpec.jpg"/>
+</media>
+<caption>Lower frequency, lower-energy electromagnetic radiation is nonionizing, and higher frequency, higher-energy electromagnetic radiation is ionizing.</caption>
+</figure>
+<para id="fs-idp146155504">Energy absorbed from nonionizing radiation speeds up the movement of atoms and molecules, which is equivalent to heating the sample. Although biological systems are sensitive to heat (as we might know from touching a hot stove or spending a day at the beach in the sun), a large amount of nonionizing radiation is necessary before dangerous levels are reached. Ionizing radiation, however, may cause much more severe damage by breaking bonds or removing electrons in biological molecules, disrupting their structure and function. The damage can also be done indirectly, by first ionizing H<sub>2</sub>O (the most abundant molecule in living organisms), which forms a H<sub>2</sub>O<sup>+</sup> ion that reacts with water, forming a hydronium ion and a hydroxyl radical:</para>
+<media id="fs-idp161523696" alt="This image shows a reaction. It starts with H subscript 2 O plus radiation. There is a right-facing arrow which points to H subscript 2 O superscript positive sign plus H subscript 2 O. From the arrow, there is another arrow that curves upward and points to an e superscript negative sign. After the second H subscript 2 O there is another right-facing arrow which points to H subscript 3 O superscript positive sign plus O H superscript negative sign.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_Hydroxyrad_img.jpg"/>
+</media>
+<para id="fs-idp73842464">Because the hydroxyl radical has an unpaired electron, it is highly reactive. (This is true of any substance with unpaired electrons, known as a free radical.) This hydroxyl radical can react with all kinds of biological molecules (DNA, proteins, enzymes, and so on), causing damage to the molecules and disrupting physiological processes. Examples of direct and indirect damage are shown in <link target-id="CNX_Chem_21_06_Damage2"/>.</para>
+<figure id="CNX_Chem_21_06_Damage2" class="scaled-down">
+<media id="fs-idp22664256" alt="Two pairs of images are shown and labeled “a” and “b.” In the first pair, a helical structure on the left with a starburst on it middle right side is connected by a right-facing arrow to a sphere composed of smaller green and white spheres. A squiggly arrow points toward the sphere from the upper left and a downward-facing arrow leads away from the sphere to a small circle with a negative sign. In the second pair of images, a squiggly arrow lead to a water molecule while a downward-facing arrow leads away from it to a small circle with a negative charge written on it. A helical shape with a starburst on it middle right side is drawn to the far right and an upward-facing arrow leads to it from the following equation “H, subscript 2, O, plus sign, radiation, yield arrow, H, subscript 2, O, superscript plus sign, plus sign, e, superscript negative sign, down-facing arrow, H, subscript 2, O, superscript plus sign, plus sign, H, subscript 2, O, right-facing arrow, H, subscript 3, O, superscript plus sign, plus sign, O H, superscript negative sign. Below this equation is the phrase “Indirect effect.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_Damage2.jpg"/>
+</media>
+<caption>Ionizing radiation can (a) directly damage a biomolecule by ionizing it or breaking its bonds, or (b) create an H<sub>2</sub>O<sup>+</sup> ion, which reacts with H<sub>2</sub>O to form a hydroxyl radical, which in turn reacts with the biomolecule, causing damage indirectly.</caption>
+</figure>
+<section id="fs-idp37875536">
+<title>Biological Effects of Exposure to Radiation</title>
+<para id="fs-idp207785984">Radiation can harm either the whole body (somatic damage) or eggs and sperm (genetic damage). Its effects are more pronounced in cells that reproduce rapidly, such as the stomach lining, hair follicles, bone marrow, and embryos. This is why patients undergoing radiation therapy often feel nauseous or sick to their stomach, lose hair, have bone aches, and so on, and why particular care must be taken when undergoing radiation therapy during pregnancy.</para>
+<para id="fs-idp39143744">Different types of radiation have differing abilities to pass through material (<link target-id="CNX_Chem_21_06_Penetrate"/>). A very thin barrier, such as a sheet or two of paper, or the top layer of skin cells, usually stops alpha particles. Because of this, alpha particle sources are usually not dangerous if outside the body, but are quite hazardous if ingested or inhaled (see the Chemistry in Everyday Life feature on Radon Exposure). Beta particles will pass through a hand, or a thin layer of material like paper or wood, but are stopped by a thin layer of metal. Gamma radiation is very penetrating and can pass through a thick layer of most materials. Some high-energy gamma radiation is able to pass through a few feet of concrete. Certain dense, high atomic number elements (such as lead) can effectively attenuate gamma radiation with thinner material and are used for shielding. The ability of various kinds of emissions to cause ionization varies greatly, and some particles have almost no tendency to produce ionization. Alpha particles have about twice the ionizing power of fast-moving neutrons, about 10 times that of β particles, and about 20 times that of γ rays and X-rays.</para>
+<figure id="CNX_Chem_21_06_Penetrate">
+<media id="fs-idp234671216" alt="A diagram shows four particles in a vertical column on the left, followed by an upright sheet of paper, a person’s hand, an upright sheet of metal, a glass of water, a thick block of concrete and an upright, thick piece of lead. The top particle listed is made up of two white spheres and two green spheres that are labeled with positive signs and is labeled “Alpha.” A right-facing arrow leads from this to the paper. The second particle is a red sphere labeled “Beta” and is followed by a right-facing arrow that passes through the paper and stops at the hand. The third particle is a white sphere labeled “Neutron” and is followed by a right-facing arrow that passes through the paper, hand and metal but is stopped at the glass of water. The fourth particle is shown by a squiggly arrow and it passes through all of the substances but stops at the lead. Terms at the bottom read, from left to right, “Paper,” “Metal,” “Water,” “Concrete” and “Lead.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_Penetrate.jpg"/>
+</media>
+<caption>The ability of different types of radiation to pass through material is shown. From least to most penetrating, they are alpha &lt; beta &lt; neutron &lt; gamma.</caption>
+</figure>
+<note id="fs-idp53706816" class="chemistry everyday-life">
+<title>Radon Exposure</title>
+<para id="fs-idp5928944">For many people, one of the largest sources of exposure to radiation is from radon gas (Rn-222). Radon-222 is an α emitter with a half–life of 3.82 days. It is one of the products of the radioactive decay series of U-238 (<link target-id="CNX_Chem_21_03_DecayS" document="m68854"/>), which is found in trace amounts in soil and rocks. The radon gas that is produced slowly escapes from the ground and gradually seeps into homes and other structures above. Since it is about eight times more dense than air, radon gas accumulates in basements and lower floors, and slowly diffuses throughout buildings (<link target-id="CNX_Chem_21_06_RadonExpos"/>).</para>
+<figure id="CNX_Chem_21_06_RadonExpos">
+<media id="fs-idp54692192" alt="A cut-away image of the side of a house and four layers of the ground it rests on is shown, as well as a second cut-away image of a person’s head and chest cavity. The house is shown with a restroom on the second floor and a basement with a water heater as the first floor. Green arrows lead from the lowest ground layer, labeled “radon in ground water,” from the third ground layer, labeled “Bedrock” and “Fractured bedrock,” from the second layer, labeled “radon in well water,” and from the top layer, labeled “radon in soil to the inside of the basement area. In the smaller image of the torso, a green arrow is shown to enter the person’s nasal passage and travel to the lungs. This is labeled “Inhalation of radon decay products.” A small coiled, helical structure next to the torso is labeled “alpha particle” on one section where it has a starburst pattern and “Radiation damage to D N A” on another segment.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_RadonExpos.jpg"/>
+</media>
+<caption>Radon-222 seeps into houses and other buildings from rocks that contain uranium-238, a radon emitter. The radon enters through cracks in concrete foundations and basement floors, stone or porous cinderblock foundations, and openings for water and gas pipes.</caption>
+</figure>
+<para id="fs-idp38435248">Radon is found in buildings across the country, with amounts depending on where you live. The average concentration of radon inside houses in the US (1.25 pCi/L) is about three times the levels found in outside air, and about one in six houses have radon levels high enough that remediation efforts to reduce the radon concentration are recommended. Exposure to radon increases one’s risk of getting cancer (especially lung cancer), and high radon levels can be as bad for health as smoking a carton of cigarettes a day. Radon is the number one cause of lung cancer in nonsmokers and the second leading cause of lung cancer overall. Radon exposure is believed to cause over 20,000 deaths in the US per year.</para>
+</note>
+</section>
+</section>
+<section id="fs-idp25724032">
+<title>Measuring Radiation Exposure</title>
+<para id="fs-idm3484976">Several different devices are used to detect and measure radiation, including Geiger counters, scintillation counters (scintillators), and radiation dosimeters (<link target-id="CNX_Chem_21_06_Monitors"/>). Probably the best-known radiation instrument, the <term>Geiger counter</term> (also called the Geiger-Müller counter) detects and measures radiation. Radiation causes the ionization of the gas in a Geiger-Müller tube. The rate of ionization is proportional to the amount of radiation. A <term>scintillation counter</term> contains a scintillator—a material that emits light (luminesces) when excited by ionizing radiation—and a sensor that converts the light into an electric signal. <term>Radiation dosimeters</term> also measure ionizing radiation and are often used to determine personal radiation exposure. Commonly used types are electronic, film badge, thermoluminescent, and quartz fiber dosimeters.</para>
+<figure id="CNX_Chem_21_06_Monitors" class="scaled-down">
+<media id="fs-idp202105696" alt="Three photographs are shown and labeled “a,” “b” and “c.” Photo a shows a Geiger counter sitting on a table. It is made up of a metal box with a read-out screen and a wire leading away from the box connected to a sensor wand. Photograph b shows a collection of tall and short vertical tubes arranged in a grouping while photograph c shows a person’s hand holding a small machine with a digital readout while standing on the edge of a roadway.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_Monitors.jpg"/>
+</media>
+<caption>Devices such as (a) Geiger counters, (b) scintillators, and (c) dosimeters can be used to measure radiation. (credit c: modification of work by “osaMu”/Wikimedia commons)</caption>
+</figure>
+<para id="fs-idp31333632">A variety of units are used to measure various aspects of radiation (<link target-id="CNX_Chem_21_06_Exposure1"/>). The SI unit for rate of radioactive decay is the <term>becquerel (Bq)</term>, with 1 Bq = 1 disintegration per second. The <term>curie (Ci)</term> and <term>millicurie (mCi)</term> are much larger units and are frequently used in medicine (1 curie = 1 Ci = 3.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>10</sup> disintegrations per second). The SI unit for measuring radiation dose is the <term>gray (Gy)</term>, with 1 Gy = 1 J of energy absorbed per kilogram of tissue. In medical applications, the <term>radiation absorbed dose (rad)</term> is more often used (1 rad = 0.01 Gy; 1 rad results in the absorption of 0.01 J/kg of tissue). The SI unit measuring tissue damage caused by radiation is the <term>sievert (Sv)</term>. This takes into account both the energy and the biological effects of the type of radiation involved in the radiation dose. The <term>roentgen equivalent for man (rem)</term> is the unit for radiation damage that is used most frequently in medicine (100 rem = 1 Sv). Note that the tissue damage units (rem or Sv) includes the energy of the radiation dose (rad or Gy) along with a biological factor referred to as the <term>RBE</term> (for <term>relative biological effectiveness</term>) that is an approximate measure of the relative damage done by the radiation. These are related by:</para>
+<equation class="unnumbered" id="fs-idp224481296"><m:math><m:mrow><m:mtext>number of rems</m:mtext><m:mo>=</m:mo><m:mtext>RBE</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>number of rads</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp192182752">with RBE approximately 10 for α radiation, 2(+) for protons and neutrons, and 1 for β and γ radiation.</para>
+<figure id="CNX_Chem_21_06_Exposure1">
+<media id="fs-idp239786256" alt="Two images are shown. The first, labeled “Rate of radioactive decay measured in becquerels or curies,” shows a red sphere with ten red squiggly arrows facing away from it in a 360 degree circle. The second image shows the head and torso of a woman wearing medical scrubs with a badge on her chest. The caption to the badge reads “Film badge or dosimeter measures tissue damage exposure in rems or sieverts” while a phrase under this image states “Absorbed dose measured in grays or rads.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_Exposure1.jpg"/>
+</media>
+<caption>Different units are used to measure the rate of emission from a radioactive source, the energy that is absorbed from the source, and the amount of damage the absorbed radiation does.</caption>
+</figure>
+<section id="fs-idp31180688">
+<title>Units of Radiation Measurement</title>
+<para id="fs-idp36142832"><link target-id="fs-idp3417984"/> summarizes the units used for measuring radiation.</para>
+<table id="fs-idp3417984" class="top-titled" summary="This table contains four columns and four rows. The first row is a header row, and it labels each column: “Measurement Purpose,” “Unit,” “Quantity Measure,” and “Description.” Under the “Measurement Purpose” column are the following: activity of source, absorbed dose, and biologically effective dose. Under the “Unit” column are the following: bequerel ( b q) and curie ( c i ); gray ( g y ) and radiation absorbed dose ( rad ); sievert (s v) and roentgen equivalent for humans ( rem ). Under the “Quantity Measured” column are the following: radioactive decays or emissions; energy absorbed per k g of tissue; tissue damage. Under the “Description” column are the following: amount of sample that undergoes 1 decay / second and amount of sample that undergoes 3.7 times ten superscript 10 decays / second; 1 g y equals 1 J / k g tissue and 1 rad equals 0.01 J / k g tissue; S v equals R B E times G y and Rem equals R B E times rad.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead valign="middle">
+<row valign="middle">
+<entry namest="c1" nameend="c4" align="center">Units Used for Measuring Radiation</entry>
+</row>
+<row valign="middle">
+<entry align="left">Measurement Purpose</entry>
+<entry align="left">Unit</entry>
+<entry align="left">Quantity Measured</entry>
+<entry align="left">Description</entry>
+</row>
+</thead>
+<tbody valign="middle">
+<row valign="middle">
+<entry align="left" morerows="1">activity of source</entry>
+<entry align="left">becquerel (Bq)</entry>
+<entry align="left" morerows="1">radioactive decays or emissions</entry>
+<entry align="left">amount of sample that undergoes 1 decay/second</entry>
+</row>
+<row valign="middle">
+<entry align="left">curie (Ci)</entry>
+<entry align="left">amount of sample that undergoes 3.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>10</sup> decays/second</entry>
+</row>
+<row valign="middle">
+<entry align="left" morerows="1">absorbed dose</entry>
+<entry align="left">gray (Gy)</entry>
+<entry align="left" morerows="1">energy absorbed per kg of tissue</entry>
+<entry align="left">1 Gy = 1 J/kg tissue</entry>
+</row>
+<row valign="middle">
+<entry align="left">radiation absorbed dose (rad)</entry>
+<entry align="left">1 rad = 0.01 J/kg tissue</entry>
+</row>
+<row valign="middle">
+<entry align="left" morerows="1">biologically effective dose</entry>
+<entry align="left">sievert (Sv)</entry>
+<entry align="left" morerows="1">tissue damage</entry>
+<entry align="left">Sv = RBE <m:math><m:mo>×</m:mo></m:math> Gy</entry>
+</row>
+<row valign="middle">
+<entry align="left">roentgen equivalent for man (rem)</entry>
+<entry align="left">Rem = RBE <m:math><m:mo>×</m:mo></m:math> rad</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-idp8743280">
+<para id="fs-idp77063152"><title>Amount of Radiation</title>
+Cobalt-60 (<emphasis effect="italics">t</emphasis><sub>1/2</sub> = 5.26 y) is used in cancer therapy since the γ rays it emits can be focused in small areas where the cancer is located. A 5.00-g sample of Co-60 is available for cancer treatment.</para>
+<para id="fs-idp145838784">(a) What is its activity in Bq?</para>
+<para id="fs-idp3193824">(b) What is its activity in Ci?</para>
+<para id="fs-idp226903120"><title>Solution</title>
+The activity is given by:</para>
+<equation class="unnumbered" id="fs-idp18555456"><m:math><m:mrow><m:mtext>Activity</m:mtext><m:mo>=</m:mo><m:mi>λ</m:mi><m:mi>N</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>ln 2</m:mtext></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mi>N</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>ln 2</m:mtext></m:mrow><m:mrow><m:mtext>5.26 y</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>5.00 g</m:mtext><m:mo>=</m:mo><m:mn>0.659</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mtext>g</m:mtext><m:mtext>y</m:mtext></m:mfrac><m:mspace width="0.4em"/><m:mtext>of Co−60 that decay</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm5761440">And to convert this to decays per second:</para>
+<equation class="unnumbered" id="fs-idp12096528"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mn>0.659</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mtext>g</m:mtext><m:mtext>y</m:mtext></m:mfrac><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 y</m:mtext></m:mrow><m:mrow><m:mtext>365 d</m:mtext></m:mrow></m:mfrac><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.3em"/><m:mfrac><m:mrow><m:mtext>1 d</m:mtext></m:mrow><m:mrow><m:mtext>24 h</m:mtext></m:mrow></m:mfrac><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 h</m:mtext></m:mrow><m:mrow><m:mtext>3600 s</m:mtext></m:mrow></m:mfrac><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol</m:mtext></m:mrow><m:mrow><m:mtext>59.9 g</m:mtext></m:mrow></m:mfrac><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>6.02</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>atoms</m:mtext></m:mrow><m:mrow><m:mtext>1 mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 decay</m:mtext></m:mrow><m:mrow><m:mtext>1 atom</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mtext>	</m:mtext><m:mtext>	</m:mtext><m:mo>=</m:mo><m:mn>2.10</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>14</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>decay</m:mtext></m:mrow><m:mtext>s</m:mtext></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm27725120">(a) Since 1 Bq = <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>1 decay</m:mtext></m:mrow><m:mtext>s</m:mtext></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> the activity in Becquerel (Bq) is:</para>
+<equation class="unnumbered" id="fs-idp27507232"><m:math><m:mrow><m:mn>2.10</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>14</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>decay</m:mtext></m:mrow><m:mtext>s</m:mtext></m:mfrac><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>1 Bq</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>decay</m:mtext></m:mrow><m:mtext>s</m:mtext></m:mfrac></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2.10</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>14</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>Bq</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm4470064">(b) Since 1 Ci = <m:math><m:mrow><m:mfrac><m:mrow><m:mn>3.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>11</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>decay</m:mtext></m:mrow><m:mtext>s</m:mtext></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> the activity in curie (Ci) is:</para>
+<equation class="unnumbered" id="fs-idp6096224"><m:math><m:mrow><m:mn>2.10</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>14</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>decay</m:mtext></m:mrow><m:mtext>s</m:mtext></m:mfrac><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>1 Ci</m:mtext></m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>11</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>decay</m:mtext></m:mrow><m:mtext>s</m:mtext></m:mfrac></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>5.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>Ci</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp15286032"><title>Check Your Learning</title>
+Tritium is a radioactive isotope of hydrogen (<emphasis effect="italics">t</emphasis><sub>1/2</sub> = 12.32 y) that has several uses, including self-powered lighting, in which electrons emitted in tritium radioactive decay cause phosphorus to glow. Its nucleus contains one proton and two neutrons, and the atomic mass of tritium is 3.016 amu. What is the activity of a sample containing 1.00mg of tritium (a) in Bq and (b) in Ci?</para>
+<note id="fs-idp14889200">
+<title>Answer:</title>
+<para id="fs-idm82342624">(a) 3.56 <m:math><m:mo>×</m:mo></m:math> 10<sup>11</sup> Bq; (b) 0.962 Ci</para>
+</note>
+</example>
+</section>
+</section>
+<section id="fs-idp41763040">
+<title>Effects of Long-term Radiation Exposure on the Human Body</title>
+<para id="fs-idp3766208">The effects of radiation depend on the type, energy, and location of the radiation source, and the length of exposure. As shown in <link target-id="CNX_Chem_21_06_Exposure2"/>, the average person is exposed to background radiation, including cosmic rays from the sun and radon from uranium in the ground (see the Chemistry in Everyday Life feature on Radon Exposure); radiation from medical exposure, including CAT scans, radioisotope tests, X-rays, and so on; and small amounts of radiation from other human activities, such as airplane flights (which are bombarded by increased numbers of cosmic rays in the upper atmosphere), radioactivity from consumer products, and a variety of radionuclides that enter our bodies when we breathe (for example, carbon-14) or through the food chain (for example, potassium-40, strontium-90, and iodine-131).</para>
+<figure id="CNX_Chem_21_06_Exposure2" class="scaled-down">
+<media id="fs-idp12331776" alt="A bar graph titled “Radiation Doses and Regulatory Limits, open parenthesis, in Millirems, close parenthesis” is shown. The y-axis is labeled “Doses in Millirems” and has values from 0 to 5000 with a break between 1000 and 5000 to indicate a different scale to the top of the graph. The y-axis is labeled corresponding to each bar. The first bar, measured to 5000 on the y-axis, is drawn in red and is labeled “Annual Nuclear Worker Doses Limit, open parenthesis, N R C, close parenthesis.” The second bar, measured to 1000 on the y-axis, is drawn in blue and is labeled “Whole Body C T” while the third bar, measured to 620 on the y-axis, is drawn in blue and is labeled “Average U period S period Annual Dose.” The fourth bar, measured to 310 on the y-axis, is drawn in blue and is labeled “U period S period Natural Background Dose” while the fifth bar, measured to 100 on the y-axis and drawn in red reads “Annual Public Dose Limit, open parenthesis, N R C, close parenthesis.” The sixth bar, measured to 40 on the y-axis, is drawn in blue and is labeled “From Your Body” while the seventh bar, measured to 30 on the y-axis and drawn in blue reads “Cosmic rays.” The eighth bar, measured to 4 on the y-axis, is drawn in blue and is labeled “Safe Drinking Water Limit, open parenthesis, E P A, close parenthesis” while the ninth bar, measured to 2.5 on the y-axis and drawn in red reads “Trans Atlantic Flight.” A legend on the graph shows that red means “Dose Limit From N R C dash licensed activity” while blue means “Radiation Doses.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_06_Exposure2.jpg"/>
+</media>
+<caption>The total annual radiation exposure for a person in the US is about 620 mrem. The various sources and their relative amounts are shown in this bar graph. (source: U.S. Nuclear Regulatory Commission)</caption>
+</figure>
+<para id="fs-idp111220720">A short-term, sudden dose of a large amount of radiation can cause a wide range of health effects, from changes in blood chemistry to death. Short-term exposure to tens of rems of radiation will likely cause very noticeable symptoms or illness; a dose of about 500 rems is estimated to have a 50% probability of causing the death of the victim within 30 days of exposure. Exposure to radioactive emissions has a cumulative effect on the body during a person’s lifetime, which is another reason why it is important to avoid any unnecessary exposure to radiation. Health effects of short-term exposure to radiation are shown in <link target-id="fs-idp167827232"/>.</para>
+<table id="fs-idp167827232" class="top-titled" summary="This table contains three columns and fifteen rows. The first row is a header row, and it labels each column: “Exposure ( rem ),” “Health Effect,” and “Time to Onset ( without treatment ).” Under the “Exposure ( rem )” column are the following: 5 – 10, 50, 55, 70, 75, 90, 100, 400, 1000, two blank cells, 2000, and two more blank cells. Under the “Health Effect” column are the following: changes in blood chemistry, nausea, fatigue, vomiting, hair loss, diarrhea, hemorrhage, possible death, destruction of intestinal lining, internal bleeding, death, damage to central nervous system, loss of consciousness, and death. Under the “Time to Onset ( without treatment” column are the following: a blank cell, hours, two blank cells, 2 – 3 weeks, two blank cells, within 2 months, two blank cells, 1 – 2 weeks, one blank cell, minutes, and hours to days."><tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c3" align="center">Health Effects of Radiation<footnote id="fs-idm72989328">Source: US Environmental Protection Agency</footnote></entry>
+</row>
+<row valign="middle">
+<entry align="left">Exposure (rem)</entry>
+<entry align="left">Health Effect</entry>
+<entry align="left">Time to Onset (without treatment)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">5–10</entry>
+<entry align="left">changes in blood chemistry</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">50</entry>
+<entry align="left">nausea</entry>
+<entry align="left">hours</entry>
+</row>
+<row valign="middle">
+<entry align="left">55</entry>
+<entry align="left">fatigue</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">70</entry>
+<entry align="left">vomiting</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">75</entry>
+<entry align="left">hair loss</entry>
+<entry align="left">2–3 weeks</entry>
+</row>
+<row valign="middle">
+<entry align="left">90</entry>
+<entry align="left">diarrhea</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">100</entry>
+<entry align="left">hemorrhage</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">400</entry>
+<entry align="left">possible death</entry>
+<entry align="left">within 2 months</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left" morerows="2">1000</entry>
+<entry align="left">destruction of intestinal lining</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">internal bleeding</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">death</entry>
+<entry align="left">1–2 weeks</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left" morerows="3">2000</entry>
+<entry align="left">damage to central nervous system</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">loss of consciousness;</entry>
+<entry align="left">minutes</entry>
+</row>
+<row valign="middle">
+<entry align="left">death</entry>
+<entry align="left">hours to days</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idp16746704">It is impossible to avoid some exposure to ionizing radiation. We are constantly exposed to background radiation from a variety of natural sources, including cosmic radiation, rocks, medical procedures, consumer products, and even our own atoms. We can minimize our exposure by blocking or shielding the radiation, moving farther from the source, and limiting the time of exposure.</para>
+</section>
+<section id="fs-idp59107200" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp16660192">We are constantly exposed to radiation from a variety of naturally occurring and human-produced sources. This radiation can affect living organisms. Ionizing radiation is the most harmful because it can ionize molecules or break chemical bonds, which damages the molecule and causes malfunctions in cell processes. It can also create reactive hydroxyl radicals that damage biological molecules and disrupt physiological processes. Radiation can cause somatic or genetic damage, and is most harmful to rapidly reproducing cells. Types of radiation differ in their ability to penetrate material and damage tissue, with alpha particles the least penetrating but potentially most damaging and gamma rays the most penetrating.</para>
+<para id="fs-idp249407216">Various devices, including Geiger counters, scintillators, and dosimeters, are used to detect and measure radiation, and monitor radiation exposure. We use several units to measure radiation: becquerels or curies for rates of radioactive decay; gray or rads for energy absorbed; and rems or sieverts for biological effects of radiation. Exposure to radiation can cause a wide range of health effects, from minor to severe, and including death. We can minimize the effects of radiation by shielding with dense materials such as lead, moving away from the source, and limiting time of exposure.</para>
+</section>
+<section id="fs-idp6038480" class="key-equations">
+<title>Key Equations</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="key equations table"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry>rem = RBE <m:math><m:mo>×</m:mo></m:math> rad</entry>
+</row>
+<row><entry>Sv = RBE <m:math><m:mo>×</m:mo></m:math> Gy</entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp110761408" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp29076672">
+<problem id="fs-idm16609392">
+<para id="fs-idp126320176">If a hospital were storing radioisotopes, what is the minimum containment needed to protect against:</para>
+<para id="fs-idp74160800">(a) cobalt-60 (a strong γ emitter used for irradiation)</para>
+<para id="fs-idp48563216">(b) molybdenum-99 (a beta emitter used to produce technetium-99 for imaging)</para>
+</problem>
+</exercise>
+<exercise id="fs-idp14911920">
+<problem id="fs-idp225861936">
+<para id="fs-idm4246992">Based on what is known about Radon-222’s primary decay method, why is inhalation so dangerous?</para>
+</problem>
+<solution id="fs-idp104950928">
+<para id="fs-idp58420992">Alpha particles can be stopped by very thin shielding but have much stronger ionizing potential than beta particles, X-rays, and γ-rays. When inhaled, there is no protective skin covering the cells of the lungs, making it possible to damage the DNA in those cells and cause cancer.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp16044272">
+<problem id="fs-idp49940736">
+<para id="fs-idm2835312">Given specimens uranium-232 (<emphasis effect="italics">t</emphasis><sub>1/2</sub> = 68.9 y) and uranium-233 (<emphasis effect="italics">t</emphasis><sub>1/2</sub> = 159,200 y) of equal mass, which one would have greater activity and why?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp14100336">
+<problem id="fs-idp228573216">
+<para id="fs-idp26788448">A scientist is studying a 2.234 g sample of thorium-229 (<emphasis effect="italics">t</emphasis><sub>1/2</sub> = 7340 y) in a laboratory.</para>
+<para id="fs-idp161129568">(a) What is its activity in Bq?</para>
+<para id="fs-idp211118640">(b) What is its activity in Ci?</para>
+</problem>
+<solution id="fs-idp28559824">
+<para id="fs-idm19699520">(a) 7.64 <m:math><m:mo>×</m:mo></m:math> 10<sup>9</sup> Bq; (b) 2.06 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup> Ci</para>
+</solution>
+</exercise>
+<exercise id="fs-idp224139168">
+<problem id="fs-idm66424832">
+<para id="fs-idp100946448">Given specimens neon-24 (<emphasis effect="italics">t</emphasis><sub>1/2</sub> = 3.38 min) and bismuth-211 (<emphasis effect="italics">t</emphasis><sub>1/2</sub> = 2.14 min) of equal mass, which one would have greater activity and why?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp13479088">
+<term>becquerel (Bq)</term>
+<meaning id="fs-idp3595296">SI unit for rate of radioactive decay; 1 Bq = 1 disintegration/s</meaning>
+</definition>
+<definition id="fs-idp40157072">
+<term>curie (Ci)</term>
+<meaning id="fs-idm19900240">larger unit for rate of radioactive decay frequently used in medicine; 1 Ci = 3.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>10</sup> disintegrations/s</meaning>
+</definition>
+<definition id="fs-idp77369424">
+<term>Geiger counter</term>
+<meaning id="fs-idm5631120">instrument that detects and measures radiation via the ionization produced in a Geiger-Müller tube</meaning>
+</definition>
+<definition id="fs-idp165471824">
+<term>gray (Gy)</term>
+<meaning id="fs-idp99461696">SI unit for measuring radiation dose; 1 Gy = 1 J absorbed/kg tissue</meaning>
+</definition>
+<definition id="fs-idp72050384">
+<term>ionizing radiation</term>
+<meaning id="fs-idp239708240">radiation that can cause a molecule to lose an electron and form an ion</meaning>
+</definition>
+<definition id="fs-idp48690544">
+<term>millicurie (mCi)</term>
+<meaning id="fs-idp6938416">larger unit for rate of radioactive decay frequently used in medicine; 1 Ci = 3.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>10</sup> disintegrations/s</meaning>
+</definition>
+<definition id="fs-idp8726208">
+<term>nonionizing radiation</term>
+<meaning id="fs-idm10411968">radiation that speeds up the movement of atoms and molecules; it is equivalent to heating a sample, but is not energetic enough to cause the ionization of molecules</meaning>
+</definition>
+<definition id="fs-idp38524656">
+<term>radiation absorbed dose (rad)</term>
+<meaning id="fs-idp57887152">SI unit for measuring radiation dose, frequently used in medical applications; 1 rad = 0.01 Gy</meaning>
+</definition>
+<definition id="fs-idp82617008">
+<term>radiation dosimeter</term>
+<meaning id="fs-idp157978992">device that measures ionizing radiation and is used to determine personal radiation exposure</meaning>
+</definition>
+<definition id="fs-idp165863168">
+<term>relative biological effectiveness (RBE)</term>
+<meaning id="fs-idp169956480">measure of the relative damage done by radiation</meaning>
+</definition>
+<definition id="fs-idp225092016">
+<term>roentgen equivalent man (rem)</term>
+<meaning id="fs-idp61373808">unit for radiation damage, frequently used in medicine; 100 rem = 1 Sv</meaning>
+</definition>
+<definition id="fs-idp18328912">
+<term>scintillation counter</term>
+<meaning id="fs-idp81864256">instrument that uses a scintillator—a material that emits light when excited by ionizing radiation—to detect and measure radiation</meaning>
+</definition>
+<definition id="fs-idp13997168">
+<term>sievert (Sv)</term>
+<meaning id="fs-idp35605120">SI unit measuring tissue damage caused by radiation; takes into account energy and biological effects of radiation</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,494 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Lewis Acids and Bases</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68813</md:content-id>
+  <md:title>Lewis Acids and Bases</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list><item>Explain the Lewis model of acid-base chemistry</item>
+<item>Write equations for the formation of adducts and complex ions</item>
+<item>Perform equilibrium calculations involving formation constants</item></list></md:abstract>
+  <md:uuid>7ef9f54c-741b-4311-bbde-d1024521b771</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp51077712">In 1923, G. N. <term class="no-emphasis">Lewis</term> proposed a generalized definition of acid-base behavior in which acids and bases are identified by their ability to accept or to donate a pair of electrons and form a coordinate covalent bond.</para>
+<para id="fs-idp107912128">A <term>coordinate covalent bond</term> (or dative bond) occurs when one of the atoms in the bond provides both bonding electrons. For example, a coordinate covalent bond occurs when a water molecule combines with a hydrogen ion to form a hydronium ion. A coordinate covalent bond also results when an ammonia molecule combines with a hydrogen ion to form an ammonium ion. Both of these equations are shown here.</para>
+<media id="fs-idm2583104" class="scaled-down" alt="This figure shows two reactions represented with Lewis structures. The first shows an O atom bonded to two H atoms. The O atom has two lone pairs of electrons. There is a plus sign and then an H atom with a superscript positive sign followed by a right-facing arrow. The next Lewis structure is in brackets and shows an O atom bonded to three H atoms. There is one lone pair of electrons on the O atom. Outside of the brackets is a superscript positive sign. The second reaction shows an N atom bonded to three H atoms. The N atom has one lone pair of electrons. There is a plus sign and then an H superscript positive sign. After the H superscript positive sign is a right-facing arrow. The next Lewis structure is in brackets. It shows an N atom bonded to four H atoms. There is a superscript positive sign outside the brackets.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_03_hydronium_img.jpg"/>
+</media>
+<para id="fs-idp133241888">Reactions involving the formation of coordinate covalent bonds are classified as <term>Lewis acid-base chemistry</term>. The species donating the electron pair that compose the bond is a <term>Lewis base</term>, the species accepting the electron pair is a <term>Lewis acid</term>, and the product of the reaction is a <term>Lewis acid-base adduct</term>. As the two examples above illustrate, Brønsted-Lowry acid-base reactions represent a subcategory of Lewis acid reactions, specifically, those in which the acid species is H<sup>+</sup>. A few examples involving other Lewis acids and bases are described below.</para>
+<para id="fs-idm91313680">The boron atom in boron trifluoride, BF<sub>3</sub>, has only six electrons in its valence shell. Being short of the preferred octet, BF<sub>3</sub> is a very good Lewis acid and reacts with many Lewis bases; a fluoride ion is the Lewis base in this reaction, donating one of its lone pairs:</para>
+<media id="fs-idp160186064" class="scaled-down" alt="This figure illustrates a chemical reaction using structural formulas. On the left, an F atom is surrounded by four electron dot pairs and has a superscript negative symbol. This structure is labeled below as “Lewis base.” Following a plus sign is another structure which has a B atom at the center and three F atoms single bonded above, right, and below. Each F atom has three pairs of electron dots. This structure is labeled below as “Lewis acid.” Following a right pointing arrow is a structure in brackets that has a central B atom to which 4 F atoms are connected with single bonds above, below, to the left, and to the right. Each F atom in this structure has three pairs of electron dots. Outside the brackets is a superscript negative symbol. This structure is labeled below as “Acid-base adduct.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_BF3-LA_img.jpg"/>
+</media>
+<para id="fs-idp34388288">In the following reaction, each of two ammonia molecules, Lewis bases, donates a pair of electrons to a silver ion, the Lewis acid:</para>
+<media id="fs-idp134365040" class="scaled-down" alt="This figure illustrates a chemical reaction using structural formulas. On the left side, a 2 preceeds an N atom which has H atoms single bonded above, to the left, and below. A single electron dot pair is on the right side of the N atom. This structure is labeled below as “Lewis base.” Following a plus sign is an A g atom which has a superscript plus symbol. Following a right pointing arrow is a structure in brackets that has a central A g atom to which N atoms are connected with single bonds to the left and to the right. Each of these N atoms has H atoms bonded above, below, and to the outside of the structure. Outside the brackets is a superscript plus symbol. This structure is labeled below as “Acid-base adduct.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_NH3-LBase_img.jpg"/>
+</media>
+<para id="fs-idm82519616">Nonmetal oxides act as Lewis acids and react with oxide ions, Lewis bases, to form oxyanions:</para>
+<media id="fs-idm21887312" class="scaled-down" alt="This figure illustrates a chemical reaction using structural formulas. On the left, an O atom is surrounded by four electron dot pairs and has a superscript 2 negative. This structure is labeled below as “Lewis base.” Following a plus sign is another structure which has an S atom at the center. O atoms are single bonded above and below. These O atoms have three electron dot pairs each. To the right of the S atom is a double bonded O atom which has two pairs of electron dots. This structure is labeled below as “Lewis acid.” Following a right pointing arrow is a structure in brackets that has a central S atom to which 4 O atoms are connected with single bonds above, below, to the left, and to the right. Each of the O atoms has three pairs of electron dots. Outside the brackets is a superscript 2 negative. This structure is labeled below as “Acid-base adduct.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_NonmetalOx_img.jpg"/>
+</media>
+<para id="fs-idm48299344">Many Lewis acid-base reactions are displacement reactions in which one Lewis base displaces another Lewis base from an acid-base adduct, or in which one Lewis acid displaces another Lewis acid:</para>
+<media id="fs-idp125718384" alt="Two chemical reactions in two rows using structural formulas. First row, to the left, in brackets is a structure with a central A g atom to which N atoms are connected with single bonds to the left and right. Each N atom has H atoms bonded above, below, and to the outside. Outside the brackets is a superscript plus symbol. This structure is labeled “Acid-base adduct.” Following a plus sign is a 2 and another structure in brackets that shows a C atom triple bonded to an N atom. The C atom has an unshared electron pair on its left side and the N atom has an unshared pair on its right side. Outside the brackets to the right is a superscript negative symbol. This structure is labeled “Base.” Following a right pointing arrow is a structure in brackets with a central A g atom to which 4 FC atoms are connected with single bonds to the left and right. At each of the two ends, N atoms are triple bonded to the C atoms. The N atoms each have an unshared electron pair at the end of the structure. Outside the brackets is a superscript negative symbol. This structure is labeled “New adduct.” Following a plus sign is an N atom with H atoms single bonded above, to the left, and below. A single electron dot pair is on the left side of the N atom. This structure is labeled “New base.” In the second row, on the left side in brackets is a structure with a central C atom. O atoms, each with three unshared electron pairs, are single bonded above and below and a third O atom, with two unshared electron pairs, is double bonded to the right. Outside the brackets is a superscript 2 negative. This structure is labeled “Acid-base adduct.” Following a plus sign is another structure with an S atom at the center. O atoms are single bonded above and below. These O atoms have three electron dot pairs each. To the right of the S atom is a double bonded O atom which has two pairs of electron dots. This structure is labeled “Acid.” Following a right pointing arrow is a structure in brackets with a central S atom to which 4 O atoms are connected with single bonds above, below, left, and right. Each of the O atoms has three pairs of electron dots. Outside the brackets is a superscript 2 negative. This structure is labeled “New adduct.” Following a plus sign is a structure with a central C atom that has two O atoms, each with two unshared electron pairs, double bonded to the left and right.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Displace_img.jpg"/>
+</media>
+<para id="fs-idm28146992">Another type of Lewis acid-base chemistry involves the formation of a complex ion (or a coordination complex) comprising a central atom, typically a transition metal cation, surrounded by ions or molecules called <term>ligands</term>. These ligands can be neutral molecules like H<sub>2</sub>O or NH<sub>3</sub>, or ions such as CN<sup>–</sup> or OH<sup>–</sup>. Often, the ligands act as Lewis bases, donating a pair of electrons to the central atom. These types of Lewis acid-base reactions are examples of a broad subdiscipline called <emphasis effect="italics">coordination chemistry</emphasis>—the topic of another chapter in this text.</para><para id="fs-idm50768752">The equilibrium constant for the reaction of a metal ion with one or more ligands to form a coordination complex is called a <term>formation constant (<emphasis effect="italics">K</emphasis><sub>f</sub>)</term> (sometimes called a stability constant). For example, the complex ion <m:math><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<media id="fs-idm22905296" alt="A Cu atom is bonded to two C atoms. Each of these C atoms is triple bonded to an N atom. Each N atom has two dots on the side of it.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_CuCN2-_img.jpg"/>
+</media>
+<para id="fs-idm21686128">is produced by the reaction</para>
+<equation id="fs-idm51220672" class="unnumbered"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp27469600">The formation constant for this reaction is</para>
+<equation id="fs-idm86529488" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mn>+</m:mn></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:msup><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm80631152">Alternatively, the reverse reaction (decomposition of the complex ion) can be considered, in which case the equilibrium constant is a <term>dissociation constant (<emphasis effect="italics">K</emphasis><sub>d</sub>)</term>. Per the relation between equilibrium constants for reciprocal reactions described, the dissociation constant is the mathematical inverse of the formation constant, <emphasis effect="italics">K<sub>d</sub></emphasis> = K<sub>f</sub><sup>–1</sup>. A tabulation of formation constants is provided in <link document="m68869">Appendix K</link>.</para>
+<para id="fs-idp9510016">As an example of dissolution by complex ion formation, let us consider what happens when we add aqueous ammonia to a mixture of silver chloride and water. Silver chloride dissolves slightly in water, giving a small concentration of Ag<sup>+</sup> ([Ag<sup>+</sup>] = 1.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup> <emphasis effect="italics">M</emphasis>):</para>
+<equation id="fs-idm70908128" class="unnumbered"><m:math><m:mrow><m:mtext>AgCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp127318800">However, if NH<sub>3</sub> is present in the water, the complex ion, <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> can form according to the equation:</para>
+<equation id="fs-idm30882864" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:msup>
+<m:mrow>
+<m:mtext>Ag</m:mtext>
+</m:mrow>
+<m:mtext>+</m:mtext>
+</m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">⇌</m:mo>
+<m:mtext>Ag</m:mtext>
+<m:msub>
+<m:mrow>
+<m:mo stretchy="false">(</m:mo>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mtext>+</m:mtext>
+</m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+</m:math>
+</equation>
+<para id="fs-idp22810368">with</para>
+<equation id="fs-idp57055872" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:msub>
+<m:mi>K</m:mi>
+<m:mtext>f</m:mtext>
+</m:msub>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo>
+<m:mtext>Ag</m:mtext>
+<m:msub>
+<m:mrow>
+<m:mo stretchy="false">(</m:mo>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mn>+</m:mn>
+</m:msup>
+<m:mo stretchy="false">]</m:mo>
+</m:mrow>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo>
+<m:msup>
+<m:mrow>
+<m:mtext>Ag</m:mtext>
+</m:mrow>
+<m:mn>+</m:mn>
+</m:msup>
+<m:mo stretchy="false">]</m:mo>
+<m:msup>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">]</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+</m:mfrac>
+<m:mspace width="0.2em"/>
+<m:mo>=</m:mo>
+<m:mn>1.7</m:mn>
+<m:mspace width="0.2em"/>
+<m:mo>×</m:mo>
+<m:mspace width="0.2em"/>
+<m:msup>
+<m:mrow>
+<m:mn>10</m:mn>
+</m:mrow>
+<m:mn>7</m:mn>
+</m:msup>
+</m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm16226016">
+The large size of this formation constant indicates that most of the free silver ions produced by the dissolution of AgCl combine with NH
+<sub>3</sub>
+to form
+<m:math>
+<m:mrow>
+<m:mtext>Ag</m:mtext>
+<m:msub>
+<m:mrow>
+<m:mo stretchy="false">(</m:mo>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mn>+</m:mn>
+</m:msup>
+<m:mo>.</m:mo>
+</m:mrow>
+</m:math>
+As a consequence, the concentration of silver ions, [Ag
+<sup>+</sup>
+], is reduced, and the reaction quotient for the dissolution of silver chloride, [Ag
+<sup>+</sup>
+][Cl
+<sup>–</sup>
+], falls below the solubility product of AgCl:
+</para>
+<equation id="fs-idm26618656" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:mi>Q</m:mi>
+<m:mspace width="0.2em"/>
+<m:mo>=</m:mo>
+<m:mspace width="0.2em"/>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo>
+<m:mrow>
+<m:msup>
+<m:mrow>
+<m:mtext>Ag</m:mtext>
+</m:mrow>
+<m:mn>+</m:mn>
+</m:msup>
+</m:mrow>
+<m:mo stretchy="false">]</m:mo>
+</m:mrow>
+<m:mrow>
+<m:mo>[</m:mo>
+<m:mrow>
+<m:msup>
+<m:mrow>
+<m:mtext>Cl</m:mtext>
+</m:mrow>
+<m:mtext>−</m:mtext>
+</m:msup>
+</m:mrow>
+<m:mo>]</m:mo>
+</m:mrow>
+<m:mspace width="0.2em"/>
+<m:mo>&lt;</m:mo>
+<m:mspace width="0.2em"/>
+<m:msub>
+<m:mi>K</m:mi>
+<m:mrow>
+<m:mtext>sp</m:mtext>
+</m:mrow>
+</m:msub>
+</m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm68296832">More silver chloride then dissolves. If the concentration of ammonia is great enough, all of the silver chloride dissolves.</para>
+<example id="fs-idm87668752">
+<para id="fs-idm7205936">
+<title>Dissociation of a Complex Ion</title>
+Calculate the concentration of the silver ion in a solution that initially is 0.10 <emphasis effect="italics">M</emphasis> with respect to <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idm75540624"><title>Solution</title>
+Applying the standard ICE approach to this reaction yields the following:</para>
+<media id="fs-idm24529056" alt="This table has two main columns and four rows. The first row for the first column does not have a heading and then has the following in the first column: Initial concentration ( M ), Change ( M ), and Equilibrium concentration ( M ). The second column has the header, “A g superscript positive sign plus 2 N H subscript 3 equilibrium sign A g ( N H subscript 3 ) subscript 2 superscript positive sign.” Under the second column is a subgroup of three rows and three columns. The first column contains: 0, positive x, x. The second column contains: 0, positive 2 x, 2 x. The third column contains 0.10, negative x, and 0.10 minus x.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_ICETable1_img.jpg"/>
+</media>
+<para id="fs-idp9002560">Substituting these equilibrium concentration terms into the <emphasis effect="italics">K</emphasis><sub>f</sub> expression gives</para>
+<equation id="fs-idp2484016" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>+</m:mn></m:msup><m:mo stretchy="false">]</m:mo><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<equation id="fs-idp40680272" class="unnumbered"><m:math><m:mrow><m:mn>1.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>=</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0.10</m:mn><m:mo>−</m:mo><m:mi>x</m:mi></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation><para id="fs-idm192455888">The very large equilibrium constant means the amount of the complex ion that will dissociate, <emphasis effect="italics">x</emphasis>, will be very small. Assuming <emphasis effect="italics">x</emphasis> &lt;&lt; 0.1 permits simplifying the above equation:</para>
+<equation id="fs-idp73621072" class="unnumbered"><m:math><m:mrow><m:mn>1.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>0.10</m:mn></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation><equation id="fs-idm73139120" class="unnumbered"><m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>0.10</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mn>1.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math></equation><equation id="fs-idm46937952" class="unnumbered"><m:math><m:mrow><m:mi>x</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mroot><m:mrow><m:mn>1.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow><m:mn>3</m:mn></m:mroot><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1.1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow></m:math></equation><para id="fs-idm16239152">Because only 1.1% of the <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup></m:mrow></m:math> dissociates into Ag<sup>+</sup> and NH<sub>3</sub>, the assumption that <emphasis effect="italics">x</emphasis> is small is justified.</para><para id="fs-idp135771888">Using this value of <emphasis effect="italics">x</emphasis> and the relations in the above ICE table allows calculation of all species’ equilibrium concentrations:</para>
+<equation id="fs-idp47227680" class="unnumbered"><m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>+</m:mn></m:msup><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0</m:mn><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1.1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation><equation id="fs-idm85370448" class="unnumbered"><m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation><equation id="fs-idp15145408" class="unnumbered"><m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>0.10</m:mn><m:mo>−</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0.10</m:mn><m:mo>−</m:mo><m:mn>0.0011</m:mn><m:mo>=</m:mo><m:mn>0.099</m:mn></m:mrow></m:math></equation><para id="fs-idm88908448">The concentration of free silver ion in the solution is 0.0011 <emphasis effect="italics">M</emphasis>.</para>
+<para id="fs-idp125455664"><title>Check Your Learning</title>
+Calculate the silver ion concentration, [Ag<sup>+</sup>], of a solution prepared by dissolving 1.00 g of AgNO<sub>3</sub> and 10.0 g of KCN in sufficient water to make 1.00 L of solution. (Hint: Because <emphasis effect="italics">K</emphasis><sub>f</sub> is very large, assume the reaction goes to completion then calculate the [Ag<sup>+</sup>] produced by dissociation of the complex.)</para>
+<note id="fs-idp119941104"><title>Answer:</title>
+<para id="fs-idm70030480">2.9 <m:math><m:mo>×</m:mo></m:math> 10<sup>–22</sup> <emphasis effect="italics">M</emphasis></para></note>
+</example>
+<section id="fs-idp45945376" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm14023472">A Lewis acid is a species that can accept an electron pair, whereas a Lewis base has an electron pair available for donation to a Lewis acid. Complex ions are examples of Lewis acid-base adducts and comprise central metal atoms or ions acting as Lewis acids bonded to molecules or ions called ligands that act as Lewis bases. The equilibrium constant for the reaction between a metal ion and ligands produces a complex ion called a formation constant; for the reverse reaction, it is called a dissociation constant.</para>
+</section>
+<section id="fs-idp110000448" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idm212489824">
+<problem id="fs-idm220716944">
+<para id="fs-idm188551216">Even though Ca(OH)<sub>2</sub> is an inexpensive base, its limited solubility restricts its use. What is the pH of a saturated solution of Ca(OH)<sub>2</sub>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp46388832">
+<problem id="fs-idm72588944">
+<para id="fs-idm2808944">Under what circumstances, if any, does a sample of solid AgCl completely dissolve in pure water?</para>
+</problem>
+<solution id="fs-idm49259568">
+<para id="fs-idm85421440">when the amount of solid is so small that a saturated solution is not produced</para>
+</solution>
+</exercise>
+<exercise id="fs-idm65484352">
+<problem id="fs-idp38665072">
+<para id="fs-idm68167024">Explain why the addition of NH<sub>3</sub> or HNO<sub>3</sub> to a saturated solution of Ag<sub>2</sub>CO<sub>3</sub> in contact with solid Ag<sub>2</sub>CO<sub>3</sub> increases the solubility of the solid.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm55438304">
+<problem id="fs-idm65845264">
+<para id="fs-idm6072880">Calculate the cadmium ion concentration, [Cd<sup>2+</sup>], in a solution prepared by mixing 0.100 L of 0.0100 <emphasis effect="italics">M</emphasis> Cd(NO<sub>3</sub>)<sub>2</sub> with 0.150 L of 0.100 NH<sub>3</sub>(<emphasis effect="italics">aq</emphasis>).</para></problem>
+<solution id="fs-idm93189648">
+<para id="fs-idm73920192">1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup> <emphasis effect="italics">M</emphasis></para></solution>
+</exercise>
+<exercise id="fs-idm98555648">
+<problem id="fs-idp62094880">
+<para id="fs-idm21823296">Explain why addition of NH<sub>3</sub> or HNO<sub>3</sub> to a saturated solution of Cu(OH)<sub>2</sub> in contact with solid Cu(OH)<sub>2</sub> increases the solubility of the solid.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm72577424">
+<problem id="fs-idm51563936">
+<para id="fs-idp10055184">Sometimes equilibria for complex ions are described in terms of dissociation constants, <emphasis effect="italics">K</emphasis><sub>d</sub>. For the complex ion <m:math><m:mrow><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup></m:mrow></m:math> the dissociation reaction is:</para>
+<para id="fs-idm68646192"><m:math><m:mrow><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">⇌</m:mo><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mtext>F</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>d</m:mtext></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mtext>F</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>24</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp111955968">Calculate the value of the formation constant, <emphasis effect="italics">K</emphasis><sub>f</sub>, for <m:math><m:mrow><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mtext>6</m:mtext></m:msub><m:msup><m:mrow/><m:mtext>3−</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp49919888">
+<para id="fs-idp112133280">5 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm50986272">
+<problem id="fs-idm24862320">
+<para id="fs-idm71133504">Using the value of the formation constant for the complex ion <m:math><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>,</m:mo></m:mrow></m:math> calculate the dissociation constant.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp18623376">
+<problem id="fs-idm18189136">
+<para id="fs-idm101068320">Using the dissociation constant, <emphasis effect="italics">K</emphasis><sub>d</sub> = 7.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–18</sup>, calculate the equilibrium concentrations of Cd<sup>2+</sup> and CN<sup>–</sup> in a 0.250-<emphasis effect="italics">M</emphasis> solution of <m:math><m:mrow><m:mtext>Cd</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp16533104">
+<para id="fs-idm262777264"><media id="fs-idm100408784" alt="This table has two main columns and three rows. The first row for the first column does not have a heading and then has the following in the first column: Initial concentration ( M ) and Equilibrium ( M ). The second column has the header, “[ C d ( C N ) subscript 4 to the second power superscript negative sign ] [ C N superscript negative sign ] [ C d to the second power superscript positive sign ].” Under the second column is a subgroup of two rows and three columns. The first column contains the following: 0.250 and 0.250 minus x. The second column contains the following: 0 and 4 x. The third column contains the following: 0 and x.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_ICETable3_img.jpg"/>
+</media><newline/>
+[Cd<sup>2+</sup>] = 9.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup> <emphasis effect="italics">M</emphasis>; [CN<sup>–</sup>] = 3.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup> <emphasis effect="italics">M</emphasis></para></solution>
+</exercise>
+<exercise id="fs-idm19606400">
+<problem id="fs-idm87841616">
+<para id="fs-idp57024384">Using the dissociation constant, <emphasis effect="italics">K</emphasis><sub>d</sub> = 3.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>–15</sup>, calculate the equilibrium concentrations of Zn<sup>2+</sup> and OH<sup>–</sup> in a 0.0465-<emphasis effect="italics">M</emphasis> solution of <m:math><m:mrow><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm47233344">
+<problem id="fs-idp148370512">
+<para id="fs-idm73182032">Using the dissociation constant, <emphasis effect="italics">K</emphasis><sub>d</sub> = 2.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>–34</sup>, calculate the equilibrium concentrations of Co<sup>3+</sup> and NH<sub>3</sub> in a 0.500-<emphasis effect="italics">M</emphasis> solution of <m:math><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm25437184">
+<para id="fs-idm47971424">[Co<sup>3+</sup>] = 3.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>–6</sup> <emphasis effect="italics">M</emphasis>; [NH<sub>3</sub>] = 1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup> <emphasis effect="italics">M</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idp18044656">
+<problem id="fs-idm44656832">
+<para id="fs-idm58110448">Using the dissociation constant, <emphasis effect="italics">K</emphasis><sub>d</sub> = 1 <m:math><m:mo>×</m:mo></m:math> 10<sup>–44</sup>, calculate the equilibrium concentrations of Fe<sup>3+</sup> and CN<sup>–</sup> in a 0.333 M solution of <m:math><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm73346208">
+<problem id="fs-idp50220640">
+<para id="fs-idm70882624">Calculate the mass of potassium cyanide ion that must be added to 100 mL of solution to dissolve 2.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>–2</sup> mol of silver cyanide, AgCN.</para>
+</problem>
+<solution id="fs-idp50302192">
+<para id="fs-idm73037856">1.3 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idm65404096">
+<problem id="fs-idm82523536">
+<para id="fs-idm24986176">Calculate the minimum concentration of ammonia needed in 1.0 L of solution to dissolve 3.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>–3</sup> mol of silver bromide.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm77437136">
+<problem id="fs-idm84914528">
+<para id="fs-idm48772160">A roll of 35-mm black and white photographic film contains about 0.27 g of unexposed AgBr before developing. What mass of Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>·5H<sub>2</sub>O (sodium thiosulfate pentahydrate or hypo) in 1.0 L of developer is required to dissolve the AgBr as <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup></m:mrow></m:math> (<emphasis effect="italics">K</emphasis><sub>f</sub> = 4.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>13</sup>)?</para>
+</problem>
+<solution id="fs-idm91729088">
+<para id="fs-idp15978880">0.79 g</para></solution>
+</exercise>
+<exercise id="fs-idp28555376">
+<problem id="fs-idm25419968">
+<para id="fs-idm2622992">We have seen an introductory definition of an acid: An acid is a compound that reacts with water and increases the amount of hydronium ion present. In the chapter on acids and bases, we saw two more definitions of acids: a compound that donates a proton (a hydrogen ion, H<sup>+</sup>) to another compound is called a Brønsted-Lowry acid, and a Lewis acid is any species that can accept a pair of electrons. Explain why the introductory definition is a macroscopic definition, while the Brønsted-Lowry definition and the Lewis definition are microscopic definitions.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm105219776">
+<problem id="fs-idm45644976">
+<para id="fs-idp24853424">Write the Lewis structures of the reactants and product of each of the following equations, and identify the Lewis acid and the Lewis base in each:</para>
+<para id="fs-idm84825872">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm45435856">(b) <m:math><m:mrow><m:mtext>B</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp131461312">(c) <m:math><m:mrow><m:msup><m:mtext>I</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm81484240">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>AlCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>AlCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> (use Al-Cl single bonds)</para>
+<para id="fs-idm46864416">(e) <m:math><m:mrow><m:msup><m:mtext>O</m:mtext><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm24311696">
+<para id="fs-idm48324368">(a)<newline/>
+<media id="fs-idp8394208" alt="This figure shows a chemical reaction modeled with structural formulas. On the left side is a structure with a central C atom. O atoms, each with two unshared electron pairs, are double bonded to the left and right sides of the C atom. Following a plus sign is another structure in brackets which has an O atom with three unshared electron dot pairs single bonded to an H atom on the right. Outside the brackets is superscript negative sign. Following a right pointing arrow is a structure in brackets that has a central C atom to which 3 O atoms are bonded. Above and slightly to the right, one of the O atoms is connected with a double bond. This O atom has two unshared electron pairs. The second O atom is single bonded below and slightly to the right. This O atom has three unshared electron pairs. The third O atom is bonded to the left of the C atom. This O atom has two unshared electron pairs and an H atom single bonded to its left. Outside the brackets to the right is a superscript negative symbol.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18a_img.jpg"/>
+</media><newline/>
+(b)<newline/>
+<media id="fs-idm88262064" alt="This figure shows a chemical reaction modeled with structural formulas. On the left side is a structure that has a central B atom to which 3 O atoms are bonded. The O atoms above and below slightly right of the B atom each have an H atom single bonded to the right. The third O atom is single bonded to the left side of the B atom. This O atom has an H atom single bonded to its left side. All O atoms in this structure have two unshared electron pairs. Following a plus sign is another structure which has an O atom single bonded to an H atom on its right. The O atom has three unshared electron pairs. The structure appears in brackets with a superscript negative sign. Following a right pointing arrow is a structure in brackets has a central B atom to which 4 O atoms are bonded. The O atoms above, below, and right of the B atom each hav an H atom single bonded to the right. The third O atom is single bonded to the left side of the B atom. This O atom has an H atom single bonded to its left side. All O atoms in this structure have two unshared electron pairs. Outside the brackets to the right is a superscript negative symbol.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18b_img.jpg"/>
+</media><newline/>
+(c)<newline/>
+<media id="fs-idp130807344" alt="This figure illustrates a chemical reaction using structural formulas. On the left, two I atoms, each with 3 unshared electron pairs, are joined with a single bond. Following a plus sign is another structure which has an I atom with four pairs of electron dots and a superscript negative sign. Following a right pointing arrow is a structure in brackets that has three I atoms connected in a line with single bonds. The two end I atoms have three unshared electron dot pairs and the I atom at the center has two unshared electron pairs. Outside the brackets is a superscript negative sign.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18c_img.jpg"/>
+</media><newline/>
+(d)<newline/>
+<media id="fs-idm24823408" alt="This figure illustrates a chemical reaction using structural formulas. On the left, an A l atom is positioned at the center of a structure and three Cl atoms are single bonded above, left, and below. Each C l atom has three pairs of electron dots. Following a plus sign is another structure which has an F atom is surrounded by four electron dot pairs and a superscript negative symbol. Following a right pointing arrow is a structure in brackets that has a central A l atom to which 4 C l atoms are connected with single bonds above, below, to the left, and to the right. Each C l atom in this structure has three pairs of electron dots. Outside the brackets is a superscript negative symbol.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18d_img.jpg"/>
+</media><newline/>
+(e)<newline/>
+<media id="fs-idm53758640" alt="This figure illustrates a chemical reaction using structural formulas. On the left is a structure which has an S atom at the center. O atoms are single bonded above and below. These O atoms have three electron dot pairs each. To the right of the S atom is a double bonded O atom which has two pairs of electron dots. Following a plus sign is an O atom which is surrounded by four electron dot pairs and has a superscript 2 negative. Following a right pointing arrow is a structure in brackets that has a central S atom to which 4 O atoms are connected with single bonds above, below, to the left, and to the right. Each of the O atoms has three pairs of electron dots. Outside the brackets is a superscript 2 negative.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18e_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp56004352">
+<problem id="fs-idm11309040">
+<para id="fs-idm77542368">Write the Lewis structures of the reactants and product of each of the following equations, and identify the Lewis acid and the Lewis base in each:</para>
+<para id="fs-idm91791744">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CS</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>SH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>HCS</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp119951776">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mtext>F</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm80113600">(c) <m:math><m:mrow><m:msup><m:mtext>I</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SnI</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SnI</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp24904336">(d) <m:math><m:mrow><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm90012656">(e) <m:math><m:mrow><m:msup><m:mtext>F</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SFO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp26968080">
+<problem id="fs-idm51663840">
+<para id="fs-idm28745184">Using Lewis structures, write balanced equations for the following reactions:</para>
+<para id="fs-idp107921152">(a) <m:math><m:mrow><m:mtext>HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>PH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/></m:mrow></m:math></para>
+<para id="fs-idp137635328">(b) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/></m:mrow></m:math></para>
+<para id="fs-idp119859776">(c) <m:math><m:mrow><m:mtext>CaO</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/></m:mrow></m:math></para>
+<para id="fs-idm45460912">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm2175696">
+<para id="fs-idm45427936">(a)<newline/>
+<media id="fs-idm45893936" alt="This figure represents a chemical reaction in two rows. The top row shows the reaction using chemical formulas. The second row uses structural formulas to represent the reaction. The first row contains the equation H C l ( g ) plus P H subscript 3 ( g ) right pointing arrow left bracket P H subscript 4 right bracket superscript plus plus left bracket C l with 4 pairs of electron dots right bracket superscript negative sign. The second row begins on the left with H left bracket C l with four unshared electron pairs right bracket plus a structure in brackets with a central P atom with H atoms single bonded at the left, above, and to the right. A single unshared electron pair is on the central P atom. Outside the brackets to the right is a superscript plus sign. Following a right pointing arrow is a structure in brackets with a central P atom with H atoms single bonded at the left, above, below, and to the right. Outside the brackets is a superscript plus sign. This structure is followed by a plus and a C l atom in brackets with four unshared electron pairs and a superscript negative sign.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer24a_img.jpg"/>
+</media><newline/>
+(b) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math><newline/>
+<media id="fs-idm2136944" alt="This figure represents a chemical reaction using structural formulas. A structure is shown in brackets on the left which is composed of a central O atom with one unshared electron pair and three single bonded H atoms to the left, right, and above the atom. Outside the brackets to the right is a superscript plus sign. Following a plus sign, is another structure in brackets composed of a central C atom with one unshared electron pair and three single bonded H atoms to the left, right, and above the atom. Outside the brackets to the right is a superscript negative sign. Following a right pointing arrow is a structure with a central C atom with H atoms single bonded above, below, left and right. Following a plus sign is a structure with a central O atom with two unshared electron pairs and two H atoms connected with single bonds.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer24b_img.jpg"/>
+</media><newline/>
+(c) <m:math><m:mrow><m:mtext>CaO</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CaSO</m:mtext><m:mn>4</m:mn></m:mrow></m:math><newline/>
+<media id="fs-idp64857056" alt="This figure represents a chemical reaction using structural formulas. On the left, C a superscript 2 plus is just left of bracket O with four unshared electron pairs right bracket superscript 2 negative plus a structure with a central S atom to which two O atoms are single bonded at the left and right, and a single O atom is double bonded above. The two single bonded O atoms each have three unshared electron pairs and the double bonded O atom has two unshared electron pairs. Following a right pointing arrow is C a superscript 2 plus just left of a structure in brackets with a central S atom which has 4 O atoms single bonded at the left, above, below, and to the right. Each of the O atoms has three unshared electron pairs. Outside the brackets to the right is a superscript two negative.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer24c_img.jpg"/>
+</media><newline/>
+(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math><newline/>
+<media id="fs-idp57321968" alt="This figure represents a chemical reaction using structural formulas. A structure is shown in brackets on the left which is composed of a central N atom with four single bonded H atoms to the left, right, above, and below the atom. Outside the brackets to the right is a superscript plus sign. Following a plus sign, is another structure in brackets composed of a C atom with three single bonded H atoms above, below, and to the left. A second C atom is single bonded to the right. This C atom has H atoms single bonded above and below. To the right of the second C atom, an O atom is single bonded. This O atom has three unshared electron pairs. Outside the brackets to the right is a subperscript negative. Following a right pointing arrow is a structure composed of a C atom with three single bonded H atoms above, below, and to the left. A second C atom is single bonded to the right. This C atom has H atoms single bonded above and below. To the right of the second C atom, an O atom is single bonded. This O atom has two unshared electron pairs and an H atom single bonded to its right.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer24d_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp26835744">
+<problem id="fs-idm27390400">
+<para id="fs-idm2667904">Calculate <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>HgCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> in a solution prepared by adding 0.0200 mol of NaCl to 0.250 L of a 0.100-<emphasis effect="italics">M</emphasis> HgCl<sub>2</sub> solution.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm44455728">
+<problem id="fs-idm44455472">
+<para id="fs-idm82529888">In a titration of cyanide ion, 28.72 mL of 0.0100 <emphasis effect="italics">M</emphasis> AgNO<sub>3</sub> is added before precipitation begins. [The reaction of Ag<sup>+</sup> with CN<sup>–</sup> goes to completion, producing the <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> complex.] Precipitation of solid AgCN takes place when excess Ag<sup>+</sup> is added to the solution, above the amount needed to complete the formation of <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math> How many grams of NaCN were in the original sample?</para>
+</problem>
+<solution id="fs-idp27818848">
+<para id="fs-idp27819104">0.0281 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idm23888576">
+<problem id="fs-idm72627264">
+<para id="fs-idm72627008">What are the concentrations of Ag<sup>+</sup>, CN<sup>–</sup>, and <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> in a saturated solution of AgCN?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm47551360">
+<problem id="fs-idp137786432">
+<para id="fs-idp137786688">In dilute aqueous solution HF acts as a weak acid. However, pure liquid HF (boiling point = 19.5 °C) is a strong acid. In liquid HF, HNO<sub>3</sub> acts like a base and accepts protons. The acidity of liquid HF can be increased by adding one of several inorganic fluorides that are Lewis acids and accept F<sup>–</sup> ion (for example, BF<sub>3</sub> or SbF<sub>5</sub>). Write balanced chemical equations for the reaction of pure HNO<sub>3</sub> with pure HF and of pure HF with BF<sub>3</sub>.</para>
+</problem>
+<solution id="fs-idm87512000">
+<para id="fs-idm87511744"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HNO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mtext>F</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mtext>HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>H</m:mtext><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idp127234208">
+<problem id="fs-idm89680752">
+<para id="fs-idm89680496">The simplest amino acid is glycine, H<sub>2</sub>NCH<sub>2</sub>CO<sub>2</sub>H. The common feature of amino acids is that they contain the functional groups: an amine group, –NH<sub>2</sub>, and a carboxylic acid group, –CO<sub>2</sub>H. An amino acid can function as either an acid or a base. For glycine, the acid strength of the carboxyl group is about the same as that of acetic acid, CH<sub>3</sub>CO<sub>2</sub>H, and the base strength of the amino group is slightly greater than that of ammonia, NH<sub>3</sub>.</para>
+<para id="fs-idp137523328">(a) Write the Lewis structures of the ions that form when glycine is dissolved in 1 <emphasis effect="italics">M</emphasis> HCl and in 1 <emphasis effect="italics">M</emphasis> KOH.</para>
+<para id="fs-idp125358752">(b) Write the Lewis structure of glycine when this amino acid is dissolved in water. (Hint: Consider the relative base strengths of the –NH<sub>2</sub> and <m:math><m:mrow><m:mo>−</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> groups.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm16601024">
+<problem id="fs-idm16600768">
+<para id="fs-idm1806144">Boric acid, H<sub>3</sub>BO<sub>3</sub>, is not a Brønsted-Lowry acid but a Lewis acid.</para>
+<para id="fs-idp9486544">(a) Write an equation for its reaction with water.</para>
+<para id="fs-idp9486928">(b) Predict the shape of the anion thus formed.</para>
+<para id="fs-idm86424864">(c) What is the hybridization on the boron consistent with the shape you have predicted?</para>
+</problem>
+<solution id="fs-idm18233040">
+<para id="fs-idm18232784">(a) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>BO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mrow><m:mtext>BO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mtext>H</m:mtext><m:mn>+</m:mn></m:msup><m:mo>;</m:mo></m:mrow></m:math> (b) The electronic and molecular shapes are the same—both tetrahedral. (c) The tetrahedral structure is consistent with <emphasis effect="italics">sp</emphasis><sup>3</sup> hybridization.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm90510160"><term>complex ion</term><meaning id="fs-idm90509776">ion consisting of a central atom surrounding molecules or ions called ligands via coordinate covalent bonds</meaning></definition>
+<definition id="fs-idp1460096"><term>coordinate covalent bond</term><meaning id="fs-idp143749120">(also, dative bond) covalent bond in which both electrons originated from the same atom</meaning></definition>
+<definition id="fs-idm25500528"><term>dissociation constant</term><meaning id="fs-idm58234112">(<emphasis effect="bold"><emphasis effect="italics">K</emphasis><sub>d</sub></emphasis>) equilibrium constant for the decomposition of a complex ion into its components</meaning></definition>
+<definition id="fs-idp120133664"><term>formation constant</term><meaning id="fs-idp120134048">(<emphasis effect="bold"><emphasis effect="italics">K</emphasis><sub>f</sub></emphasis>) (also, stability constant) equilibrium constant for the formation of a complex ion from its components</meaning></definition>
+<definition id="fs-idp11302544"><term>Lewis acid</term><meaning id="fs-idp11302928">any species that can accept a pair of electrons and form a coordinate covalent bond</meaning></definition>
+<definition id="fs-idm26641568"><term>Lewis acid-base adduct</term><meaning id="fs-idm26641184">compound or ion that contains a coordinate covalent bond between a Lewis acid and a Lewis base</meaning></definition>
+<definition id="fs-idm465112896"><term>Lewis acid-base chemistry</term><meaning id="fs-idm101700960a">reactions involving the formation of coordinate covalent bonds</meaning></definition>
+<definition id="fs-idp29842512"><term>Lewis base</term><meaning id="fs-idm101700960">any species that can donate a pair of electrons and form a coordinate covalent bond</meaning></definition>
+<definition id="fs-idm101700576"><term>ligand</term><meaning id="fs-idp77291984">molecule or ion acting as a Lewis base in complex ion formation; bonds to the central atom of the complex</meaning></definition>
+</glossary>
+</document>

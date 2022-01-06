@@ -1,0 +1,163 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Multiple Bonds</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68746</md:content-id>
+  <md:title>Multiple Bonds</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list><item>Describe multiple covalent bonding in terms of atomic orbital overlap</item>
+<item>Relate the concept of resonance to π-bonding and electron delocalization</item></list></md:abstract>
+  <md:uuid>51189d7f-2047-4987-aa94-7b8edd91e13d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp109649680">The hybrid orbital model appears to account well for the geometry of molecules involving single covalent bonds. Is it also capable of describing molecules containing double and triple bonds? We have already discussed that multiple bonds consist of σ and π bonds. Next we can consider how we visualize these components and how they relate to hybrid orbitals. The Lewis structure of ethene, C<sub>2</sub>H<sub>4</sub>, shows us that each carbon atom is surrounded by one other carbon atom and two hydrogen atoms.</para>
+<media id="fs-idp35800208" class="scaled-down" alt="A Lewis structure is shown in which two carbon atoms are bonded together by a double bond. Each carbon atom is bonded to two hydrogen atoms by a single bond.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_C4H4Lewis_img.jpg"/>
+</media>
+<para id="fs-idp40201472">The three bonding regions form a trigonal planar electron-pair geometry. Thus we expect the σ bonds from each carbon atom are formed using a set of <emphasis effect="italics">sp</emphasis><sup>2</sup> hybrid orbitals that result from hybridization of two of the 2<emphasis effect="italics">p</emphasis> orbitals and the 2<emphasis effect="italics">s</emphasis> orbital (<link target-id="CNX_Chem_08_03_sp3config"/>). These orbitals form the C–H single bonds and the σ bond in the <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> double bond (<link target-id="CNX_Chem_08_03_C2H4orbit"/>)<emphasis effect="italics">.</emphasis> The π bond in the <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> double bond results from the overlap of the third (remaining) 2<emphasis effect="italics">p</emphasis> orbital on each carbon atom that is not involved in hybridization. This unhybridized <emphasis effect="italics">p</emphasis> orbital (lobes shown in red and blue in <link target-id="CNX_Chem_08_03_C2H4orbit"/>) is perpendicular to the plane of the <emphasis effect="italics">sp</emphasis><sup>2</sup> hybrid orbitals. Thus the unhybridized 2<emphasis effect="italics">p</emphasis> orbitals overlap in a side-by-side fashion, above and below the internuclear axis (<link target-id="CNX_Chem_08_03_C2H4orbit"/>) and form a π bond<emphasis effect="italics">.</emphasis></para><figure id="CNX_Chem_08_03_sp3config" class="scaled-down">
+<media id="fs-idp21744512" alt="A diagram is shown in two parts, connected by a right facing arrow labeled, “Hybridization.” The left diagram shows an up-facing arrow labeled, “E.” To the lower right of the arrow is a short, horizontal line labeled, “2 s,” that has two vertical half-arrows facing up and down on it. To the upper right of the arrow are a series of three short, horizontal lines labeled, “2 p.” Above both sets of lines is the phrase, “Orbitals in an isolated C atom.” Two of the lines have vertical, up-facing arrows drawn on them. The right side of the diagram shows three short, horizontal lines placed halfway up the space and each labeled, “s p superscript 2.” An upward-facing half arrow is drawn vertically on each line. Above these lines is one other short, horizontal line, labeled, “p.” Above both sets of lines is the phrase, “Orbitals in the s p superscript 2 hybridized C atom in C subscript 2 H subscript 4.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_sp3config.jpg"/>
+</media>
+<caption>In ethene, each carbon atom is <emphasis effect="italics">sp</emphasis><sup>2</sup> hybridized, and the <emphasis effect="italics">sp</emphasis><sup>2</sup> orbitals and the <emphasis effect="italics">p</emphasis> orbital are singly occupied. The hybrid orbitals overlap to form σ bonds, while the <emphasis effect="italics">p</emphasis> orbitals on each carbon atom overlap to form a π bond.</caption>
+</figure>
+<figure id="CNX_Chem_08_03_C2H4orbit" class="scaled-down"><media id="fs-idp201403520" alt="Two diagrams are shown labeled, “a” and “b.” Diagram a shows two carbon atoms with three purple balloon-like orbitals arranged in a plane around them and two red balloon-like orbitals arranged vertically and perpendicularly to the plane. There is an overlap of two of the purple orbitals in between the two carbon atoms, and the other four purple orbitals that face the outside of the molecule are shown interacting with spherical blue orbitals from four hydrogen atoms. Diagram b depicts a similar image to diagram a, but the red, vertical orbitals are interacting above and below the plane of the molecule to form two areas labeled, “One pi bond.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_C2H4orbit.jpg"/>
+</media>
+
+<caption>In the ethene molecule, C<sub>2</sub>H<sub>4,</sub> there are (a) five σ bonds. One C–C σ bond results from overlap of <emphasis effect="italics">sp</emphasis><sup>2</sup> hybrid orbitals on the carbon atom with one <emphasis effect="italics">sp</emphasis><sup>2</sup> hybrid orbital on the other carbon atom. Four C–H bonds result from the overlap between the C atoms' <emphasis effect="italics">sp</emphasis><sup>2</sup> orbitals with <emphasis effect="italics">s</emphasis> orbitals on the hydrogen atoms. (b) The π bond is formed by the side-by-side overlap of the two unhybridized <emphasis effect="italics">p</emphasis> orbitals in the two carbon atoms. The two lobes of the π bond are above and below the plane of the σ system.</caption></figure><para id="fs-idp52367024">In an ethene molecule, the four hydrogen atoms and the two carbon atoms are all in the same plane. If the two planes of <emphasis effect="italics">sp</emphasis><sup>2</sup> hybrid orbitals tilted relative to each other, the <emphasis effect="italics">p</emphasis> orbitals would not be oriented to overlap efficiently to create the π bond. The planar configuration for the ethene molecule occurs because it is the most stable bonding arrangement. This is a significant difference between σ and π bonds; rotation around single (σ) bonds occurs easily because the end-to-end orbital overlap does not depend on the relative orientation of the orbitals on each atom in the bond. In other words, rotation around the internuclear axis does not change the extent to which the σ bonding orbitals overlap because the bonding electron density is symmetric about the axis. Rotation about the internuclear axis is much more difficult for multiple bonds; however, this would drastically alter the off-axis overlap of the π bonding orbitals, essentially breaking the π bond.</para>
+<para id="fs-idp40636368">In molecules with <emphasis effect="italics">sp</emphasis> hybrid orbitals, two unhybridized <emphasis effect="italics">p</emphasis> orbitals remain on the atom (<link target-id="CNX_Chem_08_03_spC"/>). We find this situation in acetylene, <m:math><m:mrow><m:mtext>H−C≡C−H</m:mtext><m:mo>,</m:mo></m:mrow></m:math> which is a linear molecule. The <emphasis effect="italics">sp</emphasis> hybrid orbitals of the two carbon atoms overlap end to end to form a σ bond between the carbon atoms (<link target-id="CNX_Chem_08_03_C2H2"/>). The remaining <emphasis effect="italics">sp</emphasis> orbitals form σ bonds with hydrogen atoms. The two unhybridized <emphasis effect="italics">p</emphasis> orbitals per carbon are positioned such that they overlap side by side and, hence, form two π bonds. The two carbon atoms of acetylene are thus bound together by one σ bond and two π bonds, giving a triple bond.</para><figure id="CNX_Chem_08_03_spC" class="scaled-down">
+<media id="fs-idp46978352" alt="A diagram of a carbon atom with two balloon-like purple orbitals labeled, “sp” arranged in a linear fashion around it is shown. Four red balloon-like orbitals are aligned in pairs in the y and z axes around the carbon and are labeled, “unhybridized p orbital,” and, “Second unhybridized p orbital.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_spC.jpg"/>
+</media>
+<caption>Diagram of the two linear <emphasis effect="italics">sp</emphasis> hybrid orbitals of a carbon atom, which lie in a straight line, and the two unhybridized <emphasis effect="italics">p</emphasis> orbitals at perpendicular angles.</caption>
+</figure>
+<figure id="CNX_Chem_08_03_C2H2" class="scaled-down">
+<media id="fs-idp112665792" alt="Two diagrams are shown and labeled, “a” and “b.” Diagram a shows two carbon atoms with two purple balloon-like orbitals arranged in a plane around each of them, and four red balloon-like orbitals arranged along the y and z axes perpendicular to the plane of the molecule. There is an overlap of two of the purple orbitals in between the two carbon atoms. The other two purple orbitals that face the outside of the molecule are shown interacting with spherical blue orbitals from two hydrogen atoms. Diagram b depicts a similar image to diagram a, but the red, vertical orbitals are interacting above and below and to the front and back of the plane of the molecule to form two areas labeled, “One pi bond,” and, “Second pi bond,” each respectively.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_C2H2.jpg"/>
+</media>
+<caption>(a) In the acetylene molecule, C<sub>2</sub>H<sub>2,</sub> there are two C–H σ bonds and a <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> triple bond involving one C–C σ bond and two C–C π bonds. The dashed lines, each connecting two lobes, indicate the side-by-side overlap of the four unhybridized <emphasis effect="italics">p</emphasis> orbitals. (b) This shows the overall outline of the bonds in C<sub>2</sub>H<sub>2</sub>. The two lobes of each of the π bonds are positioned across from each other around the line of the C–C σ bond.</caption>
+</figure>
+<para id="fs-idp135325968">Hybridization involves only σ bonds, lone pairs of electrons, and single unpaired electrons (radicals). Structures that account for these features describe the correct hybridization of the atoms. However, many structures also include resonance forms. Remember that resonance forms occur when various arrangements of π bonds are possible. Since the arrangement of π bonds involves only the unhybridized orbitals, resonance does not influence the assignment of hybridization.</para>
+<para id="fs-idp155207440">For example, molecule benzene has two resonance forms (<link target-id="CNX_Chem_08_03_C6H6"/>). We can use either of these forms to determine that each of the carbon atoms is bonded to three other atoms with no lone pairs, so the correct hybridization is <emphasis effect="italics">sp</emphasis><sup>2</sup>. The electrons in the unhybridized <emphasis effect="italics">p</emphasis> orbitals form π bonds. Neither resonance structure completely describes the electrons in the π bonds. They are not located in one position or the other, but in reality are delocalized throughout the ring. Valence bond theory does not easily address delocalization. Bonding in molecules with resonance forms is better described by molecular orbital theory. (See the next module.)</para>
+<figure id="CNX_Chem_08_03_C6H6" class="scaled-down">
+<media id="fs-idp4433648" alt="A diagram is shown that is made up of two Lewis structures connected by a double ended arrow. The left image shows six carbon atoms bonded together with alternating double and single bonds to form a six-sided ring. Each carbon is also bonded to a hydrogen atom by a single bond. The right image shows the same structure, but the double and single bonds in between the carbon atoms have changed positions.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_C6H6.jpg"/>
+</media>
+<caption>Each carbon atom in benzene, C<sub>6</sub>H<sub>6</sub>, is <emphasis effect="italics">sp</emphasis><sup>2</sup> hybridized, independently of which resonance form is considered. The electrons in the π bonds are not located in one set of <emphasis effect="italics">p</emphasis> orbitals or the other, but rather delocalized throughout the molecule.</caption>
+</figure>
+<example id="fs-idp109093216">
+<para id="fs-idm123905056"><title>Assignment of Hybridization Involving Resonance</title>
+Some acid rain results from the reaction of sulfur dioxide with atmospheric water vapor, followed by the formation of sulfuric acid. Sulfur dioxide, SO<sub>2</sub>, is a major component of volcanic gases as well as a product of the combustion of sulfur-containing coal. What is the hybridization of the S atom in SO<sub>2</sub>?</para>
+<para id="fs-idm9390272"><title>Solution</title>
+The resonance structures of SO<sub>2</sub> are</para>
+<media id="fs-idp71841872" class="scaled-down" alt="Two Lewis structures connected by a double-ended arrow are shown. The left structure shows a sulfur atom with one lone pair of electrons and a positive sign which is single bonded on one side to an oxygen atom with three lone pairs of electrons and a negative sign. The sulfur atom is double bonded on the other side to another oxygen atom with two lone pairs of electrons. The right-hand structure is the same as the left except that the position of the double bonded oxygen atom is switched. In both structures the attached oxygen atoms form an acute angle in terms of the sulfur atom.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_SO2_img.jpg"/>
+</media>
+<para id="fs-idp103363168">The sulfur atom is surrounded by two bonds and one lone pair of electrons in either resonance structure. Therefore, the electron-pair geometry is trigonal planar, and the hybridization of the sulfur atom is <emphasis effect="italics">sp</emphasis><sup>2</sup>.</para>
+<para id="fs-idp41312960"><title>Check Your Learning</title>
+Another acid in acid rain is nitric acid, HNO<sub>3</sub>, which is produced by the reaction of nitrogen dioxide, NO<sub>2</sub>, with atmospheric water vapor. What is the hybridization of the nitrogen atom in NO<sub>2</sub>? (Note: the lone electron on nitrogen occupies a hybridized orbital just as a lone pair would.)</para>
+<note id="fs-idm1257648">
+<title>Answer:</title>
+<para id="fs-idp224648848"><emphasis effect="italics">sp</emphasis><sup>2</sup></para>
+</note>
+</example>
+<section id="fs-idp38327968" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp78398192">Multiple bonds consist of a σ bond located along the axis between two atoms and one or two π bonds. The σ bonds are usually formed by the overlap of hybridized atomic orbitals, while the π bonds are formed by the side-by-side overlap of unhybridized orbitals. Resonance occurs when there are multiple unhybridized orbitals with the appropriate alignment to overlap, so the placement of π bonds can vary.</para>
+</section>
+<section id="fs-idp19779216" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp80061792">
+<problem id="fs-idm17509584">
+<para id="fs-idp46472192">The bond energy of a C–C single bond averages 347 kJ mol<sup>−1</sup>; that of a <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> triple bond averages 839 kJ mol<sup>−1</sup>. Explain why the triple bond is not three times as strong as a single bond.</para>
+</problem>
+<solution id="fs-idp249598544">
+<para id="fs-idp112782976">A triple bond consists of one σ bond and two π bonds. A σ bond is stronger than a π bond due to greater overlap.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp200563984">
+<problem id="fs-idp112429456">
+<para id="fs-idp44411520">For the carbonate ion, <m:math><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mn>2−</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> draw all of the resonance structures. Identify which orbitals overlap to create each bond.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp37364832">
+<problem id="fs-idp47614000">
+<para id="fs-idp48359904">A useful solvent that will dissolve salts as well as organic compounds is the compound acetonitrile, H<sub>3</sub>CCN. It is present in paint strippers.</para>
+<para id="fs-idp75120144">(a) Write the Lewis structure for acetonitrile, and indicate the direction of the dipole moment in the molecule.</para>
+<para id="fs-idp146009072">(b) Identify the hybrid orbitals used by the carbon atoms in the molecule to form σ bonds.</para>
+<para id="fs-idp146093984">(c) Describe the atomic orbitals that form the π bonds in the molecule. Note that it is not necessary to hybridize the nitrogen atom.</para>
+</problem>
+<solution id="fs-idp146234848">
+<para id="fs-idp100065568">(a)<newline/>
+<media id="fs-idp73575216" alt="A Lewis structure is shown in which a carbon atom is attached by single bonds to three hydrogen atoms. It is also attached by a single bond to a carbon atom that is triple bonded to a nitrogen atom with one lone electron pair. Below the structure is a right facing arrow with its head near the nitrogen and its tail, which looks like a plus sign, located near the carbon atoms. The arrow is labeled, “dipole moment.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_Acetonitri_img.jpg"/>
+</media><newline/>
+(b) The terminal carbon atom uses <emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbitals, while the central carbon atom is <emphasis effect="italics">sp</emphasis> hybridized. (c) Each of the two π bonds is formed by overlap of a 2<emphasis effect="italics">p</emphasis> orbital on carbon and a nitrogen 2<emphasis effect="italics">p</emphasis> orbital.</para></solution>
+</exercise>
+<exercise id="fs-idm1022320">
+<problem id="fs-idp19757232">
+<para id="fs-idm15581520">For the molecule allene, <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> give the hybridization of each carbon atom. Will the hydrogen atoms be in the same plane or perpendicular planes?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm15473712">
+<problem id="fs-idp44503888">
+<para id="fs-idp36864432">Identify the hybridization of the central atom in each of the following molecules and ions that contain multiple bonds:</para>
+<para id="fs-idp105038896">(a) ClNO (N is the central atom)</para>
+<para id="fs-idp67673424">(b) CS<sub>2</sub></para>
+<para id="fs-idp113106080">(c) Cl<sub>2</sub>CO (C is the central atom)</para>
+<para id="fs-idp23214784">(d) Cl<sub>2</sub>SO (S is the central atom)</para>
+<para id="fs-idm10107008">(e) SO<sub>2</sub>F<sub>2</sub> (S is the central atom)</para>
+<para id="fs-idp75157792">(f) XeO<sub>2</sub>F<sub>2</sub> (Xe is the central atom)</para>
+<para id="fs-idp225274016">(g) <m:math><m:mrow><m:msub><m:mtext>ClOF</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math> (Cl is the central atom)</para>
+</problem>
+<solution id="fs-idp204564144">
+<para id="fs-idp37493536">(a) <emphasis effect="italics">sp</emphasis><sup>2</sup>; (b) <emphasis effect="italics">sp</emphasis>; (c) <emphasis effect="italics">sp</emphasis><sup>2</sup>; (d) <emphasis effect="italics">sp</emphasis><sup>3</sup>; (e) <emphasis effect="italics">sp</emphasis><sup>3</sup>; (f) <emphasis effect="italics">sp</emphasis><sup>3</sup><emphasis effect="italics">d</emphasis>; (g) <emphasis effect="italics">sp</emphasis><sup>3</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm16504096">
+<problem id="fs-idp145791168">
+<para id="fs-idp48603152">Describe the molecular geometry and hybridization of the N, P, or S atoms in each of the following compounds.</para>
+<para id="fs-idp224611632">(a) H<sub>3</sub>PO<sub>4</sub>, phosphoric acid, used in cola soft drinks</para>
+<para id="fs-idp78666752">(b) NH<sub>4</sub>NO<sub>3</sub>, ammonium nitrate, a fertilizer and explosive</para>
+<para id="fs-idp257337360">(c) S<sub>2</sub>Cl<sub>2</sub>, disulfur dichloride, used in vulcanizing rubber</para>
+<para id="fs-idp89217728">(d) K<sub>4</sub>[O<sub>3</sub>POPO<sub>3</sub>], potassium pyrophosphate, an ingredient in some toothpastes</para>
+</problem>
+</exercise>
+<exercise id="fs-idp118104208">
+<problem id="fs-idp87965872">
+<para id="fs-idp37679152">For each of the following molecules, indicate the hybridization requested and whether or not the electrons will be delocalized:</para>
+<para id="fs-idm9243232">(a) ozone (O<sub>3</sub>) central O hybridization</para>
+<para id="fs-idm7121456">(b) carbon dioxide (CO<sub>2</sub>) central C hybridization</para>
+<para id="fs-idp46475424">(c) nitrogen dioxide (NO<sub>2</sub>) central N hybridization</para>
+<para id="fs-idp24218096">(d) phosphate ion <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>PO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mn>3−</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math> central P hybridization</para>
+</problem>
+<solution id="fs-idp86136560">
+<para id="fs-idp257551776">(a) <emphasis effect="italics">sp</emphasis><sup>2</sup>, delocalized; (b) <emphasis effect="italics">sp</emphasis>, localized; (c) <emphasis effect="italics">sp</emphasis><sup>2</sup>, delocalized; (d) <emphasis effect="italics">sp</emphasis><sup>3</sup>, delocalized</para>
+</solution>
+</exercise>
+<exercise id="fs-idp140570640"><problem id="fs-idm3532128">
+<para id="fs-idp78053152">For each of the following structures, determine the hybridization requested and whether the electrons will be delocalized:</para>
+<para id="fs-idp208621408">(a) Hybridization of each carbon</para>
+<media id="fs-idm5983024" class="scaled-down-30" alt="A Lewis structure is shown in which a carbon atom is single bonded to three hydrogen atoms and a second carbon atom. This second carbon atom is, in turn, double bonded to an oxygen atom with two lone pairs of electrons. The second carbon atom is also single bonded to another carbon atom that is single bonded to three hydrogen atoms.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_HybridCarb_img.jpg"/>
+</media>
+<para id="fs-idp81536672">(b) Hybridization of sulfur</para>
+<media id="fs-idm13440432" class="scaled-down-30" alt="A Lewis structure is shown in which a sulfur atom with two lone pairs of electrons and a positive sign is double bonded to an oxygen with two lone pairs of electrons. The sulfur atom is also single bonded to an oxygen with three lone pairs of electrons with a negative sign. It is drawn in an angular shape.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_HybridSulf_img.jpg"/>
+</media>
+<para id="fs-idp40676640">(c) All atoms</para>
+<media id="fs-idp64002112" class="scaled-down-30" alt="A Lewis structure is shown in which a hexagonal ring structure is made up of five carbon atoms and one nitrogen atom with a lone pair of electrons. There are alternating double and single bonds in between each carbon atom. Each carbon atom is also single bonded to one hydrogen atom.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_HybridAll_img.jpg"/>
+</media>
+</problem>
+</exercise><exercise id="fs-idp47770992"><problem id="fs-idp34450048">
+<para id="fs-idp228409648">Draw the orbital diagram for carbon in CO<sub>2</sub> showing how many carbon atom electrons are in each orbital.</para>
+</problem>
+<solution id="fs-idp197400320">
+<media id="fs-idp20471104" alt="A diagram is shown in two parts, connected by a right facing arrow labeled, “Hybridization.” The left diagram shows an up-facing arrow labeled, “E.” To the lower right of the arrow is a short, horizontal line labeled, “2 s,” that has two vertical half-arrows facing up and down on it. To the upper right of the arrow are a series of three short, horizontal lines labeled, “2 p.” Above both sets of lines is the phrase, “Orbitals in an isolated C atom.” There are two upward facing arrows on two of these lines. The right side of the diagram shows two short, horizontal lines placed halfway up the space and each labeled, “s p.” An upward-facing half arrow is drawn vertically on each line. Above these lines are two other short, horizontal lines, each labeled, “2 p,” and which have two upward facing arrows on them. Above both sets of lines is the phrase, “Orbitals in the s p hybridized C in C O subscript 2.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_02_CO2Diag.jpg"/>
+</media>
+<para id="fs-idp72644016">Each of the four electrons is in a separate orbital and overlaps with an electron on an oxygen atom.</para></solution>
+</exercise></section>
+   </content>
+</document>

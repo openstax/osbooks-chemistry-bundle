@@ -1,0 +1,379 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Batteries and Fuel Cells</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68825</md:content-id>
+  <md:title>Batteries and Fuel Cells</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the electrochemistry associated with several common batteries</item>
+<item>Distinguish the operation of a fuel cell from that of a battery</item>
+</list></md:abstract>
+  <md:uuid>7c891b2b-af9e-411f-af9c-f6cc43c9ca1b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp5014576">There are many technological products associated with the past two centuries of electrochemistry research, none more immediately obvious than the battery. A <term>battery</term> is a galvanic cell that has been specially designed and constructed in a way that best suits its intended use a source of electrical power for specific applications. Among the first successful batteries was the <emphasis effect="italics">Daniell cell</emphasis>, which relied on the spontaneous oxidation of zinc by copper(II) ions (<link target-id="CNX_Chem_17_08_Daniell"/>):</para>
+<equation class="unnumbered" id="fs-idm385208672"><m:math><m:mrow><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⟶</m:mo><m:msup><m:mrow><m:mtext>Zn</m:mtext></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<figure id="CNX_Chem_17_08_Daniell">
+<media id="fs-idm353407280" alt="This figure contains a patent drawing for an electrochemical cell on the left labelled Element Daniell and a diagram of an electrochemical cell on the right. In the diagram, two beakers are shown. Each is just over half full. The beaker on the left contains a blue solution. The beaker on the right contains a colorless solution. A glass tube in the shape of an inverted U connects the two beakers at the center of the diagram. The tube contents are colorless. The ends of the tubes are beneath the surface of the solutions in the beakers and a small grey plug is present at each end of the tube. The plug in the left beaker is labeled “Porous plug.” Each beaker shows a metal strip partially submerged in the liquid. The beaker on the left has a silver strip that is labeled “Z n anode” at the top. The beaker on the right has an orange brown strip that is labeled “C u cathode” at the top.  A wire extends up and toward the center from the top of each of these strips before stopping. The end of the left wire points up to a negative sign. The end of the right wire points up to a positive sign. An arrow points toward the left wire which is labeled “Flow of e superscript negative.” A curved arrow extends from the Z n strip into the surrounding solution. The tip of this arrow is labeled “Z n superscript 2 plus.” A curved arrow extends from the salt bridge into the beaker on the left into the blue solution. The tip of this arrow is labeled “S O subscript 4 superscript 2 negative.” A curved arrow extends from the solution in the beaker on the right to the C u strip. The base of this arrow is labeled “C u superscript 2 plus.” A curved arrow extends from the colorless solution to salt bridge in the beaker on the right. The base of this arrow is labeled “S O subscript 4 superscript 2 negative.” Just right of the center of the salt bridge on the tube an arrow is placed on the salt bridge that points down and to the right. The base of this arrow is labeled “Z n superscript 2 plus.” Just above this region of the tube appears the label “Flow of cations.” Just left of the center of the salt bridge on the tube an arrow is placed on the salt bridge that points down and to the left. The base of this arrow is labeled “S O subscript 4 superscript 2 negative.” Just above this region of the tube appears the label “Flow of anions.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_08_Daniell.jpg"/>
+</media>
+<caption>Illustration of a Daniell cell taken from a 1904 journal publication (left) along with a simplified illustration depicting the electrochemistry of the cell (right). The 1904 design used a porous clay pot to both contain one of the half-cell’s content and to serve as a salt bridge to the other half-cell.</caption>
+</figure>
+<para id="fs-idm383968784">Modern batteries exist in a multitude of forms to accommodate various applications, from tiny button batteries that provide the modest power needs of a wristwatch to the very large batteries used to supply backup energy to municipal power grids. Some batteries are designed for single-use applications and cannot be recharged (<term>primary cells</term>), while others are based on conveniently reversible cell reactions that allow recharging by an external power source (<term>secondary cells</term>). This section will provide a summary of the basic electrochemical aspects of several batteries familiar to most consumers, and will introduce a related electrochemical device called a <emphasis effect="italics">fuel cell</emphasis> that can offer improved performance in certain applications.</para>
+<note id="fs-idm46594944" class="chemistry link-to-learning">
+<para id="fs-idm30434512">Visit this <link url="http://openstax.org/l/16batteries">site</link> to learn more about batteries.</para>
+</note>
+<section id="fs-idm217316496">
+<title>Single-Use Batteries</title>
+<para id="fs-idm163218640">A common primary battery is the <term>dry cell</term>, which uses a zinc can as both container and anode (“–” terminal) and a graphite rod as the cathode (“+” terminal). The Zn can is filled with an electrolyte paste containing manganese(IV) oxide, zinc(II) chloride, ammonium chloride, and water. A graphite rod is immersed in the electrolyte paste to complete the cell. The spontaneous cell reaction involves the oxidation of zinc:</para>
+<equation class="unnumbered" id="fs-idm50961664"><m:math><m:mrow><m:mtext>anode reaction:</m:mtext><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Zn</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>e</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm136908960">and the reduction of manganese(IV)</para>
+<equation class="unnumbered" id="fs-idm216376416"><m:math><m:mrow><m:mtext>reduction reaction:</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Mn</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm327011760">which together yield the cell reaction:</para>
+<equation class="unnumbered" id="fs-idm375659600"><m:math><m:mrow><m:mtext>cell reaction:</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Zn</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Mn</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:msub><m:mi>E</m:mi><m:mtext>cell</m:mtext></m:msub><m:mo>~</m:mo><m:mn>1.5</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm63164944">The voltage (<emphasis effect="italics">cell potential</emphasis>) of a dry cell is approximately 1.5 V. Dry cells are available in various sizes (e.g., D, C, AA, AAA). All sizes of dry cells comprise the same components, and so they exhibit the same voltage, but larger cells contain greater amounts of the redox reactants and therefore are capable of transferring correspondingly greater amounts of charge. Like other galvanic cells, dry cells may be connected in series to yield batteries with greater voltage outputs, if needed.</para>
+<figure id="CNX_Chem_17_05_DryCell" class="scaled-down">
+<media id="fs-idm110257344" alt="A diagram of a cross section of a dry cell battery is shown. The overall shape of the cell is cylindrical. The lateral surface of the cylinder, indicated as a thin red line, is labeled “zinc can (electrode).” Just beneath this is a slightly thicker dark grey surface that covers the lateral surface, top, and bottom of the battery, which is labeled “Porous separator.” Inside is a purple region with many evenly spaced small darker purple dots, labeled “Paste of M n O subscript 2, N H subscript 4 C l, Z n C l subscript 2, water (cathode).” A dark grey rod, labeled “Carbon rod (electrode),” extends from the top of the battery, leaving a gap of less than one-fifth the height of the battery below the rod to the bottom of the cylinder. A thin grey line segment at the very bottom of the cylinder is labeled “Metal bottom cover (negative).” The very top of the cylinder has a thin grey surface that curves upward at the center over the top of the carbon electrode at the center of the cylinder. This upper surface is labeled “Metal top cover (positive).” A thin dark grey line just below this surface is labeled “Insulator.” Below this, above the purple region, and outside of the carbon electrode at the center is an orange region that is labeled “Seal.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_05_DryCell.jpg"/>
+</media>
+<caption>A schematic diagram shows a typical dry cell.</caption>
+</figure>
+<note id="fs-idm43757664" class="chemistry link-to-learning">
+<para id="fs-idm25425376">Visit this <link url="http://openstax.org/l/16zinccarbon">site</link> to learn more about zinc-carbon batteries.</para>
+</note>
+<para id="fs-idm98547376"><term>Alkaline batteries</term> (<link target-id="CNX_Chem_17_05_AlkalineBat"/>) were developed in the 1950s to improve on the performance of the dry cell, and they were designed around the same redox couples. As their name suggests, these types of batteries use alkaline electrolytes, often potassium hydroxide. The reactions are</para>
+<equation class="unnumbered" id="fs-idp18271040"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:munder accentunder="true"><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>anode:</m:mtext><m:mspace width="4.5em"/><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>OH</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>ZnO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="9.5em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>cathode:</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>MnO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>Mn</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>2OH</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="9.5em"/></m:mtd></m:mtr></m:mtable><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>cell:</m:mtext><m:mspace width="5.7em"/><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>2MnO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>ZnO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>Mn</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="4em"/><m:msub><m:mi>E</m:mi><m:mrow><m:mtext>cell</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>+1.43 V</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm111516816">An alkaline battery can deliver about three to five times the energy of a zinc-carbon dry cell of similar size. Alkaline batteries are prone to leaking potassium hydroxide, so they should be removed from devices for long-term storage. While some alkaline batteries are rechargeable, most are not. Attempts to recharge an alkaline battery that is not rechargeable often leads to rupture of the battery and leakage of the potassium hydroxide electrolyte.</para>
+<figure id="CNX_Chem_17_05_AlkalineBat" class="scaled-down">
+<media id="fs-idm185949872" alt="A diagram of a cross section of an alkaline battery is shown. The overall shape of the cell is cylindrical. The lateral surface of the cylinder, indicated as a thin red line, is labeled “Outer casing.” Just beneath this is a thin, light grey surface that covers the lateral surface and top of the battery. Inside is a blue region with many evenly spaced small darker dots, labeled “M n O subscript 2 (cathode).” A thin dark grey layer is just inside, which is labeled “Ion conducting separator.” A purple region with many evenly spaced small darker dots fills the center of the battery and is labeled “ zinc (anode).” The very top of the battery has a thin grey curved surface over the central purple region. The curved surface above is labeled “Positive connection (plus).” At the base of the battery, an orange structure, labeled “Protective cap,” is located beneath the purple and blue central regions. This structure holds a grey structure that looks like a nail with its head at the bottom and pointed end extending upward into the center of the battery. This nail-like structure is labeled “Current pick up.” At the very bottom of the battery is a thin grey surface that is held by the protective cap. This surface is labeled “Negative terminal (negative).”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_05_AlkalineBat.jpg"/>
+</media>
+<caption>Alkaline batteries were designed as improved replacements for zinc-carbon (dry cell) batteries.</caption>
+</figure>
+<note id="fs-idm12771616" class="chemistry link-to-learning">
+<para id="fs-idm133981376">Visit this <link url="http://openstax.org/l/16alkaline">site</link> to learn more about alkaline batteries.</para>
+</note>
+</section>
+<section id="fs-idm185701824">
+<title>Rechargeable (Secondary) Batteries</title>
+<para id="fs-idm118882144"><term>Nickel-cadmium</term>, or NiCd, batteries (<link target-id="CNX_Chem_17_05_NiCd"/>) consist of a nickel-plated cathode, cadmium-plated anode, and a potassium hydroxide electrode. The positive and negative plates, which are prevented from shorting by the separator, are rolled together and put into the case. This is a “jelly-roll” design and allows the NiCd cell to deliver much more current than a similar-sized alkaline battery. The reactions are</para>
+<equation class="unnumbered" id="fs-idm129640416"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:munder accentunder="true"><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>anode:</m:mtext><m:mspace width="4.35em"/><m:mtext>Cd</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>2OH</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>Cd(OH)</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mtext>−</m:mtext></m:msup></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>cathode:</m:mtext><m:mspace width="0.28em"/><m:msub><m:mtext>NiO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>2H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>Ni(OH)</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>2OH</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="9.5em"/></m:mtd></m:mtr></m:mtable><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>cell:</m:mtext><m:mspace width="1.5em"/><m:mtext>Cd</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>NiO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>2H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>Cd(OH)</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>Ni(OH)</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="4em"/><m:msub><m:mi>E</m:mi><m:mtext>cell</m:mtext></m:msub><m:mo>~</m:mo><m:mn>1.2</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm162639552">When properly treated, a NiCd battery can be recharged about 1000 times. Cadmium is a toxic heavy metal so NiCd batteries should never be ruptured or incinerated, and they should be disposed of in accordance with relevant toxic waste guidelines.</para>
+<figure id="CNX_Chem_17_05_NiCd">
+<media id="fs-idm53549888" alt="A diagram is shown of a cross section of a nickel cadmium battery. This battery is in a cylindrical shape. An outer red layer is labeled “case.” Just inside this layer is a thin, dark grey layer which is labeled at the bottom of the cylinder as “Negative electrode collector.” A silver rod extends upward through the center of the battery, which is surrounded by alternating layers, shown as vertical repeating bands, of yellow, purple, yellow, and blue. A slightly darker grey narrow band extends across the top of these alternating bands, which is labeled “Positive electrode collector.” A thin light grey band appears at the very bottom of the cylinder, which is labeled “Metal bottom cover (negative).” A small grey and white striped rectangular structure is present at the top of the central silver cylinder, which is labeled “Safety valve.” Above this is an orange layer that curves upward over the safety valve, which is labeled “Insulation ring.” Above this is a thin light grey layer that projects upward slightly at the center, which is labeled “Metal top cover (plus).” A light grey arrow points to a rectangle to the right that illustrates the layers at the center of the battery under magnification. From the central silver rod, the layers shown repeat the alternating pattern yellow, blue, yellow, and purple three times, with a final yellow layer covering the last purple layer. The outermost purple layer is labeled “Negative electrode.” The yellow layer beneath it is labeled “Separator.” The blue layer just inside is labeled “Positive electrode.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_05_NiCd.jpg"/>
+</media>
+<caption>NiCd batteries use a “jelly-roll” design that significantly increases the amount of current the battery can deliver as compared to a similar-sized alkaline battery.</caption>
+</figure>
+<note id="fs-idm146941616" class="chemistry link-to-learning">
+<para id="fs-idm61052736">Visit this <link url="http://openstax.org/l/16NiCdrecharge">site</link> for more information about nickel cadmium rechargeable batteries.</para>
+</note>
+<para id="fs-idm181217728"><term>Lithium ion batteries</term> (<link target-id="CNX_Chem_17_05_LiIon"/>) are among the most popular rechargeable batteries and are used in many portable electronic devices. The reactions are</para>
+<equation class="unnumbered" id="fs-idm209213600"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:munder accentunder="true"><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>anode:</m:mtext><m:mspace width="5.65em"/><m:msub><m:mtext>LiCoO</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>Li</m:mtext><m:mrow><m:mn>1</m:mn><m:mtext>−</m:mtext><m:mi>x</m:mi></m:mrow></m:msub><m:msub><m:mtext>CoO</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>x</m:mi><m:mspace width="0.2em"/><m:msup><m:mtext>Li</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:mi>x</m:mi><m:mspace width="0.2em"/><m:msup><m:mtext>e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="8em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>cathode:</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mspace width="0.2em"/><m:msup><m:mtext>Li</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:mi>x</m:mi><m:mspace width="0.2em"/><m:msup><m:mtext>e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo>+</m:mo><m:mi>x</m:mi><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mspace width="0.2em"/><m:msub><m:mtext>LiC</m:mtext><m:mn>6</m:mn></m:msub></m:mtd></m:mtr></m:mtable><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>cell:</m:mtext><m:mspace width="3.8em"/><m:msub><m:mtext>LiCoO</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>x</m:mi><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>Li</m:mtext><m:mrow><m:mn>1</m:mn><m:mtext>−</m:mtext><m:mi>x</m:mi></m:mrow></m:msub><m:msub><m:mtext>CoO</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>x</m:mi><m:mspace width="0.2em"/><m:msub><m:mtext>LiC</m:mtext><m:mn>6</m:mn></m:msub><m:mspace width="4em"/><m:msub><m:mi>E</m:mi><m:mtext>cell</m:mtext></m:msub><m:mo>~</m:mo><m:mn>3.7</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm162456704">The variable stoichiometry of the cell reaction leads to variation in cell voltages, but for typical conditions, <emphasis effect="italics">x</emphasis> is usually no more than 0.5 and the cell voltage is approximately 3.7 V. Lithium batteries are popular because they can provide a large amount current, are lighter than comparable batteries of other types, produce a nearly constant voltage as they discharge, and only slowly lose their charge when stored.</para>
+<figure id="CNX_Chem_17_05_LiIon">
+<media id="fs-idm137917328" alt="This figure shows a model of the flow of charge in a lithium ion battery. At the left, an approximately cubic structure formed by alternating red, grey, and purple spheres is labeled below as “Positive electrode.” The purple spheres are identified by the label “lithium.” The grey spheres are identified by the label “Metal.” The red spheres are identified by the label “oxygen.” Above this structure is the label “Charge” followed by a right pointing green arrow. At the right is a figure with layers of black interconnected spheres with purple spheres located in gaps between the layers. The black layers are labeled “Graphite layers.” Below the purple and black structure is the label “Negative electrode.” Above is the label “Discharge,” which is preceded by a blue arrow which points left. At the center of the diagram between the two structures are six purple spheres which are each labeled with a plus symbol. Three curved green arrows extend from the red, purple, and grey structure to each of the three closest purple plus labeled spheres. Green curved arrows extend from the right side of the upper and lower of these three purple plus labeled spheres to the black and purple layered structure. Three blue arrows extend from the purple and black layered structure to the remaining three purple plus labeled spheres at the center of the diagram. The base of each arrow has a circle formed by a dashed curved line in the layered structure. The lowest of the three purple plus marked spheres reached by the blue arrows has a second blue arrow extending from its left side which points to a purple sphere in the purple, green, and grey structure.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_05_LiIon.jpg"/>
+</media>
+<caption>In a lithium ion battery, charge flows as the lithium ions are transferred between the anode and cathode.</caption>
+</figure>
+<note id="fs-idm109562352" class="chemistry link-to-learning">
+<para id="fs-idm171820144">Visit this <link url="http://openstax.org/l/16lithiumion">site</link> for more information about lithium ion batteries.</para>
+</note>
+<para id="fs-idm117231856">The <term>lead acid battery</term> (<link target-id="CNX_Chem_17_05_Lead"/>) is the type of secondary battery commonly used in automobiles. It is inexpensive and capable of producing the high current required by automobile starter motors. The reactions for a lead acid battery are</para>
+<equation class="unnumbered" id="fs-idm207953136"><m:math>
+<m:mtable columnalign="left">
+<m:mtr>
+<m:mtd>
+<m:munder accentunder="true">
+<m:mtable columnalign="left">
+<m:mtr>
+<m:mtd>
+<m:mtext>anode:</m:mtext>
+<m:mspace width="9.6em"/>
+<m:mtext>Pb</m:mtext>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>s</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mtext>HSO</m:mtext>
+<m:mn>4</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mtext>−</m:mtext>
+</m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mspace width="0.2em"/>
+<m:mo stretchy="false">⟶</m:mo>
+<m:mspace width="0.2em"/>
+<m:msub>
+<m:mtext>PbSO</m:mtext>
+<m:mn>4</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>s</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mtext>H</m:mtext>
+<m:mtext>+</m:mtext>
+</m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mtext>2e</m:mtext>
+<m:mtext>−</m:mtext>
+</m:msup>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:msub>
+<m:mtext>cathode: PbO</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>s</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mtext>HSO</m:mtext>
+<m:mn>4</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mtext>−</m:mtext>
+</m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mtext>3H</m:mtext>
+<m:mtext>+</m:mtext>
+</m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mtext>2e</m:mtext>
+<m:mtext>−</m:mtext>
+</m:msup>
+<m:mspace width="0.2em"/>
+<m:mo stretchy="false">⟶</m:mo>
+<m:mspace width="0.2em"/>
+<m:msub>
+<m:mtext>PbSO</m:mtext>
+<m:mn>4</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>s</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>O</m:mtext>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>l</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mspace width="9em"/>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo stretchy="true">¯</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mtext>cell:</m:mtext>
+<m:mspace width="5.93em"/>
+<m:mtext>Pb</m:mtext>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>s</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mtext>PbO</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>s</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:msub>
+<m:mtext>SO</m:mtext>
+<m:mn>4</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mspace width="0.2em"/>
+<m:mo stretchy="false">⟶</m:mo>
+<m:mspace width="0.2em"/>
+<m:msub>
+<m:mtext>2PbSO</m:mtext>
+<m:mn>4</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>s</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>O</m:mtext>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>l</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mspace width="4em"/>
+<m:msub>
+<m:mi>E</m:mi>
+<m:mtext>cell</m:mtext>
+</m:msub>
+<m:mo>~</m:mo>
+<m:mn>2</m:mn>
+<m:mspace width="0.2em"/>
+<m:mtext>V</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></equation>
+<para id="fs-idm180989456">Each cell produces 2 V, so six cells are connected in series to produce a 12-V car battery. Lead acid batteries are heavy and contain a caustic liquid electrolyte, H<sub>2</sub>SO<sub>4</sub>(<emphasis effect="italics">aq</emphasis>), but are often still the battery of choice because of their high current density. Since these batteries contain a significant amount of lead, they must always be disposed of properly.</para>
+<figure id="CNX_Chem_17_05_Lead" class="scaled-down">
+<media id="fs-idm201055472" alt="A diagram of a lead acid battery is shown. A black outer casing, which is labeled “Protective casing” is in the form of a rectangular prism. Grey cylindrical projections extend upward from the upper surface of the battery in the back left and back right corners. At the back right corner, the projection is labeled “Positive terminal.” At the back right corner, the projection is labeled “Negative terminal.” The bottom layer of the battery diagram is a dark green color, which is labeled “Dilute H subscript 2 S O subscript 4.” A blue outer covering extends upward from this region near the top of the battery. Inside, alternating grey and white vertical “sheets” are packed together in repeating units within the battery. The battery has the sides cut away to show three of these repeating units which are separated by black vertical dividers, which are labeled as “cell dividers.” The grey layers in the repeating units are labeled “Negative electrode (lead).” The white layers are labeled “Postive electrode (lead dioxide).”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_05_Lead.jpg"/>
+</media>
+<caption>The lead acid battery in your automobile consists of six cells connected in series to give 12 V.</caption>
+</figure>
+<note id="fs-idp23883904" class="chemistry link-to-learning">
+<para id="fs-idm46497360">Visit this <link url="http://openstax.org/l/16leadacid">site</link> for more information about lead acid batteries.</para>
+</note>
+</section>
+<section id="fs-idm192053584">
+<title>Fuel Cells</title>
+<para id="fs-idm1074400">A <term>fuel cell</term> is a galvanic cell that uses traditional combustive fuels, most often hydrogen or methane, that are continuously fed into the cell along with an oxidant. (An alternative, but not very popular, name for a fuel cell is a <emphasis effect="italics">flow battery</emphasis>.) Within the cell, fuel and oxidant undergo the same redox chemistry as when they are combusted, but via a catalyzed electrochemical that is significantly more efficient. For example, a typical hydrogen fuel cell uses graphite electrodes embedded with platinum-based catalysts to accelerate the two half-cell reactions:</para>
+<figure id="CNX_Chem_17_05_FuelCell">
+<media id="fs-idm127439648" alt="A diagram is shown of a hydrogen fuel cell. At the center is a vertical rectangle which is shaded dark gray and labeled “Electrolyte.” This region has two labels for H superscript plus in it. To the right and left are narrow vertical rectangles shaded light gray. The one to the right is labeled “Cathode” and the one to the left is labeled “Anode.” To the left of the left-most light gray region is a white region shaped like a closed left bracket. A yellow arrow points in to the white region with the label to show “Fuel In.” In the middle of the white area are two yellow arrows pointing toward the gray shading labeled “H subscript 2.” At the bottom of the white region is a yellow arrow pointing out that is labeled “Excess Fuel.” On the right side is another white region that makes a right closed bracket shape. There are two arrows with the label “Air In” and “H subscript 2 O” in the upper left side of this area pointing in. One arrow is light blue and one is dark blue. In the middle to the white area is a light blue arrow pointing toward the gray shading. The arrow is labeled “O subscript 2.” Below that are two dark blue arrows pointing out from the gray shading to the white area labeled “H subscript 2 O.” At the bottom of the white region are the light blue arrow for O subscript 2 and the dark blue arrow for H subscript 2 O pointing out. This is labeled “Unused Gases Out.” Black line segments extend upward from the light gray shaded regions. These line segments are connected by a horizontal segment that has a curly shape in a circle at the center. This shape is labeled “Electric Current.” In the left light gray shaded region above the yellow arrows is a red arrow pointing up, the label e superscript minus above it, and then another red arrow. The black line segment above this area also has the label e superscript minus. Where the line turns right to connect to the Electric Current shape is a right-facing red arrow. On the other side of the shape where the line turns downward to connect to the other light gray shaded region is a red downward-facing arrow. Below that arrow in the light gray region is the label e superscript minus, followed by a red down arrow, followed by another e superscript minus label that stops before the light blue arrow pointing in to the shaded area.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_05_FuelCell.jpg"/>
+</media>
+<caption>In this hydrogen fuel cell, oxygen from the air reacts with hydrogen, producing water and electricity.</caption>
+</figure>
+<equation class="unnumbered" id="fs-idp50493600"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr><m:mtd><m:munder accentunder="true"><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>Anode:</m:mtext><m:mspace width="6em"/><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>4e</m:mtext><m:mtext>−</m:mtext></m:msup></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Cathode:</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>4e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>2H</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="8em"/></m:mtd></m:mtr></m:mtable><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Cell:</m:mtext><m:mspace width="3.5em"/><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="4em"/><m:msub><m:mi>E</m:mi><m:mtext>cell</m:mtext></m:msub><m:mo>~</m:mo><m:mn>1.2</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm8272528">These types of fuel cells generally produce voltages of approximately 1.2 V. Compared to an internal combustion engine, the energy efficiency of a fuel cell using the same redox reaction is typically more than double (~20%–25% for an engine versus ~50%–75% for a fuel cell). Hydrogen fuel cells are commonly used on extended space missions, and prototypes for personal vehicles have been developed, though the technology remains relatively immature.</para>
+<note id="fs-idm62934704" class="chemistry link-to-learning">
+<para id="fs-idm178116384">Check out this <link url="http://openstax.org/l/16fuelcells">link</link> to learn more about fuel cells.</para>
+</note>
+</section>
+<section id="fs-idm12033136" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp25116816">Galvanic cells designed specifically to function as electrical power supplies are called batteries. A variety of both single-use batteries (primary cells) and rechargeable batteries (secondary cells) are commercially available to serve a variety of applications, with important specifications including voltage, size, and lifetime. Fuel cells, sometimes called flow batteries, are devices that harness the energy of spontaneous redox reactions normally associated with combustion processes. Like batteries, fuel cells enable the reaction’s electron transfer via an external circuit, but they require continuous input of the redox reactants (fuel and oxidant) from an external reservoir. Fuel cells are typically much more efficient in converting the energy released by the reaction to useful work in comparison to internal combustion engines.</para>
+</section>
+<section id="fs-idm44558592" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idm149853488">
+<problem id="fs-idm216247104">
+<para id="fs-idm100216656">Consider a battery made from one half-cell that consists of a copper electrode in 1 <emphasis effect="italics">M</emphasis> CuSO<sub>4</sub> solution and another half-cell that consists of a lead electrode in 1 <emphasis effect="italics">M</emphasis> Pb(NO<sub>3</sub>)<sub>2</sub> solution.</para>
+<para id="fs-idm174664256">(a) What is the standard cell potential for the battery?</para>
+<para id="fs-idm112393424">(b) What are the reactions at the anode, cathode, and the overall reaction?</para>
+<para id="fs-idm68398272">(c) Most devices designed to use dry-cell batteries can operate between 1.0 and 1.5 V. Could this cell be used to make a battery that could replace a dry-cell battery? Why or why not.</para>
+<para id="fs-idm30769808">(d) Suppose sulfuric acid is added to the half-cell with the lead electrode and some PbSO<sub>4</sub>(<emphasis effect="italics">s</emphasis>) forms. Would the cell potential increase, decrease, or remain the same?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm100291296">
+<problem id="fs-idm170914480">
+<para id="fs-idm273297920">Consider a battery with the overall reaction: <m:math><m:mrow><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2Ag</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idm49639712">(a) What is the reaction at the anode and cathode?</para>
+<para id="fs-idm211133184">(b) A battery is “dead” when its cell potential is zero. What is the value of <emphasis effect="italics">Q</emphasis> when this battery is dead?</para>
+<para id="fs-idm137339136">(c) If a particular dead battery was found to have [Cu<sup>2+</sup>] = 0.11 <emphasis effect="italics">M</emphasis>, what was the concentration of silver ion?</para>
+</problem>
+<solution id="fs-idm99031616">
+<para id="fs-idm181365776">(a) <m:math>
+<m:mtable columnalign="left"><m:mtr/><m:mtr><m:mtd><m:mtext>anode: Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>Cu</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="4em"/><m:msubsup><m:mi>E</m:mi><m:mrow><m:mtext>anode</m:mtext></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>0.34 V</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>cathode:</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mspace width="0.3em"/><m:mo>×</m:mo><m:mspace width="0.3em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mtext>−</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="4em"/><m:msubsup><m:mi>E</m:mi><m:mrow><m:mtext>cathode</m:mtext></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>0.7996 V</m:mtext></m:mtd></m:mtr></m:mtable><m:mo>;</m:mo></m:math> (b) 3.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>15</sup>; (c) 5.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup> <emphasis effect="italics">M</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idm59169968">
+<problem id="fs-idm198512256">
+<para id="fs-idm205205056">Why do batteries go dead, but fuel cells do not?</para>
+</problem>
+<solution id="fs-idm206224368">
+<para id="fs-idm157115872">Batteries are self-contained and have a limited supply of reagents to expend before going dead. Alternatively, battery reaction byproducts accumulate and interfere with the reaction. Because a fuel cell is constantly resupplied with reactants and products are expelled, it can continue to function as long as reagents are supplied.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp39083136">
+<problem id="fs-idm265885616">
+<para id="fs-idm171961040">Use the Nernst equation to explain the drop in voltage observed for some batteries as they discharge.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm192431088">
+<problem id="fs-idm157418320">
+<para id="fs-idm144130976">Using the information thus far in this chapter, explain why battery-powered electronics perform poorly in low temperatures.</para>
+</problem>
+<solution id="fs-idp17014976">
+<para id="fs-idm171425232"><emphasis effect="italics">E</emphasis><sub>cell</sub>, as described in the Nernst equation, has a term that is directly proportional to temperature. At low temperatures, this term is decreased, resulting in a lower cell voltage provided by the battery to the device—the same effect as a battery running dead.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm210620784">
+<term>alkaline battery</term>
+<meaning id="fs-idm231546224">primary battery similar to a <emphasis effect="italics">dry cell</emphasis> that uses an alkaline (often potassium hydroxide) electrolyte; designed to be an improved replacement for the dry cell, but with more energy storage and less electrolyte leakage than typical dry cell</meaning>
+</definition>
+<definition id="fs-idm170712416">
+<term>battery</term>
+<meaning id="fs-idm186020752">single or series of galvanic cells designed for use as a source of electrical power</meaning>
+</definition>
+<definition id="fs-idm175851472">
+<term>dry cell</term>
+<meaning id="fs-idm135901472">primary battery, also called a zinc-carbon battery, based on the spontaneous oxidation of zinc by manganese(IV)</meaning>
+</definition>
+<definition id="fs-idm127587472">
+<term>fuel cell</term>
+<meaning id="fs-idm162905904">devices similar to galvanic cells that require a continuous feed of redox reactants; also called a <emphasis effect="italics">flow battery</emphasis></meaning>
+</definition>
+<definition id="fs-idm106622864">
+<term>lead acid battery</term>
+<meaning id="fs-idm234055088">rechargeable battery commonly used in automobiles; it typically comprises six galvanic cells based on Pb half-reactions in acidic solution</meaning>
+</definition>
+<definition id="fs-idm118911936">
+<term>lithium ion battery</term>
+<meaning id="fs-idm383232">widely used rechargeable battery commonly used in portable electronic devices, based on lithium ion transfer between the anode and cathode</meaning>
+</definition>
+<definition id="fs-idm206318304">
+<term>nickel-cadmium battery</term>
+<meaning id="fs-idm207831680">rechargeable battery based on Ni/Cd half-cells with applications similar to those of lithium ion batteries</meaning>
+</definition>
+<definition id="fs-idm278014928">
+<term>primary cell</term>
+<meaning id="fs-idm129919456">nonrechargeable battery, suitable for single use only</meaning>
+</definition>
+<definition id="fs-idp55952432">
+<term>secondary cell</term>
+<meaning id="fs-idm54705360">battery designed to allow recharging</meaning>
+</definition>
+</glossary>
+</document>

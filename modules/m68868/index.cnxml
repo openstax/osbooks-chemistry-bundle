@@ -1,0 +1,481 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+   <title>Solubility Products</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68868</md:content-id>
+  <md:title>Solubility Products</md:title>
+  <md:abstract/>
+  <md:uuid>de95d7fb-f6c6-49e0-91b7-cefe0ccbb151</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table class="top-titled" id="fs-idm454814336" summary="A table with 61 rows is titled “Solubility Products.” The first row contains four columns, with the title “Substance” in the left column and the text ”K subscript s p at 25 degrees Celsius in the left-middle column. That title and text are repeated in the right-middle column and the right column, respectively. The remaining rows contain the solubility products for various substances. For A l ( O H ) subscript 3, an aluminum substance, the solubility product is 2 times 10 superscript 32. For B a C O subscript 3, a barium substance, the solubility product is 1.6 times 10 superscript negative 9. For B a C subscript 2 O subscript 4 dot 2 H subscript 2 O, a barium substance, the solubility product is 1.1 times 10 superscript negative 7. For B a S O subscript 4, a barium substance, the solubility product is 2.3 times 10 superscript negative 8. For B a C r O subscript 4, a barium substance, the solubility product is 8.5 times 10 superscript negative 11. For B a F subscript 2, a barium substance, the solubility product is 2.4 times 10 superscript negative 5. For B a ( O H ) subscript 2 dot 8 H subscript 2 O, a barium substance, the solubility product is 5.0 X times 10 superscript negative 3. For B a subscript 3 ( P O subscript 4 ) subscript 2, a barium substance, the solubility product is 6 times 10 superscript negative 39. For B a subscript 3 ( A s O subscript 4 ) subscript 2, a barium substance, the solubility product is 1.1 times 10 superscript negative 13. For B i O ( O H ), a bismuth substance, the solubility product is 4 times 10 superscript negative 10. For B i O C l, a bismuth substance, the solubility product is 1.8 times 10 superscript negative 31. For B i superscript 2 S superscript 3, a bismuth substance, the solubility product is 1 times 10 superscript negative 97. For C d ( O H ) subscript 2, a cadmium substance, the solubility product is 5.9 times 10 superscript negative 15. For C d S, a cadmium substance, the solubility product is 1.0 times 10 superscript negative 28. For C d C O subscript 3, a cadmium substance, the solubility product is 5.2 times 10 superscript negative 12. For C a ( O H ) subscript 2, a calcium substance, the solubility product is 1.3 times 10 superscript negative 6. For C a C O subscript 3, a calcium substance, the solubility product is 8.7 times 10 superscript negative 9. For C a S O 4 dot 2 H subscript 2 O, a calcium substance, the solubility product is 6.1 times 10 superscript negative 5. For C a C subscript 2 O subscript 4 times H subscript 2 O, a calcium substance, the solubility product is 1.96 times 10 superscript negative 8. For C a subscript 3 ( P O subscript 4 ) subscript 2, a calcium substance, the solubility product is 1.3 times 10 superscript negative 32. For C a H P O subscript 4, a calcium substance, the solubility product is 7 times 10 superscript negative 7. For C a F subscript 2, a calcium substance, the solubility product is 4.0 times 10 superscript negative 11. For C r ( O H ) subscript 3, a chromium substance, the solubility product is 6.7 times 10 superscript negative 31. For C o ( O H ) subscript 2, a cobalt substance, the solubility product is 2.5 times 10 superscript negative 16. For C o S ( alpha ), a cobalt substance, the solubility product is 5 times 10 superscript negative 22. For C o S ( beta ), a cobalt substance, the solubility product is 3 times 10 superscript negative 26. For C o C O subscript 3, a cobalt substance, the solubility product is 1.4 times 10 superscript negative 13. For C o ( O H ) subscript 3, a cobalt substance, the solubility product is 2.5 times 10 superscript negative 43. For C u C l, a copper substance, the solubility product is 1.2 times 10 superscript negative 6. For C u B r, a copper substance, the solubility product is 6.27 times 10 superscript negative 9. For C u l, a copper substance, the solubility product is 1.27 times 10 superscript negative 12. For C u S C N, a copper substance, the solubility product is 1.6 times 10 superscript negative 11. For C u subscript 2 S, a copper substance, the solubility product is 2.5 times 10 superscript negative 48. For C u ( O H ) subscript 2, a copper substance, the solubility product is 2.2 times 10 superscript negative 20. For C u S, a copper substance, the solubility product is 8.5 times 10 superscript negative 45. For C u C O subscript 3, a copper substance, the solubility product is 2.5 times 10 superscript negative 10. For F e ( O H ) subscript 2, an iron substance, the solubility product is 1.8 times 10 superscript negative 15. For F e C O subscript 3, an iron substance, the solubility product is 2.1 times 10 superscript negative 11. For F e S, an iron substance, the solubility product is 3.7 times 10 superscript negative 19. For F e ( O H ) subscript 3, an iron substance, the solubility product is 4 times 10 superscript negative 38. For P b ( O H ) subscript 2, a lead substance, the solubility product is 1.2 times 10 superscript negative 15. For P b F subscript 2, a lead substance, the solubility product is 4 times 10 superscript negative 8. For P b C l subscript 2, a lead substance, the solubility product is 1.6 times 10 superscript negative 5. For P b B r subscript 2, a lead substance, the solubility product is 4.6 times 10 superscript negative 6. For P b I subscript 2, a lead substance, the solubility product is 1.4 times 10 superscript negative 8. For P b C O subscript 3, a lead substance, the solubility product is 1.5 times 10 superscript negative 15. For P b S, a lead substance, the solubility product is 7 times 10 superscript negative 29. For P b C r O subscript 4, a lead substance, the solubility product is 2 times 10 superscript negative 16. For P b S O subscript 4, a lead substance, the solubility product is 1.3 times 10 superscript negative 8. For P b subscript 3 ( P O subscript 4 ) subscript 2, a lead substance, the solubility product is 1 times 10 superscript negative 54. For M g ( O H ) subscript 2, a magnesium substance, the solubility product is 8.9 times 10 superscript negative 12.  For M g C O subscript 3 dot 3 H subscript 2 O, a magnesium substance, the solubility product is lowercase italic c a 1 times 10 superscript negative 5. For M g N H subscript 4 P O subscript 4, a magnesium substance, the solubility product is 3 times 10 superscript negative 13. For M g F subscript 2, a magnesium substance, the solubility product is 6.4 times 10 superscript negative 9. For M g C subscript 2 O subscript 4, a magnesium substance, the solubility product is 7 times 10 superscript negative 7. For M n ( O H ) subscript 2, a manganese substance, the solubility product is 2 times 10 superscript negative 13. For M n C O subscript 3, a manganese substance, the solubility product is 8.8 times 10 superscript negative 11. For M n S, a manganese substance, the solubility product is 2.3 times 10 superscript negative 13. For H g subscript 2 O dot H subscript 2 O, a mercury substance, the solubility product is 3.6 times 10 superscript negative 26. For H g subscript 2 C l subscript 2, a mercury substance, the solubility product is 1.1 times 10 superscript negative 18. For H g subscript 2 B r subscript 2, a mercury substance, the solubility product is 1.3 times 10 superscript negative 22. For H g subscript 2 I subscript 2, a mercury substance, the solubility product is 4.5 times 10 superscript negative 29. For H g subscript 2 C O subscript 3, a mercury substance, the solubility product is 9 times 10 superscript negative 15. For H g subscript 2 S O subscript 4, a mercury substance, the solubility product is 7.4 times 10 superscript negative 7. For H g subscript 2 S, a mercury substance, the solubility product is 1.0 times 10 superscript negative 47. For H g subscript 2 C r O subscript 4, a mercury substance, the solubility product is 2 times 10 superscript negative 9. For H g S, a mercury substance, the solubility product is 1.6 times 10 superscript negative 54. For N i ( O H ) subscript 2, a nickel substance, the solubility product is 1.6 times 10 superscript negative 16. For N i C O subscript 3, a nickel substance, the solubility product is 1.4 times 10 superscript negative 7. For N i S ( alpha ), a nickel substance, the solubility product is 4 times 10 superscript negative 20. For For N i S ( beta ), a nickel substance, the solubility product is 1.3 times 10 superscript negative 25. For K C l O subscript 4, a potassium substance, the solubility product is 1.05 times 10 superscript negative 2. For K subscript 2 P t C l subscript 6, a potassium substance, the solubility product is 7.48 times 10 superscript negative 6. For K H C subscript 4 H subscript 4 O subscript 6, a potassium substance, the solubility product is 3 times 10 superscript negative 4. For one-half A g subscript 2 O ( A g superscript positive plus O H superscript negative ), a silver substance, the solubility product is 2 times 10 superscript negative 8. For A g C l, a silver substance, the solubility product is 1.6 times 10 superscript negative 10. For A g B r, a silver substance, the solubility product is 5.0 times 10 superscript negative 13. For A g I, a silver substance, the solubility product is 1.5 times 10 superscript negative 16. For A g C N, a silver substance, the solubility product is 1.2 times 10 superscript negative 16. For A g S C N, a silver substance, the solubility product is 1.0 times 10 superscript negative 12. For A g subscript 2 S, a silver substance, the solubility product is 1.6 times 10 superscript negative 49. For A g subscript 2 C O subscript 3, a silver substance, the solubility product is 8.1 times 10 superscript negative 12. For A g subscript 2 C r O subscript 4, a silver substance, the solubility product is 9.0 times 10 superscript negative 12. For A g subscript 4 F e ( C N ) subscript 6, a silver substance, the solubility product is 1.55 times 10 superscript negative 41. For A g subscript 2 S O subscript 4, a silver substance, the solubility product is 1.2 times 10 superscript negative 5. For A g subscript 3 P O subscript 4, a silver substance, the solubility product is 1.8 times 10 superscript negative 18. For S r ( O H ) subscript 2 dot 8 H subscript 2 O, a strontium substance, the solubility product is 3.2 times 10 superscript negative 4. For S r C O subscript 3, a strontium substance, the solubility product is 7 times 10 superscript negative 10. For S r C r O subscript 4, a strontium substance, the solubility product is 3.6 times 10 superscript negative 5. For S r S O subscript 4, a strontium substance, the solubility product is 3.2 times 10 superscript negative 7. For S r C subscript 2 O subscript 4 dot H subscript 2 O, a strontium substance, the solubility product is 4 times 10 superscript negative 7. For T l C l, a thallium substance, the solubility product is 1.7 times 10 superscript negative 4. For T l S C N, a thallium substance, the solubility product is 1.6 times 10 superscript negative 4. For T l subscript 2 S, a thallium substance, the solubility product is 6 times 10 superscript negative 22. For T l ( O H ) subscript 3, a thallium substance, the solubility product is 6.3 times 10 superscript negative 46. For S n ( O H ) subscript 2, a tin substance, the solubility product is 3 times 10 superscript negative 27. For S n S, a tin substance, the solubility product is 1 times 10 superscript negative 26. For S n ( O H ) subscript 4, a tin substance, the solubility product is 1.0 times 10 superscript negative 57. For Z n C O subscript 3, a zinc substance, the solubility product is 2 times 10 superscript negative 10."><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">Solubility Products</entry>
+</row>
+<row valign="middle">
+<entry align="left">Substance</entry>
+<entry align="left"><emphasis effect="italics">K</emphasis><sub>sp</sub> at 25 °C</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">aluminum</entry>
+</row>
+<row valign="middle">
+<entry align="left">Al(OH)<sub>3</sub></entry>
+<entry align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−32</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">barium</entry>
+</row>
+<row valign="middle">
+<entry align="left">BaCO<sub>3</sub></entry>
+<entry align="left">1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">BaC<sub>2</sub>O<sub>4</sub>·2H<sub>2</sub>O</entry>
+<entry align="left">1.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">BaSO<sub>4</sub></entry>
+<entry align="left">2.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">BaCrO<sub>4</sub></entry>
+<entry align="left">8.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">BaF<sub>2</sub></entry>
+<entry align="left">2.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ba(OH)<sub>2</sub>·8H<sub>2</sub>O</entry>
+<entry align="left">5.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ba<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub></entry>
+<entry align="left">6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−39</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ba<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub></entry>
+<entry align="left">1.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−13</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">bismuth</entry>
+</row>
+<row valign="middle">
+<entry align="left">BiO(OH)</entry>
+<entry align="left">4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">BiOCl</entry>
+<entry align="left">1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−31</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Bi<sub>2</sub>S<sub>3</sub></entry>
+<entry align="left">1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−97</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">cadmium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cd(OH)<sub>2</sub></entry>
+<entry align="left">5.9 <m:math><m:mo>×</m:mo></m:math> 10<sup>−15</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CdS</entry>
+<entry align="left">1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−28</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CdCO<sub>3</sub></entry>
+<entry align="left">5.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−12</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">calcium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ca(OH)<sub>2</sub></entry>
+<entry align="left">1.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CaCO<sub>3</sub></entry>
+<entry align="left">8.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CaSO4·2H<sub>2</sub>O</entry>
+<entry align="left">6.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CaC<sub>2</sub>O<sub>4</sub>·H<sub>2</sub>O</entry>
+<entry align="left">1.96 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub></entry>
+<entry align="left">1.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−32</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CaHPO<sub>4</sub></entry>
+<entry align="left">7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CaF<sub>2</sub></entry>
+<entry align="left">4.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">chromium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cr(OH)<sub>3</sub></entry>
+<entry align="left">6.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−31</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">cobalt</entry>
+</row>
+<row valign="middle">
+<entry align="left">Co(OH)<sub>2</sub></entry>
+<entry align="left">2.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−16</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CoS(<emphasis effect="italics">α</emphasis>)</entry>
+<entry align="left">5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−22</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CoS(<emphasis effect="italics">β</emphasis>)</entry>
+<entry align="left">3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−26</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CoCO<sub>3</sub></entry>
+<entry align="left">1.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−13</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Co(OH)<sub>3</sub></entry>
+<entry align="left">2.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−43</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">copper</entry>
+</row>
+<row valign="middle">
+<entry align="left">CuCl</entry>
+<entry align="left">1.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CuBr</entry>
+<entry align="left">6.27 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CuI</entry>
+<entry align="left">1.27 <m:math><m:mo>×</m:mo></m:math> 10<sup>−12</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CuSCN</entry>
+<entry align="left">1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Cu<sub>2</sub>S</entry>
+<entry align="left">2.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−48</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Cu(OH)<sub>2</sub></entry>
+<entry align="left">2.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−20</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CuS</entry>
+<entry align="left">8.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−45</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">CuCO<sub>3</sub></entry>
+<entry align="left">2.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">iron</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe(OH)<sub>2</sub></entry>
+<entry align="left">1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−15</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">FeCO<sub>3</sub></entry>
+<entry align="left">2.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">FeS</entry>
+<entry align="left">3.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−19</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe(OH)<sub>3</sub></entry>
+<entry align="left">4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−38</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">lead</entry>
+</row>
+<row valign="middle">
+<entry align="left">Pb(OH)<sub>2</sub></entry>
+<entry align="left">1.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−15</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">PbF<sub>2</sub></entry>
+<entry align="left">4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">PbCl<sub>2</sub></entry>
+<entry align="left">1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">PbBr<sub>2</sub></entry>
+<entry align="left">4.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">PbI<sub>2</sub></entry>
+<entry align="left">1.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">PbCO<sub>3</sub></entry>
+<entry align="left">1.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−15</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">PbS</entry>
+<entry align="left">7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−29</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">PbCrO<sub>4</sub></entry>
+<entry align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−16</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">PbSO<sub>4</sub></entry>
+<entry align="left">1.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Pb<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub></entry>
+<entry align="left">1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−54</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">magnesium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Mg(OH)<sub>2</sub></entry>
+<entry align="left">8.9 <m:math><m:mo>×</m:mo></m:math> 10<sup>−12</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">MgCO<sub>3</sub>·3H<sub>2</sub>O</entry>
+<entry align="left"><emphasis effect="italics">ca</emphasis> 1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">MgNH<sub>4</sub>PO<sub>4</sub></entry>
+<entry align="left">3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−13</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">MgF<sub>2</sub></entry>
+<entry align="left">6.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">MgC<sub>2</sub>O<sub>4</sub></entry>
+<entry align="left">7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">manganese</entry>
+</row>
+<row valign="middle">
+<entry align="left">Mn(OH)<sub>2</sub></entry>
+<entry align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−13</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">MnCO<sub>3</sub></entry>
+<entry align="left">8.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">MnS</entry>
+<entry align="left">2.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−13</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">mercury</entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>O·H<sub>2</sub>O</entry>
+<entry align="left">3.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−26</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>Cl<sub>2</sub></entry>
+<entry align="left">1.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−18</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>Br<sub>2</sub></entry>
+<entry align="left">1.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−22</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>I<sub>2</sub></entry>
+<entry align="left">4.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−29</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>CO<sub>3</sub></entry>
+<entry align="left">9 <m:math><m:mo>×</m:mo></m:math> 10<sup>−15</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>SO<sub>4</sub></entry>
+<entry align="left">7.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>S</entry>
+<entry align="left">1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−47</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>CrO<sub>4</sub></entry>
+<entry align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">HgS</entry>
+<entry align="left">1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−54</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">nickel</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ni(OH)<sub>2</sub></entry>
+<entry align="left">1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−16</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">NiCO<sub>3</sub></entry>
+<entry align="left">1.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">NiS(<emphasis effect="italics">α</emphasis>)</entry>
+<entry align="left">4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−20</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">NiS(<emphasis effect="italics">β</emphasis>)</entry>
+<entry align="left">1.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−25</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">potassium</entry>
+</row>
+<row valign="middle">
+<entry align="left">KClO<sub>4</sub></entry>
+<entry align="left">1.05 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">K<sub>2</sub>PtCl<sub>6</sub></entry>
+<entry align="left">7.48 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">KHC<sub>4</sub>H<sub>4</sub>O<sub>6</sub></entry>
+<entry align="left">3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">silver</entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msubsup><m:mn/><m:mn>2</m:mn><m:mn>1</m:mn></m:msubsup><m:mtext>A</m:mtext><m:msub><m:mtext>g</m:mtext><m:mtext>2</m:mtext></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>OH</m:mtext><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math></entry>
+<entry align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">AgCl</entry>
+<entry align="left">1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">AgBr</entry>
+<entry align="left">5.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−13</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">AgI</entry>
+<entry align="left">1.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−16</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">AgCN</entry>
+<entry align="left">1.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−16</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">AgSCN</entry>
+<entry align="left">1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−12</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag<sub>2</sub>S</entry>
+<entry align="left">1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−49</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag<sub>2</sub>CO<sub>3</sub></entry>
+<entry align="left">8.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−12</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag<sub>2</sub>CrO<sub>4</sub></entry>
+<entry align="left">9.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−12</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag<sub>4</sub>Fe(CN)<sub>6</sub></entry>
+<entry align="left">1.55 <m:math><m:mo>×</m:mo></m:math> 10<sup>−41</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag<sub>2</sub>SO<sub>4</sub></entry>
+<entry align="left">1.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag<sub>3</sub>PO<sub>4</sub></entry>
+<entry align="left">1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−18</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">strontium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Sr(OH)<sub>2</sub>·8H<sub>2</sub>O</entry>
+<entry align="left">3.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">SrCO<sub>3</sub></entry>
+<entry align="left">7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">SrCrO<sub>4</sub></entry>
+<entry align="left">3.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">SrSO<sub>4</sub></entry>
+<entry align="left">3.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">SrC<sub>2</sub>O<sub>4</sub>·H<sub>2</sub>O</entry>
+<entry align="left">4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">thallium</entry>
+</row>
+<row valign="middle">
+<entry align="left">TlCl</entry>
+<entry align="left">1.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">TlSCN</entry>
+<entry align="left">1.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Tl<sub>2</sub>S</entry>
+<entry align="left">6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−22</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Tl(OH)<sub>3</sub></entry>
+<entry align="left">6.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−46</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">tin</entry>
+</row>
+<row valign="middle">
+<entry align="left">Sn(OH)<sub>2</sub></entry>
+<entry align="left">3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−27</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">SnS</entry>
+<entry align="left">1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−26</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Sn(OH)<sub>4</sub></entry>
+<entry align="left">1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−57</sup></entry>
+</row>
+<row valign="middle">
+<entry align="center" namest="c1" nameend="c2">zinc</entry>
+</row>
+<row valign="middle">
+<entry align="left">ZnCO<sub>3</sub></entry>
+<entry align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup></entry>
+</row>
+</tbody></tgroup></table>   </content>
+</document>

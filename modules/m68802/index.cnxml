@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68802</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Brønsted-Lowry Acids and Bases</item>
+<item>pH and pOH</item>
+<item>Relative Strengths of Acids and Bases</item>
+<item>Hydrolysis of Salt Solutions</item>
+<item>Polyprotic Acids</item>
+<item>Buffers</item>
+<item>Acid-Base Titrations</item>
+</list></md:abstract>
+  <md:uuid>4abeb29f-5f24-4945-8beb-2c9c56c8d9bc</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_14_00_Sinkhole" class="splash">
+<media id="fs-idp47373024" alt="A photograph is shown of a pond formed in a sinkhole. Layers of limestone with trees and shrubs surround the murky green water of the pond.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_00_Sinkhole.jpg"/>
+</media>
+<caption>Sinkholes such as this are the result of reactions between acidic groundwaters and basic rock formations, like limestone. (credit: modification of work by Emil Kehnel)</caption>
+</figure>
+<para id="fs-idp162964256">Liquid water is essential to life on our planet, and chemistry involving the characteristic ions of water, H<sup>+</sup> and OH<sup>–</sup>, is widely encountered in nature and society. As introduced in another chapter of this text, acid-base chemistry involves the transfer of hydrogen ions from donors (acids) to acceptors (bases). These H+ transfer reactions are reversible, and the equilibria established by acid-base systems are essential aspects of phenomena ranging from sinkhole formation (<link target-id="CNX_Chem_14_00_Sinkhole"/>) to oxygen transport in the human body. This chapter will further explore acid-base chemistry with an emphasis on the equilibrium aspects of this important reaction class.</para>   </content>
+</document>

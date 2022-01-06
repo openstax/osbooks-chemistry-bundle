@@ -1,0 +1,417 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Buffers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68808</md:content-id>
+  <md:title>Buffers</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list><item>Describe the composition and function of acid–base buffers</item>
+<item>Calculate the pH of a buffer before and after the addition of added acid or base</item></list></md:abstract>
+  <md:uuid>2e4b2717-6fb3-4f91-a019-0a99b8b01921</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm117447344">A solution containing appreciable amounts of a weak conjugate acid-base pair is called a buffer solution, or a <term>buffer</term>. Buffer solutions resist a change in pH when small amounts of a strong acid or a strong base are added (<link target-id="CNX_Chem_14_06_compare"/>). A solution of acetic acid and sodium acetate (CH<sub>3</sub>COOH + CH<sub>3</sub>COONa) is an example of a buffer that consists of a weak acid and its salt. An example of a buffer that consists of a weak base and its salt is a solution of ammonia and ammonium chloride (NH<sub>3</sub>(<emphasis effect="italics">aq</emphasis>) + NH<sub>4</sub>Cl(<emphasis effect="italics">aq</emphasis>)).</para>
+<figure id="CNX_Chem_14_06_compare" class="scaled-down">
+<media id="fs-idm104574592" alt="Two images are shown. Image a on the left shows two beakers that each contain yellow solutions. The beaker on the left is labeled “Unbuffered” and the beaker on the right is labeled “p H equals 8.0 buffer.” Image b similarly shows 2 beakers. The beaker on the left contains a bright orange solution and is labeled “Unbuffered.” The beaker on the right is labeled “p H equals 8.0 buffer.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_06_compare.jpg"/>
+</media>
+<caption>(a) The unbuffered solution on the left and the buffered solution on the right have the same pH (pH 8); they are basic, showing the yellow color of the indicator methyl orange at this pH. (b) After the addition of 1 mL of a 0.01-<emphasis effect="italics">M</emphasis> HCl solution, the buffered solution has not detectably changed its pH but the unbuffered solution has become acidic, as indicated by the change in color of the methyl orange, which turns red at a pH of about 4. (credit: modification of work by Mark Ott)</caption>
+</figure>
+<section id="fs-idm112960288">
+<title>How Buffers Work</title>
+<para id="fs-idm127493136">To illustrate the function of a buffer solution, consider a mixture of roughly equal amounts of acetic acid and sodium acetate. The presence of a weak conjugate acid-base pair in the solution imparts the ability to neutralize modest amounts of added strong acid or base. For example, strong base added to this solution will neutralize hydronium ion, causing the acetic acid ionization equilibrium to shift to the right and generate additional amounts of the weak conjugate base (acetate ion):</para><equation id="fs-idm105688000" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp41915456">Likewise, strong acid added to this buffer solution will shift the above ionization equilibrium left, producing additional amounts of the weak conjugate acid (acetic acid). <link target-id="CNX_Chem_14_06_bufferchrt"/> provides a graphical illustration of the changes in conjugate-partner concentration that occur in this buffer solution when strong acid and base are added. The buffering action of the solution is essentially a result of the added strong acid and base being converted to the weak acid and base that make up the buffer's conjugate pair. The weaker acid and base undergo only slight ionization, as compared with the complete ionization of the strong acid and base, and the solution pH, therefore, changes much less drastically than it would in an unbuffered solution.</para><figure id="CNX_Chem_14_06_bufferchrt"><media id="fs-idp38705984" alt="This figure begins with a chemical reaction at the top: C H subscript 3 C O O H ( a q ) plus H subscript 2 O ( l ) equilibrium arrow H subscript 3 O superscript positive sign ( a q ) plus C H subscript 3 C O O superscript negative sign ( a q ). Below the text is a figure that resembles a bar graph. In the middle are two bars of equal height. One is labeled, “C H subscript 3 C O O H,” and the other is labeled, “C H subscript 3 C O O superscript negative sign.” There is a dotted line at the same height of the bars which extends to the left and right. Above these two bars is the phrase, “Buffer solution equimolar in acid and base.” There is an arrow pointing to the right which is labeled, “Add O H superscript negative sign.” The arrow points to two bars again, but this time the C H subscript 3 C O O H bar is shorter than that C H subscript 3 C O O superscript negative sign bar. Above these two bars is the phrase, “Buffer solution after addition of strong base.” From the middle bars again, there is an arrow that points left. The arrow is labeled, “Add H subscript 3 O superscript positive sign.” This arrow points to two bars again, but this time the C H subscript 3 C O O H bar is taller than the C H subscript 3 C O O superscript negative sign bar. These two bars are labeled, “Buffer solution after addition of strong acid.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_06_bufferchrt.jpg"/>
+</media>
+
+<caption>Buffering action in a mixture of acetic acid and acetate salt.</caption></figure><example id="fs-idm144695456"><para id="fs-idm145736240"><title>pH Changes in Buffered and Unbuffered Solutions</title>
+Acetate buffers are used in biochemical studies of enzymes and other chemical components of cells to prevent pH changes that might affect the biochemical activity of these compounds.</para>
+<para id="fs-idp41841344">(a) Calculate the pH of an acetate buffer that is a mixture with 0.10 <emphasis effect="italics">M</emphasis> acetic acid and 0.10 <emphasis effect="italics">M</emphasis> sodium acetate.</para>
+<para id="fs-idm197032080">(b) Calculate the pH after 1.0 mL of 0.10 NaOH is added to 100 mL of this buffer.</para>
+<para id="fs-idm215059040">(c) For comparison, calculate the pH after 1.0 mL of 0.10 <emphasis effect="italics">M</emphasis> NaOH is added to 100 mL of a solution of an unbuffered solution with a pH of 4.74.</para>
+<para id="fs-idm105719280"><title>Solution</title></para>
+<para id="fs-idm224056512">(a) Following the ICE approach to this equilibrium calculation yields the following:</para>
+<media id="fs-idm123715040" alt="This table has two main columns and four rows. The first row for the first column does not have a heading and then has the following in the first column: Initial concentration ( M ), Change ( M ), Equilibrium concentration ( M ). The second column has the header of “[ C H subscript 3 C O subscript 2 H ] [ H subscript 2 O ] equilibrium arrow H subscript 3 O superscript plus sign [ C H subscript 3 C O subscript 2 superscript negative sign ].” Under the second column is a subgroup of four columns and three rows. The first column has the following: 0.10, negative x, 0.10 minus sign x. The second column is blank. The third column has the following: approximately 0, positive x, x. The fourth column has the following: 0.10, positive x, 0.10 plus sign x.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_06_ICETable16_img.jpg"/>
+</media>
+<para id="fs-idm192051584">Substituting the equilibrium concentration terms into the <emphasis effect="italics">K</emphasis><sub>a</sub> expression, assuming <emphasis effect="italics">x</emphasis> &lt;&lt; 0.10, and solving the simplified equation for <emphasis effect="italics">x</emphasis> yields</para>
+<equation id="fs-idm7012176" class="unnumbered"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup><m:mi>M</m:mi></m:mrow></m:math></equation>
+<equation id="fs-idm109618832" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation>
+<equation id="fs-idm165278336" class="unnumbered"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>−log</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></equation>
+<equation id="fs-idm111454032" class="unnumbered"><m:math><m:mrow><m:mo>=</m:mo><m:mn>4.74</m:mn></m:mrow></m:math></equation>
+<para id="fs-idp98075040">(b) Calculate the pH after 1.0 mL of 0.10 <emphasis effect="italics">M</emphasis> NaOH is added to 100 mL of this buffer.</para>
+<para id="fs-idm196351552">Adding strong base will neutralize some of the acetic acid, yielding the conjugate base acetate ion. Compute the new concentrations of these two buffer components, then repeat the equilibrium calculation of part (a) using these new concentrations.</para><equation id="fs-idm110133872" class="unnumbered"><m:math><m:mrow><m:mn>0.0010</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0.10</m:mn><m:mspace width="0.2em"/><m:mtext>mol NaOH</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol NaOH</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm223581568">The initial molar amount of acetic acid is</para>
+<equation id="fs-idm53635376" class="unnumbered"><m:math><m:mrow><m:mn>0.100</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0.100</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm162724496">The amount of acetic acid remaining after some is neutralized by the added base is</para>
+<equation id="fs-idm91870896" class="unnumbered"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>0.01</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0.99</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm178487280">The newly formed acetate ion, along with the initially present acetate, gives a final acetate concentration of</para>
+<equation id="fs-idp82833792" class="unnumbered"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.01</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1.01</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NaCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm213828416">Compute molar concentrations for the two buffer components:</para>
+<equation id="fs-idm165714384" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>9.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>0.101</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0.098</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation>
+<equation id="fs-idp22032080" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NaCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1.01</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>0.101</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0.100</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm198587408">Using these concentrations, the pH of the solution may be computed as in part (a) above, yielding pH = 4.75 (only slightly different from that prior to adding the strong base).</para>
+<para id="fs-idm140802864">(c) For comparison, calculate the pH after 1.0 mL of 0.10 <emphasis effect="italics">M</emphasis> NaOH is added to 100 mL of a solution of an unbuffered solution with a pH of 4.74.</para>
+<para id="fs-idm216667360">The amount of hydronium ion initially present in the solution is</para>
+<equation id="fs-idm181266816" class="unnumbered"><m:math>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msup>
+<m:mtext>O</m:mtext>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:msup>
+<m:mrow>
+<m:mn>10</m:mn></m:mrow>
+<m:mrow>
+<m:mo>−</m:mo><m:mn>4.74</m:mn></m:mrow>
+</m:msup>
+<m:mo>=</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mrow>
+<m:mn>10</m:mn></m:mrow>
+<m:mrow>
+<m:mo>−</m:mo><m:mn>5</m:mn></m:mrow>
+</m:msup>
+<m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow>
+</m:math>
+</equation>
+<equation id="fs-idm226340192" class="unnumbered"><m:math>
+<m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msup>
+<m:mtext>O</m:mtext>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.100</m:mn><m:mspace width="0.2em"/><m:mi>L</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−5</m:mn></m:mrow>
+</m:msup>
+<m:mspace width="0.2em"/><m:mi>M</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−6</m:mn></m:mrow>
+</m:msup>
+<m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msup>
+<m:mtext>O</m:mtext>
+<m:mo>+</m:mo>
+</m:msup>
+
+</m:math>
+</equation>
+<para id="fs-idm213735984">The amount of hydroxide ion added to the solution is</para>
+<equation id="fs-idm167813376" class="unnumbered"><m:math>
+<m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup>
+<m:mtext>OH</m:mtext>
+<m:mo>−</m:mo>
+</m:msup>
+<m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.0010</m:mn><m:mspace width="0.2em"/><m:mi>L</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.10</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−4</m:mn></m:mrow>
+</m:msup>
+<m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup>
+<m:mtext>OH</m:mtext>
+<m:mo>−</m:mo>
+</m:msup>
+
+</m:math>
+</equation>
+<para id="fs-idm184173168">The added hydroxide will neutralize hydronium ion via the reaction</para>
+<equation id="fs-idm213939888" class="unnumbered"><m:math>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msup>
+<m:mtext>O</m:mtext>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup>
+<m:mtext>OH</m:mtext>
+<m:mo>−</m:mo>
+</m:msup>
+<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>⇋</m:mo><m:mn>2</m:mn><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo>
+</m:math>
+</equation>
+<para id="fs-idm174460304">The 1:1 stoichiometry of this reaction shows that an excess of hydroxide has been added (greater molar amount than the initially present hydronium ion).</para>
+<para id="fs-idm201883456">The amount of hydroxide ion remaining is</para>
+<equation id="fs-idm215027392" class="unnumbered"><m:math>
+<m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−4</m:mn></m:mrow>
+</m:msup>
+<m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−6</m:mn></m:mrow>
+</m:msup>
+<m:mtext>mol</m:mtext><m:mo>=</m:mo><m:mn>9.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−5</m:mn></m:mrow>
+</m:msup>
+<m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup>
+<m:mtext>OH</m:mtext>
+<m:mo>−</m:mo>
+</m:msup>
+
+</m:math>
+</equation>
+<para id="fs-idm225014800">corresponding to a hydroxide molarity of</para>
+<equation id="fs-idm215810016" class="unnumbered"><m:math>
+<m:mn>9.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−5</m:mn></m:mrow>
+</m:msup>
+<m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup>
+<m:mtext>OH</m:mtext>
+<m:mo>−</m:mo>
+</m:msup>
+<m:mtext>/</m:mtext><m:mn>0.101</m:mn><m:mspace width="0.2em"/><m:mi>L</m:mi><m:mo>=</m:mo><m:mn>9.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−4</m:mn></m:mrow>
+</m:msup>
+<m:mspace width="0.2em"/><m:mi>M</m:mi>
+</m:math>
+</equation>
+<para id="fs-idm198420016">The pH of the solution is then calculated to be</para>
+<equation id="fs-idm226155632" class="unnumbered"><m:math>
+<m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mn>14.00</m:mn><m:mo>−</m:mo><m:mtext>pOH</m:mtext><m:mo>=</m:mo><m:mn>14.00</m:mn><m:mo>−</m:mo><m:mo>−</m:mo><m:mtext>log</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>9.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mn>−4</m:mn></m:mrow>
+</m:msup>
+<m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>10.99</m:mn>
+</m:math>
+</equation>
+<para id="fs-idm215525104">In this unbuffered solution, addition of the base results in a significant rise in pH (from 4.74 to 10.99) compared with the very slight increase observed for the buffer solution in part (b) (from 4.74 to 4.75).</para>
+<para id="fs-idm159189968"><title>Check Your Learning</title>
+Show that adding 1.0 mL of 0.10 <emphasis effect="italics">M</emphasis> HCl changes the pH of 100 mL of a 1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> <emphasis effect="italics">M</emphasis> HCl solution from 4.74 to 3.00.</para>
+<note id="fs-idm145837936">
+<title>Answer:</title>
+<para id="fs-idm119337184">Initial pH of 1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> <emphasis effect="italics">M</emphasis> HCl; pH = −log[H<sub>3</sub>O<sup>+</sup>] = −log[1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup>] = 4.74<newline/>
+Moles of H<sub>3</sub>O<sup>+</sup> in 100 mL 1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> <emphasis effect="italics">M</emphasis> HCl; 1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> moles/L <m:math><m:mo>×</m:mo></m:math> 0.100 L = 1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup><newline/>
+Moles of H<sub>3</sub>O<sup>+</sup> added by addition of 1.0 mL of 0.10 <emphasis effect="italics">M</emphasis> HCl: 0.10 moles/L <m:math><m:mo>×</m:mo></m:math> 0.0010 L = 1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> moles; final pH after addition of 1.0 mL of 0.10 <emphasis effect="italics">M</emphasis> HCl:<newline/>
+<equation id="fs-idm103691008" class="unnumbered"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>total moles</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mrow><m:mtext>total volume</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mo>+</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>101</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mrow><m:mrow><m:mn>1000</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>3.00</m:mn></m:mrow></m:math></equation>
+</para></note>
+</example>
+</section>
+<section id="fs-idp107911744">
+<title>Buffer Capacity</title>
+<para id="fs-idm68764768">Buffer solutions do not have an unlimited capacity to keep the pH relatively constant (<link target-id="CNX_Chem_14_06_exhaust"/>). Instead, the ability of a buffer solution to resist changes in pH relies on the presence of appreciable amounts of its conjugate weak acid-base pair. When enough strong acid or base is added to substantially lower the concentration of either member of the buffer pair, the buffering action within the solution is compromised.</para>
+<figure id="CNX_Chem_14_06_exhaust" class="scaled-down">
+<media id="fs-idm195031712" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_06_exhaust.jpg"/>
+</media>
+<caption>The indicator color (methyl orange) shows that a small amount of acid added to a buffered solution of pH 8 (beaker on the left) has little affect on the buffered system (middle beaker). However, a large amount of acid exhausts the buffering capacity of the solution and the pH changes dramatically (beaker on the right). (credit: modification of work by Mark Ott)</caption>
+</figure>
+<para id="fs-idm103629216">The <term>buffer capacity</term> is the amount of acid or base that can be added to a given volume of a buffer solution before the pH changes significantly, usually by one unit. Buffer capacity depends on the amounts of the weak acid and its conjugate base that are in a buffer mixture. For example, 1 L of a solution that is 1.0 <emphasis effect="italics">M</emphasis> in acetic acid and 1.0 <emphasis effect="italics">M</emphasis> in sodium acetate has a greater buffer capacity than 1 L of a solution that is 0.10 <emphasis effect="italics">M</emphasis> in acetic acid and 0.10 <emphasis effect="italics">M</emphasis> in sodium acetate even though both solutions have the same pH. The first solution has more buffer capacity because it contains more acetic acid and acetate ion.</para>
+</section>
+<section id="fs-idm124351376">
+<title>Selection of Suitable Buffer Mixtures</title>
+<para id="fs-idp2820144">There are two useful rules of thumb for selecting buffer mixtures:</para>
+<list id="fs-idm128259280" list-type="enumerated" number-style="arabic">
+<item>A good buffer mixture should have about equal concentrations of both of its components. A buffer solution has generally lost its usefulness when one component of the buffer pair is less than about 10% of the other. <link target-id="CNX_Chem_14_06_buffer"/> shows how pH changes for an acetic acid-acetate ion buffer as base is added. The initial pH is 4.74. A change of 1 pH unit occurs when the acetic acid concentration is reduced to 11% of the acetate ion concentration.<newline/>
+<figure id="CNX_Chem_14_06_buffer" class="scaled-down">
+<media id="fs-idm112112448" alt="A graph is shown with a horizontal axis labeled “Added m L of 0.10 M N a O H” which has markings and vertical gridlines every 10 units from 0 to 110. The vertical axis is labeled “p H” and is marked every 1 unit beginning at 0 extending to 11. A break is shown in the vertical axis between 0 and 4. A red curve is drawn on the graph which increases gradually from the point (0, 4.8) up to about (100, 7) after which the graph has a vertical section up to about (100, 11). The curve is labeled [ C H subscript 3 C O subscript 2 H ] is 11 percent of [ C H subscript 3 CO subscript 2 superscript negative].">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_06_buffer.jpg"/>
+</media>
+<caption>Change in pH as an increasing amount of a 0.10-<emphasis effect="italics">M</emphasis> NaOH solution is added to 100 mL of a buffer solution in which, initially, [CH<sub>3</sub>CO<sub>2</sub>H] = 0.10 <emphasis effect="italics">M</emphasis> and <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0.10</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi><m:mo>.</m:mo></m:mrow></m:math> Note the greatly diminished buffering action occurring after the buffer capacity has been reached, resulting in drastic rises in pH on adding more strong base.</caption>
+</figure></item>
+<item>Weak acids and their salts are better as buffers for pHs less than 7; weak bases and their salts are better as buffers for pHs greater than 7.</item>
+</list>
+<para id="fs-idm53419232">Blood is an important example of a buffered solution, with the principal acid and ion responsible for the buffering action being carbonic acid, H<sub>2</sub>CO<sub>3</sub>, and the bicarbonate ion, <m:math><m:mrow><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math> When a hydronium ion is introduced to the blood stream, it is removed primarily by the reaction:</para><equation id="fs-idm106059312" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm109728256">An added hydroxide ion is removed by the reaction:</para><equation id="fs-idm145990368" class="unnumbered"><m:math><m:mrow><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp65661488">The added strong acid or base is thus effectively converted to the much weaker acid or base of the buffer pair (H<sub>3</sub>O<sup>+</sup> is converted to H<sub>2</sub>CO<sub>3</sub> and OH<sup>-</sup> is converted to HCO<sub>3</sub><sup>-</sup>). The pH of human blood thus remains very near the value determined by the buffer pairs pKa, in this case, 7.35. Normal variations in blood pH are usually less than 0.1, and pH changes of 0.4 or greater are likely to be fatal.</para></section>
+<section id="fs-idm153676976">
+<title>The Henderson-Hasselbalch Equation</title>
+<para id="fs-idm154866768">The ionization-constant expression for a solution of a weak acid can be written as:</para>
+<equation id="fs-idm43593456" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msup><m:mtext>A</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mtext>[HA]</m:mtext></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm87196592">Rearranging to solve for [H<sub>3</sub>O<sup>+</sup>] yields:</para>
+<equation id="fs-idm97934592" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mtext>[HA]</m:mtext></m:mrow></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mtext>A</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp10558896">Taking the negative logarithm of both sides of this equation gives</para>
+<equation id="fs-idp26801296" class="unnumbered"><m:math><m:mrow><m:mtext>−log</m:mtext><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>−log</m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mtext>− log</m:mtext><m:mfrac><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>HA</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msup><m:mtext>A</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>,</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp7990848">which can be written as</para>
+<equation id="fs-idp2699408" class="unnumbered"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>p</m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msup><m:mtext>A</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>HA</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp97287200">where p<emphasis effect="italics">K</emphasis><sub>a</sub> is the negative of the logarithm of the ionization constant of the weak acid (p<emphasis effect="italics">K</emphasis><sub>a</sub> = −log <emphasis effect="italics">K</emphasis><sub>a</sub>). This equation relates the pH, the ionization constant of a weak acid, and the concentrations of the weak conjugate acid-base pair in a buffered solution. Scientists often use this expression, called the <term>Henderson-Hasselbalch equation</term>, to calculate the pH of buffer solutions. It is important to note that the “<emphasis effect="italics">x</emphasis> is small” assumption must be valid to use this equation.</para>
+<note id="fs-idp1420208" class="chemistry chemist-portrait">
+<title>Lawrence Joseph Henderson and Karl Albert Hasselbalch</title>
+<para id="fs-idm68026080">Lawrence Joseph <term class="no-emphasis">Henderson</term> (1878–1942) was an American physician, biochemist and physiologist, to name only a few of his many pursuits. He obtained a medical degree from Harvard and then spent 2 years studying in Strasbourg, then a part of Germany, before returning to take a lecturer position at Harvard. He eventually became a professor at Harvard and worked there his entire life. He discovered that the acid-base balance in human blood is regulated by a buffer system formed by the dissolved carbon dioxide in blood. He wrote an equation in 1908 to describe the carbonic acid-carbonate buffer system in blood. Henderson was broadly knowledgeable; in addition to his important research on the physiology of blood, he also wrote on the adaptations of organisms and their fit with their environments, on sociology and on university education. He also founded the Fatigue Laboratory, at the Harvard Business School, which examined human physiology with specific focus on work in industry, exercise, and nutrition.</para>
+<para id="fs-idp6637456">In 1916, Karl Albert <term class="no-emphasis">Hasselbalch</term> (1874–1962), a Danish physician and chemist, shared authorship in a paper with Christian Bohr in 1904 that described the Bohr effect, which showed that the ability of hemoglobin in the blood to bind with oxygen was inversely related to the acidity of the blood and the concentration of carbon dioxide. The pH scale was introduced in 1909 by another Dane, Sørensen, and in 1912, Hasselbalch published measurements of the pH of blood. In 1916, Hasselbalch expressed Henderson’s equation in logarithmic terms, consistent with the logarithmic scale of pH, and thus the Henderson-Hasselbalch equation was born.</para>
+</note>
+<note id="fs-idm2834272" class="chemistry sciences-interconnect"><label/>
+<title>Medicine: The Buffer System in Blood</title>
+<para id="fs-idm108618160">The normal pH of human blood is about 7.4. The carbonate buffer system in the blood uses the following equilibrium reaction:</para>
+<equation id="fs-idm2229488" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm43954064">The concentration of carbonic acid, H<sub>2</sub>CO<sub>3</sub> is approximately 0.0012 <emphasis effect="italics">M</emphasis>, and the concentration of the hydrogen carbonate ion, <m:math><m:mrow><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> is around 0.024 <emphasis effect="italics">M</emphasis>. Using the Henderson-Hasselbalch equation and the p<emphasis effect="italics">K</emphasis><sub>a</sub> of carbonic acid at body temperature, we can calculate the pH of blood:</para>
+<equation id="fs-idp15032160" class="unnumbered"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>p</m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>base</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>acid</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>6.4</m:mn><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mn>0.024</m:mn></m:mrow><m:mrow><m:mn>0.0012</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>7.7</m:mn></m:mrow></m:math></equation><para id="fs-idm108864208">The fact that the H<sub>2</sub>CO<sub>3</sub> concentration is significantly lower than that of the <m:math><m:mrow><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> ion may seem unusual, but this imbalance is due to the fact that most of the by-products of our metabolism that enter our bloodstream are acidic. Therefore, there must be a larger proportion of base than acid, so that the capacity of the buffer will not be exceeded.</para>
+<para id="fs-idm136676864">Lactic acid is produced in our muscles when we exercise. As the lactic acid enters the bloodstream, it is neutralized by the <m:math><m:mrow><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> ion, producing H<sub>2</sub>CO<sub>3</sub>. An enzyme then accelerates the breakdown of the excess carbonic acid to carbon dioxide and water, which can be eliminated by breathing. In fact, in addition to the regulating effects of the carbonate buffering system on the pH of blood, the body uses breathing to regulate blood pH. If the pH of the blood decreases too far, an increase in breathing removes CO<sub>2</sub> from the blood through the lungs driving the equilibrium reaction such that [H<sub>3</sub>O<sup>+</sup>] is lowered. If the blood is too alkaline, a lower breath rate increases CO<sub>2</sub> concentration in the blood, driving the equilibrium reaction the other way, increasing [H<sup>+</sup>] and restoring an appropriate pH.</para>
+</note>
+<note id="fs-idp49477328" class="chemistry link-to-learning">
+<para id="fs-idm108605600">View <link url="http://openstax.org/l/16BufferSystem">information</link> on the buffer system encountered in natural waters.</para>
+</note>
+</section>
+<section id="fs-idm104045184" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm115041904">Solutions that contain appreciable amounts of a weak conjugate acid-base pair are called buffers. A buffered solution will experience only slight changes in pH when small amounts of acid or base are added. Addition of large amounts of acid or base can exceed the buffer capacity, consuming most of one conjugate partner and preventing further buffering action.</para></section>
+<section id="fs-idm101899904" class="key-equations">
+<title>Key Equations</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="key equations table"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry>p<emphasis effect="italics">K</emphasis><sub>a</sub> = −log <emphasis effect="italics">K</emphasis><sub>a</sub></entry>
+</row>
+<row><entry>p<emphasis effect="italics">K</emphasis><sub>b</sub> = −log <emphasis effect="italics">K</emphasis><sub>b</sub></entry>
+</row>
+<row><entry><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>p</m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msup><m:mtext>A</m:mtext><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>HA</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp119412416" class="exercises">
+<exercise id="fs-idm2126064">
+<problem id="fs-idm143472640">
+<para id="fs-idp15824512">Explain why a buffer can be prepared from a mixture of NH<sub>4</sub>Cl and NaOH but not from NH<sub>3</sub> and NaOH.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm81726160">
+<problem id="fs-idp14857472">
+<para id="fs-idm103659360">Explain why the pH does not change significantly when a small amount of an acid or a base is added to a solution that contains equal amounts of the acid H<sub>3</sub>PO<sub>4</sub> and a salt of its conjugate base NaH<sub>2</sub>PO<sub>4</sub>.</para>
+</problem>
+<solution id="fs-idp11820624">
+<para id="fs-idp81063024">Excess H<sub>3</sub>O<sup>+</sup> is removed primarily by the reaction:
+<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math><newline/>
+Excess base is removed by the reaction:
+<m:math><m:mrow><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idp21075184">
+<problem id="fs-idm162152320">
+<para id="fs-idm25948352">Explain why the pH does not change significantly when a small amount of an acid or a base is added to a solution that contains equal amounts of the base NH<sub>3</sub> and a salt of its conjugate acid NH<sub>4</sub>Cl.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp10424992">
+<problem id="fs-idm113996224">
+<para id="fs-idm118172320">What is [H<sub>3</sub>O<sup>+</sup>] in a solution of 0.25 <emphasis effect="italics">M</emphasis> CH<sub>3</sub>CO<sub>2</sub>H and 0.030 <emphasis effect="italics">M</emphasis> NaCH<sub>3</sub>CO<sub>2</sub>?<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm1744464">
+<para id="fs-idm115330864">[H<sub>3</sub>O<sup>+</sup>] = 1.5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> <emphasis effect="italics">M</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idm163403536">
+<problem id="fs-idm57321696">
+<para id="fs-idm63656480">What is [H<sub>3</sub>O<sup>+</sup>] in a solution of 0.075 <emphasis effect="italics">M</emphasis> HNO<sub>2</sub> and 0.030 <emphasis effect="italics">M</emphasis> NaNO<sub>2</sub>?<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>HNO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>4.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp11460800">
+<problem id="fs-idm87207664">
+<para id="fs-idm165406368">What is [OH<sup>−</sup>] in a solution of 0.125 <emphasis effect="italics">M</emphasis> CH<sub>3</sub>NH<sub>2</sub> and 0.130 <emphasis effect="italics">M</emphasis> CH<sub>3</sub>NH<sub>3</sub>Cl?<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mo>=</m:mo><m:mn>4.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm177719888">
+<para id="fs-idm233737504">[OH<sup>−</sup>] = 4.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> <emphasis effect="italics">M</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idm111908400">
+<problem id="fs-idm68209600">
+<para id="fs-idm57608480">What is [OH<sup>−</sup>] in a solution of 1.25 <emphasis effect="italics">M</emphasis> NH<sub>3</sub> and 0.78 <emphasis effect="italics">M</emphasis> NH<sub>4</sub>NO<sub>3</sub>?<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mo>=</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm108992432">
+<problem id="fs-idm108992176">
+<para id="fs-idp157984">What is the effect on the concentration of acetic acid, hydronium ion, and acetate ion when the following are added to an acidic buffer solution of equal concentrations of acetic acid and sodium acetate:</para>
+<para id="fs-idm109613408">(a) HCl</para>
+<para id="fs-idm109613024">(b) KCH<sub>3</sub>CO<sub>2</sub></para>
+<para id="fs-idm152181744">(c) NaCl</para>
+<para id="fs-idm152181360">(d) KOH</para>
+<para id="fs-idm105458864">(e) CH<sub>3</sub>CO<sub>2</sub>H</para>
+</problem>
+<solution id="fs-idm123082048">
+<para id="fs-idm123081792">(a) The added HCl will increase the concentration of H<sub>3</sub>O<sup>+</sup> slightly, which will react with <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup></m:mrow></m:math> and produce CH<sub>3</sub>CO<sub>2</sub>H in the process. Thus, <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> decreases and [CH<sub>3</sub>CO<sub>2</sub>H] increases.
+(b) The added KCH<sub>3</sub>CO<sub>2</sub> will increase the concentration of <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> which will react with H<sub>3</sub>O<sup>+</sup> and produce CH<sub>3</sub>CO<sub>2</sub> H in the process. Thus, [H<sub>3</sub>O<sup>+</sup>] decreases slightly and [CH<sub>3</sub>CO<sub>2</sub>H] increases.
+(c) The added NaCl will have no effect on the concentration of the ions.
+(d) The added KOH will produce OH<sup>−</sup> ions, which will react with the H<sub>3</sub>O<sup>+</sup>, thus reducing [H<sub>3</sub>O<sup>+</sup>]. Some additional CH<sub>3</sub>CO<sub>2</sub>H will dissociate, producing <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> ions in the process. Thus, [CH<sub>3</sub>CO<sub>2</sub>H] decreases slightly and <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> increases.
+(e) The added CH<sub>3</sub>CO<sub>2</sub>H will increase its concentration, causing more of it to dissociate and producing more <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> and H<sub>3</sub>O<sup>+</sup> in the process. Thus, [H<sub>3</sub>O<sup>+</sup>] increases slightly and <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> increases.</para></solution>
+</exercise>
+<exercise id="fs-idm126903712">
+<problem id="fs-idp55794496">
+<para id="fs-idp55794752">What is the effect on the concentration of ammonia, hydroxide ion, and ammonium ion when the following are added to a basic buffer solution of equal concentrations of ammonia and ammonium nitrate:</para>
+<para id="fs-idp70891616">(a) KI</para>
+<para id="fs-idp55795008">(b) NH<sub>3</sub></para>
+<para id="fs-idp49994400">(c) HI</para>
+<para id="fs-idm69978240">(d) NaOH</para>
+<para id="fs-idm69977856">(e) NH<sub>4</sub>Cl</para>
+</problem>
+</exercise>
+<exercise id="fs-idp11558384">
+<problem id="fs-idp11558640">
+<para id="fs-idm1392768">What will be the pH of a buffer solution prepared from 0.20 mol NH<sub>3</sub>, 0.40 mol NH<sub>4</sub>NO<sub>3</sub>, and just enough water to give 1.00 L of solution?</para>
+</problem>
+<solution id="fs-idm130070448">
+<para id="fs-idm130070192">pH = 8.95</para>
+</solution>
+</exercise>
+<exercise id="fs-idm128715952">
+<problem id="fs-idm128715696">
+<para id="fs-idm128715440">Calculate the pH of a buffer solution prepared from 0.155 mol of phosphoric acid, 0.250 mole of KH<sub>2</sub>PO<sub>4</sub>, and enough water to make 0.500 L of solution.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm105355104">
+<problem id="fs-idm105354848">
+<para id="fs-idm146630688">How much solid NaCH<sub>3</sub>CO<sub>2</sub>•3H<sub>2</sub>O must be added to 0.300 L of a 0.50-<emphasis effect="italics">M</emphasis> acetic acid solution to give a buffer with a pH of 5.00? (Hint: Assume a negligible change in volume as the solid is added.)</para>
+</problem>
+<solution id="fs-idm141810560">
+<para id="fs-idm71413376">37 g (0.27 mol)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp80593472">
+<problem id="fs-idp55194448">
+<para id="fs-idp55194704">What mass of NH<sub>4</sub>Cl must be added to 0.750 L of a 0.100-<emphasis effect="italics">M</emphasis> solution of NH<sub>3</sub> to give a buffer solution with a pH of 9.26? (Hint: Assume a negligible change in volume as the solid is added.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm148474576">
+<problem id="fs-idm64046784">
+<para id="fs-idm64046528">A buffer solution is prepared from equal volumes of 0.200 <emphasis effect="italics">M</emphasis> acetic acid and 0.600 <emphasis effect="italics">M</emphasis> sodium acetate. Use 1.80 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> as <emphasis effect="italics">K</emphasis><sub>a</sub> for acetic acid.</para>
+<para id="fs-idm28191808">(a) What is the pH of the solution?</para>
+<para id="fs-idm96193136">(b) Is the solution acidic or basic?</para>
+<para id="fs-idm96192752">(c) What is the pH of a solution that results when 3.00 mL of 0.034 <emphasis effect="italics">M</emphasis> HCl is added to 0.200 L of the original buffer?</para>
+</problem>
+<solution id="fs-idm84079584">
+<para id="fs-idp147776">(a) pH = 5.222;
+(b) The solution is acidic.
+(c) pH = 5.220</para></solution>
+</exercise>
+<exercise id="fs-idm111629776">
+<problem id="fs-idm104905504">
+<para id="fs-idm104905248">A 5.36–g sample of NH<sub>4</sub>Cl was added to 25.0 mL of 1.00 <emphasis effect="italics">M</emphasis> NaOH and the resulting solution</para>
+<para id="fs-idm2218160">diluted to 0.100 L.</para>
+<para id="fs-idm105728688">(a) What is the pH of this buffer solution?</para>
+<para id="fs-idm105728304">(b) Is the solution acidic or basic?</para>
+<para id="fs-idm105727920">(c) What is the pH of a solution that results when 3.00 mL of 0.034 <emphasis effect="italics">M</emphasis> HCl is added to the solution?</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp88494848"><term>buffer capacity</term> <meaning id="fs-idp88495360">amount of an acid or base that can be added to a volume of a buffer solution before its pH changes significantly (usually by one pH unit)</meaning></definition>
+<definition id="fs-idp88495904"><term>buffer</term> <meaning id="fs-idp88496416">mixture of appreciable amounts of a weak acid-base pair the pH of a buffer resists change when small amounts of acid or base are added</meaning></definition>
+<definition id="fs-idm71412016"><term>Henderson-Hasselbalch equation</term> <meaning id="fs-idm71411504">logarithmic version of the acid ionization constant expression, conveniently formatted for calculating the pH of buffer solutions</meaning></definition>
+</glossary>
+</document>

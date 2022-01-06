@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71837</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Chemical Reaction Rates</item>
+<item>Factors Affecting Reaction Rates</item>
+<item>Rate Laws</item>
+<item>Integrated Rate Laws</item>
+<item>Collision Theory</item>
+<item>Reaction Mechanisms</item>
+<item>Catalysis</item>
+</list></md:abstract>
+  <md:uuid>9d111d7d-7cb8-4688-9cd2-46774c477da9</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_12_00_Ectotherm" class="splash">
+<media id="fs-idm5395072" alt="A photograph shows the head and part of the body of a lizard on a rock in a well-lit area.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_00_Ectotherm.jpg"/>
+</media>
+<caption>An agama lizard basks in the sun. As its body warms, the chemical reactions of its metabolism speed up.</caption>
+</figure>
+<para id="fs-idp115543984">The lizard in the photograph is not simply enjoying the sunshine or working on its tan. The heat from the sun’s rays is critical to the lizard’s survival. A warm lizard can move faster than a cold one because the chemical reactions that allow its muscles to move occur more rapidly at higher temperatures. A cold lizard is a slower lizard and an easier meal for predators.</para>
+<para id="eip-894">From baking a cake to determining the useful lifespan of a bridge, rates of chemical reactions play important roles in our understanding of processes that involve chemical changes. Two questions are typically posed when planning to carry out a chemical reaction. The first is: “Will the reaction produce the desired products in useful quantities?” The second question is: “How rapidly will the reaction occur?” A third question is often asked when investigating reactions in greater detail: “What specific molecular-level processes take place as the reaction occurs?” Knowing the answer to this question is of practical importance when the yield or rate of a reaction needs to be controlled.</para>
+<para id="fs-idp260947472">The study of chemical kinetics concerns the second and third questions—that is, the rate at which a reaction yields products and the molecular-scale means by which a reaction occurs. This chapter examines the factors that influence the rates of chemical reactions, the mechanisms by which reactions proceed, and the quantitative techniques used to describe the rates at which reactions occur.</para>
+ </content>
+</document>

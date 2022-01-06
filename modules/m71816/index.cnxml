@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71816</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Early Ideas in Atomic Theory</item>
+<item>Evolution of Atomic Theory</item>
+<item>Atomic Structure and Symbolism</item>
+<item>Chemical Formulas</item>
+</list></md:abstract>
+  <md:uuid>1cb2b2cb-c17a-4cee-b972-13ebc03f7627</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_02_00_Biomarkers" class="splash">
+<media id="fs-idm221482352" alt="A person is shown blowing into a tube connected to a plastic bag. There is a computer screen displaying data that reads “Mass Spectral Breath Analysis.” An arrow from the plastic bag points to an illustration of different molecular compounds contained in the person’s exhalation">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_00_Biomarkers.jpg"/>
+</media>
+<caption>Analysis of molecules in an exhaled breath can provide valuable information, leading to early diagnosis of diseases or detection of environmental exposure to harmful substances. (credit: modification of work by Paul Flowers)</caption>
+</figure>
+<para id="fs-idm172551024">Lung diseases and lung cancers are among the world's most devastating illnesses partly due to delayed detection and diagnosis. Most noninvasive screening procedures aren't reliable, and patients often resist more accurate methods due to discomfort with the procedures or with the potential danger that the procedures cause. But what if you could be accurately diagnosed through a simple breath test? </para><para id="eip-609">Early detection of biomarkers, substances that indicate an organism’s disease or physiological state, could allow diagnosis and treatment before a condition becomes serious or irreversible. Recent studies have shown that your exhaled breath can contain molecules that may be biomarkers for recent exposure to environmental contaminants or for pathological conditions ranging from asthma to lung cancer. Scientists are working to develop biomarker “fingerprints” that could be used to diagnose a specific disease based on the amounts and identities of certain molecules in a patient’s exhaled breath. In Sangeeta Bhatia's lab at MIT, a team used substances that react specifically inside diseased lung tissue; the products of the reactions will be present as biomarkers that can be identified through mass spectrometry (an analytical method discussed later in the chapter). A potential application would allow patients with early symptoms to inhale or ingest a "sensor" substance, and, minutes later, to breathe into a detector for diagnosis. Similar research by scientists such as Laura López-Sánchez has provided similar processes for lung cancer. An essential concept underlying this goal is that of a molecule’s identity, which is determined by the numbers and types of atoms it contains, and how they are bonded together. This chapter will describe some of the fundamental chemical principles related to the composition of matter, including those central to the concept of molecular identity.</para></content>
+</document>

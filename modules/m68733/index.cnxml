@@ -1,0 +1,462 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Development of Quantum Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68733</md:content-id>
+  <md:title>Development of Quantum Theory</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list><item>Extend the concept of wave–particle duality that was observed in electromagnetic radiation to matter as well</item>
+<item>Understand the general idea of the quantum mechanical description of electrons in an atom, and that it uses the notion of three-dimensional wave functions, or orbitals, that define the distribution of probability to find an electron in a particular part of space</item>
+<item>List and describe traits of the four quantum numbers that form the basis for completely specifying the state of an electron in an atom</item></list></md:abstract>
+  <md:uuid>11dd0544-b543-4912-aeac-4879dd964ec0</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm176608480">Bohr’s model explained the experimental data for the hydrogen atom and was widely accepted, but it also raised many questions. Why did electrons orbit at only fixed distances defined by a single quantum number <emphasis effect="italics">n</emphasis> = 1, 2, 3, and so on, but never in between? Why did the model work so well describing hydrogen and one-electron ions, but could not correctly predict the emission spectrum for helium or any larger atoms? To answer these questions, scientists needed to completely revise the way they thought about matter.</para>
+<section id="fs-idm145314080"><title>Behavior in the Microscopic World</title>
+<para id="fs-idm12558432">We know how matter behaves in the macroscopic world—objects that are large enough to be seen by the naked eye follow the rules of classical physics. A billiard ball moving on a table will behave like a particle: It will continue in a straight line unless it collides with another ball or the table cushion, or is acted on by some other force (such as friction). The ball has a well-defined position and velocity (or a well-defined momentum, <emphasis effect="italics">p</emphasis> = <emphasis effect="italics">mv,</emphasis> defined by mass <emphasis effect="italics">m</emphasis> and velocity <emphasis effect="italics">v</emphasis>) at any given moment. In other words, the ball is moving in a classical trajectory. This is the typical behavior of a classical object.</para>
+<para id="fs-idm159209888">When waves interact with each other, they show interference patterns that are not displayed by macroscopic particles such as the billiard ball. For example, interacting waves on the surface of water can produce interference patterns similar to those shown on <link target-id="CNX_Chem_06_03_waterw"/>. This is a case of wave behavior on the macroscopic scale, and it is clear that particles and waves are very different phenomena in the macroscopic realm.</para><figure id="CNX_Chem_06_03_waterw" class="scaled-down">
+<media id="fs-idm91841872" alt="A photograph is shown of ripples in water. The ripples display an interference pattern with each other.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_waterw.jpg"/>
+</media>
+<caption>An interference pattern on the water surface is formed by interacting waves. The waves are caused by reflection of water from the rocks. (credit: modification of work by Sukanto Debnath)</caption>
+</figure>
+<para id="fs-idm161134656">As technological improvements allowed scientists to probe the microscopic world in greater detail, it became increasingly clear by the 1920s that very small pieces of matter follow a different set of rules from those we observe for large objects. The unquestionable separation of waves and particles was no longer the case for the microscopic world.</para>
+<para id="fs-idm151523216">One of the first people to pay attention to the special behavior of the microscopic world was Louis <term class="no-emphasis">de Broglie</term>. He asked the question: If electromagnetic radiation can have particle-like character, can electrons and other submicroscopic particles exhibit wavelike character? In his 1925 doctoral dissertation, de Broglie extended the wave–particle duality of light that Einstein used to resolve the photoelectric-effect paradox to material particles. He predicted that a particle with mass <emphasis effect="italics">m</emphasis> and velocity <emphasis effect="italics">v</emphasis> (that is, with linear momentum <emphasis effect="italics">p</emphasis>) should also exhibit the behavior of a wave with a wavelength value <emphasis effect="italics">λ</emphasis>, given by this expression in which <emphasis effect="italics">h</emphasis> is the familiar Planck’s constant:</para>
+<equation id="fs-idp110855072" class="unnumbered"><m:math><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>h</m:mi><m:mrow><m:mi>m</m:mi><m:mi>v</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>h</m:mi><m:mi>p</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm234395904">This is called the <emphasis effect="italics">de Broglie wavelength</emphasis>. Unlike the other values of <emphasis effect="italics">λ</emphasis> discussed in this chapter, the de Broglie wavelength is a characteristic of particles and other bodies, not electromagnetic radiation (note that this equation involves velocity [<emphasis effect="italics">v</emphasis>, m/s], not frequency [<emphasis effect="italics">ν</emphasis>, Hz]. Although these two symbols appear nearly identical, they mean very different things). Where Bohr had postulated the electron as being a particle orbiting the nucleus in quantized orbits, de Broglie argued that Bohr’s assumption of quantization can be explained if the electron is considered not as a particle, but rather as a circular standing wave such that only an integer number of wavelengths could fit exactly within the orbit (<link target-id="CNX_Chem_06_03_elecw"/>).</para><figure id="CNX_Chem_06_03_elecw" class="scaled-down">
+<media id="fs-idm68754864" alt="This figure includes a circle formed from a dashed line. A sinusoidal wave pattern indicated with a solid red line is wrapped around the circle, centered about the edge of the circle. Line segments extend outward from the circle extending through 2 wave crests along the circle. A double ended arrow is drawn between these segments and is labeled, “wavelength, lambda.” A dashed double headed arrow is drawn from the center to the edge of the circle and is labeled, “radius r.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_elecw.jpg"/>
+</media>
+<caption>If an electron is viewed as a wave circling around the nucleus, an integer number of wavelengths must fit into the orbit for this standing wave behavior to be possible.</caption>
+</figure>
+<para id="fs-idp34135808">For a circular orbit of radius <emphasis effect="italics">r</emphasis>, the circumference is 2<emphasis effect="italics">πr</emphasis>, and so de Broglie’s condition is:</para>
+<equation id="fs-idm78157712" class="unnumbered"><m:math><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>r</m:mi><m:mo>=</m:mo><m:mi>n</m:mi><m:mi>λ</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mo>…</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm114335872">Shortly after de Broglie proposed the wave nature of matter, two scientists at Bell Laboratories, C. J. <term class="no-emphasis">Davisson</term> and L. H. <term class="no-emphasis">Germer</term>, demonstrated experimentally that electrons can exhibit wavelike behavior by showing an interference pattern for electrons travelling through a regular atomic pattern in a crystal. The regularly spaced atomic layers served as slits, as used in other interference experiments. Since the spacing between the layers serving as slits needs to be similar in size to the wavelength of the tested wave for an interference pattern to form, Davisson and Germer used a crystalline nickel target for their “slits,” since the spacing of the atoms within the lattice was approximately the same as the de Broglie wavelengths of the electrons that they used. <link target-id="CNX_Chem_06_03_Electrnin"/> shows an interference pattern. It is strikingly similar to the interference patterns for light shown in Electromagnetic Energy for light passing through two closely spaced, narrow slits. The wave–particle duality of matter can be seen in <link target-id="CNX_Chem_06_03_Electrnin"/> by observing what happens if electron collisions are recorded over a long period of time. Initially, when only a few electrons have been recorded, they show clear particle-like behavior, having arrived in small localized packets that appear to be random. As more and more electrons arrived and were recorded, a clear interference pattern that is the hallmark of wavelike behavior emerged. Thus, it appears that while electrons are small localized particles, their motion does not follow the equations of motion implied by classical mechanics, but instead it is governed by some type of a wave equation. Thus the wave–particle duality first observed with photons is actually a fundamental behavior intrinsic to all quantum particles.</para><figure id="CNX_Chem_06_03_Electrnin">
+<media id="fs-idm29319408" alt="This figure has two parts. Part a shows a diagram of an electron source emitting waves that pass through two narrow slits in a barrier. A wave interference pattern results on the opposite side of the barrier that result in evenly spaced, relatively wide horizontal grey lines on a black surface. The black surface is placed at a distance beyond the barrier. Part b shows an electron source at the far left. Two gold arrows point toward two narrow horizontal slits in a barrier. Around these arrows are many small golden dots. On the right side of the barrier, the gold dots are more widely dispersed. A black surface a distance beyond the barrier shows evenly, yet widely dispersed gold dots. An arrow is present below this black surface and is labeled, “Time.” A second black surface is shown to the right that has many more golden dots that appear to be organizing into a pattern of evenly spaced horizontal line segments. A third black surface is shown even further to the right in which many more gold dots are shown in a very clearly established, evenly spaced pattern of horizontal line segments.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_Electrnin.jpg"/>
+</media>
+<caption>(a) The interference pattern for electrons passing through very closely spaced slits demonstrates that quantum particles such as electrons can exhibit wavelike behavior. (b) The experimental results illustrated here demonstrate the wave–particle duality in electrons.</caption>
+</figure>
+<note id="fs-idm22236656" class="chemistry link-to-learning">
+<para id="fs-idp43121536">View the Dr. Quantum – Double Slit Experiment <link url="http://openstax.org/l/16duality">cartoon</link> for an easy-to-understand description of wave–particle duality and the associated
+experiments.</para>
+</note>
+<example id="fs-idm90452432">
+<para id="fs-idm9842576"><title>Calculating the Wavelength of a Particle</title>
+If an electron travels at a velocity of 1.000 <m:math><m:mo>×</m:mo></m:math> 10<sup>7</sup> m s<sup>–1</sup> and has a mass of 9.109 <m:math><m:mo>×</m:mo></m:math> 10<sup>–28</sup> g, what is its wavelength?</para>
+<para id="fs-idm75342400"><title>Solution</title>
+We can use de Broglie’s equation to solve this problem, but we first must do a unit conversion of Planck’s constant. You learned earlier that 1 J = 1 kg m<sup>2</sup>/s<sup>2</sup>. Thus, we can write <emphasis effect="italics">h</emphasis> = 6.626 <m:math><m:mo>×</m:mo></m:math> 10<sup>–34</sup> J s as 6.626 <m:math><m:mo>×</m:mo></m:math> 10<sup>–34</sup> kg m<sup>2</sup>/s.</para>
+<equation id="fs-idm6762624" class="unnumbered"><m:math><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>h</m:mi><m:mrow><m:mi>m</m:mi><m:mi>v</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<equation id="fs-idm25057728" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>6.626</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−34</m:mn></m:mrow></m:msup><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>kg m</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup><m:mtext>/s</m:mtext></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9.109</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−31</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>7.274</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−11</m:mn></m:mrow></m:msup><m:mtext>m</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm20925440">This is a small value, but it is significantly larger than the size of an electron in the classical (particle) view. This size is the same order of magnitude as the size of an atom. This means that electron wavelike behavior is going to be noticeable in an atom.</para>
+<para id="fs-idm66230464"><title>Check Your Learning</title>
+Calculate the wavelength of a softball with a mass of 100 g traveling at a velocity of 35 m s<sup>–1</sup>, assuming that it can be modeled as a single particle.</para>
+<note id="fs-idp27867504"><title>Answer:</title>
+<para id="fs-idp68691712">1.9 <m:math><m:mo>×</m:mo></m:math> 10<sup>–34</sup> m.</para>
+<para id="fs-idm108992816">We never think of a thrown softball having a wavelength, since this wavelength is so small it is impossible for our senses or any known instrument to detect (strictly speaking, the wavelength of a real baseball would correspond to the wavelengths of its constituent atoms and molecules, which, while much larger than this value, would still be microscopically tiny). The de Broglie wavelength is only appreciable for matter that has a very small mass and/or a very high velocity.</para>
+</note>
+</example>
+<para id="fs-idp75634352">Werner Heisenberg considered the limits of how accurately we can measure properties of an electron or other microscopic particles. He determined that there is a fundamental limit to how accurately one can measure both a particle’s position and its momentum simultaneously. The more accurately we measure the momentum of a particle, the less accurately we can determine its position at that time, and vice versa. This is summed up in what we now call the <term>Heisenberg uncertainty principle</term>: <emphasis effect="italics">It is fundamentally impossible to determine simultaneously and exactly both the momentum and the position of a particle</emphasis>. For a particle of mass <emphasis effect="italics">m</emphasis> moving with velocity <emphasis effect="italics">v<sub>x</sub></emphasis> in the <emphasis effect="italics">x</emphasis> direction (or equivalently with momentum <emphasis effect="italics">p</emphasis><sub>x</sub>), the product of the uncertainty in the position, Δ<emphasis effect="italics">x</emphasis>, and the uncertainty in the momentum, Δ<emphasis effect="italics">p<sub>x</sub></emphasis> , must be greater than or equal to <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mi>ℏ</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> (where <m:math><m:mrow><m:mi>ℏ</m:mi><m:mspace width="0.2em"/><m:mtext>​</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>h</m:mi><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> the value of Planck’s constant divided by 2<emphasis effect="italics">π</emphasis>).</para>
+<equation id="fs-idm168356880" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>x</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>p</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:mi>x</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>m</m:mi><m:mtext>Δ</m:mtext><m:mi>v</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>≥</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>ℏ</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm168918512">This equation allows us to calculate the limit to how precisely we can know both the simultaneous position of an object and its momentum. For example, if we improve our measurement of an electron’s position so that the uncertainty in the position (Δ<emphasis effect="italics">x</emphasis>) has a value of, say, 1 pm (10<sup>–12</sup> m, about 1% of the diameter of a hydrogen atom), then our determination of its momentum must have an uncertainty with a value of at least</para>
+<equation id="fs-idm14343584" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo>[</m:mo> <m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mtext>Δ</m:mtext><m:mi>v</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>ħ</m:mi><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mtext>Δ</m:mtext><m:mi>x</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow> <m:mo>]</m:mo></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.055</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−34</m:mn></m:mrow></m:msup><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>kg m</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup><m:mtext>/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1</m:mn><m:msup><m:mn>0</m:mn><m:mrow><m:mn>−12</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>m</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1</m:mn><m:msup><m:mn>0</m:mn><m:mrow><m:mn>−23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>kg m/s</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation><para id="fs-idp15835984">The value of <emphasis effect="italics">ħ</emphasis> is not large, so the uncertainty in the position or momentum of a macroscopic object like a baseball is too insignificant to observe. However, the mass of a microscopic object such as an electron is small enough that the uncertainty can be large and significant.</para>
+<para id="fs-idm139875104">It should be noted that Heisenberg’s uncertainty principle is not just limited to uncertainties in position and momentum, but it also links other dynamical variables. For example, when an atom absorbs a photon and makes a transition from one energy state to another, the uncertainty in the energy and the uncertainty in the time required for the transition are similarly related, as Δ<emphasis effect="italics">E</emphasis> Δ<emphasis effect="italics">t</emphasis> ≥ <m:math><m:mrow><m:mfrac><m:mi>ℏ</m:mi><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp75105920">Heisenberg’s principle imposes ultimate limits on what is knowable in science. The uncertainty principle can be shown to be a consequence of wave–particle duality, which lies at the heart of what distinguishes modern quantum theory from classical mechanics.</para>
+<note id="fs-idp86836032" class="chemistry link-to-learning">
+<para id="fs-idm179040464">Read this <link url="http://openstax.org/l/16uncertainty">article</link> that describes a recent macroscopic demonstration of the uncertainty principle applied to microscopic objects.</para>
+</note>
+</section>
+<section id="fs-idm2526400"><title>The Quantum–Mechanical Model of an Atom</title>
+<para id="fs-idm146032560">Shortly after de Broglie published his ideas that the electron in a hydrogen atom could be better thought of as being a circular standing wave instead of a particle moving in quantized circular orbits, Erwin Schrödinger extended de Broglie’s work by deriving what is today known as the Schrödinger equation. When Schrödinger applied his equation to hydrogen-like atoms, he was able to reproduce Bohr’s expression for the energy and, thus, the Rydberg formula governing hydrogen spectra. Schrödinger described electrons as three-dimensional stationary waves, or <term>wavefunctions</term>, represented by the Greek letter psi, <emphasis effect="italics">ψ</emphasis>. A few years later, Max <term class="no-emphasis">Born</term> proposed an interpretation of the wavefunction <emphasis effect="italics">ψ</emphasis> that is still accepted today: Electrons are still particles, and so the waves represented by <emphasis effect="italics">ψ</emphasis> are not physical waves but, instead, are complex probability amplitudes. The square of the magnitude of a wavefunction <m:math><m:mrow><m:msup><m:mrow><m:mtext>∣</m:mtext><m:mi>ψ</m:mi><m:mtext>∣</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math> describes the probability of the quantum particle being present near a certain location in space. This means that wavefunctions can be used to determine the distribution of the electron’s density with respect to the nucleus in an atom. In the most general form, the Schrödinger equation can be written as:</para>
+<equation id="fs-idm195751440" class="unnumbered"><m:math><m:mrow><m:mover accent="true"><m:mi>H</m:mi><m:mo>^</m:mo></m:mover><m:mi>ψ</m:mi><m:mo>=</m:mo><m:mi>E</m:mi><m:mi>ψ</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm1012848"><m:math><m:mover accent="true"><m:mi>H</m:mi><m:mo>^</m:mo></m:mover></m:math> is the Hamiltonian operator, a set of mathematical operations representing the total energy of the quantum particle (such as an electron in an atom), <emphasis effect="italics">ψ</emphasis> is the wavefunction of this particle that can be used to find the special distribution of the probability of finding the particle, and <m:math><m:mi>E</m:mi></m:math> is the actual value of the total energy of the particle.</para>
+<para id="fs-idm134389936">Schrödinger’s work, as well as that of Heisenberg and many other scientists following in their footsteps, is generally referred to as <term>quantum mechanics</term>.</para>
+<note id="fs-idm148452752" class="chemistry link-to-learning">
+<para id="fs-idp90020512">You may also have heard of Schrödinger because of his famous thought experiment. <link url="http://openstax.org/l/16superpos">This story</link> explains the concepts of superposition and entanglement as related to a cat in a box with poison.</para>
+</note>
+</section>
+<section id="fs-idp27284864"><title>Understanding Quantum Theory of Electrons in Atoms</title>
+<para id="fs-idm167395376">The goal of this section is to understand the electron orbitals (location of electrons in atoms), their different energies, and other properties. The use of quantum theory provides the best understanding to these topics. This knowledge is a precursor to chemical bonding.</para>
+<para id="fs-idm119067296">As was described previously, electrons in atoms can exist only on discrete energy levels but not between them. It is said that the energy of an electron in an atom is quantized, that is, it can be equal only to certain specific values and can jump from one energy level to another but not transition smoothly or stay between these levels.</para>
+<para id="fs-idm171695728">The energy levels are labeled with an <emphasis effect="italics">n</emphasis> value, where <emphasis effect="italics">n</emphasis> = 1, 2, 3, …. Generally speaking, the energy of an electron in an atom is greater for greater values of <emphasis effect="italics">n</emphasis>. This number, <emphasis effect="italics">n</emphasis>, is referred to as the principal quantum number. The <term>principal quantum number</term> defines the location of the energy level. It is essentially the same concept as the <emphasis effect="italics">n</emphasis> in the Bohr atom description. Another name for the principal quantum number is the shell number. The <term>shells</term> of an atom can be thought of concentric circles radiating out from the nucleus. The electrons that belong to a specific shell are most likely to be found within the corresponding circular area. The further we proceed from the nucleus, the higher the shell number, and so the higher the energy level (<link target-id="CNX_Chem_06_03_Qnumbers"/>). The positively charged protons in the nucleus stabilize the electronic orbitals by electrostatic attraction between the positive charges of the protons and the negative charges of the electrons. So the further away the electron is from the nucleus, the greater the energy it has.</para><figure id="CNX_Chem_06_03_Qnumbers" class="scaled-down"><media id="fs-idp33771488" alt="This figure contains a central green sphere labeled “nucleus.” There is a plus sign in the middle of the sphere. This sphere is encircled by 3 concentric, evenly spaced rings. The first and closest to the center is labeled, “n equals 1.” The second ring is labeled, “n equals 2,” and the third ring is labeled, “n equals 3.” An arrow is drawn from the edge of the central sphere to the right extending out of the concentric rings. It is labeled, “increasing energy.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_Qnumbers.jpg"/>
+</media>
+<caption>Different shells are numbered by principal quantum numbers.</caption></figure><para id="fs-idm166868080">This quantum mechanical model for where electrons reside in an atom can be used to look at electronic transitions, the events when an electron moves from one energy level to another. If the transition is to a higher energy level, energy is absorbed, and the energy change has a positive value. To obtain the amount of energy necessary for the transition to a higher energy level, a photon is absorbed by the atom. A transition to a lower energy level involves a release of energy, and the energy change is negative. This process is accompanied by emission of a photon by the atom. The following equation summarizes these relationships and is based on the hydrogen atom:</para>
+<equation id="fs-idm7360128" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:mtext>Δ</m:mtext><m:mi>E</m:mi><m:mo>=</m:mo><m:msub><m:mi>E</m:mi><m:mrow><m:mtext>final</m:mtext></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>E</m:mi><m:mrow><m:mtext>initial</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mn>−2.18</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−18</m:mn></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msubsup><m:mi>n</m:mi><m:mtext>f</m:mtext><m:mn>2</m:mn></m:msubsup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msubsup><m:mi>n</m:mi><m:mtext>i</m:mtext><m:mn>2</m:mn></m:msubsup></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>J</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm187603312">The values <emphasis effect="italics">n</emphasis><sub>f</sub> and <emphasis effect="italics">n</emphasis><sub>i</sub> are the final and initial energy states of the electron. <link target-id="fs-idp30549440" document="m68732"/> in the previous section of the chapter demonstrates calculations of such energy changes.</para>
+<para id="fs-idm12861216">The principal quantum number is one of three quantum numbers used to characterize an orbital. An <term>atomic orbital</term> is a general region in an atom within which an electron is most probable to reside. The quantum mechanical model specifies the probability of finding an electron in the three-dimensional space around the nucleus and is based on solutions of the Schrödinger equation. In addition, the principal quantum number defines the energy of an electron in a hydrogen or hydrogen-like atom or an ion (an atom or an ion with only one electron) and the general region in which discrete energy levels of electrons in a multi-electron atoms and ions are located.</para><para id="fs-idm174719856">Another quantum number is <emphasis effect="italics">l</emphasis>, the <term>secondary (angular momentum) quantum number</term>. It is an integer that may take the values, <emphasis effect="italics">l =</emphasis> 0, 1, 2, …, <emphasis effect="italics">n</emphasis> – 1. This means that an orbital with <emphasis effect="italics">n</emphasis> = 1 can have only one value of <emphasis effect="italics">l</emphasis>, <emphasis effect="italics">l</emphasis> = 0, whereas <emphasis effect="italics">n</emphasis> = 2 permits <emphasis effect="italics">l</emphasis> = 0 and <emphasis effect="italics">l</emphasis> = 1, and so on. Whereas the principal quantum number, <emphasis effect="italics">n</emphasis>, defines the general size and energy of the orbital, the secondary quantum number <emphasis effect="italics">l</emphasis> specifies the shape of the orbital. Orbitals with the same value of <emphasis effect="italics">l</emphasis> define a <term>subshell</term>.</para>
+<para id="fs-idm13232848">Orbitals with <emphasis effect="italics">l</emphasis> = 0 are called <term><emphasis effect="italics">s</emphasis> orbitals</term> and they make up the <emphasis effect="italics">s</emphasis> subshells. The value <emphasis effect="italics">l</emphasis> = 1 corresponds to the <emphasis effect="italics">p</emphasis> orbitals. For a given <emphasis effect="italics">n</emphasis>, <term><emphasis effect="italics">p</emphasis> orbitals</term> constitute a <emphasis effect="italics">p</emphasis> subshell (e.g., 3<emphasis effect="italics">p</emphasis> if <emphasis effect="italics">n</emphasis> = 3). The orbitals with <emphasis effect="italics">l</emphasis> = 2 are called the <term><emphasis effect="italics">d</emphasis> orbitals</term>, followed by the <emphasis effect="italics">f-,</emphasis> <emphasis effect="italics">g-, and h-</emphasis>orbitals for <emphasis effect="italics">l</emphasis> = 3, 4, and 5.</para>
+<para id="fs-idm184616288">There are certain distances from the nucleus at which the probability density of finding an electron located at a particular orbital is zero. In other words, the value of the wavefunction <emphasis effect="italics">ψ</emphasis> is zero at this distance for this orbital. Such a value of radius <emphasis effect="italics">r</emphasis> is called a radial node. The number of radial nodes in an orbital is <emphasis effect="italics">n</emphasis> – <emphasis effect="italics">l</emphasis> – 1.</para>
+<figure id="CNX_Chem_06_03_sOrbit">
+<media id="fs-idm165672208" alt="This figure provides images and graphs to illustrate the probability of finding an electron in 1 s, 2 s, and 3 s orbitals as a function of the distance from the nucleus. The 1 s orbital is shown as a sphere with a chunk missing. Below it, a graph is marked on its horizontal axis at 0 and 50 p m. The related curve quickly reaches a maximum height and rapidly declines. The label, “1 s” appears below the graph. The 2 s orbital is shown as a red sphere with a blue middle. A chunk is missing from the sphere. A graph below it is marked on its horizontal axis at 0, 50, and 100 p m. The related curve quickly reaches a relative maximum height, a significantly higher absolute maximum height, and then rapidly declines. The label “2s” appears below it. The 3 s orbital is a blue sphere with a red sphere and another blue sphere at its core. A graph below it is marked on its horizontal axis at 0, 50, 100, and 150 p m. The related curve quickly reaches a relative maximum height, a second relative maximum height, a significantly higher absolute maximum, and then declines more gradually than illustrated in the previous 2 graphs. The label, “3 s,” appears below the graph.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_sorbit.jpg"/>
+</media>
+<caption>The graphs show the probability (<emphasis effect="italics">y</emphasis> axis) of finding an electron for the 1<emphasis effect="italics">s</emphasis>, 2<emphasis effect="italics">s</emphasis>, 3<emphasis effect="italics">s</emphasis> orbitals as a function of distance from the nucleus.</caption>
+</figure>
+<para id="fs-idm183763120">Consider the examples in <link target-id="CNX_Chem_06_03_sOrbit"/>. The orbitals depicted are of the <emphasis effect="italics">s</emphasis> type, thus <emphasis effect="italics">l</emphasis> = 0 for all of them. It can be seen from the graphs of the probability densities that there are 1 – 0 – 1 = 0 places where the density is zero (nodes) for 1<emphasis effect="italics">s</emphasis> (<emphasis effect="italics">n</emphasis> = 1), 2 – 0 – 1 = 1 node for 2<emphasis effect="italics">s</emphasis>, and 3 – 0 – 1 = 2 nodes for the 3<emphasis effect="italics">s</emphasis> orbitals.</para>
+<para id="fs-idm158802176">The <emphasis effect="italics">s</emphasis> subshell electron density distribution is spherical and the <emphasis effect="italics">p</emphasis> subshell has a dumbbell shape. The <emphasis effect="italics">d</emphasis> and <term><emphasis effect="italics">f</emphasis> orbitals</term> are more complex. These shapes represent the three-dimensional regions within which the electron is likely to be found.</para>
+<figure id="CNX_Chem_06_03_Oshapes"><media id="fs-idm313200" alt="This diagram illustrates the shapes and quantities of all s, p, d, and f orbitals. The s sublevel is composed of a single spherical orbital. The p sublevel is composed of 3 dumbbell shaped orbitals oriented along the x, y, and z axes. The five d sublevels and seven f sublevels are considerably more complex.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_Oshapes.jpg"/>
+</media>
+
+<caption>Shapes of <emphasis effect="italics">s</emphasis>, <emphasis effect="italics">p</emphasis>, <emphasis effect="italics">d</emphasis>, and <emphasis effect="italics">f</emphasis> orbitals.</caption></figure>
+<para id="fs-idm130253136">The <term>magnetic quantum number</term>, <emphasis effect="italics">m<sub>l</sub></emphasis>, specifies the relative spatial orientation of a particular orbital. Generally speaking, <emphasis effect="italics">m<sub>l</sub></emphasis> can be equal to –<emphasis effect="italics">l</emphasis>, –(<emphasis effect="italics">l –</emphasis> 1), …, 0, …, (<emphasis effect="italics">l</emphasis> – 1), <emphasis effect="italics">l</emphasis>. The total number of possible orbitals with the same value of <emphasis effect="italics">l</emphasis> (that is, in the same subshell) is 2<emphasis effect="italics">l</emphasis> + 1. Thus, there is one <emphasis effect="italics">s</emphasis>-orbital in an <emphasis effect="italics">s</emphasis> subshell (<emphasis effect="italics">l</emphasis> = 0), there are three <emphasis effect="italics">p</emphasis>-orbitals in a <emphasis effect="italics">p</emphasis> subshell (<emphasis effect="italics">l</emphasis> = 1), five <emphasis effect="italics">d</emphasis>-orbitals in a <emphasis effect="italics">d</emphasis> subshell (<emphasis effect="italics">l</emphasis> = 2), seven <emphasis effect="italics">f</emphasis>-orbitals in an <emphasis effect="italics">f</emphasis> subshell (<emphasis effect="italics">l</emphasis> = 3), and so forth. The principal quantum number defines the general value of the electronic energy. The angular momentum quantum number determines the shape of the orbital. And the magnetic quantum number specifies orientation of the orbital in space, as can be seen in <link target-id="CNX_Chem_06_03_Oshapes"/>.</para>
+<figure id="CNX_Chem_06_03_subshells"><media id="fs-idm149251120" alt="This diagram shown has an upward pointing arrow at the left which is labeled “E.” To the right of this arrow near the bottom of the image is a single line which is labeled, “1 s.” Above and just to the right is another black line that is labeled, “2 s.” Slightly up and to the right is a grouping of three black lines labeled, “2 p.” Above and to the right is a single black line labeled, “3 s.” Slightly up and to the right is a grouping of three black lines that are labeled, “3 p.” Just above and to the right is a grouping of 5 black lines labeled, “3 d.” Slightly below and to the right is a single black line which is labeled, “4 s.” Just above and to the right, at a level slightly higher than the previous black lines, is a grouping of three black lines all labeled, “4 p.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_subshells.jpg"/>
+</media>
+
+<caption>The chart shows the energies of electron orbitals in a multi-electron atom.</caption></figure><para id="fs-idm83747248"><link target-id="CNX_Chem_06_03_subshells"/> illustrates the energy levels for various orbitals. The number before the orbital name (such as 2<emphasis effect="italics">s</emphasis>, 3<emphasis effect="italics">p</emphasis>, and so forth) stands for the principal quantum number, <emphasis effect="italics">n</emphasis>. The letter in the orbital name defines the subshell with a specific angular momentum quantum number <emphasis effect="italics">l</emphasis> = 0 for <emphasis effect="italics">s</emphasis> orbitals, 1 for <emphasis effect="italics">p</emphasis> orbitals, 2 for <emphasis effect="italics">d</emphasis> orbitals. Finally, there are more than one possible orbitals for <emphasis effect="italics">l</emphasis> ≥ 1, each corresponding to a specific value of <emphasis effect="italics">m<sub>l</sub></emphasis>. In the case of a hydrogen atom or a one-electron ion (such as He<sup>+</sup>, Li<sup>2+</sup>, and so on), energies of all the orbitals with the same <emphasis effect="italics">n</emphasis> are the same. This is called a degeneracy, and the energy levels for the same principal quantum number, <emphasis effect="italics">n</emphasis>, are called <term>degenerate orbitals</term>. However, in atoms with more than one electron, this degeneracy is eliminated by the electron–electron interactions, and orbitals that belong to different subshells have different energies, as shown on <link target-id="CNX_Chem_06_03_subshells"/>. Orbitals within the same subshell are still degenerate and have the same energy.</para><para id="fs-idp135680192">While the three quantum numbers discussed in the previous paragraphs work well for describing electron orbitals, some experiments showed that they were not sufficient to explain all observed results. It was demonstrated in the 1920s that when hydrogen-line spectra are examined at extremely high resolution, some lines are actually not single peaks but, rather, pairs of closely spaced lines. This is the so-called fine structure of the spectrum, and it implies that there are additional small differences in energies of electrons even when they are located in the same orbital. These observations led Samuel Goudsmit and George Uhlenbeck to propose that electrons have a fourth quantum number. They called this the <term>spin quantum number</term>, or <term><emphasis effect="italics">m<sub>s</sub></emphasis></term>.</para>
+<para id="fs-idm136117120">The other three quantum numbers, <emphasis effect="italics">n</emphasis>, <emphasis effect="italics">l</emphasis>, and <emphasis effect="italics">m<sub>l</sub></emphasis>, are properties of specific atomic orbitals that also define in what part of the space an electron is most likely to be located. Orbitals are a result of solving the Schrödinger equation for electrons in atoms. The electron spin is a different kind of property. It is a completely quantum phenomenon with no analogues in the classical realm. In addition, it cannot be derived from solving the Schrödinger equation and is not related to the normal spatial coordinates (such as the Cartesian <emphasis effect="italics">x</emphasis>, <emphasis effect="italics">y</emphasis>, and <emphasis effect="italics">z</emphasis>). Electron spin describes an intrinsic electron "rotation" or "spinning." Each electron acts as a tiny magnet or a tiny rotating object with an angular momentum, or as a loop with an electric current, even though this rotation or current cannot be observed in terms of spatial coordinates.</para><para id="fs-idm82083456">The magnitude of the overall electron spin can only have one value, and an electron can only “spin” in one of two quantized states. One is termed the α state, with the <emphasis effect="italics">z</emphasis> component of the spin being in the positive direction of the <emphasis effect="italics">z</emphasis> axis. This corresponds to the spin quantum number <m:math><m:mrow><m:msub><m:mi>m</m:mi><m:mi>s</m:mi></m:msub><m:mtext>​</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> The other is called the β state, with the <emphasis effect="italics">z</emphasis> component of the spin being negative and <m:math><m:mrow><m:msub><m:mi>m</m:mi><m:mi>s</m:mi></m:msub><m:mtext>​</m:mtext><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Any electron, regardless of the atomic orbital it is located in, can only have one of those two values of the spin quantum number. The energies of electrons having <m:math><m:mrow><m:msub><m:mi>m</m:mi><m:mi>s</m:mi></m:msub><m:mtext>​</m:mtext><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> and <m:math><m:mrow><m:msub><m:mi>m</m:mi><m:mi>s</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> are different if an external magnetic field is applied.</para>
+<figure id="CNX_Chem_06_03_spin" class="scaled-down"><media id="fs-idm7831072" alt="This diagram has an upward pointing arrow at the left which is labeled, “B subscript 0.” To the right, two spheres are shown. The first has a gray square at the top labeled, “N,” and a second gray square at the bottom labeled, “S.” A curved arrow is pointing right across the surface of the sphere and a gray arrow points upward through the center of the sphere. This sphere is labeled, “Spin plus one-half, spin-up.” The sphere just to the right has a gray square above it labeled, “S,” and a gray square below it labeled, “N.” This sphere has a curved arrow on its surface that is directed to the left and a gray arrow through the center of the sphere that points downward. This sphere is labeled, “Spin negative one-half spin-down.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_spin.jpg"/>
+</media>
+<caption>Electrons with spin values <m:math><m:mrow><m:mo>±</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> in an external magnetic field.</caption></figure><para id="fs-idm91739088"><link target-id="CNX_Chem_06_03_spin"/> illustrates this phenomenon. An electron acts like a tiny magnet. Its moment is directed up (in the positive direction of the <emphasis effect="italics">z</emphasis> axis) for the <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> spin quantum number and down (in the negative <emphasis effect="italics">z</emphasis> direction) for the spin quantum number of <m:math><m:mrow><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> A magnet has a lower energy if its magnetic moment is aligned with the external magnetic field (the left electron on <link target-id="CNX_Chem_06_03_spin"/>) and a higher energy for the magnetic moment being opposite to the applied field. This is why an electron with <m:math><m:mrow><m:msub><m:mi>m</m:mi><m:mi>s</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> has a slightly lower energy in an external field in the positive <emphasis effect="italics">z</emphasis> direction, and an electron with <m:math><m:mrow><m:msub><m:mi>m</m:mi><m:mi>s</m:mi></m:msub><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> has a slightly higher energy in the same field. This is true even for an electron occupying the same orbital in an atom. A spectral line corresponding to a transition for electrons from the same orbital but with different spin quantum numbers has two possible values of energy; thus, the line in the spectrum will show a fine structure splitting.</para>
+</section>
+<section id="fs-idm162650560"><title>The Pauli Exclusion Principle</title>
+<para id="fs-idm225354640">An electron in an atom is completely described by four quantum numbers: <emphasis effect="italics">n</emphasis>, <emphasis effect="italics">l</emphasis>, <emphasis effect="italics">m<sub>l</sub></emphasis>, and <emphasis effect="italics">m<sub>s</sub></emphasis>. The first three quantum numbers define the orbital and the fourth quantum number describes the intrinsic electron property called spin. An Austrian physicist Wolfgang Pauli formulated a general principle that gives the last piece of information that we need to understand the general behavior of electrons in atoms. The <term>Pauli exclusion principle</term> can be formulated as follows: No two electrons in the same atom can have exactly the same set of all the four quantum numbers. What this means is that two electrons can share the same orbital (the same set of the quantum numbers <emphasis effect="italics">n</emphasis>, <emphasis effect="italics">l</emphasis>, and <emphasis effect="italics">m<sub>l</sub></emphasis>) only if their spin quantum numbers <emphasis effect="italics">m<sub>s</sub></emphasis> have different values. Since the spin quantum number can only have two values <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mo>±</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> no more than two electrons can occupy the same orbital (and if two electrons are located in the same orbital, they must have opposite spins). Therefore, any atomic orbital can be populated by only zero, one, or two electrons.</para>
+<para id="fs-idm86324032">The properties and meaning of the quantum numbers of electrons in atoms are briefly summarized in <link target-id="fs-idm21167392"/>.</para>
+<table id="fs-idm21167392" summary="This table has four columns and five rows. The first row is a header row, and it labels each column: “Name,” “Symbol,” “Allowed values,” and “Physical meaning.” Under the “name” column are the following phrases: “Principle quantum number,” “Angular moment or azimuthal quantum number,” “Magnetic quantum number,” and “Spin quantum number.” Under the “symbol” column are the following: “n,” “l,” “m subscript l,” and “m subscript s.” Under the “allowed values” column are the following: “1, 2, 3, 4, ….,” “0 is less than or equal to l which is less than or equal to n minus 1,” “negative l is less than or equal to m subscript l which is less than or equal to l,” and “one half, negative sign.” Under the “physical meaning” column are the following: “Shell, the general region for the value of energy for an electron on the orbital,” “Subshell, the shape of the orbital,” “Orientation of the orbital,” “Direction of the intrinsic quantum ‘spinning’ of the electron.”">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Quantum Numbers, Their Properties, and Significance</entry>
+</row>
+<row valign="top">
+<entry align="left">Name</entry>
+<entry align="left">Symbol</entry>
+<entry align="left">Allowed values</entry>
+<entry align="left">Physical meaning</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">principal quantum number</entry>
+<entry align="left"><emphasis effect="italics">n</emphasis></entry>
+<entry align="left">1, 2, 3, 4, ….</entry>
+<entry align="left">shell, the general region for the value of energy for an electron on the orbital</entry>
+</row>
+<row valign="top">
+<entry align="left">angular momentum or azimuthal quantum number</entry>
+<entry align="left"><emphasis effect="italics">l</emphasis></entry>
+<entry align="left">0 ≤ <emphasis effect="italics">l</emphasis> ≤ <emphasis effect="italics">n</emphasis> – 1</entry>
+<entry align="left">subshell, the shape of the orbital</entry>
+</row>
+<row valign="top">
+<entry align="left">magnetic quantum number</entry>
+<entry align="left"><emphasis effect="italics">m<sub>l</sub></emphasis></entry>
+<entry align="left">– <emphasis effect="italics">l</emphasis> ≤ <emphasis effect="italics">m<sub>l</sub></emphasis> ≤ <emphasis effect="italics">l</emphasis></entry>
+<entry align="left">orientation of the orbital</entry>
+</row>
+<row valign="top">
+<entry align="left">spin quantum number</entry>
+<entry align="left"><emphasis effect="italics">m<sub>s</sub></emphasis></entry>
+<entry align="left"><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></entry>
+<entry align="left">direction of the intrinsic quantum “spinning” of the electron</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><example id="fs-idm127242304">
+<para id="fs-idm213000384"><title>Working with Shells and Subshells</title>
+Indicate the number of subshells, the number of orbitals in each subshell, and the values of <emphasis effect="italics">l</emphasis> and <emphasis effect="italics">m<sub>l</sub></emphasis> for the orbitals in the <emphasis effect="italics">n</emphasis> = 4 shell of an atom.</para>
+<para id="fs-idm132218624"><title>Solution</title>
+For <emphasis effect="italics">n</emphasis> = 4, <emphasis effect="italics">l</emphasis> can have values of 0, 1, 2, and 3. Thus, <emphasis effect="italics">s</emphasis>, <emphasis effect="italics">p</emphasis>, <emphasis effect="italics">d</emphasis>, and <emphasis effect="italics">f</emphasis> subshells are found in the <emphasis effect="italics">n</emphasis> = 4 shell of an atom. For <emphasis effect="italics">l</emphasis> = 0 (the <emphasis effect="italics">s</emphasis> subshell), <emphasis effect="italics">m<sub>l</sub></emphasis> can only be 0. Thus, there is only one 4<emphasis effect="italics">s</emphasis> orbital. For <emphasis effect="italics">l</emphasis> = 1 (<emphasis effect="italics">p</emphasis>-type orbitals), <emphasis effect="italics">m</emphasis> can have values of –1, 0, +1, so we find three 4<emphasis effect="italics">p</emphasis> orbitals. For <emphasis effect="italics">l</emphasis> = 2 (<emphasis effect="italics">d</emphasis>-type orbitals), <emphasis effect="italics">m<sub>l</sub></emphasis> can have values of –2, –1, 0, +1, +2, so we have five 4<emphasis effect="italics">d</emphasis> orbitals. When <emphasis effect="italics">l</emphasis> = 3 (<emphasis effect="italics">f</emphasis>-type orbitals), <emphasis effect="italics">m<sub>l</sub></emphasis> can have values of –3, –2, –1, 0, +1, +2, +3, and we can have seven 4<emphasis effect="italics">f</emphasis> orbitals. Thus, we find a total of 16 orbitals in the <emphasis effect="italics">n</emphasis> = 4 shell of an atom.</para>
+<para id="fs-idm25316128"><title>Check Your Learning</title>
+Identify the subshell in which electrons with the following quantum numbers are found: (a) <emphasis effect="italics">n</emphasis> = 3, <emphasis effect="italics">l</emphasis> = 1; (b) <emphasis effect="italics">n</emphasis> = 5, <emphasis effect="italics">l</emphasis> = 3; (c) <emphasis effect="italics">n</emphasis> = 2, <emphasis effect="italics">l</emphasis> = 0.</para>
+<note id="fs-idm161649072"><title>Answer:</title>
+<para id="fs-idm161138128">(a) 3<emphasis effect="italics">p</emphasis> (b) 5<emphasis effect="italics">f</emphasis> (c) 2<emphasis effect="italics"/>s</para>
+</note>
+</example>
+<example id="fs-idm169030688">
+<para id="fs-idm68824256"><title>Maximum Number of Electrons</title>
+Calculate the maximum number of electrons that can occupy a shell with (a) <emphasis effect="italics">n</emphasis> = 2, (b) <emphasis effect="italics">n</emphasis> = 5, and (c) <emphasis effect="italics">n</emphasis> as a variable. Note you are only looking at the orbitals with the specified <emphasis effect="italics">n</emphasis> value, not those at lower energies.</para>
+<para id="fs-idm174701168"><title>Solution</title>
+(a) When <emphasis effect="italics">n</emphasis> = 2, there are four orbitals (a single 2<emphasis effect="italics">s</emphasis> orbital, and three orbitals labeled 2<emphasis effect="italics">p</emphasis>). These four orbitals can contain eight electrons.</para>
+<para id="fs-idm146693328">(b) When <emphasis effect="italics">n</emphasis> = 5, there are five subshells of orbitals that we need to sum:</para>
+<equation id="fs-idm204408304" class="unnumbered"><m:math><m:mtable equalrows="true" columnalign="left"><m:mtr/>
+<m:mtr><m:mtd><m:mspace width="0.7em"/><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>orbital labeled</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mi>s</m:mi></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mspace width="0.7em"/><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>orbitals labeled</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mi>p</m:mi></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mspace width="0.7em"/><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mtext>orbitals labeled</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mi>d</m:mi></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mspace width="0.7em"/><m:mn>7</m:mn><m:mspace width="0.2em"/><m:mtext>orbitals labeled</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mi>f</m:mi></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>9</m:mn><m:mspace width="0.2em"/><m:mtext>orbitals labeled</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mi>g</m:mi></m:mrow><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mspace width="0.2em"/><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>orbitals total</m:mtext></m:mtd>
+</m:mtr></m:mtable></m:math></equation><para id="fs-idm145553968">Again, each orbital holds two electrons, so 50 electrons can fit in this shell.</para>
+<para id="fs-idm106652512">(c) The number of orbitals in any shell <emphasis effect="italics">n</emphasis> will equal <emphasis effect="italics">n</emphasis><sup>2</sup><sub>.</sub> There can be up to two electrons in each orbital, so the maximum number of electrons will be 2 <m:math><m:mo>×</m:mo></m:math> n<sup>2</sup>.</para><para id="fs-idm13201440"><title>Check Your Learning</title>
+If a shell contains a maximum of 32 electrons, what is the principal quantum number, <emphasis effect="italics">n</emphasis>?</para>
+<note id="fs-idm166820736"><title>Answer:</title>
+<para id="fs-idm135023952"><emphasis effect="italics">n</emphasis> = 4</para>
+</note>
+</example>
+<example id="fs-idm161581600">
+<para id="fs-idm88167648"><title>Working with Quantum Numbers</title>
+Complete the following table for atomic orbitals:</para>
+<table id="fs-idm179835952" class="unnumbered" summary="This table has five columns and five rows. The first row is a header row, and it labels each column: “orbital,” “n,” “l,” “m subscript l degeneracy,” and “number radial nodes.” Under the “orbital” column are: “4 f,” two blank cells, and “5 d.” Under the “n” column is a blank cell, 4, 7, and another blank cell. Under the “l” column is a blank cell, 1, and two more blank cells. Under the “m subscript l degeneracy” column are two blank cells, 7, and then one more blank cell. Under the “number radial nodes” column are two blank cells, 3, and then one more blank cell.">
+<label/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry align="left">Orbital</entry>
+<entry align="left"><emphasis effect="italics">n</emphasis></entry>
+<entry align="left"><emphasis effect="italics">l</emphasis></entry>
+<entry align="left"><emphasis effect="italics">m<sub>l</sub></emphasis> degeneracy</entry>
+<entry align="left">Radial nodes (no.)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">4<emphasis effect="italics">f</emphasis></entry>
+<entry align="left"/>
+<entry align="left"/>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+<row valign="top">
+<entry align="left"/>
+<entry align="left">4</entry>
+<entry align="left">1</entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+<row valign="top">
+<entry align="left"/>
+<entry align="left">7</entry>
+<entry align="left"/>
+<entry align="left">7</entry>
+<entry align="left">3</entry>
+</row>
+<row valign="top">
+<entry align="left">5<emphasis effect="italics">d</emphasis></entry>
+<entry align="left"/>
+<entry align="left"/>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm65557984"><title>Solution</title>
+The table can be completed using the following rules:</para>
+<list id="fs-idm186359744" list-type="bulleted" bullet-style="bullet">
+<item>The orbital designation is <emphasis effect="italics">nl</emphasis>, where <emphasis effect="italics">l</emphasis> = 0, 1, 2, 3, 4, 5, … is mapped to the letter sequence s, <emphasis effect="italics">p</emphasis>, <emphasis effect="italics">d</emphasis>, <emphasis effect="italics">f</emphasis>, <emphasis effect="italics">g</emphasis>, <emphasis effect="italics">h</emphasis>, …,</item>
+<item>The <emphasis effect="italics">m<sub>l</sub></emphasis> degeneracy is the number of orbitals within an <emphasis effect="italics">l</emphasis> subshell, and so is 2<emphasis effect="italics">l</emphasis> + 1 (there is one <emphasis effect="italics">s</emphasis> orbital, three <emphasis effect="italics">p</emphasis> orbitals, five <emphasis effect="italics">d</emphasis> orbitals, seven <emphasis effect="italics">f</emphasis> orbitals, and so forth).</item>
+<item>The number of radial nodes is equal to <emphasis effect="italics">n –</emphasis> <emphasis effect="italics">l</emphasis> – 1.</item>
+</list>
+<table id="fs-idm91407168" class="unnumbered" summary="This table has five columns and five rows. The first row is a header row, and it labels each column: “orbital,” “n,” “l,” “m subscript l degeneracy,” and “number radial nodes.” Under the “orbital” column are: “4 f,” “4 p,” “7 f,” and “5 d.” Under the “n” column are: 4, 4, 7, and 5. Under the “l” column are: 3, 1, 3, and 2. Under the “m subscript l degeneracy” column are: 7, 3, 7, and 5. Under the “number radial nodes” column are: 0, 2, 3, and 2.">
+<label/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry align="left">Orbital</entry>
+<entry align="left"><emphasis effect="italics">n</emphasis></entry>
+<entry align="left"><emphasis effect="italics">l</emphasis></entry>
+<entry align="left"><emphasis effect="italics">m<sub>l</sub></emphasis> degeneracy</entry>
+<entry align="left">Radial nodes (no.)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">4<emphasis effect="italics">f</emphasis></entry>
+<entry align="left">4</entry>
+<entry align="left">3</entry>
+<entry align="left">7</entry>
+<entry align="left">0</entry>
+</row>
+<row valign="top">
+<entry align="left">4<emphasis effect="italics">p</emphasis></entry>
+<entry align="left">4</entry>
+<entry align="left">1</entry>
+<entry align="left">3</entry>
+<entry align="left">2</entry>
+</row>
+<row valign="top">
+<entry align="left">7<emphasis effect="italics">f</emphasis></entry>
+<entry align="left">7</entry>
+<entry align="left">3</entry>
+<entry align="left">7</entry>
+<entry align="left">3</entry>
+</row>
+<row valign="top">
+<entry align="left">5<emphasis effect="italics">d</emphasis></entry>
+<entry align="left">5</entry>
+<entry align="left">2</entry>
+<entry align="left">5</entry>
+<entry align="left">2</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm278629648"><title>Check Your Learning</title>
+How many orbitals have <emphasis effect="italics">l</emphasis> = 2 and <emphasis effect="italics">n</emphasis> = 3?</para>
+<note id="fs-idm55454448"><title>Answer:</title>
+<para id="fs-idm129700624">The five degenerate 3<emphasis effect="italics">d</emphasis> orbitals</para>
+</note>
+</example>
+</section>
+<section id="fs-idm55472464" class="summary"><title>Key Concepts and Summary</title>
+<para id="fs-idm175984864">Macroscopic objects act as particles. Microscopic objects (such as electrons) have properties of both a particle and a wave. Their exact trajectories cannot be determined. The quantum mechanical model of atoms describes the three-dimensional position of the electron in a <emphasis effect="italics">probabilistic</emphasis> manner according to a mathematical function called a wavefunction, often denoted as <emphasis effect="italics">ψ</emphasis>. Atomic wavefunctions are also called orbitals. The squared magnitude of the wavefunction describes the distribution of the probability of finding the electron in a particular region in space. Therefore, atomic orbitals describe the areas in an atom where electrons are most likely to be found.</para>
+<para id="fs-idm163127152">An atomic orbital is characterized by three quantum numbers. The principal quantum number, <emphasis effect="italics">n</emphasis>, can be any positive integer. The general region for value of energy of the orbital and the average distance of an electron from the nucleus are related to <emphasis effect="italics">n</emphasis>. Orbitals having the same value of <emphasis effect="italics">n</emphasis> are said to be in the same shell. The secondary (angular momentum) quantum number, <emphasis effect="italics">l</emphasis>, can have any integer value from 0 to <emphasis effect="italics">n</emphasis> – 1. This quantum number describes the shape or type of the orbital. Orbitals with the same principal quantum number and the same <emphasis effect="italics">l</emphasis> value belong to the same subshell. The magnetic quantum number, <emphasis effect="italics">m<sub>l</sub></emphasis>, with 2<emphasis effect="italics">l</emphasis> + 1 values ranging from –<emphasis effect="italics">l</emphasis> to +<emphasis effect="italics">l</emphasis>, describes the orientation of the orbital in space. In addition, each electron has a spin quantum number, <emphasis effect="italics">m<sub>s</sub></emphasis>, that can be equal to <m:math><m:mrow><m:mo>±</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> No two electrons in the same atom can have the same set of values for all the four quantum numbers.</para></section>
+<section id="fs-idm162744496" class="exercises"><title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp68295120"><problem id="fs-idp43503936">
+<para id="fs-idm56354048">How are the Bohr model and the quantum mechanical model of the hydrogen atom similar? How are they different?</para></problem>
+<solution id="fs-idp39356480">
+<para id="fs-idm153742384">Both models have a central positively charged nucleus with electrons moving about the nucleus in accordance with the Coulomb electrostatic potential. The Bohr model <emphasis effect="italics">assumes</emphasis> that the electrons move in circular orbits that have quantized energies, angular momentum, and radii that are specified by a single quantum number, <emphasis effect="italics">n</emphasis> = 1, 2, 3, …, but this quantization is an ad hoc assumption made by Bohr to incorporate quantization into an essentially classical mechanics description of the atom. Bohr also assumed that electrons orbiting the nucleus normally do not emit or absorb electromagnetic radiation, but do so when the electron switches to a different orbit. In the quantum mechanical model, the electrons do not move in precise orbits (such orbits violate the Heisenberg uncertainty principle) and, instead, a probabilistic interpretation of the electron’s position at any given instant is used, with a mathematical function <emphasis effect="italics">ψ</emphasis> called a wavefunction that can be used to determine the electron’s spatial probability distribution. These wavefunctions, or orbitals, are three-dimensional stationary waves that can be specified by three quantum numbers that arise naturally from their underlying mathematics (no ad hoc assumptions required): the principal quantum number, <emphasis effect="italics">n</emphasis> (the same one used by Bohr), which specifies shells such that orbitals having the same <emphasis effect="italics">n</emphasis> all have the same energy and approximately the same spatial extent; the angular momentum quantum number <emphasis effect="italics">l</emphasis>, which is a measure of the orbital’s angular momentum and corresponds to the orbitals’ general shapes, as well as specifying subshells such that orbitals having the same <emphasis effect="italics">l</emphasis> (and <emphasis effect="italics">n</emphasis>) all have the same energy; and the orientation quantum number <emphasis effect="italics">m</emphasis>, which is a measure of the <emphasis effect="italics">z</emphasis> component of the angular momentum and corresponds to the orientations of the orbitals. The Bohr model gives the same expression for the energy as the quantum mechanical expression and, hence, both properly account for hydrogen’s discrete spectrum (an example of getting the right answers for the wrong reasons, something that many chemistry students can sympathize with), but gives the wrong expression for the angular momentum (Bohr orbits necessarily all have non-zero angular momentum, but some quantum orbitals [<emphasis effect="italics">s</emphasis> orbitals] can have zero angular momentum).</para></solution></exercise>
+<exercise id="fs-idm185773696"><problem id="fs-idp66815744">
+<para id="fs-idm76135056">What are the allowed values for each of the four quantum numbers: <emphasis effect="italics">n</emphasis>, <emphasis effect="italics">l</emphasis>, <emphasis effect="italics">m<sub>l</sub></emphasis>, and <emphasis effect="italics">m<sub>s</sub></emphasis>?</para></problem>
+</exercise>
+<exercise id="fs-idm127368704"><problem id="fs-idm128669984">
+<para id="fs-idm21185232">Describe the properties of an electron associated with each of the following four quantum numbers: <emphasis effect="italics">n</emphasis>, <emphasis effect="italics">l</emphasis>, <emphasis effect="italics">m<sub>l</sub></emphasis>, and <emphasis effect="italics">m<sub>s</sub></emphasis>.</para></problem>
+<solution id="fs-idm68859024">
+<para id="fs-idm141689136"><emphasis effect="italics">n</emphasis> determines the general range for the value of energy and the probable distances that the electron can be from the nucleus. <emphasis effect="italics">l</emphasis> determines the shape of the orbital. <emphasis effect="italics">m<sub>1</sub></emphasis> determines the orientation of the orbitals of the same <emphasis effect="italics">l</emphasis> value with respect to one another. <emphasis effect="italics">m<sub>s</sub></emphasis> determines the spin of an electron.</para></solution></exercise>
+<exercise id="fs-idp16534928"><problem id="fs-idp20951104">
+<para id="fs-idm9901216">Answer the following questions:</para>
+<para id="fs-idm109883392">(a) Without using quantum numbers, describe the differences between the shells, subshells, and orbitals of an atom.</para>
+<para id="fs-idm132276800">(b) How do the quantum numbers of the shells, subshells, and orbitals of an atom differ?</para></problem>
+</exercise>
+<exercise id="fs-idm226431552"><problem id="fs-idm65695376">
+<para id="fs-idm214520128">Identify the subshell in which electrons with the following quantum numbers are found:</para>
+<para id="fs-idp56428624">(a) <emphasis effect="italics">n</emphasis> = 2, <emphasis effect="italics">l</emphasis> = 1</para>
+<para id="fs-idm187643104">(b) <emphasis effect="italics">n</emphasis> = 4, <emphasis effect="italics">l</emphasis> = 2</para>
+<para id="fs-idm22374672">(c) <emphasis effect="italics">n</emphasis> = 6, <emphasis effect="italics">l</emphasis> = 0</para></problem>
+<solution id="fs-idm9934032">
+<para id="fs-idm21799104">(a) 2<emphasis effect="italics">p</emphasis>; (b) 4<emphasis effect="italics">d</emphasis>; (c) 6<emphasis effect="italics">s</emphasis></para></solution></exercise>
+<exercise id="fs-idm65709728"><problem id="fs-idm139613104">
+<para id="fs-idp34462880">Which of the subshells described in the previous question contain degenerate orbitals? How many degenerate orbitals are in each?</para></problem>
+</exercise>
+<exercise id="fs-idm5890656"><problem id="fs-idm79110656">
+<para id="fs-idm109115616">Identify the subshell in which electrons with the following quantum numbers are found:</para>
+<para id="fs-idm151987104">(a) <emphasis effect="italics">n</emphasis> = 3, <emphasis effect="italics">l</emphasis> = 2</para>
+<para id="fs-idm161053968">(b) <emphasis effect="italics">n</emphasis> = 1, <emphasis effect="italics">l</emphasis> = 0</para>
+<para id="fs-idm57606112">(c) <emphasis effect="italics">n</emphasis> = 4, <emphasis effect="italics">l</emphasis> = 3</para></problem>
+<solution id="fs-idm68229680">
+<para id="fs-idm21203088">(a)<emphasis effect="italics"/> 3<emphasis effect="italics">d;</emphasis> (b) 1<emphasis effect="italics">s;</emphasis> (c) 4<emphasis effect="italics">f</emphasis></para></solution></exercise>
+<exercise id="fs-idm109521552"><problem id="fs-idm137252288">
+<para id="fs-idm119068896">Which of the subshells described in the previous question contain degenerate orbitals? How many degenerate orbitals are in each?</para></problem>
+</exercise>
+<exercise id="fs-idm153995968"><problem id="fs-idm196566880">
+<para id="fs-idm94929024">Sketch the boundary surface of a <m:math><m:mrow><m:msub><m:mi>d</m:mi><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mtext>−</m:mtext><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow></m:math> and a <emphasis effect="italics">p<sub>y</sub></emphasis> orbital. Be sure to show and label the axes.</para></problem>
+<solution id="fs-idm94251808">
+<media id="fs-idm73762336" alt="This figure contains two diagrams. The first is of a 2 p subscript y orbital. The second is of a d subscript x squared minus y squared orbital. The first diagram has two spherical shapes joined at the origin when oriented along the y axis on an x y and z coordinate plane. The second diagram shows four ellipsoid lobes with ends centered around the origin. Two of these ellipsoid lobes are oriented along the x axis and two are oriented along the y axis on the x y and z coordinate plane.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_Ex9soln_img.jpg"/>
+</media></solution></exercise><exercise id="fs-idm109481472"><problem id="fs-idm136699376">
+<para id="fs-idp70405328">Sketch the <emphasis effect="italics">p<sub>x</sub></emphasis> and <emphasis effect="italics">d<sub>xz</sub></emphasis> orbitals. Be sure to show and label the coordinates.</para></problem>
+</exercise>
+<exercise id="fs-idm139949520"><problem id="fs-idm137614176">
+<para id="fs-idm139601840">Consider the orbitals shown here in outline.</para>
+<media id="fs-idm55642896" class="scaled-down" alt="This figure contains three diagrams. In x, a circle is drawn with a dot at the center. In y, two nearly ellipsoid shapes are oriented horizontally with a dot between them. In z, four shapes like those in y are oriented in an x shape with a dot at the center.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_03_OrbOutline_img.jpg"/>
+</media>
+<para id="fs-idm9922432">(a) What is the maximum number of electrons contained in an orbital of type (x)? Of type (y)? Of type (z)?</para>
+<para id="fs-idm66251616">(b) How many orbitals of type (x) are found in a shell with <emphasis effect="italics">n</emphasis> = 2? How many of type (y)? How many of type (z)?</para>
+<para id="fs-idm95832304">(c) Write a set of quantum numbers for an electron in an orbital of type (x) in a shell with <emphasis effect="italics">n</emphasis> = 4. Of an orbital of type (y) in a shell with <emphasis effect="italics">n</emphasis> = 2. Of an orbital of type (z) in a shell with <emphasis effect="italics">n</emphasis> = 3.</para>
+<para id="fs-idm165503392">(d) What is the smallest possible <emphasis effect="italics">n</emphasis> value for an orbital of type (x)? Of type (y)? Of type (z)?</para>
+<para id="fs-idm63155984">(e) What are the possible <emphasis effect="italics">l</emphasis> and <emphasis effect="italics">m<sub>l</sub></emphasis> values for an orbital of type (x)? Of type (y)? Of type (z)?</para></problem>
+<solution id="fs-idm82172944">
+<para id="fs-idm90450992">(a) x. 2, y. 2, z. 2; (b) x. 1, y. 3, z. 0; (c) x. 4 0 0 <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> y. 2 1 0 <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> z. 3 2 0 <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>;</m:mo></m:mrow></m:math> (d) x. 1, y. 2, z. 3; (e) x. <emphasis effect="italics">l</emphasis> = 0, <emphasis effect="italics">m<sub>l</sub></emphasis> = 0, y. <emphasis effect="italics">l</emphasis> = 1, <emphasis effect="italics">m<sub>l</sub> =</emphasis> –1, 0, or <emphasis effect="italics">+</emphasis>1, z. <emphasis effect="italics">l</emphasis> = 2, <emphasis effect="italics">m<sub>l</sub></emphasis> = –2, –1, 0, +1, +2</para></solution></exercise>
+<exercise id="fs-idm165892704"><problem id="fs-idm152067344">
+<para id="fs-idp1974272">State the Heisenberg uncertainty principle. Describe briefly what the principle implies.</para></problem>
+</exercise>
+<exercise id="fs-idm130545344"><problem id="fs-idm10062944">
+<para id="fs-idm159667904">How many electrons could be held in the second shell of an atom if the spin quantum number <emphasis effect="italics">m<sub>s</sub></emphasis> could have three values instead of just two? (Hint: Consider the Pauli exclusion principle.)</para></problem>
+<solution id="fs-idm164499408">
+<para id="fs-idm128894672">12</para></solution></exercise>
+<exercise id="fs-idm68696640"><problem id="fs-idm10527280">
+<para id="fs-idm167401120">Which of the following equations describe particle-like behavior? Which describe wavelike behavior? Do any involve both types of behavior? Describe the reasons for your choices.</para>
+<para id="fs-idp41728">(a) <emphasis effect="italics">c</emphasis> = <emphasis effect="italics">λν</emphasis></para>
+<para id="fs-idm177928192">(b) <m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>m</m:mi><m:msup><m:mi>ν</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para>
+<para id="fs-idm133326496">(c) <m:math><m:mrow><m:mi>r</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:msub><m:mi>a</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mi>Z</m:mi></m:mfrac></m:mrow></m:math></para>
+<para id="fs-idm140528512">(d) <emphasis effect="italics">E = hν</emphasis></para>
+<para id="fs-idm152486448">(e) <m:math><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>h</m:mi><m:mrow><m:mi>m</m:mi><m:mi>ν</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-idm24126560"><problem id="fs-idm145952864">
+<para id="fs-idm133893888">Write a set of quantum numbers for each of the electrons with an <emphasis effect="italics">n</emphasis> of 4 in a Se atom.</para></problem>
+<solution id="fs-idm29306320">
+<table id="fs-idm2123072" summary="This table has four columns and seven rows. The first row is a header row, and it labels each column: “n,” “l,” “m subscript l,” and “s.” Under the “n” column are the following numbers: 4, 4, 4, 4, 4, and 4. Under the “l” column are the following numbers: 0, 0, 1, 1, 1, and 1. Under the “m subscript l” column are the following numbers: 0, 0, negative 1, 0, positive 1, and negative 1. Under the “s” column are the following numbers: positive one half, negative one half, positive one half, positive one half, positive one half, and negative one half." class="unnumbered">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="left"><emphasis effect="italics">n</emphasis></entry>
+<entry align="left"><emphasis effect="italics">l</emphasis></entry>
+<entry align="left"><emphasis effect="italics">m<sub>l</sub></emphasis></entry>
+<entry align="left"><emphasis effect="italics">s</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left"><m:math><m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left"><m:math><m:mrow><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">1</entry>
+<entry align="left">−1</entry>
+<entry align="left"><m:math><m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">1</entry>
+<entry align="left">0</entry>
+<entry align="left"><m:math><m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">1</entry>
+<entry align="left">+1</entry>
+<entry align="left"><m:math><m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">1</entry>
+<entry align="left">−1</entry>
+<entry align="left"><m:math><m:mrow><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table></solution></exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm176142304"><term>secondary (angular momentum) quantum number (<emphasis effect="italics">l</emphasis>)</term> <meaning id="fs-idm128619824">quantum number distinguishing the different shapes of orbitals; it is also a measure of the orbital angular momentum</meaning></definition>
+<definition id="fs-idm147438368"><term>atomic orbital</term> <meaning id="fs-idm109054128">mathematical function that describes the behavior of an electron in an atom (also called the wavefunction)</meaning></definition>
+<definition id="fs-idp12032"><term><emphasis effect="italics">d</emphasis> orbital</term> <meaning id="fs-idm164271760">region of space with high electron density that is either four lobed or contains a dumbbell and torus shape; describes orbitals with <emphasis effect="italics">l</emphasis> = 2.</meaning></definition>
+<definition id="fs-idm442273488"><term>degenerate orbitals</term>
+<meaning id="fs-idm476031024">orbitals that have the same energy</meaning></definition>
+<definition id="fs-idm56391008"><term>electron density</term> <meaning id="fs-idp58829584">a measure of the probability of locating an electron in a particular region of space, it is equal to the squared absolute value of the wave function <emphasis effect="italics">ψ</emphasis></meaning></definition>
+<definition id="fs-idm124229040"><term><emphasis effect="italics">f</emphasis> orbital</term> <meaning id="fs-idm110397392">multilobed region of space with high electron density, describes orbitals with <emphasis effect="italics">l</emphasis> = 3</meaning></definition>
+<definition id="fs-idm7039408"><term>Heisenberg uncertainty principle</term> <meaning id="fs-idm152239040">rule stating that it is impossible to exactly determine both certain conjugate dynamical properties such as the momentum and the position of a particle at the same time. The uncertainty principle is a consequence of quantum particles exhibiting wave–particle duality</meaning></definition>
+<definition id="fs-idm166903488"><term>magnetic quantum number (<emphasis effect="italics">m<sub>l</sub></emphasis>)</term> <meaning id="fs-idm147105616">quantum number signifying the orientation of an atomic orbital around the nucleus</meaning></definition>
+<definition id="fs-idm147658080"><term><emphasis effect="italics">p</emphasis> orbital</term> <meaning id="fs-idm165030336">dumbbell-shaped region of space with high electron density, describes orbitals with <emphasis effect="italics">l</emphasis> = 1</meaning></definition>
+<definition id="fs-idm120400016"><term>Pauli exclusion principle</term> <meaning id="fs-idp43763072">specifies that no two electrons in an atom can have the same value for all four quantum numbers</meaning></definition>
+<definition id="fs-idm140352128"><term>principal quantum number (<emphasis effect="italics">n</emphasis>)</term> <meaning id="fs-idm13159072">quantum number specifying the shell an electron occupies in an atom</meaning></definition>
+<definition id="fs-idm160875424"><term>quantum mechanics</term> <meaning id="fs-idm48323504">field of study that includes quantization of energy, wave-particle duality, and the Heisenberg uncertainty principle to describe matter</meaning></definition>
+<definition id="fs-idm144189680"><term><emphasis effect="italics">s</emphasis> orbital</term> <meaning id="fs-idm168786512">spherical region of space with high electron density, describes orbitals with <emphasis effect="italics">l</emphasis> = 0</meaning></definition>
+<definition id="fs-idm174396336"><term>shell</term> <meaning id="fs-idm12350992">atomic orbitals with the same principal quantum number, <emphasis effect="italics">n</emphasis></meaning></definition>
+<definition id="fs-idm137493808"><term>spin quantum number (<emphasis effect="italics">m<sub>s</sub></emphasis>)</term> <meaning id="fs-idm165810304">number specifying the electron spin direction, either <m:math><m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> or <m:math><m:mrow><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></meaning></definition>
+<definition id="fs-idm148470816"><term>subshell</term> <meaning id="fs-idm136103056">atomic orbitals with the same values of <emphasis effect="italics">n</emphasis> and <emphasis effect="italics">l</emphasis></meaning></definition>
+<definition id="fs-idm163956768"><term>wavefunction (<emphasis effect="italics">ψ</emphasis>)</term> <meaning id="fs-idm106660816">mathematical description of an atomic orbital that describes the shape of the orbital; it can be used to calculate the probability of finding the electron at any given location in the orbital, as well as dynamical variables such as the energy and the angular momentum</meaning></definition>
+</glossary>
+</document>

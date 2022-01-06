@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68820</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Balancing Oxidation-Reduction Reactions</item>
+<item>Galvanic Cells</item>
+<item>Standard Reduction Potentials</item>
+<item>The Nernst Equation</item>
+<item>Batteries and Fuel Cells</item>
+<item>Corrosion</item>
+<item>Electrolysis</item>
+</list></md:abstract>
+  <md:uuid>7c92f9c8-534d-4d39-ac6c-cbb9798c92da</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_17_00_EVCharging" class="splash">
+<media id="fs-idm189620448" alt="A photograph is shown of a parked car plugged into a charging station in a paved parking area. The parking area is situated in a wooded area. People are walking in the background in the park-like atmosphere.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_17_00_EVCharging.jpg"/>
+</media>
+<caption>Electric vehicles are powered by batteries, devices that harness the energy of spontaneous redox reactions. (credit: modification of work by Robert Couse-Baker)</caption>
+</figure>
+<para id="fs-idm9057728">Another chapter in this text introduced the chemistry of reduction-oxidation (redox) reactions. This important reaction class is defined by changes in oxidation states for one or more reactant elements, and it includes a subset of reactions involving the transfer of electrons between reactant species. Around the turn of the nineteenth century, chemists began exploring ways these electrons could be transferred <emphasis effect="italics">indirectly</emphasis> via an external circuit rather than directly via intimate contact of redox reactants. In the two centuries since, the field of <emphasis effect="italics">electrochemistry</emphasis> has evolved to yield significant insights on the fundamental aspects of redox chemistry as well as a wealth of technologies ranging from industrial-scale metallurgical processes to robust, rechargeable batteries for electric vehicles (<link target-id="CNX_Chem_17_00_EVCharging"/>). In this chapter, the essential concepts of electrochemistry will be addressed.</para>   </content>
+</document>

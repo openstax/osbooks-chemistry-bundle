@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+
+<title>Ionization Constants of Weak Bases</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68867</md:content-id>
+  <md:title>Ionization Constants of Weak Bases</md:title>
+  <md:abstract/>
+  <md:uuid>c20e2e13-3e0c-4bb5-a07f-0e220bf1b501</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table class="top-titled" id="fs-idp355782560" summary="A table of three columns is titled “Ionization Constants of Weak Bases.” From left to right, the column headings are “Base, Lewis Structure, and K subscript b at 25 degrees Celsius. From left to right the first row contains “ammonia,” an image of its Lewis Structure, and 1.8 times ten to the negative fifth power. The Lewis Structure is the letter N with two side by side dots above it. A line connected to the letter H stems from the left, right, and bottom of the central N. The second row contains “dimethylamine,” an image of its Lewis Structure, and 5.9 times ten to the negative fourth power. The Lewis Structure is the letter N with two side by side dots below it. A line connects upward to the letter H. Lines from the left and right of the central N connect to a C on both sides. Each C has an H connected above, below, and to the exterior of the structure. The third row contains “methylamine,” an image of its Lewis Structure, and 4.4 times ten to the negative fourth power. The Lewis Structure is the letter N with two side by side dots above it. Two lines stem from this N and connect to an H to the right and below. A line stems from the left of the N connecting to the letter C. This C has an H connected above, below, and to the left. The fourth row contains “phenylamine (aniline),” an image of its Lewis Structure, and 4.3 times ten to the negative tenth power. The Lewis Structure is the letter N with two side by side dots below it. Two lines stem diagonally from the bottom of the N connecting to an H to the left and another to the right. A line stems upward from the N connecting to a C which is the lowest corner of a hexagon with the letter C at each of its 6 corners. The bottom-most C has 1 line connecting it to the next C to the left, and two lines connecting it to the C to its right. The 6 sides of the hexagon repeat this pattern, alternating single and double lines. Excluding the Bottom-most C, every other C has a line connecting it to an H extending outward from the center of the hexagon. The fifth row contains “trimethylamine,” an image of its Lewis Structure, and 6.3 times ten to the negative fifth power. The Lewis Structure is a Central N with two dots below it and lines stemming from the top, the left, and the right each connecting to a separate letter C. Each C has three lines connecting to a unique letter H for each line.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c3" align="center">Ionization Constants of Weak Bases</entry>
+</row>
+<row valign="middle">
+<entry align="left">Base</entry>
+<entry align="left">Lewis Structure</entry>
+<entry align="left"><emphasis effect="italics">K</emphasis><sub>b</sub> at 25 °C</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">ammonia</entry>
+<entry align="left"><media id="fs-idp166511952" alt=" " class="scaled-down"><image mime-type="image/jpeg" src="../../media/CNX_Chem_00_II_lsammonia_img.jpg"/></media></entry>
+<entry align="left">1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">dimethylamine</entry>
+<entry align="left">
+<media id="fs-idp219179584" alt=" " class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_00_II_lsdimethyl_img.jpg"/>
+</media>
+</entry>
+<entry align="left">5.9 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">methylamine</entry>
+<entry align="left"><media id="fs-idp47327760" alt=" " class="scaled-down"><image mime-type="image/jpeg" src="../../media/CNX_Chem_00_II_lsmethylam_img.jpg"/></media></entry>
+<entry align="left">4.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">phenylamine (aniline)</entry>
+<entry align="left">
+<media id="fs-idp95503040" alt=" " class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_00_II_lsphenylam_img.jpg"/>
+</media></entry>
+<entry align="left">4.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">trimethylamine</entry>
+<entry align="left"><media id="fs-idm31160096" alt=" " class="scaled-down"><image mime-type="image/jpeg" src="../../media/CNX_Chem_00_II_lstrimethy_img.jpg"/></media></entry>
+<entry align="left">6.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>   </content>
+</document>

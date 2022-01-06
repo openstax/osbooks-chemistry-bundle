@@ -1,0 +1,2426 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+
+<title>Standard Thermodynamic Properties for Selected Substances</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68865</md:content-id>
+  <md:title>Standard Thermodynamic Properties for Selected Substances</md:title>
+  <md:abstract/>
+  <md:uuid>667adccf-f900-4d86-a13d-409c014086ea</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table id="fs-idp78188768" class="top-titled" summary="This is a table with four columns. The columns are labeled, “Substance,” “Delta h subscript 1 superscript degree symbol ( k J mol superscript negative sign ),” “Delta g subscript 1 superscript degree symbol ( k J mol superscript negative sign ),” “s subscript 298 superscript degree symbol ( J K superscript negative one mol superscript negative one).” There are substances listed in the table, and under each substance are different chemical formulas. The first is aluminum. Under aluminum, the first formula is A l solid with values 0, 0, and 28.3 that span the three columns respectively. Next is A l gas with values 324.4, 285.7, and 164.54. Next is A l subscript 2 O subscript 3 solid with values –1676, –1582, and 50.92. Next is A l F subscript 3 solid with values –1510.4, –1425, and 66.5. Next is A l C l subscript 3 solid with values –704.2, –628.8, and 110.67. Next is A l C l subscript 3 dot 6 H subscript 2 O solid with values –2691.57, –2269.40, and 376.56. Next is A l subscript 2 S subscript 3 solid with values –724.0, –492.4, and 116.9. Next is A l subscript 2 ( S O subscript 4 ) subscript 3 solid with values –3445.06, –3506.61, and 239.32. The next substance is antimony. The first chemical formula under antimony is S b solid with values 0, 0, 45.69. Next is S b gas with values 262.34, 222.17, and 180.16. Next is S b subscript 4 O subscript 6 solid with values –1440.55, –1268.17, and 220.92. Next is S b C l subscript 3 gas with values –313.8, –301.2, and 337.80. Next is S b C l subscript 5 gas with values –394.34, –334.29, and 401.94. Next is S b subscript 2 S subscript 3 solid with values –174.89, –173.64, and 182.00. Next is S b C l subscript 3 solid with values –382.17, –323.72, and 184.10. Next is S b O C l solid with values –374.0, none listed, and none listed. The next substance is arsenic. The first chemical formula under arsenic is A s solid with values 0, 0, 35.1. Next is A s gas with values 302.5, 261.0, and 174.21. Next is A s subscript 4 gas with values 143.9, 92.4, and 314. Next is A s subscript 4 O subscript 6 solid with values –1313.94, –1152.52, and 214.22. Next is A s subscript 2 O subscript 5 solid with values –924.87, –782.41, and 105.44. Next is A s C l subscript 3 gas with values –261.50, –248.95, and 327.06. Next is A s subscript 2 S subscript 3 solid with values –169.03, –168.62, and 163.59. Next is A s H subscript 3 gas with values 66.44, 68.93, and 222.78. Next is H subscript 3 A s O subscript 4 solid with values –906.3, none listed, and none listed. The next substance is barium. The first chemical formula under barium is B a solid with values 0, 0, and 62.5. Next is B a gas with values 180, 146, 170.24. Next is B a O solid with values –548.0, –520.3, and 72.1. Next is B a C l subscript 2 solid with values –855.0, –806.7, and 132.2. Next is B a S O subscript 4 solid with values –1473.2, –1362.3, and 132.2. The next substance is beryllium. The first chemical formula listed under beryllium is B e solid with values 0, 0, and 9.50. Next is B e gas with values 324.3, 286.6, and 136.27. Next is B e O solid with values —609.4, —580.1 and 13.8. The next substance is bismuth. The first chemical formula listed under bismuth is B I solid with values 0, 0, and 56.74. Next is B I gas with values 207.1, 168.2 and 187.00. Next is B I subscript 2 O subscript 3 solid with values —573.88, —493.7, and 151.5. Next is B I C l subscript 3 solid with values —379.07, —315.06, and 176.98. Next is B I subscript 2 S subscript 3 solid with values —143.1, —140.6, and 200.4. The next substance is boron. The first chemical formula listed under boron is B solid with values 0, 0, and 5.86. Next is B gas with values 565.0, 521.0 and 153.4. Next is B subscript 2 O subscript 3 solid with values —1273.5, —1194.3, and 53.97. Next is B subscript 2 H subscript 6 gas with values 36.4, 87.6, and 232.1. Next is H subscript 3 B O subscript 3 solid with values —1094.33, —968.92, and 88.83. Next is B F subscript 3 gas with values —1136.0, —1119.4, and 254.4. Next is B C l subscript 3 gas with values —403.8, —388.7, and 290.1. Next is B subscript 3 N subscript 3 H subscript 6 liquid with values —540.99, —392.79, and 199.58. Next is H B O subscript 2 solid with values —794.25, —723.41, and 37.66. The next substance is bromine. The first chemical formula under bromine is B r subscript 2 liquid with values 0, 0, and 152.23. Next is B r subscript 2 gas with values 30.91, 3.142, and 245.5. Next is B r gas with values 111.88, 82.429, and 175.0. Next is B r F subscript 3 gas with values —255.60, —229.45, and 292.42. Next is H B r gas with values —36.3, —53.43, and 198.7. The next substance is cadmium. The first chemical formula under cadmium is C d solid with values 0, 0, and 51.76. Next is C d gas with values 112.01, 77.41, and 167.75. Next is C d O solid with values —258.2, —228.4, and 54.8. Next is C d C l subscript 2 solid with values —391.5, —343.9, and 115.3. Next is C d S O subscript 4 solid with values –933.3, –822.7, and 123.0. Next is C d S solid with values –161.9, –156.5, and 64.9. The next substance is calcium. The first chemical formula under calcium is C a solid with values 0, 0, and 41.6. Next is C a gas with values 178.2, 144.3, and 154.88. Next is C a O solid with values –634.9, –603.3, and 38.1. Next is C a (O H) subscript 2 solid with values ¬–985.2, –897.5, and 83.4. Next is C a S O subscript 4 solid with values –1434.5, –1322.0, and 106.5. Next is C a S O subscript 4 bullet 2 H subscript 2 O solid with values –2022.63, –1797.45, and 194.14. Next is C a C O subscript 3 solid (calcite) with values –1220.0, –1081.4, and 110.0. Next is C a S O subscript 3 bullet H subscript 2 O solid with values –1752.68, –1555.19, and 184.10. The next substance is carbon. The first chemical formula under carbon is C solid (graphite) with values 0, 0, and 5.740. Next is C solid (diamond) with values 1.89, 2.90, and 2.38. Next is C gas with values 716.681, 671.2, and 158.1. Next is C O gas with values –110.52, –137.15, and 197.7. Next is C O subscript 2 gas with values –393.51, –394.36, and 213.8. Next is C H subscript 4 gas with values –74.6, –50.5, and 186.3. Next is C H subscript 3 O H liquid with values –239.2, –166.6, and 126.8. Next is C H subscript 3 O H gas with values –201.0, –162.3, and 239.9. Next is C C l subscript 4 liquid with values –128.2, –62.5, and 214.4. Next is C C l subscript 4 gas with values –95.7, –58.2, and 309.7. Next is C H C l subscript 3 liquid with values –134.1, –73.7, and 201.7. Next is C H C l subscript 3 gas with values –103.14, –70.34, and 295.71. Next is C S subscript 2 liquid with values 89.70, 65.27, and 151.34. Next is C S subscript 2 gas with values 116.9, 66.8, and 238.0. Next is C subscript 2 H subscript 2 gas with values 227.4, 209.2, and 200.9. Next is C subscript 2 H subscript 4 gas with values 52.4, 68.4, and 219.3. Next is C subscript 2 H subscript 6 gas with values –84.0, –32.0, and 229.2. Next is C H subscript 3 C O subscript 2 H liquid with values –484.3, –389.9, and 159.8. Next is C H subscript 3 C O subscript 2 H gas with values –434.84, –376.69, and 282.50. Next is C subscript 2 H subscript 5 O H liquid with values –277.6, –174.8, and 160.7. Next is C subscript 2 H subscript 5 O H gas with values –234.8, –167.9, and 281.6. Next is C subscript 3 H subscript 8 gas with values –103.8, –23.4, and 270.3. Next is C subscript 6 H subscript 6 gas with values 82.927, 129.66, and 269.2. Next is C subscript 6 H subscript 6 liquid with values 49.1, 124.50, and 173.4. Next is C H subscript 2 C l subscript 2 liquid with values –124.2, –63.2, and 177.8. Next is C H subscript 2 C l subscript 2 gas with values –95.4, –65.90, and 270.2. Next is C H subscript 3 C l gas with values –81.9, –60.2, and 234.6. Next is C subscript 2 H subscript 5 C l liquid with values –136.52, –59.31, and 190.79. Next is C subscript 2 H subscript 5 C l gas with values –112.17, –60.39, and 276.00. Next is C subscript 2 N subscript 2 gas with values 308.98, 297.36, and 241.90. Next is H C N liquid with values 108.9, 125.0, and 112.8. Next is H C N gas with values 135.5, 124.7, and 201.8. The next substance is chlorine. The first chemical formula under chlorine is C l subscript 2 gas with values 0, 0, and 223.1. Next is C l gas with values 121.3, 105.70, and 165.2. Next is C l F gas with values –54.48, –55.94, and 217.78. Next is C l F subscript 3 gas with values –158.99, –118.83, and 281.50. Next is C l subscript 2 O gas with values 80.3, 97.9, and 266.2. Next is C l subscript 2 O subscript 7 liquid with values 238.1, blank, and blank. Next is C l subscript 2 O subscript 7 gas with values 272.0, blank, and blank. Next is H C l gas with values –92.307, –95.299, and 186.9. Next is H C l O subscript 4 liquid with values –40.58, blank, and blank. The next substance is chromium. The first chemical formula under chromium is C r solid with values 0, 0, and 23.77. Next is C r gas with values 396.6, 351.8, and 174.50. Next is C r subscript 2 O subscript 3 solid with values –1139.7, –1058.1, and 81.2. Next is C r O subscript 3 solid with values –589.5, blank, and blank. Next is (N H subscript 4) subscript 2 C r subscript 2 O subscript 7 solid with values–1806.7, blank, and blank. The next substance is cobalt. The first chemical formula under cobalt is C o solid with values 0, 0, and 30.0. Next is C o O solid with values –237.9, –214.2, and 52.97. Next is C o subscript 3 O subscript 4 solid with values –910.02, –794.98, and 114.22. Next is C o (N O subscript 3) subscript 2 solid with values –420.5, blank, and blank. The next substance is copper. The first chemical formula under copper is C u solid with values 0, 0, and 33.15. Next is C u gas with values 338.32, 298.58, and 166.38. Next is C u O solid with values –157.3, –129.7, and 42.63. Next is C u subscript 2 O solid with values –168.6, –146.0, and 93.14. Next is C u S solid with values –53.1, –53.6, and 66.5. Next is C u subscript 2 S solid with values –79.5, –86.2, and 120.9. Next is C u S O subscript 4 solid with values –771.36, –662.2, and 109.2. Next is S u (N O subscript 3) subscript 2 solid with values –302.9, blank, and blank The next substance is fluorine. The first chemical formula under fluorine is F subscript 2 gas with values 0, 0, and 202.8. Next is F gas with values 79.4, 62.3, and 158.8. Next is F subscript 2 O gas with values 24.7, 41.9, and 247.43. Next is H F gas with values –273.3, –275.4, and 173.8. The next substance is hydrogen. The first chemical formula under hydrogen is H subscript 2 gas with values 0, 0, and 130.7. Next is H gas with values 217.97, 203.26, and 114.7. Next is H subscript 2 O liquid with values –285.83, –237.1, and 70.0. Next is H subscript 2 O gas with values –241.82, –228.59, and 188.8. Next is H subscript 2 O subscript 2 liquid with values –187.78, –120.35, and 109.6. Next is H subscript 2 O subscript 2 gas with values –136.3, –105.6, and 232.7. Next is H F gas with values –273.3, –275.4, and 173.8. Next is H C l gas with values –92.307, –95.299, and 186.9. Next is H B r gas with values –36.3, –53.43, and 198.7. Next is H I gas with values 26.48, 1.70, and 206.59. Next is H subscript 2 S gas with values –20.6, –33.4, and 205.8. Next is H subscript 2 S e gas with values 29.7, 15.9, and 219.0. The next substance is iodine. The first chemical formula under iodine is I subscript 2 solid with values 0, 0, and 116.14. Next is I subscript 2 gas with values 62.438, 19.3, and 260.7. Next is I gas with values 106.84, 70.2, and 180.8. Next is I F gas with values 95.65, –118.49, and 236.06. Next is I C l gas with values 17.78, –5.44, and 247.44. Next is I B r gas with values 40.84, 3.72, and 258.66. Next is I F subscript 7 gas with values –943.91, –818.39, and 346.44. Next is H I gas with values 26.48, 1.70, and 206.59. The next substance is iron. The first chemical formula under iron is F e solid with values 0, 0, and 27.3. Next is F e gas with values 416.3, 370.7, and 180.5. Next is F e subscript 2 O subscript 3 solid with values –824.2, –742.2, and 87.40. Next is F e subscript 3 O subscript 4 solid with values –1118.4, –1015.4, and 146.4. Next is F e (C O) subscript 5 liquid with values –774.04, –705.42, and 338.07. Next is F e (C O) subscript 5 gas with values –733.87, –697.26, and 445.18. Next is F e C l subscript 2 solid with values –341.79, –302.30, and 117.95. Next is F e C l subscript 3 solid with values –399.49, –334.00, and 142.3. Next is F e O solid with values –272.0, –255.2, and 60.75. Next is F e (O H) subscript 2 solid with values –569.0, –486.5, and 88. . Next is F e (O H) subscript 3 solid with values –823.0, –696.5, and 106.7. Next is F e S solid with values –100.0, –100.4, and 60.29. Next is F e subscript 3 C solid with values 25.10, 20.08, and 104.60. The next substance is lead. The first chemical formula under lead is P b solid with values 0, 0, and 64.81. Next is P b gas with values 195.2, 162, and 175.4. Next is P b O solid (yellow) with values –217.32, –187.89, and 68.70. Next is P b O solid (red) with values –218.99, –188.93, and 66.5. Next is P b (O H) subscript 2 solid with values –515.9, blank, and blank. Next is P b S solid with values –100.4, –98.7, and 91.2. Next is P b (N O subscript 3) subscript 2 solid with values –451.9, blank, and blank. Next is P b O subscript 2 solid with values –277.4, –217.3, and 68.6. Next is P b C l subscript 2 solid with values –359.4, –314.1, and 136.0. The next substance is lithium. The first chemical formula under lithium is L I solid with values 0, 0, 29.1. Next is L i gas with values 159.3, 126.6, and 138.8. Next is L I H solid with values –90.5, –68.3, and 20.0. Next is L I (O H) solid with values –487.5, –441.5, and 42.8. Next is L I F solid with values –616.0, –587.5, and 35.7. Next is L I subscript 2 C O subscript 3 solid with values –1216.04, –1132.19, and 90.17. The next substance is manganese. The first chemical formula under manganese is M n solid with values 0, 0, and 32.0. Next is M n gas with values 280.7, 238.5, and 173.7. Next is M n O solid with values –385.2, –362.9, and 59.71. Next is M n O subscript 2 solid with values –520.03, –465.1, and 53.05. Next is M n subscript 2 O subscript 3 solid with values –958.97, –881.15, and 110.46. Next is M n subscript 3 O subscript 4 solid with values –1378.83, –1283.23, and 155.64. The next substance is mercury. The first chemical formula under mercury is H g liquid with values 0, 0, and 75.9. Next is H g gas with values 61.4, 31.8, and 175.0. Next is H g O solid (red) with values –90.83, –58.5, and 70.29. Next is H g O solid (yellow) with values –90.46, –58.43, and 71.13. Next is H g C l subscript 2 solid with values –224.3, –178.6, and 146.0. Next is H g subscript 2 C l subscript 2 solid with values –265.4, –210.7, and 191.6. Next is H g S solid (red) with values –58.16, –50.6, and 82.4. Next is H g S solid (black) with values –53.56, –47.70, and 88.28. Next is H g S O subscript 4 solid with values –707.51, –594.13, and 0.00. The next substance is nitrogen. The first chemical formula under nitrogen is N subscript 2 gas with values 0, 0, and 191.6. Next is N gas with values 472.704, 455.5, and 153.3. Next is N O gas with values 90.25, 87.6, and 210.8. Next is N O subscript 2 with values 33.2, 51.30, and 240.1. Next is N subscript 2 O gas with values 81.6, 103.7, and 220.0. Next is N subscript 2 O subscript 3 gas with values 83.72, 139.41, and 312.17. Next is N subscript 2 O subscript 4 gas with values 11.1, 99.8, and 304.4. Next is N subscript 2 O subscript 5 gas with values 11.3, 115.1, and 355.7. Next is N H subscript 3 gas with values –45.9, –16.5, and 192.8. Next is N subscript 2 H subscript 4 liquid with values 50.63, 149.43, and 121.21. Next is H subscript 2 H subscript 4 gas with values 95.4, 159.4, and 238.5. Next is N H subscript 4 N O subscript 3 solid with values –365.56, –183.87, and 151.08. Next is N H subscript 4 C l solid with values –314.43, –202.87, and 94.6. Next is N H subscript 4 B r solid with values –270.8, –175.2, and 113.0. Next is N H subscript 4 I solid with values –201.4, –112.5, and 117.0. Next is N H subscript 4 N O subscript 2 solid with values –256.5, blank, and blank. Next is H N O subscript 3 liquid with values –174.1, –80.7, and 155.6. Next is H N O subscript 3 gas with values –133.9, –73.5, and 266.9. The next substance is oxygen. The first chemical formula under oxygen is O subscript 2 gas with values 0, 0, and 205.2. Next is O gas with values 249.17, 231.7, and 161.1. Next is O subscript 3 gas with values 142.7, 163.2, and 238.9. The next substance is phosphorus. The first chemical formula under phosphorus is P subscript 4 solid with values 0, 0, and 164.4. Next is P subscript 4 gas with values 58.91, 24.4, and 280.0. Next is P gas with values 314.64, 278.25, and 163.19. Next is P H subscript 3 gas with values 5.4, 13.5, and 210.2. Next is P C l subscript 3 gas with values –287.0, –267.8, and 311.78. Next is P C l subscript 5 gas with values –374.9, –305.0, and 364.4. Next is P subscript 4 O subscript 6 solid with values –1640.1, blank, and blank. Next is P subscript 4 O subscript 10 solid with values –2984.0, –2697.0, and 228.86. Next is H P O subscript 3 solid with values –948.5, blank, and blank. Next is H subscript 3 P O subscript 2 solid with values –604.6, blank, and blank. Next is H subscript 3 P O subscript 3 solid with values –964.4, blank, and blank. Next is H subscript 3 P O subscript 4 solid with values –1279.0, –1119.1, and 110.50. Next is H subscript 3 P O subscript 4 liquid with values –1266.9, –1124.3, and 110.5. Next is H subscript 4 P subscript 2 O subscript 7 solid with values –2241.0, blank, and blank. Next is P O C l subscript 3 liquid with values –597.1, –520.8, and 222.5. Next is P O C l subscript 3 gas with values –558.5, –512.9, and 325.5. The next substance is potassium. The first chemical formula under potassium is K solid with values 0, 0, and 64.7. Next is K gas with values 89.0, 60.5, and 160.3. Next is K F solid with values –576.27, –537.75, and 66.57. Next is K C l solid with values –436.5, –408.5, and 82.6. The next substance is silicon. The first chemical formula under silicon is S I solid with values 0, 0, and 18.8. Next is S I gas with values 450.0, 405.5, and 168.0. Next is S I O subscript 2 solid with values –910.7, –856.3, and 41.5. Next is S I H subscript 4 gas with values 34.3, 56.9, and 204.6. Next is H subscript 2 S I O subscript 3 solid with values –1188.67, –1092.44, and 133.89. Next is H subscript 4 S I O subscript 4 solid with values –1481.14, –1333.02, and 192.46. Next is S I F subscript 4 gas with values –1615.0, –1572.8, and 282.8. Next is S I C l subscript 4 liquid with values –687.0, –619.8, and 239.7. Next is S I C l subscript 4 gas with values –662.75, –622.58, and 330.62. Next is S I C (solid, beta cubic) with values –73.22, –70.71, and 16.61. Next is S I C (solid, alpha hexagonal) with values –71.55, –69.04, and 16.48. The next substance is silver. The first chemical formula under silver is A g solid with values 0, 0, and 42.55. Next is A g gas with values 284.9, 246.0, and 172.89. Next is A g subscript 2 O solid with values –31.05, –11.20, and 121.3. Next is A g C l solid with values –127.0, –109.8, and 96.3. Next is A g subscript 2 S solid with values –32.6, –40.7, and 144.0. The next substance is sodium. The first chemical formula under sodium is N a solid with values 0, 0, and 51.3. Next is N a gas with values 107.5, 77.0, and 153.7. Next is N a subscript 2 O solid with values –414.2, –375.5, and 75.1. Next is N a C l solid with values –411.2, –384.1, and 72.1. The next substance is sulfur. The first chemical formula under sulfur is S subscript 8 solid (rhombic) with values 0, 0, and 256.8. Next is S gas with values 278.81, 238.25, and 167.82. Next is S O subscript 2 gas with values –296.83, –300.1, and 248.2. Next is S O subscript 3 gas with values –395.72, –371.06, and 256.76. Next is H subscript 2 S gas with values –20.6, –33.4, and 205.8. Next is H subscript 2 S O subscript 4 liquid with values –813.989, –690.00, and 156.90. Next is H subscript 2 S subscript 2 O subscript 7 solid with values –1273.6, blank, and blank. Next is S F subscript 4 gas with values –728.43, –684.84, and 291.12. Next is S F subscript 6 gas with values –1220.5, –1116.5, and 291.5. Next is S C l subscript 2 liquid with values –50, blank, and blank. Next is S C l subscript 2 gas with values –19.7, blank, and blank. Next is S subscript 2 C l subscript 2 liquid with values –59.4, blank, and blank. Next is S subscript 2 C l subscript 2 gas with values –19.50, –29.25, and 319.45. Next is S O C l subscript 2 gas with values –212.55, –198.32, and 309.66. Next is S O C l subscript 2 liquid with values –245.6, blank, and blank. Next is S O subscript 2 C l subscript 2 liquid with values –394.1, blank, and blank. Next is S O subscript 2 C l subscript 2 gas with values –354.80, –310.45, and 311.83. The next substance is tin. The first chemical formula under tin is S n solid with values 0, 0, and 51.2. Next is S n gas with values 301.2, 266.2, and 168.5. Next is S n O solid with values –285.8, –256.9, and 56.5. Next is S n O subscript 2 solid with values –577.6, –515.8, and 49.0. Next is S n C l subscript 4 liquid with values –511.3, –440.1, and 258.6. Next is S n C l subscript 4 gas with values –471.5, –432.2, and 365.8. The next substance is titanium. The first chemical formula under titanium is T I solid with values 0, 0, and 30.7. Next is T I gas with values 473.0, 428.4, and 180.3. Next is T I O subscript 2 solid with values –944.0, –888.8, and 50.6. Next is T I C l subscript 4 liquid with values –804.2, –737.2, and 252.4. Next is T I C l subscript 4 gas with values –763.2, –726.3, and 353.2. The next substance is tungsten. The first chemical formula under tungsten is W solid with values 0, 0, and 32.6. Next is W gas with values 849.4, 807.1, and 174.0. Next is W O subscript 3 solid with values –842.9, –764.0, and 75.9. The next substance is zinc. The first chemical formula under zinc is Z n solid with values 0, 0, and 41.6. Next is Z n gas with values 130.73, 95.14, and 160.98. Next is Z n O solid with values –350.5, –320.5, and 43.7. Next is Z n C l subscript 2 solid with values –415.1, –369.43, and 111.5. Next is Z n S solid with values –206.0, –201.3, and 57.7. Next is Z n S O subscript 4 solid with values –982.8, –871.5, and 110.5. Next is Z n C O subscript 3 solid with values –812.78, –731.57, and 82.42. The next category is complexes. The first chemical formula under complexes is [C o(N H subscript 3) subscript 4(N O subscript 2) subscript 2] N O subscript 3, cis with values –898.7, blank, and blank. Next is [C o(N H subscript 3) subscript 4(N O subscript 2) subscript 2] N O subscript 3, trans with values –896.2, blank, and blank. Next is N H subscript 4[C o(N H subscript 3) subscript 2 (N O subscript 2) subscript 4] with values –837.6, blank, and blank. Next is [C o (N H subscript 3) subscript 6][C o (N H subscript 3) subscript 2 (N O subscript 2 ) subscript 4] subscript 3 with values –2733.0, blank, and blank. Next is [C o (N H subscript 3) subscript 4 C l subscript 2] C l, cis with values –874.9, blank, and blank. Next is [C o (N H subscript 3) subscript 4 C l subscript 2] C l, trans with values –877.4, blank, and blank. Next is [C o (e n) subscript 2 (N O subscript 2) subscript 2] N O subscript 3, cis with values –689.5, blank, and blank. Next is [C o (e n) subscript 2 C l subscript 2] C l, cis with values –681.2, blank, and blank. Next is [C o (e n) subscript 2 C l subscript 2] C l, trans with values –677.4, blank, and blank. Next is [C o (e n) subscript 3](C l O subscript 4) subscript 3 with values –762.7, blank, and blank. Next is [C o(e n) subscript 3] B r subscript 2 with values –595.8, blank, and blank. Next is [C o(e n) subscript 3] I subscript 2 with values –475.3, blank, and blank. Next is [C o(e n) subscript 3] I subscript 3 with values –519.2, blank, and blank. Next is [C o (N H subscript 3) subscript 6] ( C l O subscript 4) subscript 3 with values –1034.7, –221.1, and 615. Next is [C o (N H subscript 3) subscript 5 N O subscript 2](N O subscript 3) subscript 2 with values –1088.7, –412.9, and 331. Next is [C o (N H subscript 3) subscript 6](N O subscript 3) subscript 3 with values –1282.0, –524.5, and 448. Next is [C o (N H subscript 3) subscript 5 C l] C l subscript 2 with values –1017.1, –582.5, and 366.1. Next is [P t (N H subscript 3) subscript 4] C l subscript 2 with values –725.5, blank, and blank. Next is [N I (N H subscript 3) subscript 6] C l subscript 2 with values –994.1, blank, and blank. Next is [N I (N H subscript 3) subscript 6] B r subscript 2 with values –923.8, blank, and blank. Last is [N I (N H subscript 3) subscript 6] I subscript 2 with values –808.3, blank, and blank."><tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c4">Standard Thermodynamic Properties for Selected Substances</entry>
+</row>
+<row valign="middle">
+<entry align="left">Substance</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>f</m:mn><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> (kJ mol<sup>–1</sup>)</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mn>f</m:mn><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> (kJ mol<sup>–1</sup>)</entry>
+<entry align="left"><m:math><m:mrow><m:mi>S</m:mi><m:mtext>°</m:mtext></m:mrow></m:math> (J K<sup>–1</sup> mol<sup>–1</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">aluminum</entry>
+</row>
+<row valign="middle">
+<entry align="left">Al(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">28.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">Al(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">324.4</entry>
+<entry align="left">285.7</entry>
+<entry align="left">164.54</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Al<sup>3+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–531</entry>
+<entry align="left">–485</entry>
+<entry align="left">–321.7</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Al<sub>2</sub>O<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1676</entry>
+<entry align="left">–1582</entry>
+<entry align="left">50.92</entry>
+</row>
+<row valign="middle">
+<entry align="left">AlF<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1510.4</entry>
+<entry align="left">–1425</entry>
+<entry align="left">66.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">AlCl<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–704.2</entry>
+<entry align="left">–628.8</entry>
+<entry align="left">110.67</entry>
+</row>
+<row valign="middle">
+<entry align="left">AlCl<sub>3</sub>·6H<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–2691.57</entry>
+<entry align="left">–2269.40</entry>
+<entry align="left">376.56</entry>
+</row>
+<row valign="middle">
+<entry align="left">Al<sub>2</sub>S<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–724.0</entry>
+<entry align="left">–492.4</entry>
+<entry align="left">116.9</entry>
+</row>
+<row valign="middle">
+<entry align="left">Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–3445.06</entry>
+<entry align="left">–3506.61</entry>
+<entry align="left">239.32</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">antimony</entry>
+</row>
+<row valign="middle">
+<entry align="left">Sb(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">45.69</entry>
+</row>
+<row valign="middle">
+<entry align="left">Sb(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">262.34</entry>
+<entry align="left">222.17</entry>
+<entry align="left">180.16</entry>
+</row>
+<row valign="middle">
+<entry align="left">Sb<sub>4</sub>O<sub>6</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1440.55</entry>
+<entry align="left">–1268.17</entry>
+<entry align="left">220.92</entry>
+</row>
+<row valign="middle">
+<entry align="left">SbCl<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–313.8</entry>
+<entry align="left">–301.2</entry>
+<entry align="left">337.80</entry>
+</row>
+<row valign="middle">
+<entry align="left">SbCl<sub>5</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–394.34</entry>
+<entry align="left">–334.29</entry>
+<entry align="left">401.94</entry>
+</row>
+<row valign="middle">
+<entry align="left">Sb<sub>2</sub>S<sub>3</sub>(s)</entry>
+<entry align="left">–174.89</entry>
+<entry align="left">–173.64</entry>
+<entry align="left">182.00</entry>
+</row>
+<row valign="middle">
+<entry align="left">SbCl<sub>3</sub>(s)</entry>
+<entry align="left">–382.17</entry>
+<entry align="left">–323.72</entry>
+<entry align="left">184.10</entry>
+</row>
+<row valign="middle">
+<entry align="left">SbOCl(s)</entry>
+<entry align="left">–374.0</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">arsenic</entry>
+</row>
+<row valign="middle">
+<entry align="left">As(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">35.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">As(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">302.5</entry>
+<entry align="left">261.0</entry>
+<entry align="left">174.21</entry>
+</row>
+<row valign="middle">
+<entry align="left">As<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">143.9</entry>
+<entry align="left">92.4</entry>
+<entry align="left">314</entry>
+</row>
+<row valign="middle">
+<entry align="left">As<sub>4</sub>O<sub>6</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1313.94</entry>
+<entry align="left">–1152.52</entry>
+<entry align="left">214.22</entry>
+</row>
+<row valign="middle">
+<entry align="left">As<sub>2</sub>O<sub>5</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–924.87</entry>
+<entry align="left">–782.41</entry>
+<entry align="left">105.44</entry>
+</row>
+<row valign="middle">
+<entry align="left">AsCl<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–261.50</entry>
+<entry align="left">–248.95</entry>
+<entry align="left">327.06</entry>
+</row>
+<row valign="middle">
+<entry align="left">As<sub>2</sub>S<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–169.03</entry>
+<entry align="left">–168.62</entry>
+<entry align="left">163.59</entry>
+</row>
+<row valign="middle">
+<entry align="left">AsH<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">66.44</entry>
+<entry align="left">68.93</entry>
+<entry align="left">222.78</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>3</sub>AsO<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–906.3</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">barium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ba(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">62.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ba(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">180</entry>
+<entry align="left">146</entry>
+<entry align="left">170.24</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Ba<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–537.6</entry>
+<entry align="left">–560.8</entry>
+<entry align="left">9.6</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">BaO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–548.0</entry>
+<entry align="left">–520.3</entry>
+<entry align="left">72.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">BaCl<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–855.0</entry>
+<entry align="left">–806.7</entry>
+<entry align="left">123.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">BaSO<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1473.2</entry>
+<entry align="left">–1362.3</entry>
+<entry align="left">132.2</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">beryllium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Be(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">9.50</entry>
+</row>
+<row valign="middle">
+<entry align="left">Be(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">324.3</entry>
+<entry align="left">286.6</entry>
+<entry align="left">136.27</entry>
+</row>
+<row valign="middle">
+<entry align="left">BeO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–609.4</entry>
+<entry align="left">–580.1</entry>
+<entry align="left">13.8</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">bismuth</entry>
+</row>
+<row valign="middle">
+<entry align="left">Bi(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">56.74</entry>
+</row>
+<row valign="middle">
+<entry align="left">Bi(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">207.1</entry>
+<entry align="left">168.2</entry>
+<entry align="left">187.00</entry>
+</row>
+<row valign="middle">
+<entry align="left">Bi<sub>2</sub>O<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–573.88</entry>
+<entry align="left">–493.7</entry>
+<entry align="left">151.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">BiCl<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–379.07</entry>
+<entry align="left">–315.06</entry>
+<entry align="left">176.98</entry>
+</row>
+<row valign="middle">
+<entry align="left">Bi<sub>2</sub>S<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–143.1</entry>
+<entry align="left">–140.6</entry>
+<entry align="left">200.4</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">boron</entry>
+</row>
+<row valign="middle">
+<entry align="left">B(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">5.86</entry>
+</row>
+<row valign="middle">
+<entry align="left">B(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">565.0</entry>
+<entry align="left">521.0</entry>
+<entry align="left">153.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">B<sub>2</sub>O<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1273.5</entry>
+<entry align="left">–1194.3</entry>
+<entry align="left">53.97</entry>
+</row>
+<row valign="middle">
+<entry align="left">B<sub>2</sub>H<sub>6</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">36.4</entry>
+<entry align="left">87.6</entry>
+<entry align="left">232.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>3</sub>BO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1094.33</entry>
+<entry align="left">–968.92</entry>
+<entry align="left">88.83</entry>
+</row>
+<row valign="middle">
+<entry align="left">BF<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–1136.0</entry>
+<entry align="left">–1119.4</entry>
+<entry align="left">254.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">BCl<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–403.8</entry>
+<entry align="left">–388.7</entry>
+<entry align="left">290.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">B<sub>3</sub>N<sub>3</sub>H<sub>6</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–540.99</entry>
+<entry align="left">–392.79</entry>
+<entry align="left">199.58</entry>
+</row>
+<row valign="middle">
+<entry align="left">HBO<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–794.25</entry>
+<entry align="left">–723.41</entry>
+<entry align="left">37.66</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">bromine</entry>
+</row>
+<row valign="middle">
+<entry align="left">Br<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">152.23</entry>
+</row>
+<row valign="middle">
+<entry align="left">Br<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">30.91</entry>
+<entry align="left">3.142</entry>
+<entry align="left">245.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">Br(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">111.88</entry>
+<entry align="left">82.429</entry>
+<entry align="left">175.0</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Br<sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–120.9</entry>
+<entry align="left">–102.82</entry>
+<entry align="left">80.71</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">BrF<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–255.60</entry>
+<entry align="left">–229.45</entry>
+<entry align="left">292.42</entry>
+</row>
+<row valign="middle">
+<entry align="left">HBr(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–36.3</entry>
+<entry align="left">–53.43</entry>
+<entry align="left">198.7</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">cadmium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cd(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">51.76</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cd(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">112.01</entry>
+<entry align="left">77.41</entry>
+<entry align="left">167.75</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Cd<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–75.90</entry>
+<entry align="left">–77.61</entry>
+<entry align="left">–73.2</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">CdO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–258.2</entry>
+<entry align="left">–228.4</entry>
+<entry align="left">54.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">CdCl<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–391.5</entry>
+<entry align="left">–343.9</entry>
+<entry align="left">115.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">CdSO<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–933.3</entry>
+<entry align="left">–822.7</entry>
+<entry align="left">123.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">CdS(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–161.9</entry>
+<entry align="left">–156.5</entry>
+<entry align="left">64.9</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">calcium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ca(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">41.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ca(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">178.2</entry>
+<entry align="left">144.3</entry>
+<entry align="left">154.88</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Ca<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–542.96</entry>
+<entry align="left">–553.04</entry>
+<entry align="left">–55.2</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">CaO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–634.9</entry>
+<entry align="left">–603.3</entry>
+<entry align="left">38.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ca(OH)<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–985.2</entry>
+<entry align="left">–897.5</entry>
+<entry align="left">83.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">CaSO<sub>4</sub>(s)</entry>
+<entry align="left">–1434.5</entry>
+<entry align="left">–1322.0</entry>
+<entry align="left">106.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">CaSO<sub>4</sub>·2H<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–2022.63</entry>
+<entry align="left">–1797.45</entry>
+<entry align="left">194.14</entry>
+</row>
+<row valign="middle">
+<entry align="left">CaCO<sub>3</sub>(<emphasis effect="italics">s</emphasis>) (calcite)</entry>
+<entry align="left">–1220.0</entry>
+<entry align="left">–1081.4</entry>
+<entry align="left">110.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">CaSO<sub>3</sub>·H<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1752.68</entry>
+<entry align="left">–1555.19</entry>
+<entry align="left">184.10</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">carbon</entry>
+</row>
+<row valign="middle">
+<entry align="left">C(<emphasis effect="italics">s</emphasis>) (graphite)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">5.740</entry>
+</row>
+<row valign="middle">
+<entry align="left">C(<emphasis effect="italics">s</emphasis>) (diamond)</entry>
+<entry align="left">1.89</entry>
+<entry align="left">2.90</entry>
+<entry align="left">2.38</entry>
+</row>
+<row valign="middle">
+<entry align="left">C(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">716.681</entry>
+<entry align="left">671.2</entry>
+<entry align="left">158.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">CO(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–110.52</entry>
+<entry align="left">–137.15</entry>
+<entry align="left">197.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">CO<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–393.51</entry>
+<entry align="left">–394.36</entry>
+<entry align="left">213.8</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">CO<sub>3</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–677.1</entry>
+<entry align="left">–527.8</entry>
+<entry align="left">–56.9</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">CH<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–74.6</entry>
+<entry align="left">–50.5</entry>
+<entry align="left">186.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">CH<sub>3</sub>OH(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–239.2</entry>
+<entry align="left">–166.6</entry>
+<entry align="left">126.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">CH<sub>3</sub>OH(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–201.0</entry>
+<entry align="left">–162.3</entry>
+<entry align="left">239.9</entry>
+</row>
+<row valign="middle">
+<entry align="left">CCl<sub>4</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–128.2</entry>
+<entry align="left">–62.5</entry>
+<entry align="left">214.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">CCl<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–95.7</entry>
+<entry align="left">–58.2</entry>
+<entry align="left">309.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">CHCl<sub>3</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–134.1</entry>
+<entry align="left">–73.7</entry>
+<entry align="left">201.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">CHCl<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–103.14</entry>
+<entry align="left">–70.34</entry>
+<entry align="left">295.71</entry>
+</row>
+<row valign="middle">
+<entry align="left">CS<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">89.70</entry>
+<entry align="left">65.27</entry>
+<entry align="left">151.34</entry>
+</row>
+<row valign="middle">
+<entry align="left">CS<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">116.9</entry>
+<entry align="left">66.8</entry>
+<entry align="left">238.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>2</sub>H<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">227.4</entry>
+<entry align="left">209.2</entry>
+<entry align="left">200.9</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>2</sub>H<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">52.4</entry>
+<entry align="left">68.4</entry>
+<entry align="left">219.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>2</sub>H<sub>6</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–84.0</entry>
+<entry align="left">–32.0</entry>
+<entry align="left">229.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">CH<sub>3</sub>CO<sub>2</sub>H(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–484.3</entry>
+<entry align="left">–389.9</entry>
+<entry align="left">159.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">CH<sub>3</sub>CO<sub>2</sub>H(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–434.84</entry>
+<entry align="left">–376.69</entry>
+<entry align="left">282.50</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>2</sub>H<sub>5</sub>OH(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–277.6</entry>
+<entry align="left">–174.8</entry>
+<entry align="left">160.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>2</sub>H<sub>5</sub>OH(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–234.8</entry>
+<entry align="left">–167.9</entry>
+<entry align="left">281.6</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">HCO<sub>3</sub> <sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–691.11</entry>
+<entry align="left">–587.06</entry>
+<entry align="left">95</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">C<sub>3</sub>H<sub>8</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–103.8</entry>
+<entry align="left">–23.4</entry>
+<entry align="left">270.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>6</sub>H<sub>6</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">82.927</entry>
+<entry align="left">129.66</entry>
+<entry align="left">269.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>6</sub>H<sub>6</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">49.1</entry>
+<entry align="left">124.50</entry>
+<entry align="left">173.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">CH<sub>2</sub>Cl<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–124.2</entry>
+<entry align="left">–63.2</entry>
+<entry align="left">177.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">CH<sub>2</sub>Cl<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–95.4</entry>
+<entry align="left">–65.90</entry>
+<entry align="left">270.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">CH<sub>3</sub>Cl(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–81.9</entry>
+<entry align="left">–60.2</entry>
+<entry align="left">234.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>2</sub>H<sub>5</sub>Cl(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–136.52</entry>
+<entry align="left">–59.31</entry>
+<entry align="left">190.79</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>2</sub>H<sub>5</sub>Cl(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–112.17</entry>
+<entry align="left">–60.39</entry>
+<entry align="left">276.00</entry>
+</row>
+<row valign="middle">
+<entry align="left">C<sub>2</sub>N<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">308.98</entry>
+<entry align="left">297.36</entry>
+<entry align="left">241.90</entry>
+</row>
+<row valign="middle">
+<entry align="left">HCN(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">108.9</entry>
+<entry align="left">125.0</entry>
+<entry align="left">112.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">HCN(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">135.5</entry>
+<entry align="left">124.7</entry>
+<entry align="left">201.8</entry>
+
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">cesium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cs<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–248</entry>
+<entry align="left">–282.0</entry>
+<entry align="left">133</entry>
+
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">chlorine</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cl<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">223.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cl(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">121.3</entry>
+<entry align="left">105.70</entry>
+<entry align="left">165.2</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Cl<sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–167.2</entry>
+<entry align="left">–131.2</entry>
+<entry align="left">56.5</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">ClF(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–54.48</entry>
+<entry align="left">–55.94</entry>
+<entry align="left">217.78</entry>
+</row>
+<row valign="middle">
+<entry align="left">ClF<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–158.99</entry>
+<entry align="left">–118.83</entry>
+<entry align="left">281.50</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cl<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">80.3</entry>
+<entry align="left">97.9</entry>
+<entry align="left">266.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cl<sub>2</sub>O<sub>7</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">238.1</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cl<sub>2</sub>O<sub>7</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">272.0</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">HCl(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–92.307</entry>
+<entry align="left">–95.299</entry>
+<entry align="left">186.9</entry>
+</row>
+<row valign="middle">
+<entry align="left">HClO<sub>4</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–40.58</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">chromium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cr(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">23.77</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cr(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">396.6</entry>
+<entry align="left">351.8</entry>
+<entry align="left">174.50</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">CrO<sub>4</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–881.2</entry>
+<entry align="left">–727.8</entry>
+<entry align="left">50.21</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">Cr<sub>2</sub>O<sub>7</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–1490.3</entry>
+<entry align="left">–1301.1</entry>
+<entry align="left">261.9</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">Cr<sub>2</sub>O<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1139.7</entry>
+<entry align="left">–1058.1</entry>
+<entry align="left">81.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">CrO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–589.5</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1806.7</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">cobalt</entry>
+</row>
+<row valign="middle">
+<entry align="left">Co(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">30.0</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Co<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–67.4</entry>
+<entry align="left">–51.5</entry>
+<entry align="left">–155</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Co<sup>3+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">92</entry>
+<entry align="left">134</entry>
+<entry align="left">–305.0</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">CoO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–237.9</entry>
+<entry align="left">–214.2</entry>
+<entry align="left">52.97</entry>
+</row>
+<row valign="middle">
+<entry align="left">Co<sub>3</sub>O<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–910.02</entry>
+<entry align="left">–794.98</entry>
+<entry align="left">114.22</entry>
+</row>
+<row valign="middle">
+<entry align="left">Co(NO<sub>3</sub>)<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–420.5</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">copper</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cu(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">33.15</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cu(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">338.32</entry>
+<entry align="left">298.58</entry>
+<entry align="left">166.38</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">Cu<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">51.9</entry>
+<entry align="left">50.2</entry>
+<entry align="left">–26</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Cu<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">64.77</entry>
+<entry align="left">65.49</entry>
+<entry align="left">–99.6</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">CuO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–157.3</entry>
+<entry align="left">–129.7</entry>
+<entry align="left">42.63</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cu<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–168.6</entry>
+<entry align="left">–146.0</entry>
+<entry align="left">93.14</entry>
+</row>
+<row valign="middle">
+<entry align="left">CuS(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–53.1</entry>
+<entry align="left">–53.6</entry>
+<entry align="left">66.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cu<sub>2</sub>S(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–79.5</entry>
+<entry align="left">–86.2</entry>
+<entry align="left">120.9</entry>
+</row>
+<row valign="middle">
+<entry align="left">CuSO<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–771.36</entry>
+<entry align="left">–662.2</entry>
+<entry align="left">109.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">Cu(NO<sub>3</sub>)<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–302.9</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">fluorine</entry>
+</row>
+<row valign="middle">
+<entry align="left">F<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">202.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">F(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">79.4</entry>
+<entry align="left">62.3</entry>
+<entry align="left">158.8</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">F<sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–332.6</entry>
+<entry align="left">–278.8</entry>
+<entry align="left">–13.8</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">F<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">24.7</entry>
+<entry align="left">41.9</entry>
+<entry align="left">247.43</entry>
+</row>
+<row valign="middle">
+<entry align="left">HF(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–273.3</entry>
+<entry align="left">–275.4</entry>
+<entry align="left">173.8</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">hydrogen</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">130.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">H(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">217.97</entry>
+<entry align="left">203.26</entry>
+<entry align="left">114.7</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">H<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">OH<sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–230.0</entry>
+<entry align="left">–157.2</entry>
+<entry align="left">–10.75</entry>
+</row>
+
+
+
+<row valign="middle">
+<entry align="left">H<sub>3</sub>O<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–285.8</entry>
+<entry align="left"/>
+<entry align="left">69.91</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–285.83</entry>
+<entry align="left">–237.1</entry>
+<entry align="left">70.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–241.82</entry>
+<entry align="left">–228.59</entry>
+<entry align="left">188.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>2</sub>O<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–187.78</entry>
+<entry align="left">–120.35</entry>
+<entry align="left">109.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>2</sub>O<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–136.3</entry>
+<entry align="left">–105.6</entry>
+<entry align="left">232.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">HF(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–273.3</entry>
+<entry align="left">–275.4</entry>
+<entry align="left">173.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">HCl(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–92.307</entry>
+<entry align="left">–95.299</entry>
+<entry align="left">186.9</entry>
+</row>
+<row valign="middle">
+<entry align="left">HBr(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–36.3</entry>
+<entry align="left">–53.43</entry>
+<entry align="left">198.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">HI(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">26.48</entry>
+<entry align="left">1.70</entry>
+<entry align="left">206.59</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>2</sub>S(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–20.6</entry>
+<entry align="left">–33.4</entry>
+<entry align="left">205.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>2</sub>Se(<emphasis effect="italics">g)</emphasis></entry>
+<entry align="left">29.7</entry>
+<entry align="left">15.9</entry>
+<entry align="left">219.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">HNO<sub>3</sub></entry>
+<entry align="left">–206.64</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">iodine</entry>
+</row>
+<row valign="middle">
+<entry align="left">I<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">116.14</entry>
+</row>
+<row valign="middle">
+<entry align="left">I<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">62.438</entry>
+<entry align="left">19.3</entry>
+<entry align="left">260.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">I(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">106.84</entry>
+<entry align="left">70.2</entry>
+<entry align="left">180.8</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">I<sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–55.19</entry>
+<entry align="left">–51.57</entry>
+<entry align="left">11.13</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">IF(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">95.65</entry>
+<entry align="left">–118.49</entry>
+<entry align="left">236.06</entry>
+</row>
+<row valign="middle">
+<entry align="left">ICl(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">17.78</entry>
+<entry align="left">–5.44</entry>
+<entry align="left">247.44</entry>
+</row>
+<row valign="middle">
+<entry align="left">IBr(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">40.84</entry>
+<entry align="left">3.72</entry>
+<entry align="left">258.66</entry>
+</row>
+<row valign="middle">
+<entry align="left">IF<sub>7</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–943.91</entry>
+<entry align="left">–818.39</entry>
+<entry align="left">346.44</entry>
+</row>
+<row valign="middle">
+<entry align="left">HI(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">26.48</entry>
+<entry align="left">1.70</entry>
+<entry align="left">206.59</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">iron</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">27.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">416.3</entry>
+<entry align="left">370.7</entry>
+<entry align="left">180.5</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Fe<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–89.1</entry>
+<entry align="left">–78.90</entry>
+<entry align="left">–137.7</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Fe<sup>3+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–48.5</entry>
+<entry align="left">–4.7</entry>
+<entry align="left">–315.9</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">Fe<sub>2</sub>O<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–824.2</entry>
+<entry align="left">–742.2</entry>
+<entry align="left">87.40</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe<sub>3</sub>O<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1118.4</entry>
+<entry align="left">–1015.4</entry>
+<entry align="left">146.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe(CO)<sub>5</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–774.04</entry>
+<entry align="left">–705.42</entry>
+<entry align="left">338.07</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe(CO)<sub>5</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–733.87</entry>
+<entry align="left">–697.26</entry>
+<entry align="left">445.18</entry>
+</row>
+<row valign="middle">
+<entry align="left">FeCl<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–341.79</entry>
+<entry align="left">–302.30</entry>
+<entry align="left">117.95</entry>
+</row>
+<row valign="middle">
+<entry align="left">FeCl<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–399.49</entry>
+<entry align="left">–334.00</entry>
+<entry align="left">142.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">FeO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–272.0</entry>
+<entry align="left">–255.2</entry>
+<entry align="left">60.75</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe(OH)<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–569.0</entry>
+<entry align="left">–486.5</entry>
+<entry align="left">88.</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe(OH)<sub>3</sub>(<emphasis effect="italics">s)</emphasis></entry>
+<entry align="left">–823.0</entry>
+<entry align="left">–696.5</entry>
+<entry align="left">106.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">FeS(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–100.0</entry>
+<entry align="left">–100.4</entry>
+<entry align="left">60.29</entry>
+</row>
+<row valign="middle">
+<entry align="left">Fe<sub>3</sub>C(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">25.10</entry>
+<entry align="left">20.08</entry>
+<entry align="left">104.60</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">lead</entry>
+</row>
+<row valign="middle">
+<entry align="left">Pb(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">64.81</entry>
+</row>
+<row valign="middle">
+<entry align="left">Pb(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">195.2</entry>
+<entry align="left">162.</entry>
+<entry align="left">175.4</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Pb<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–1.7</entry>
+<entry align="left">–24.43</entry>
+<entry align="left">10.5</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">PbO(<emphasis effect="italics">s</emphasis>) (yellow)</entry>
+<entry align="left">–217.32</entry>
+<entry align="left">–187.89</entry>
+<entry align="left">68.70</entry>
+</row>
+<row valign="middle">
+<entry align="left">PbO(<emphasis effect="italics">s</emphasis>) (red)</entry>
+<entry align="left">–218.99</entry>
+<entry align="left">–188.93</entry>
+<entry align="left">66.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">Pb(OH)<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–515.9</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">PbS(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–100.4</entry>
+<entry align="left">–98.7</entry>
+<entry align="left">91.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">Pb(NO<sub>3</sub>)<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–451.9</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">PbO<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–277.4</entry>
+<entry align="left">–217.3</entry>
+<entry align="left">68.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">PbCl<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–359.4</entry>
+<entry align="left">–314.1</entry>
+<entry align="left">136.0</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">lithium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Li(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">29.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">Li(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">159.3</entry>
+<entry align="left">126.6</entry>
+<entry align="left">138.8</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Li<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–278.5</entry>
+<entry align="left">–293.3</entry>
+<entry align="left">13.4</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">LiH(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–90.5</entry>
+<entry align="left">–68.3</entry>
+<entry align="left">20.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">Li(OH)(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–487.5</entry>
+<entry align="left">–441.5</entry>
+<entry align="left">42.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">LiF(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–616.0</entry>
+<entry align="left">–587.5</entry>
+<entry align="left">35.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">Li<sub>2</sub>CO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1216.04</entry>
+<entry align="left">–1132.19</entry>
+<entry align="left">90.17</entry>
+</row>
+
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">magnesium</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">Mg<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–466.9</entry>
+<entry align="left">–454.8</entry>
+<entry align="left">–138.1</entry>
+</row>
+
+
+
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">manganese</entry>
+</row>
+<row valign="middle">
+<entry align="left">Mn(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">32.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">Mn(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">280.7</entry>
+<entry align="left">238.5</entry>
+<entry align="left">173.7</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Mn<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–220.8</entry>
+<entry align="left">–228.1</entry>
+<entry align="left">–73.6</entry>
+</row>
+
+
+
+<row valign="middle">
+<entry align="left">MnO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–385.2</entry>
+<entry align="left">–362.9</entry>
+<entry align="left">59.71</entry>
+</row>
+<row valign="middle">
+<entry align="left">MnO<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–520.03</entry>
+<entry align="left">–465.1</entry>
+<entry align="left">53.05</entry>
+</row>
+<row valign="middle">
+<entry align="left">Mn<sub>2</sub>O<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–958.97</entry>
+<entry align="left">–881.15</entry>
+<entry align="left">110.46</entry>
+</row>
+<row valign="middle">
+<entry align="left">Mn<sub>3</sub>O<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1378.83</entry>
+<entry align="left">–1283.23</entry>
+<entry align="left">155.64</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">MnO<sub>4</sub> <sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–541.4</entry>
+<entry align="left">–447.2</entry>
+<entry align="left">191.2</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">MnO<sub>4</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–653.0</entry>
+<entry align="left">–500.7</entry>
+<entry align="left">59</entry>
+</row>
+
+
+
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">mercury</entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">75.9</entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">61.4</entry>
+<entry align="left">31.8</entry>
+<entry align="left">175.0</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">Hg<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left"/>
+<entry align="left">164.8</entry>
+<entry align="left"/>
+</row>
+
+<row valign="middle">
+<entry align="left">Hg<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">172.4</entry>
+<entry align="left">153.9</entry>
+<entry align="left">84.5</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">HgO(<emphasis effect="italics">s</emphasis>) (red)</entry>
+<entry align="left">–90.83</entry>
+<entry align="left">–58.5</entry>
+<entry align="left">70.29</entry>
+</row>
+<row valign="middle">
+<entry align="left">HgO(<emphasis effect="italics">s</emphasis>) (yellow)</entry>
+<entry align="left">–90.46</entry>
+<entry align="left">–58.43</entry>
+<entry align="left">71.13</entry>
+</row>
+<row valign="middle">
+<entry align="left">HgCl<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–224.3</entry>
+<entry align="left">–178.6</entry>
+<entry align="left">146.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">Hg<sub>2</sub>Cl<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–265.4</entry>
+<entry align="left">–210.7</entry>
+<entry align="left">191.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">HgS(<emphasis effect="italics">s</emphasis>) (red)</entry>
+<entry align="left">–58.16</entry>
+<entry align="left">–50.6</entry>
+<entry align="left">82.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">HgS(<emphasis effect="italics">s</emphasis>) (black)</entry>
+<entry align="left">–53.56</entry>
+<entry align="left">–47.70</entry>
+<entry align="left">88.28</entry>
+</row>
+<row valign="middle">
+<entry align="left">HgSO<sub>4</sub>(<emphasis effect="italics">s)</emphasis></entry>
+<entry align="left">–707.51</entry>
+<entry align="left">–594.13</entry>
+<entry align="left">0.00</entry>
+</row>
+
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">nickel</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">Ni<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–64.0</entry>
+<entry align="left">–46.4</entry>
+<entry align="left">–159</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">nitrogen</entry>
+</row>
+<row valign="middle">
+<entry align="left">N<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">191.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">N(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">472.704</entry>
+<entry align="left">455.5</entry>
+<entry align="left">153.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">NO(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">90.25</entry>
+<entry align="left">87.6</entry>
+<entry align="left">210.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">NO<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">33.2</entry>
+<entry align="left">51.30</entry>
+<entry align="left">240.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">N<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">81.6</entry>
+<entry align="left">103.7</entry>
+<entry align="left">220.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">N<sub>2</sub>O<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">83.72</entry>
+<entry align="left">139.41</entry>
+<entry align="left">312.17</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">NO<sub>3</sub> <sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–205.0</entry>
+<entry align="left">–108.7</entry>
+<entry align="left">146.4</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">N<sub>2</sub>O<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">11.1</entry>
+<entry align="left">99.8</entry>
+<entry align="left">304.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">N<sub>2</sub>O<sub>5</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">11.3</entry>
+<entry align="left">115.1</entry>
+<entry align="left">355.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">NH<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–45.9</entry>
+<entry align="left">–16.5</entry>
+<entry align="left">192.8</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">NH<sub>4</sub> <sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–132.5</entry>
+<entry align="left">–79.31</entry>
+<entry align="left">113.4</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">N<sub>2</sub>H<sub>4</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">50.63</entry>
+<entry align="left">149.43</entry>
+<entry align="left">121.21</entry>
+</row>
+<row valign="middle">
+<entry align="left">N<sub>2</sub>H<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">95.4</entry>
+<entry align="left">159.4</entry>
+<entry align="left">238.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">NH<sub>4</sub>NO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–365.56</entry>
+<entry align="left">–183.87</entry>
+<entry align="left">151.08</entry>
+</row>
+<row valign="middle">
+<entry align="left">NH<sub>4</sub>Cl(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–314.43</entry>
+<entry align="left">–202.87</entry>
+<entry align="left">94.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">NH<sub>4</sub>Br(<emphasis effect="italics">s)</emphasis></entry>
+<entry align="left">–270.8</entry>
+<entry align="left">–175.2</entry>
+<entry align="left">113.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">NH<sub>4</sub>I(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–201.4</entry>
+<entry align="left">–112.5</entry>
+<entry align="left">117.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">NH<sub>4</sub>NO<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–256.5</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">HNO<sub>3</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–174.1</entry>
+<entry align="left">–80.7</entry>
+<entry align="left">155.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">HNO<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–133.9</entry>
+<entry align="left">–73.5</entry>
+<entry align="left">266.9</entry>
+</row>
+<row valign="middle">
+<entry align="left">HNO<sub>3</sub>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–207.4</entry>
+<entry align="left">–110.5</entry>
+<entry align="left">146 </entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">oxygen</entry>
+</row>
+<row valign="middle">
+<entry align="left">O<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">205.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">O(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">249.17</entry>
+<entry align="left">231.7</entry>
+<entry align="left">161.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">O<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">142.7</entry>
+<entry align="left">163.2</entry>
+<entry align="left">238.9</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">phosphorus</entry>
+</row>
+<row valign="middle">
+<entry align="left">P<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">164.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">P<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">58.91</entry>
+<entry align="left">24.4</entry>
+<entry align="left">280.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">P(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">314.64</entry>
+<entry align="left">278.25</entry>
+<entry align="left">163.19</entry>
+</row>
+<row valign="middle">
+<entry align="left">PH<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">5.4</entry>
+<entry align="left">13.5</entry>
+<entry align="left">210.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">PCl<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–287.0</entry>
+<entry align="left">–267.8</entry>
+<entry align="left">311.78</entry>
+</row>
+<row valign="middle">
+<entry align="left">PCl<sub>5</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–374.9</entry>
+<entry align="left">–305.0</entry>
+<entry align="left">364.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">P<sub>4</sub>O<sub>6</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1640.1</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">P<sub>4</sub>O<sub>10</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–2984.0</entry>
+<entry align="left">–2697.0</entry>
+<entry align="left">228.86</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">PO<sub>4</sub> <sup>3–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–1277</entry>
+<entry align="left">–1019</entry>
+<entry align="left">–222</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">HPO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–948.5</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">HPO<sub>4</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–1292.1</entry>
+<entry align="left">–1089.3</entry>
+<entry align="left">–33</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">H<sub>2</sub>PO<sub>4</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–1296.3</entry>
+<entry align="left">–1130.4</entry>
+<entry align="left">90.4</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">H<sub>3</sub>PO<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–604.6</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>3</sub>PO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–964.4</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>3</sub>PO<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1279.0</entry>
+<entry align="left">–1119.1</entry>
+<entry align="left">110.50</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>3</sub>PO<sub>4</sub><emphasis effect="italics">(l</emphasis>)</entry>
+<entry align="left">–1266.9</entry>
+<entry align="left">–1124.3</entry>
+<entry align="left">110.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–2241.0</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">POCl<sub>3</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–597.1</entry>
+<entry align="left">–520.8</entry>
+<entry align="left">222.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">POCl<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–558.5</entry>
+<entry align="left">–512.9</entry>
+<entry align="left">325.5</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">potassium</entry>
+</row>
+<row valign="middle">
+<entry align="left">K(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">64.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">K(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">89.0</entry>
+<entry align="left">60.5</entry>
+<entry align="left">160.3</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">K<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–252.4</entry>
+<entry align="left">–283.3</entry>
+<entry align="left">102.5</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">KF(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–576.27</entry>
+<entry align="left">–537.75</entry>
+<entry align="left">66.57</entry>
+</row>
+<row valign="middle">
+<entry align="left">KCl(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–436.5</entry>
+<entry align="left">–408.5</entry>
+<entry align="left">82.6</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">rubidium</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Rb<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–246</entry>
+<entry align="left">–282.2</entry>
+<entry align="left">124</entry>
+</row>
+
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">silicon</entry>
+</row>
+<row valign="middle">
+<entry align="left">Si(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">18.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">Si(<emphasis effect="italics">g)</emphasis></entry>
+<entry align="left">450.0</entry>
+<entry align="left">405.5</entry>
+<entry align="left">168.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">SiO<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–910.7</entry>
+<entry align="left">–856.3</entry>
+<entry align="left">41.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">SiH<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">34.3</entry>
+<entry align="left">56.9</entry>
+<entry align="left">204.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>2</sub>SiO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1188.67</entry>
+<entry align="left">–1092.44</entry>
+<entry align="left">133.89</entry>
+</row>
+<row valign="middle">
+<entry align="left">H<sub>4</sub>SiO<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1481.14</entry>
+<entry align="left">–1333.02</entry>
+<entry align="left">192.46</entry>
+</row>
+<row valign="middle">
+<entry align="left">SiF<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–1615.0</entry>
+<entry align="left">–1572.8</entry>
+<entry align="left">282.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">SiCl<sub>4</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–687.0</entry>
+<entry align="left">–619.8</entry>
+<entry align="left">239.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">SiCl<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–662.75</entry>
+<entry align="left">–622.58</entry>
+<entry align="left">330.62</entry>
+</row>
+<row valign="middle">
+<entry align="left">SiC(<emphasis effect="italics">s, beta cubic</emphasis>)</entry>
+<entry align="left">–73.22</entry>
+<entry align="left">–70.71</entry>
+<entry align="left">16.61</entry>
+</row>
+<row valign="middle">
+<entry align="left">SiC(<emphasis effect="italics">s, alpha hexagonal</emphasis>)</entry>
+<entry align="left">–71.55</entry>
+<entry align="left">–69.04</entry>
+<entry align="left">16.48</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">silver</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">42.55</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">284.9</entry>
+<entry align="left">246.0</entry>
+<entry align="left">172.89</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Ag<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">105.6</entry>
+<entry align="left">77.11</entry>
+<entry align="left">72.68</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Ag<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–31.05</entry>
+<entry align="left">–11.20</entry>
+<entry align="left">121.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">AgCl(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–127.0</entry>
+<entry align="left">–109.8</entry>
+<entry align="left">96.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ag<sub>2</sub>S(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–32.6</entry>
+<entry align="left">–40.7</entry>
+<entry align="left">144.0</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">sodium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Na(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">51.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">Na(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">107.5</entry>
+<entry align="left">77.0</entry>
+<entry align="left">153.7</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Na<sup>+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–240.1</entry>
+<entry align="left">–261.9</entry>
+<entry align="left">59</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Na<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–414.2</entry>
+<entry align="left">–375.5</entry>
+<entry align="left">75.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">NaCl(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–411.2</entry>
+<entry align="left">–384.1</entry>
+<entry align="left">72.1</entry>
+</row>
+
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">strontium</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Sr<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–545.8</entry>
+<entry align="left">–557.3</entry>
+<entry align="left">–32.6</entry>
+</row>
+
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">sulfur</entry>
+</row>
+<row valign="middle">
+<entry align="left">S<sub>8</sub>(<emphasis effect="italics">s</emphasis>) (rhombic)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">256.8</entry>
+</row>
+<row valign="middle">
+<entry align="left">S(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">278.81</entry>
+<entry align="left">238.25</entry>
+<entry align="left">167.82</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">S<sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">41.8</entry>
+<entry align="left">83.7</entry>
+<entry align="left">22</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">SO<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–296.83</entry>
+<entry align="left">–300.1</entry>
+<entry align="left">248.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">SO<sub>3</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–395.72</entry>
+<entry align="left">–371.06</entry>
+<entry align="left">256.76</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">SO<sub>4</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–909.3</entry>
+<entry align="left">–744.5</entry>
+<entry align="left">20.1</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">S<sub>2</sub>O<sub>3</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–648.5</entry>
+<entry align="left">–522.5</entry>
+<entry align="left">67</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">H<sub>2</sub>S(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–20.6</entry>
+<entry align="left">–33.4</entry>
+<entry align="left">205.8</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">HS<sup>–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–17.7</entry>
+<entry align="left">12.6</entry>
+<entry align="left">61.1</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">H<sub>2</sub>SO<sub>4</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–813.989</entry>
+<entry align="left">–690.00</entry>
+<entry align="left">156.90</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">HSO<sub>4</sub> <sup>2–</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–885.75</entry>
+<entry align="left">–752.87</entry>
+<entry align="left">126.9</entry>
+</row>
+
+
+<row valign="middle">
+<entry align="left">H<sub>2</sub>S<sub>2</sub>O<sub>7</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–1273.6</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">SF<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–728.43</entry>
+<entry align="left">–684.84</entry>
+<entry align="left">291.12</entry>
+</row>
+<row valign="middle">
+<entry align="left">SF<sub>6</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–1220.5</entry>
+<entry align="left">–1116.5</entry>
+<entry align="left">291.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">SCl<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–50</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">SCl<sub>2</sub>(<emphasis effect="italics">g)</emphasis></entry>
+<entry align="left">–19.7</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">S<sub>2</sub>Cl<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–59.4</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">S<sub>2</sub>Cl<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–19.50</entry>
+<entry align="left">–29.25</entry>
+<entry align="left">319.45</entry>
+</row>
+<row valign="middle">
+<entry align="left">SOCl<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–212.55</entry>
+<entry align="left">–198.32</entry>
+<entry align="left">309.66</entry>
+</row>
+<row valign="middle">
+<entry align="left">SOCl<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–245.6</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">SO<sub>2</sub>Cl<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–394.1</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">SO<sub>2</sub>Cl<sub>2</sub>(g)</entry>
+<entry align="left">–354.80</entry>
+<entry align="left">–310.45</entry>
+<entry align="left">311.83</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">tin</entry>
+</row>
+<row valign="middle">
+<entry align="left">Sn(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">51.2</entry>
+</row>
+<row valign="middle">
+<entry align="left">Sn(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">301.2</entry>
+<entry align="left">266.2</entry>
+<entry align="left">168.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">SnO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–285.8</entry>
+<entry align="left">–256.9</entry>
+<entry align="left">56.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">SnO<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–577.6</entry>
+<entry align="left">–515.8</entry>
+<entry align="left">49.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">SnCl<sub>4</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–511.3</entry>
+<entry align="left">–440.1</entry>
+<entry align="left">258.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">SnCl<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–471.5</entry>
+<entry align="left">–432.2</entry>
+<entry align="left">365.8</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">titanium</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ti(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">30.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">Ti(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">473.0</entry>
+<entry align="left">428.4</entry>
+<entry align="left">180.3</entry>
+</row>
+<row valign="middle">
+<entry align="left">TiO<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–944.0</entry>
+<entry align="left">–888.8</entry>
+<entry align="left">50.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">TiCl<sub>4</sub>(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="left">–804.2</entry>
+<entry align="left">–737.2</entry>
+<entry align="left">252.4</entry>
+</row>
+<row valign="middle">
+<entry align="left">TiCl<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">–763.2</entry>
+<entry align="left">–726.3</entry>
+<entry align="left">353.2</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">tungsten</entry>
+</row>
+<row valign="middle">
+<entry align="left">W(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">32.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">W(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">849.4</entry>
+<entry align="left">807.1</entry>
+<entry align="left">174.0</entry>
+</row>
+<row valign="middle">
+<entry align="left">WO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–842.9</entry>
+<entry align="left">–764.0</entry>
+<entry align="left">75.9</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">zinc</entry>
+</row>
+<row valign="middle">
+<entry align="left">Zn(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">0</entry>
+<entry align="left">0</entry>
+<entry align="left">41.6</entry>
+</row>
+<row valign="middle">
+<entry align="left">Zn(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">130.73</entry>
+<entry align="left">95.14</entry>
+<entry align="left">160.98</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">Zn<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>)</entry>
+<entry align="left">–153.9</entry>
+<entry align="left">–147.1</entry>
+<entry align="left">–112.1</entry>
+</row>
+
+<row valign="middle">
+<entry align="left">ZnO(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–350.5</entry>
+<entry align="left">–320.5</entry>
+<entry align="left">43.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">ZnCl<sub>2</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–415.1</entry>
+<entry align="left">–369.43</entry>
+<entry align="left">111.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">ZnS(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–206.0</entry>
+<entry align="left">–201.3</entry>
+<entry align="left">57.7</entry>
+</row>
+<row valign="middle">
+<entry align="left">ZnSO<sub>4</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–982.8</entry>
+<entry align="left">–871.5</entry>
+<entry align="left">110.5</entry>
+</row>
+<row valign="middle">
+<entry align="left">ZnCO<sub>3</sub>(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left">–812.78</entry>
+<entry align="left">–731.57</entry>
+<entry align="left">82.42</entry>
+</row>
+<row valign="middle">
+<entry align="left" namest="c1" nameend="c4">complexes</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>4</sub>(NO<sub>2</sub>)<sub>2</sub>]NO<sub>3</sub>, <emphasis effect="italics">cis</emphasis></entry>
+<entry align="left">–898.7</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>4</sub>(NO<sub>2</sub>)<sub>2</sub>]NO<sub>3</sub>, <emphasis effect="italics">trans</emphasis></entry>
+<entry align="left">–896.2</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">NH<sub>4</sub>[Co(NH<sub>3</sub>)<sub>2</sub>(NO<sub>2</sub>)<sub>4</sub>]</entry>
+<entry align="left">–837.6</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>6</sub>][Co(NH<sub>3</sub>)<sub>2</sub>(NO<sub>2</sub>)<sub>4</sub>]<sub>3</sub></entry>
+<entry align="left">–2733.0</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]Cl, <emphasis effect="italics">cis</emphasis></entry>
+<entry align="left">–874.9</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]Cl, <emphasis effect="italics">trans</emphasis></entry>
+<entry align="left">–877.4</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(en)<sub>2</sub>(NO<sub>2</sub>)<sub>2</sub>]NO<sub>3</sub>, <emphasis effect="italics">cis</emphasis></entry>
+<entry align="left">–689.5</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(en)<sub>2</sub>Cl<sub>2</sub>]Cl, <emphasis effect="italics">cis</emphasis></entry>
+<entry align="left">–681.2</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(en)<sub>2</sub>Cl<sub>2</sub>]Cl, <emphasis effect="italics">trans</emphasis></entry>
+<entry align="left">–677.4</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(en)<sub>3</sub>](ClO<sub>4</sub>)<sub>3</sub></entry>
+<entry align="left">–762.7</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(en)<sub>3</sub>]Br<sub>2</sub></entry>
+<entry align="left">–595.8</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(en)<sub>3</sub>]I<sub>2</sub></entry>
+<entry align="left">–475.3</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(en)<sub>3</sub>]I<sub>3</sub></entry>
+<entry align="left">–519.2</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>6</sub>](ClO<sub>4</sub>)<sub>3</sub></entry>
+<entry align="left">–1034.7</entry>
+<entry align="left">–221.1</entry>
+<entry align="left">615</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>5</sub>NO<sub>2</sub>](NO<sub>3</sub>)<sub>2</sub></entry>
+<entry align="left">–1088.7</entry>
+<entry align="left">–412.9</entry>
+<entry align="left">331</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>6</sub>](NO<sub>3</sub>)<sub>3</sub></entry>
+<entry align="left">–1282.0</entry>
+<entry align="left">–524.5</entry>
+<entry align="left">448</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>5</sub>Cl]Cl<sub>2</sub></entry>
+<entry align="left">–1017.1</entry>
+<entry align="left">–582.5</entry>
+<entry align="left">366.1</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Pt(NH<sub>3</sub>)<sub>4</sub>]Cl<sub>2</sub></entry>
+<entry align="left">–725.5</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Ni(NH<sub>3</sub>)<sub>6</sub>]Cl<sub>2</sub></entry>
+<entry align="left">–994.1</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Ni(NH<sub>3</sub>)<sub>6</sub>]Br<sub>2</sub></entry>
+<entry align="left">–923.8</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+<row valign="middle">
+<entry align="left">[Ni(NH<sub>3</sub>)<sub>6</sub>]I<sub>2</sub></entry>
+<entry align="left">–808.3</entry>
+<entry align="left">—</entry>
+<entry align="left">—</entry>
+</row>
+</tbody>
+</tgroup>
+</table></content>
+</document>

@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Ionic Bonding</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68737</md:content-id>
+  <md:title>Ionic Bonding</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list><item>Explain the formation of cations, anions, and ionic compounds</item>
+<item>Predict the charge of common metallic and nonmetallic elements, and write their electron configurations</item></list></md:abstract>
+  <md:uuid>30abf24f-5db5-4f44-b275-62908b3f1f4b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm163451984">As you have learned, ions are atoms or molecules bearing an electrical charge. A cation (a positive ion) forms when a neutral atom loses one or more electrons from its valence shell, and an anion (a negative ion) forms when a neutral atom gains one or more electrons in its valence shell.</para>
+<para id="fs-idm91147568">Compounds composed of ions are called ionic compounds (or salts), and their constituent ions are held together by <term>ionic bonds</term>: electrostatic forces of attraction between oppositely charged cations and anions. The properties of ionic compounds shed some light on the nature of ionic bonds. Ionic solids exhibit a crystalline structure and tend to be rigid and brittle; they also tend to have high melting and boiling points, which suggests that ionic bonds are very strong. Ionic solids are also poor conductors of electricity for the same reason—the strength of ionic bonds prevents ions from moving freely in the solid state. Most ionic solids, however, dissolve readily in water. Once dissolved or melted, ionic compounds are excellent conductors of electricity and heat because the ions can move about freely.</para>
+<para id="fs-idm91254256">Neutral atoms and their associated ions have very different physical and chemical properties. Sodium <emphasis effect="italics">atoms</emphasis> form sodium metal, a soft, silvery-white metal that burns vigorously in air and reacts explosively with water. Chlorine <emphasis effect="italics">atoms</emphasis> form chlorine gas, Cl<sub>2</sub>, a yellow-green gas that is extremely corrosive to most metals and very poisonous to animals and plants. The vigorous reaction between the elements sodium and chlorine forms the white, crystalline compound sodium chloride, common table salt, which contains sodium <emphasis effect="italics">cations</emphasis> and chloride <emphasis effect="italics">anions</emphasis> (<link target-id="CNX_Chem_07_01_NaClPhotos"/>). The compound composed of these ions exhibits properties entirely different from the properties of the elements sodium and chlorine. Chlorine is poisonous, but sodium chloride is essential to life; sodium atoms react vigorously with water, but sodium chloride simply dissolves in water.</para>
+<figure id="CNX_Chem_07_01_NaClPhotos">
+<media id="fs-idp90678016" alt="Three pictures are shown and labeled “a,” “b,” and “c,” from left to right. Image a shows a glass jar with a lid that is full of a clear, colorless liquid in which a silver solid is suspended. Image b depicts a glass bottle with a blue lid that is full of a yellow-green gas. Image c shows a black dish that is full of a white, crystalline solid.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_01_NaClPhotos.jpg"/>
+</media>
+<caption>(a) Sodium is a soft metal that must be stored in mineral oil to prevent reaction with air or water. (b) Chlorine is a pale yellow-green gas. (c) When combined, they form white crystals of sodium chloride (table salt). (credit a: modification of work by “Jurii”/Wikimedia Commons)</caption>
+</figure>
+<section id="fs-idm22319248">
+<title>The Formation of Ionic Compounds</title>
+<para id="fs-idm71257872">Binary ionic compounds are composed of just two elements: a metal (which forms the cations) and a nonmetal (which forms the anions). For example, NaCl is a binary ionic compound. We can think about the formation of such compounds in terms of the periodic properties of the elements. Many metallic elements have relatively low ionization potentials and lose electrons easily. These elements lie to the left in a period or near the bottom of a group on the periodic table. Nonmetal atoms have relatively high electron affinities and thus readily gain electrons lost by metal atoms, thereby filling their valence shells. Nonmetallic elements are found in the upper-right corner of the periodic table.</para>
+<para id="fs-idm190724416">As all substances must be electrically neutral, the total number of positive charges on the cations of an ionic compound must equal the total number of negative charges on its anions. The formula of an ionic compound represents the simplest ratio of the numbers of ions necessary to give identical numbers of positive and negative charges. For example, the formula for aluminum oxide, Al<sub>2</sub>O<sub>3</sub>, indicates that this ionic compound contains two aluminum cations, Al<sup>3+</sup>, for every three oxide anions, O<sup>2−</sup> [thus, (2 <m:math><m:mo>×</m:mo></m:math> +3) + (3 <m:math><m:mo>×</m:mo></m:math> –2) = 0].</para>
+<para id="fs-idm111206416">It is important to note, however, that the formula for an ionic compound does <emphasis effect="italics">not</emphasis> represent the physical arrangement of its ions. It is incorrect to refer to a sodium chloride (NaCl) “molecule” because there is not a single ionic bond, per se, between any specific pair of sodium and chloride ions. The attractive forces between ions are isotropic—the same in all directions—meaning that any particular ion is equally attracted to all of the nearby ions of opposite charge. This results in the ions arranging themselves into a tightly bound, three-dimensional lattice structure. Sodium chloride, for example, consists of a regular arrangement of equal numbers of Na<sup>+</sup> cations and Cl<sup>–</sup> anions (<link target-id="CNX_Chem_07_01_NaClStruc"/>).</para>
+<figure id="CNX_Chem_07_01_NaClStruc" class="scaled-down">
+<media id="fs-idm160477712" alt="Two diagrams are shown and labeled “a” and “b.” Diagram a shows a cube made up of twenty-seven alternating purple and green spheres. The purple spheres are smaller than the green spheres. Diagram b shows the same spheres, but this time, they are spread out and connected in three dimensions by white rods. The purple spheres are labeled “N superscript postive sign” while the green are labeled “C l superscript negative sign.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_01_NaClStruc-1938.jpg"/>
+</media>
+<caption>The atoms in sodium chloride (common table salt) are arranged to (a) maximize opposite charges interacting. The smaller spheres represent sodium ions, the larger ones represent chloride ions. In the expanded view (b), the geometry can be seen more clearly. Note that each ion is “bonded” to all of the surrounding ions—six in this case.</caption>
+</figure>
+<para id="fs-idm8803008">The strong electrostatic attraction between Na<sup>+</sup> and Cl<sup>–</sup> ions holds them tightly together in solid NaCl. It requires 769 kJ of energy to dissociate one mole of solid NaCl into separate gaseous Na<sup>+</sup> and Cl<sup>–</sup> ions:</para>
+<equation class="unnumbered" id="fs-idm29135648"><m:math><m:mrow><m:mtext>NaCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>–</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>769</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+</section>
+<section id="fs-idm114665152">
+<title>Electronic Structures of Cations</title>
+<para id="fs-idm59366528">When forming a cation, an atom of a main group element tends to lose all of its valence electrons, thus assuming the electronic structure of the noble gas that precedes it in the periodic table. For groups 1 (the alkali metals) and 2 (the alkaline earth metals), the group numbers are equal to the numbers of valence shell electrons and, consequently, to the charges of the cations formed from atoms of these elements when all valence shell electrons are removed. For example, calcium is a group 2 element whose neutral atoms have 20 electrons and a ground state electron configuration of 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>. When a Ca atom loses both of its valence electrons, the result is a cation with 18 electrons, a 2+ charge, and an electron configuration of 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>. The Ca<sup>2+</sup> ion is therefore isoelectronic with the noble gas Ar.</para>
+<para id="fs-idm66552496">For groups 13–17, the group numbers exceed the number of valence electrons by 10 (accounting for the possibility of full <emphasis effect="italics">d</emphasis> subshells in atoms of elements in the fourth and greater periods). Thus, the charge of a cation formed by the loss of all valence electrons is equal to the group number minus 10. For example, aluminum (in group 13) forms 3+ ions (Al<sup>3+</sup>).</para><para id="fs-idm147404048">Exceptions to the expected behavior involve elements toward the bottom of the groups. In addition to the expected ions Tl<sup>3+</sup>, Sn<sup>4+</sup>, Pb<sup>4+</sup>, and Bi<sup>5+</sup>, a partial loss of these atoms’ valence shell electrons can also lead to the formation of Tl<sup>+</sup>, Sn<sup>2+</sup>, Pb<sup>2+</sup>, and Bi<sup>3+</sup> ions. The formation of these 1+, 2+, and 3+ cations is ascribed to the <term>inert pair effect</term>, which reflects the relatively low energy of the valence <emphasis effect="italics">s</emphasis>-electron pair for atoms of the heavy elements of groups 13, 14, and 15. Mercury (group 12) also exhibits an unexpected behavior: it forms a diatomic ion, <m:math><m:mrow><m:msub><m:mtext>Hg</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2+</m:mtext></m:msup></m:mrow></m:math> (an ion formed from two mercury atoms, with an Hg-Hg bond), in addition to the expected monatomic ion Hg<sup>2+</sup> (formed from only one mercury atom).</para>
+<para id="fs-idm124552288">Transition and inner transition metal elements behave differently than main group elements. Most transition metal cations have 2+ or 3+ charges that result from the loss of their outermost <emphasis effect="italics">s</emphasis> electron(s) first, sometimes followed by the loss of one or two <emphasis effect="italics">d</emphasis> electrons from the next-to-outermost shell. For example, iron (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>6</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>) forms the ion Fe<sup>2+</sup> (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>6</sup>) by the loss of the 4<emphasis effect="italics">s</emphasis> electrons and the ion Fe<sup>3+</sup> (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>5</sup>) by the loss of the 4<emphasis effect="italics">s</emphasis> electrons and one of the 3<emphasis effect="italics">d</emphasis> electrons. Although the <emphasis effect="italics">d</emphasis> orbitals of the transition elements are—according to the Aufbau principle—the last to fill when building up electron configurations, the outermost <emphasis effect="italics">s</emphasis> electrons are the first to be lost when these atoms ionize. When the inner transition metals form ions, they usually have a 3+ charge, resulting from the loss of their outermost <emphasis effect="italics">s</emphasis> electrons and a <emphasis effect="italics">d</emphasis> or <emphasis effect="italics">f</emphasis> electron.</para><example id="fs-idm91310448">
+<para id="fs-idm140480368"><title>Determining the Electronic Structures of Cations</title>
+There are at least 14 elements categorized as “essential trace elements” for the human body. They are called “essential” because they are required for healthy bodily functions, “trace” because they are required only in small amounts, and “elements” in spite of the fact that they are really ions. Two of these essential trace elements, chromium and zinc, are required as Cr<sup>3+</sup> and Zn<sup>2+</sup>. Write the electron configurations of these cations.</para>
+<para id="fs-idm35002848"><title>Solution</title>
+First, write the electron configuration for the neutral atoms:</para>
+<para id="fs-idp41530480">Zn: [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup></para>
+<para id="fs-idp41555744">Cr: [Ar]3<emphasis effect="italics">d</emphasis><sup>5</sup>4<emphasis effect="italics">s</emphasis><sup>1</sup></para><para id="fs-idp100897408">Next, remove electrons from the highest energy orbital. For the transition metals, electrons are removed from the <emphasis effect="italics">s</emphasis> orbital first and then from the <emphasis effect="italics">d</emphasis> orbital. For the <emphasis effect="italics">p</emphasis>-block elements, electrons are removed from the <emphasis effect="italics">p</emphasis> orbitals and then from the <emphasis effect="italics">s</emphasis> orbital. Zinc is a member of group 12, so it should have a charge of 2+, and thus loses only the two electrons in its <emphasis effect="italics">s</emphasis> orbital. Chromium is a transition element and should lose its <emphasis effect="italics">s</emphasis> electrons and then its <emphasis effect="italics">d</emphasis> electrons when forming a cation. Thus, we find the following electron configurations of the ions:</para>
+<para id="fs-idp89267472">Zn<sup>2+</sup>: [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup></para>
+<para id="fs-idp88797392">Cr<sup>3+</sup>: [Ar]3<emphasis effect="italics">d</emphasis><sup>3</sup></para>
+<para id="fs-idp6456720"><title>Check Your Learning</title>
+Potassium and magnesium are required in our diet. Write the electron configurations of the ions expected from these elements.</para>
+<note id="fs-idm94190752"><title>Answer:</title>
+<para id="fs-idm62185056">K<sup>+</sup>: [Ar], Mg<sup>2+</sup>: [Ne]</para></note>
+</example>
+</section>
+<section id="fs-idp123287888">
+<title>Electronic Structures of Anions</title>
+<para id="fs-idm135761888">Most monatomic anions form when a neutral nonmetal atom gains enough electrons to completely fill its outer <emphasis effect="italics">s</emphasis> and <emphasis effect="italics">p</emphasis> orbitals, thereby reaching the electron configuration of the next noble gas. Thus, it is simple to determine the charge on such a negative ion: The charge is equal to the number of electrons that must be gained to fill the <emphasis effect="italics">s</emphasis> and <emphasis effect="italics">p</emphasis> orbitals of the parent atom. Oxygen, for example, has the electron configuration 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>4</sup>, whereas the oxygen anion has the electron configuration of the noble gas neon (Ne), 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>. The two additional electrons required to fill the valence orbitals give the oxide ion the charge of 2– (O<sup>2–</sup>).</para>
+<example id="fs-idp63594560">
+<para id="fs-idm80663072"><title>Determining the Electronic Structure of Anions</title>
+Selenium and iodine are two essential trace elements that form anions. Write the electron configurations of the anions.</para>
+<para id="fs-idm91841088"><title>Solution</title>
+Se<sup>2–</sup>: [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup></para>
+<para id="fs-idp213059984">I<sup>–</sup>: [Kr]4<emphasis effect="italics">d</emphasis><sup>10</sup>5<emphasis effect="italics">s</emphasis><sup>2</sup>5<emphasis effect="italics">p</emphasis><sup>6</sup></para>
+<para id="fs-idm44394960"><title>Check Your Learning</title>
+Write the electron configurations of a phosphorus atom and its negative ion. Give the charge on the anion.</para>
+<note id="fs-idm157421568"><title>Answer:</title>
+<para id="fs-idm78503856">P: [Ne]3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>3</sup>; P<sup>3–</sup>: [Ne]3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup></para></note>
+</example>
+</section>
+<section id="fs-idm20865904" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm91340640">Atoms gain or lose electrons to form ions with particularly stable electron configurations. The charges of cations formed by the representative metals may be determined readily because, with few exceptions, the electronic structures of these ions have either a noble gas configuration or a completely filled electron shell. The charges of anions formed by the nonmetals may also be readily determined because these ions form when nonmetal atoms gain enough electrons to fill their valence shells.</para>
+</section>
+<section id="fs-idm7304032" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idm118463568">
+<problem id="fs-idm84537920">
+<para id="fs-idp109455392">Does a cation gain protons to form a positive charge or does it lose electrons?</para>
+</problem>
+<solution id="fs-idm58878480">
+<para id="fs-idm32049296">The protons in the nucleus do not change during normal chemical reactions. Only the outer electrons move. Positive charges form when electrons are lost.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp12729440">
+<problem id="fs-idm60424368">
+<para id="fs-idm80636720">Iron(III) sulfate [Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>] is composed of Fe<sup>3+</sup> and <m:math><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math> ions. Explain why a sample of iron(III) sulfate is uncharged.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp63165504">
+<problem id="fs-idm95601616">
+<para id="fs-idm86462848">Which of the following atoms would be expected to form negative ions in binary ionic compounds and which would be expected to form positive ions: P, I, Mg, Cl, In, Cs, O, Pb, Co?</para>
+</problem>
+<solution id="fs-idm114818128">
+<para id="fs-idp81646832">P, I, Cl, and O would form anions because they are nonmetals. Mg, In, Cs, Pb, and Co would form cations because they are metals.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm89581104">
+<problem id="fs-idm71344160">
+<para id="fs-idm57572832">Which of the following atoms would be expected to form negative ions in binary ionic compounds and which would be expected to form positive ions: Br, Ca, Na, N, F, Al, Sn, S, Cd?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm94727984">
+<problem id="fs-idm107091360">
+<para id="fs-idm126879312">Predict the charge on the monatomic ions formed from the following atoms in binary ionic compounds:</para>
+<para id="fs-idm59142176">(a) P</para>
+<para id="fs-idm110082128">(b) Mg</para>
+<para id="fs-idm95281776">(c) Al</para>
+<para id="fs-idm22594368">(d) O</para>
+<para id="fs-idm113961552">(e) Cl</para>
+<para id="fs-idm115826528">(f) Cs</para>
+</problem>
+<solution id="fs-idm138992784">
+<para id="fs-idm110255632">(a) P<sup>3–</sup>; (b) Mg<sup>2+</sup>; (c) Al<sup>3+</sup>; (d) O<sup>2–</sup>; (e) Cl<sup>–</sup>; (f) Cs<sup>+</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm143212928">
+<problem id="fs-idm55263072">
+<para id="fs-idm77430784">Predict the charge on the monatomic ions formed from the following atoms in binary ionic compounds:</para>
+<para id="fs-idm81455120">(a) I</para>
+<para id="fs-idm30695056">(b) Sr</para>
+<para id="fs-idm113665072">(c) K</para>
+<para id="fs-idm113151072">(d) N</para>
+<para id="fs-idm90142656">(e) S</para>
+<para id="fs-idm139225568">(f) In</para>
+</problem>
+</exercise>
+<exercise id="fs-idm69463840">
+<problem id="fs-idm87376">
+<para id="fs-idp63531536">Write the electron configuration for each of the following ions:</para>
+<para id="fs-idp93631616">(a) As<sup>3–</sup></para>
+<para id="fs-idm32025168">(b) I<sup>–</sup></para>
+<para id="fs-idm66278448">(c) Be<sup>2+</sup></para>
+<para id="fs-idm163951824">(d) Cd<sup>2+</sup></para>
+<para id="fs-idm135841552">(e) O<sup>2–</sup></para>
+<para id="fs-idm86341584">(f) Ga<sup>3+</sup></para>
+<para id="fs-idm29164848">(g) Li<sup>+</sup></para>
+<para id="fs-idm143374160">(h) N<sup>3–</sup></para>
+<para id="fs-idm149778240">(i) Sn<sup>2+</sup></para>
+<para id="fs-idm81618624">(j) Co<sup>2+</sup></para>
+<para id="fs-idm33540640">(k) Fe<sup>2+</sup></para>
+<para id="fs-idm99558160">(l) As<sup>3+</sup></para>
+</problem>
+<solution id="fs-idp12032624">
+<para id="fs-idp109450000">(a) [Ar]4<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>; (b) [Kr]4<emphasis effect="italics">d</emphasis><sup>10</sup>5<emphasis effect="italics">s</emphasis><sup>2</sup>5<emphasis effect="italics">p</emphasis><sup>6</sup> (c) 1<emphasis effect="italics">s</emphasis><sup>2</sup> (d) [Kr]4<emphasis effect="italics">d</emphasis><sup>10</sup>; (e) [He]2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>; (f) [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup>; (g) 1<emphasis effect="italics">s</emphasis><sup>2</sup> (h) [He]2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup> (i) [Kr]4<emphasis effect="italics">d</emphasis><sup>10</sup>5<emphasis effect="italics">s</emphasis><sup>2</sup> (j) [Ar]3<emphasis effect="italics">d</emphasis><sup>7</sup> (k) [Ar]3<emphasis effect="italics">d</emphasis><sup>6</sup>, (l) [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup></para></solution>
+</exercise>
+<exercise id="fs-idm58592256">
+<problem id="fs-idm114811392">
+<para id="fs-idm153920672">Write the electron configuration for the monatomic ions formed from the following elements (which form the greatest concentration of monatomic ions in seawater):</para>
+<para id="fs-idm30515408">(a) Cl</para>
+<para id="fs-idm118304928">(b) Na</para>
+<para id="fs-idm39179072">(c) Mg</para>
+<para id="fs-idm20436000">(d) Ca</para>
+<para id="fs-idm138595184">(e) K</para>
+<para id="fs-idm156302256">(f) Br</para>
+<para id="fs-idm152100848">(g) Sr</para>
+<para id="fs-idm57621568">(h) F</para>
+</problem>
+</exercise>
+<exercise id="fs-idm117401984">
+<problem id="fs-idm110267600">
+<para id="fs-idp57837184">Write out the full electron configuration for each of the following atoms and for the monatomic ion found in binary ionic compounds containing the element:</para>
+<para id="fs-idm132230176">(a) Al</para>
+<para id="fs-idm110914672">(b) Br</para>
+<para id="fs-idm91893216">(c) Sr</para>
+<para id="fs-idp63567584">(d) Li</para>
+<para id="fs-idm166290688">(e) As</para>
+<para id="fs-idm89694656">(f) S</para>
+</problem>
+<solution id="fs-idm122761936">
+<para id="fs-idm61271680">(a) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>1</sup>; Al<sup>3+</sup>: 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>; (b) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>5</sup>; 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>; (c) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>5<emphasis effect="italics">s</emphasis><sup>2</sup>; Sr<sup>2+</sup>: 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>; (d) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>1</sup>; Li<sup>+</sup>: 1<emphasis effect="italics">s</emphasis><sup>2</sup>; (e) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>3</sup>; 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>; (f) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>4</sup>; 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm677136">
+<problem id="fs-idm163727216">
+<para id="fs-idm149901376">From the labels of several commercial products, prepare a list of six ionic compounds in the products. For each compound, write the formula. (You may need to look up some formulas in a suitable reference.)</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm113628896">
+<term>inert pair effect</term>
+<meaning id="fs-idm29656464">tendency of heavy atoms to form ions in which their valence <emphasis effect="italics">s</emphasis> electrons are not lost</meaning>
+</definition>
+<definition id="fs-idm118453184">
+<term>ionic bond</term>
+<meaning id="fs-idm101179264">strong electrostatic force of attraction between cations and anions in an ionic compound</meaning>
+</definition>
+</glossary>
+</document>

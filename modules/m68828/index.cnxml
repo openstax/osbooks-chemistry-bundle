@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68828</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract><list>
+<item>Periodicity</item>
+<item>Occurrence and Preparation of the Representative Metals</item>
+<item>Structure and General Properties of the Metalloids</item>
+<item>Structure and General Properties of the Nonmetals</item>
+<item>Occurrence, Preparation, and Compounds of Hydrogen</item>
+<item>Occurrence, Preparation, and Properties of Carbonates</item>
+<item>Occurrence, Preparation, and Properties of Nitrogen</item>
+<item>Occurrence, Preparation, and Properties of Phosphorus</item>
+<item>Occurrence, Preparation, and Compounds of Oxygen</item>
+<item>Occurrence, Preparation, and Properties of Sulfur</item>
+<item>Occurrence, Preparation, and Properties of Halogens</item>
+<item>Occurrence, Preparation, and Properties of the Noble Gases</item>
+</list></md:abstract>
+  <md:uuid>aa4dab2c-4908-4a31-bc42-1af345c323c6</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_18_00_SilWafer" class="splash">
+<media id="fs-idm340240" alt="Three photos are shown. The first shows a scientific lab full of equipment in which two people in protective suits are working. The second image shows a man holding a round, reflective disc held inside of a protective, clear container. The third image shows a round disc covered in metallic chips which is behind a protective covering.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_00_SilWafer.jpg"/>
+</media>
+<caption>Purity is extremely important when preparing silicon wafers. Technicians in a cleanroom prepare silicon without impurities (left). The CEO of VLSI Research, Don Hutcheson, shows off a pure silicon wafer (center). A silicon wafer covered in Pentium chips is an enlarged version of the silicon wafers found in many electronics used today (right). (credit middle: modification of work by “Intel Free Press”/Flickr; credit right: modification of work by Naotake Murayama)</caption>
+</figure>
+<para id="fs-idp11367904">The development of the periodic table in the mid-1800s came from observations that there was a periodic relationship between the properties of the elements. Chemists, who have an understanding of the variations of these properties, have been able to use this knowledge to solve a wide variety of technical challenges. For example, silicon and other semiconductors form the backbone of modern electronics because of our ability to fine-tune the electrical properties of these materials. This chapter explores important properties of representative metals, metalloids, and nonmetals in the periodic table.</para>
+   </content>
+</document>

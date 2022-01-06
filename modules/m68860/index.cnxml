@@ -1,0 +1,266 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+<title>Essential Mathematics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68860</md:content-id>
+  <md:title>Essential Mathematics</md:title>
+  <md:abstract/>
+  <md:uuid>75fe9b6d-533d-4833-ba91-a70d2a794b2a</md:uuid>
+</metadata>
+
+<content class="appendix">
+<section id="fs-idm2979872"><title>Exponential Arithmetic</title><para id="fs-idp659968">Exponential notation is used to express very large and very small numbers as a product of two numbers. The first number of the product, the <emphasis effect="italics">digit term</emphasis>, is usually a number not less than 1 and not equal to or greater than 10. The second number of the product, the <emphasis effect="italics">exponential term</emphasis>, is written as 10 with an exponent. Some examples of exponential notation are:</para>
+<equation id="fs-idp294750912" class="unnumbered"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>1000</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>100</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>10</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>1</m:mn></m:msup></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mn>1</m:mn></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>0</m:mn></m:msup></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>0.1</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>0.001</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>2386</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>2.386</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1000</m:mn><m:mo>=</m:mo><m:mn>2.386</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>0.123</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1.23</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0.1</m:mn><m:mo>=</m:mo><m:mn>1.23</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation><para id="eip-985">The power (exponent) of 10 is equal to the number of places the decimal is shifted to give the digit number. The exponential method is particularly useful notation for very large and very small numbers. For example, 1,230,000,000 = 1.23 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>9</sup>, and 0.00000000036 = 3.6 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−10</sup>.</para><section id="eip-963">
+<title>Addition of Exponentials</title>
+<para id="eip-970">Convert all numbers to the same power of 10, add the digit terms of the numbers, and if appropriate, convert the digit term back to a number between 1 and 10 by adjusting the exponential term.</para>
+<example id="eip-240">
+<para id="fs-idp139858976"><title>Adding Exponentials</title>
+Add 5.00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−5</sup> and 3.00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup>.</para>
+<para id="eip-idm5092144">
+<title>Solution</title></para>
+<equation id="fs-idp127428848" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>3.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>300</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>300</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>305</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:mn>3.05</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></example></section>
+<section id="fs-idp66203584">
+<title>Subtraction of Exponentials</title>
+<para id="fs-idm2169056">Convert all numbers to the same power of 10, take the difference of the digit terms, and if appropriate, convert the digit term back to a number between 1 and 10 by adjusting the exponential term.</para>
+<example id="fs-idp161785536">
+<para id="fs-idm86312640"><title>Subtracting Exponentials</title>
+Subtract 4.0 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−7</sup> from 5.0 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup>.</para>
+<para id="fs-idm68345632">
+<title>Solution</title></para>
+<equation id="fs-idp190877264" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr><m:mtd><m:mn>4.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:mn>0.40</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup></m:mtd></m:mtr><m:mtr><m:mtd><m:mo stretchy="false">(</m:mo><m:mn>5.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.40</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>4.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></equation></example></section>
+<section id="fs-idp134165056">
+<title>Multiplication of Exponentials</title>
+<para id="fs-idp21293440">Multiply the digit terms in the usual way and add the exponents of the exponential terms.</para>
+<example id="fs-idp62666784">
+<para id="fs-idp112728352"><title>Multiplying Exponentials</title>
+Multiply 4.2 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−8</sup> by 2.0 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>3</sup>.</para>
+<para id="fs-idp65507056">
+<title>Solution</title></para>
+<equation id="fs-idp43840304" class="unnumbered"><m:math><m:mo stretchy="false">(</m:mo><m:mn>4.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>2.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>2.0</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>−8</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>+3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:msup><m:mo>=</m:mo><m:mn>8.4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:math></equation></example>
+</section>
+<section id="fs-idp147135808">
+<title>Division of Exponentials</title>
+<para id="fs-idm83418688">Divide the digit term of the numerator by the digit term of the denominator and subtract the exponents of the exponential terms.</para>
+<example id="fs-idp59973040">
+<para id="fs-idm118372272"><title>Dividing Exponentials</title>
+Divide 3.6 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>–5</sup> by 6.0 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−4</sup>.</para>
+<para id="fs-idm40543920"><title>Solution</title></para>
+<equation id="fs-idp306292544" class="unnumbered"><m:math><m:mfrac><m:mrow><m:mn>3.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>6.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>3.6</m:mn></m:mrow><m:mrow><m:mn>6.0</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>−5</m:mn><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:msup><m:mo>=</m:mo><m:mn>0.60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:mn>6.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:math></equation></example>
+</section>
+<section id="fs-idp62709264">
+<title>Squaring of Exponentials</title>
+<para id="fs-idm35687264">Square the digit term in the usual way and multiply the exponent of the exponential term by 2.</para>
+<example id="fs-idm17290528">
+<para id="fs-idm49413248"><title>Squaring Exponentials</title>
+Square the number 4.0 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup>.</para>
+<para id="fs-idm30315376"><title>Solution</title></para>
+<equation id="fs-idp83762912" class="unnumbered"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>−6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:msup><m:mo>=</m:mo><m:mn>16</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−12</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:mn>1.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−11</m:mn></m:mrow></m:msup></m:mrow></m:math></equation></example>
+</section>
+<section id="fs-idp163318848">
+<title>Cubing of Exponentials</title>
+<para id="fs-idp74415504">Cube the digit term in the usual way and multiply the exponent of the exponential term by 3.</para>
+<example id="fs-idm23347216">
+<para id="fs-idm16246768"><title>Cubing Exponentials</title>
+Cube the number 2 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>4</sup>.</para>
+<para id="fs-idm51196352"><title>Solution</title></para>
+<equation id="fs-idp2377280" class="unnumbered"><m:math><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:msup></m:mrow></m:math></equation></example>
+</section>
+<section id="fs-idp125742736">
+<title>Taking Square Roots of Exponentials</title>
+<para id="fs-idp117276528">If necessary, decrease or increase the exponential term so that the power of 10 is evenly divisible by 2. Extract the square root of the digit term and divide the exponential term by 2.</para>
+<example id="fs-idm21735232">
+<para id="fs-idm48165808"><title>Finding the Square Root of Exponentials</title>
+Find the square root of 1.6 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−7</sup>.</para>
+<para id="fs-idp49785840"><title>Solution</title></para>
+<equation id="fs-idp91899696" class="unnumbered"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>1.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>16</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:msqrt><m:mrow><m:mn>16</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup></m:mrow></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mrow><m:mn>16</m:mn></m:mrow></m:msqrt><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msqrt><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup></m:mrow></m:msqrt></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msqrt><m:mrow><m:mn>16</m:mn></m:mrow></m:msqrt><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>8</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>4.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation></example>
+</section>
+</section>
+<section id="fs-idm250853696">
+<title>Significant Figures</title>
+<para id="fs-idm37591248">A beekeeper reports that he has 525,341 bees. The last three figures of the number are obviously inaccurate, for during the time the keeper was counting the bees, some of them died and others hatched; this makes it quite difficult to determine the exact number of bees. It would have been more reasonable if the beekeeper had reported the number 525,000. In other words, the last three figures are not significant, except to set the position of the decimal point. Their exact values have no useful meaning in this situation. When reporting quantities, use only as many significant figures as the accuracy of the measurement warrants.</para>
+<para id="fs-idm308663024">The importance of significant figures lies in their application to fundamental computation. In addition and subtraction, the sum or difference should contain as many digits to the right of the decimal as that in the least certain of the numbers used in the computation (indicated by underscoring in the following example).</para>
+<example id="fs-idm264382576">
+<para id="fs-idm64277712"><title>Addition and Subtraction with Significant Figures</title>
+Add 4.383 g and 0.0023 g.</para>
+<para id="fs-idm144724576">
+<title>Solution</title></para>
+<equation id="eip-474" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mtable columnalign="left"><m:mtr><m:mtd><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>4.38</m:mn><m:mspace width="-0.15em"/><m:munder accentunder="true"><m:mn>3</m:mn><m:mo stretchy="true">_</m:mo></m:munder><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0.002</m:mn><m:mspace width="-0.15em"/><m:munder accentunder="true"><m:mn>3</m:mn><m:mo stretchy="true">_</m:mo></m:munder><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mtd></m:mtr></m:mtable><m:mrow><m:mn>4.38</m:mn><m:mspace width="-0.15em"/><m:munder accentunder="true"><m:mn>5</m:mn><m:mo stretchy="true">_</m:mo></m:munder><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:mspace width="0.2em"/></m:mrow></m:mfrac></m:mrow></m:math></equation></example>
+<para id="fs-idm321167920">In multiplication and division, the product or quotient should contain no more digits than that in the factor containing the least number of significant figures.</para>
+<example id="fs-idm204546176">
+<para id="fs-idp61407456"><title>Multiplication and Division with Significant Figures</title>
+Multiply 0.6238 by 6.6.</para>
+<para id="fs-idm211756128"><title>Solution</title></para>
+<equation id="fs-idp292017760" class="unnumbered"><m:math><m:mrow><m:mn>0.623</m:mn><m:mspace width="-0.1em"/><m:munder accentunder="true"><m:mn>8</m:mn><m:mo stretchy="true">_</m:mo></m:munder><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>6.</m:mn><m:mspace width="-0.1em"/><m:munder accentunder="true"><m:mn>6</m:mn><m:mo stretchy="true">_</m:mo></m:munder><m:mo>=</m:mo><m:mn>4.</m:mn><m:mspace width="-0.1em"/><m:munder accentunder="true"><m:mn>1</m:mn><m:mo stretchy="true">_</m:mo></m:munder></m:mrow></m:math></equation></example>
+<para id="fs-idm316636240">When rounding numbers, increase the retained digit by 1 if it is followed by a number larger than 5 (“round up”). Do not change the retained digit if the digits that follow are less than 5 (“round down”). If the retained digit is followed by 5, round up if the retained digit is odd, or round down if it is even (after rounding, the retained digit will thus always be even).</para>
+</section>
+<section id="fs-idm218270160">
+<title>The Use of Logarithms and Exponential Numbers</title>
+<para id="fs-idm310797664">The common logarithm of a number (log) is the power to which 10 must be raised to equal that number. For example, the common logarithm of 100 is 2, because 10 must be raised to the second power to equal 100. Additional examples follow.</para>
+<table id="fs-idm247181504" class="top-titled" summary="A table titled “Logarithms and Exponential Numbers” has three columns titled “Number,” “Number Expressed Exponentially,” and “Common Logarithm.” The number 1000 is expressed exponentially as 10 superscript 3 and has a common logarithm of 3. The number 10 is expressed exponentially as 10 superscript 1 and has a common logarithm of 1. The number 1 is expressed exponentially as 10 superscript 0 and has a common logarithm of 0. The number 0.1 is expressed exponentially as 10 superscript negative 1 and has a common logarithm of negative 1. The number 0.001 is expressed exponentially as 10 superscript negative 3 and has a common logarithm of negative 3.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Logarithms and Exponential Numbers</entry>
+</row>
+<row valign="top">
+<entry align="left">Number</entry>
+<entry align="left">Number Expressed Exponentially</entry>
+<entry align="left">Common Logarithm</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">1000</entry>
+<entry align="left">10<sup>3</sup></entry>
+<entry align="left">3</entry>
+</row>
+<row valign="top">
+<entry align="left">10</entry>
+<entry align="left">10<sup>1</sup></entry>
+<entry align="left">1</entry>
+</row>
+<row valign="top">
+<entry align="left">1</entry>
+<entry align="left">10<sup>0</sup></entry>
+<entry align="left">0</entry>
+</row>
+<row valign="top">
+<entry align="left">0.1</entry>
+<entry align="left">10<sup>−1</sup></entry>
+<entry align="left">−1</entry>
+</row>
+<row valign="top">
+<entry align="left">0.001</entry>
+<entry align="left">10<sup>−3</sup></entry>
+<entry align="left">−3</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm289143264">What is the common logarithm of 60? Because 60 lies between 10 and 100, which have logarithms of 1 and 2, respectively, the logarithm of 60 is 1.7782; that is,</para>
+<equation id="fs-idp313341712" class="unnumbered"><m:math><m:mrow><m:mtext>60</m:mtext><m:mo>=</m:mo><m:msup><m:mrow><m:mtext>10</m:mtext></m:mrow><m:mrow><m:mtext>1</m:mtext><m:mtext>.7782</m:mtext></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm251201152">The common logarithm of a number less than 1 has a negative value. The logarithm of 0.03918 is −1.4069, or</para>
+<equation id="fs-idp105907136" class="unnumbered"><m:math><m:mrow><m:mn>0.03918</m:mn><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>1.4069</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>1.4069</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation><para id="fs-idm300540512">To obtain the common logarithm of a number, use the <emphasis effect="italics">log</emphasis> button on your calculator. To calculate a number from its logarithm, take the inverse log of the logarithm, or calculate 10<sup><emphasis effect="italics">x</emphasis></sup> (where <emphasis effect="italics">x</emphasis> is the logarithm of the number).</para>
+<para id="fs-idm355694432">The natural logarithm of a number (ln) is the power to which <emphasis effect="italics">e</emphasis> must be raised to equal the number; <emphasis effect="italics">e</emphasis> is the constant 2.7182818. For example, the natural logarithm of 10 is 2.303; that is,</para>
+<equation id="fs-idm16900160" class="unnumbered"><m:math><m:mrow><m:mtext>10</m:mtext><m:mo>=</m:mo><m:msup><m:mi>e</m:mi><m:mrow><m:mtext>2</m:mtext><m:mtext>.303</m:mtext></m:mrow></m:msup><m:mo>=</m:mo><m:mtext>2</m:mtext><m:msup><m:mrow><m:mtext>.7182818</m:mtext></m:mrow><m:mrow><m:mtext>2</m:mtext><m:mtext>.303</m:mtext></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm315316192">To obtain the natural logarithm of a number, use the <emphasis effect="italics">ln</emphasis> button on your calculator. To calculate a number from its natural logarithm, enter the natural logarithm and take the inverse ln of the natural logarithm, or calculate <emphasis effect="italics">e<sup>x</sup></emphasis> (where <emphasis effect="italics">x</emphasis> is the natural logarithm of the number).</para>
+<para id="fs-idm46275792">Logarithms are exponents; thus, operations involving logarithms follow the same rules as operations involving exponents.</para>
+<list id="eip-12" list-type="enumerated" number-style="arabic">
+<item>The logarithm of a product of two numbers is the sum of the logarithms of the two numbers.
+<equation id="fs-idp300953968" class="unnumbered"><m:math><m:mrow><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mi>y</m:mi><m:mo>=</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mi>y</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>and ln</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mi>y</m:mi><m:mo>=</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mo>+</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>y</m:mi></m:mrow></m:math></equation></item>
+<item>The logarithm of the number resulting from the division of two numbers is the difference between the logarithms of the two numbers.
+<equation id="fs-idm26956384" class="unnumbered"><m:math><m:mrow><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mi>x</m:mi><m:mi>y</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mo>−</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mi>y</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>and ln</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mi>x</m:mi><m:mi>y</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mo>−</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>y</m:mi></m:mrow></m:math></equation></item>
+<item>The logarithm of a number raised to an exponent is the product of the exponent and the logarithm of the number.
+<equation id="fs-idp316554112" class="unnumbered"><m:math><m:mrow><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:msup><m:mi>x</m:mi><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mi>n</m:mi><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mspace width="0.2em"/><m:mtext>and ln</m:mtext><m:mspace width="0.2em"/><m:msup><m:mi>x</m:mi><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mi>n</m:mi><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>x</m:mi></m:mrow></m:math></equation></item>
+</list>
+</section>
+<section id="fs-idm5387440">
+<title>The Solution of Quadratic Equations</title>
+<para id="fs-idm110300608">Mathematical functions of this form are known as second-order polynomials or, more commonly, quadratic functions.</para>
+<equation id="fs-idp3980816" class="unnumbered"><m:math><m:mrow><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mtext>2</m:mtext></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mo>=</m:mo><m:mtext>0</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm112792176">The solution or roots for any quadratic equation can be calculated using the following formula:</para>
+<equation id="fs-idm40664896" class="unnumbered"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo>−</m:mo><m:mi>b</m:mi><m:mo>±</m:mo><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mtext>2</m:mtext></m:msup><m:mo>−</m:mo><m:mtext>4</m:mtext><m:mi>a</m:mi><m:mi>c</m:mi></m:mrow></m:msqrt></m:mrow><m:mrow><m:mtext>2</m:mtext><m:mi>a</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<example id="fs-idm166021264">
+<para id="fs-idm72976848"><title>Solving Quadratic Equations</title>
+Solve the quadratic equation 3<emphasis effect="italics">x</emphasis><sup>2</sup> + 13<emphasis effect="italics">x</emphasis> − 10 = 0.</para>
+<para id="fs-idm175980608">
+<title>Solution</title>
+Substituting the values <emphasis effect="italics">a</emphasis> = 3, <emphasis effect="italics">b</emphasis> = 13, <emphasis effect="italics">c</emphasis> = −10 in the formula, we obtain</para>
+<equation id="fs-idm77074320" class="unnumbered"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo>−</m:mo><m:mn>13</m:mn><m:mo>±</m:mo><m:msqrt><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>13</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>−10</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:msqrt></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<equation id="eip-576" class="unnumbered"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo>−</m:mo><m:mn>13</m:mn><m:mo>±</m:mo><m:msqrt><m:mrow><m:mn>169</m:mn><m:mo>+</m:mo><m:mn>120</m:mn></m:mrow></m:msqrt></m:mrow><m:mn>6</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo>−</m:mo><m:mn>13</m:mn><m:mo>±</m:mo><m:msqrt><m:mrow><m:mn>289</m:mn></m:mrow></m:msqrt></m:mrow><m:mn>6</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo>−</m:mo><m:mn>13</m:mn><m:mo>±</m:mo><m:mn>17</m:mn></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></equation><para id="fs-idm171950464">The two roots are therefore</para>
+<equation id="fs-idp244754576" class="unnumbered"><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo>−</m:mo><m:mn>13</m:mn><m:mo>+</m:mo><m:mn>17</m:mn></m:mrow><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac><m:mspace width="0.5em"/><m:mtext>and</m:mtext><m:mspace width="0.5em"/><m:mi>x</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo>−</m:mo><m:mn>13</m:mn><m:mo>−</m:mo><m:mn>17</m:mn></m:mrow><m:mn>6</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>−5</m:mn></m:mrow></m:math></equation></example>
+<para id="fs-idm147616016">Quadratic equations constructed on physical data always have real roots, and of these real roots, often only those having positive values are of any significance.</para>
+</section>
+<section id="fs-idm180300896">
+<title>Two-Dimensional (<emphasis effect="italics">x</emphasis>-<emphasis effect="italics">y</emphasis>) Graphing</title>
+<para id="fs-idm67130880">The relationship between any two properties of a system can be represented graphically by a two-dimensional data plot. Such a graph has two axes: a horizontal one corresponding to the independent variable, or the variable whose value is being controlled (<emphasis effect="italics">x</emphasis>), and a vertical axis corresponding to the dependent variable, or the variable whose value is being observed or measured (<emphasis effect="italics">y</emphasis>).</para>
+<para id="fs-idm78087840">When the value of <emphasis effect="italics">y</emphasis> is changing as a function of <emphasis effect="italics">x</emphasis> (that is, different values of <emphasis effect="italics">x</emphasis> correspond to different values of <emphasis effect="italics">y</emphasis>), a graph of this change can be plotted or sketched. The graph can be produced by using specific values for (<emphasis effect="italics">x</emphasis>,<emphasis effect="italics">y</emphasis>) data pairs.</para>
+<example id="fs-idp9271248">
+<para id="fs-idm111716000"><title>Graphing the Dependence of <emphasis effect="italics">y</emphasis> on <emphasis effect="italics">x</emphasis></title></para>
+<table id="fs-idm165592384" class="unnumbered" summary="A table has two columns labeled x and y. In the first row, the value of x is 1, and the value of y is 5. In the second row, the value of x is 2, and the value of y is 10. In the third row, the value of x is 3, and the value of y is 7. In the fourth row, the value of x is 4, and the value of y is 14.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="left"><emphasis effect="italics">x</emphasis></entry>
+<entry align="left"><emphasis effect="italics">y</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">1</entry>
+<entry align="left">5</entry>
+</row>
+<row valign="top">
+<entry align="left">2</entry>
+<entry align="left">10</entry>
+</row>
+<row valign="top">
+<entry align="left">3</entry>
+<entry align="left">7</entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">14</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm176114816">This table contains the following points: (1,5), (2,10), (3,7), and (4,14). Each of these points can be plotted on a graph and connected to produce a graphical representation of the dependence of <emphasis effect="italics">y</emphasis> on <emphasis effect="italics">x</emphasis>.</para>
+<media id="fs-idm174022560" class="scaled-down" alt="A graph is titled “Dependency of Y on X.” The x-axis ranges from 0 to 4.5. The y-axis ranges from 0 to 16. Four points are plotted as a line graph; the points are 1 and 5, 2 and 10, 3 and 7, and 4 and 14.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_00_BB_Dependence_img.jpg"/>
+</media>
+</example>
+<para id="fs-idm164107136">If the function that describes the dependence of <emphasis effect="italics">y</emphasis> on <emphasis effect="italics">x</emphasis> is known, it may be used to compute x,y data pairs that may subsequently be plotted.</para>
+<example id="fs-idm173153104">
+<para id="fs-idm144872640"><title>Plotting Data Pairs</title>
+If we know that <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis><sup>2</sup> + 2, we can produce a table of a few (<emphasis effect="italics">x</emphasis>,<emphasis effect="italics">y</emphasis>) values and then plot the line based on the data shown here.</para>
+<table id="fs-idm70341712" class="unnumbered" summary="A table has two columns: the first is labeled x, and the second is labeled y equals x superscript 2 plus 2. In the first row, the value of x is 1, and the value of y equals x superscript 2 plus 2 is 3. In the second row, the value of x is 2, and the value of y equals x superscript 2 plus 2 is 6. In the third row, the value of x is 3, and the value of y equals x superscript 2 plus 2 is 11. In the fourth row, the value of x is 4, and the value of y equals x superscript 2 plus 2 is 18.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="left"><emphasis effect="italics">x</emphasis></entry>
+<entry align="left"><emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis><sup>2</sup> + 2</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">1</entry>
+<entry align="left">3</entry>
+</row>
+<row valign="top">
+<entry align="left">2</entry>
+<entry align="left">6</entry>
+</row>
+<row valign="top">
+<entry align="left">3</entry>
+<entry align="left">11</entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">18</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<media id="fs-idp112843584" class="scaled-down" alt="A graph is titled “Y equals x superscript 2 plus 2.” The x-axis ranges from 0 to 4.5. The y-axis ranges from 0 to 20. Four points are plotted as a line graph; the points are 1 and 3, 2 and 6, 3 and 11, and 4 and 18.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_00_BB_Function_img.jpg"/>
+</media>
+</example>
+</section>
+   </content>
+</document>

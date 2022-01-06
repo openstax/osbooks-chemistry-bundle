@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Reaction Mechanisms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68794</md:content-id>
+  <md:title>Reaction Mechanisms</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Distinguish net reactions from elementary reactions (steps)</item>
+<item>Identify the molecularity of elementary reactions</item>
+<item>Write a balanced chemical equation for a process given its reaction mechanism</item>
+<item>Derive the rate law consistent with a given reaction mechanism</item>
+</list></md:abstract>
+  <md:uuid>5e902df9-c745-4aa6-a971-669706f327a2</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp19792192">Chemical reactions very often occur in a step-wise fashion, involving two or more distinct reactions taking place in sequence. A balanced equation indicates what is reacting and what is produced, but it reveals no details about how the reaction actually takes place. The <term>reaction mechanism</term> (or reaction path) provides details regarding the precise, step-by-step process by which a reaction occurs.</para>
+<para id="fs-idm10360272">The decomposition of ozone, for example, appears to follow a mechanism with two steps:</para>
+<equation id="fs-idp10305696" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>O</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm40865648">Each of the steps in a reaction mechanism is an <term>elementary reaction</term>. These elementary reactions occur precisely as represented in the step equations, and they must sum to yield the balanced chemical equation representing the overall reaction:</para>
+<equation id="fs-idp143616928" class="unnumbered"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp205634512">Notice that the oxygen atom produced in the first step of this mechanism is consumed in the second step and therefore does not appear as a product in the overall reaction. Species that are produced in one step and consumed in a subsequent step are called <term>intermediates</term>.</para>
+<para id="fs-idp6340064">While the overall reaction equation for the decomposition of ozone indicates that two molecules of ozone react to give three molecules of oxygen, the mechanism of the reaction <emphasis effect="italics">does not involve the direct collision and reaction of two ozone molecules</emphasis>. Instead, one O<sub>3</sub> decomposes to yield O<sub>2</sub> and an oxygen atom, and a second O<sub>3</sub> molecule subsequently reacts with the oxygen atom to yield two additional O<sub>2</sub> molecules.</para>
+<para id="fs-idm500275472">Unlike balanced equations representing an overall reaction, the equations for elementary reactions are explicit representations of the chemical change taking place. The reactant(s) in an elementary reaction’s equation undergo only the bond-breaking and/or making events depicted to yield the product(s). For this reason, <emphasis effect="italics">the rate law for an elementary reaction may be derived directly from the balanced chemical equation describing the reaction</emphasis>. This is not the case for typical chemical reactions, for which rate laws may be reliably determined only via experimentation.</para>
+<section id="fs-idp262348128">
+<title>Unimolecular Elementary Reactions</title>
+<para id="fs-idp205522704">The <term>molecularity</term> of an elementary reaction is the number of reactant species (atoms, molecules, or ions). For example, a <term>unimolecular reaction</term> involves the reaction of a <emphasis effect="italics">single</emphasis> reactant species to produce one or more molecules of product:</para>
+<equation id="fs-idp34074352" class="unnumbered"><m:math><m:mrow><m:mi>A</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>products</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp13674832">The rate law for a unimolecular reaction is first order:</para>
+<equation id="fs-idm26736096" class="unnumbered"><m:math><m:mrow><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mi>A</m:mi><m:mo stretchy="false">]</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp203524640">A unimolecular reaction may be one of several elementary reactions in a complex mechanism. For example, the reaction:</para>
+<equation id="fs-idp16624720" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp196763520">illustrates a unimolecular elementary reaction that occurs as one part of a two-step reaction mechanism as described above. However, some unimolecular reactions may be the only step of a single-step reaction mechanism. (In other words, an “overall” reaction may also be an elementary reaction in some cases.) For example, the gas-phase decomposition of cyclobutane, C<sub>4</sub>H<sub>8</sub>, to ethylene, C<sub>2</sub>H<sub>4</sub>, is represented by the following chemical equation:</para>
+<media id="fs-idp32755824" class="scaled-down" alt="In this figure, structural formulas are used to illustrate a chemical reaction. On the left, a structural formula for cyclobutane is shown. This structure is composed of 4 C atoms connected with single bonds in a square shape. Each C atom is bonded to two other C atoms in the structure, leaving two bonds for H atoms pointing outward above, below, left, and right. An arrow points right to two identical ethane molecules with a plus symbol between them. Each of these molecules contains two C atoms connected with a double bond oriented vertically between them. The C atom at the top of these molecules has H atoms bonded above to the right and left. Similarly, the lower C atom has two H atoms bonded below to the right and left.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_06_CyclobD_img.jpg"/>
+</media>
+<para id="fs-idp100963616">This equation represents the overall reaction observed, and it might also represent a legitimate unimolecular elementary reaction. The rate law predicted from this equation, assuming it is an elementary reaction, turns out to be the same as the rate law derived experimentally for the overall reaction, namely, one showing first-order behavior:</para>
+<equation id="fs-idp67724640" class="unnumbered"><m:math><m:mrow><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>t</m:mi></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp128923296">This agreement between observed and predicted rate laws is interpreted to mean that the proposed unimolecular, single-step process is a reasonable mechanism for the butadiene reaction.</para>
+</section>
+<section id="fs-idp108234736">
+<title>Bimolecular Elementary Reactions</title>
+<para id="fs-idp87793216">A <term>bimolecular reaction</term> involves two reactant species, for example:</para>
+<equation id="fs-idp211065760" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>B</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>products</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>and</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>2</m:mn><m:mi>A</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>products</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm80729584">For the first type, in which the two reactant molecules are different, the rate law is first-order in <emphasis effect="italics">A</emphasis> and first order in <emphasis effect="italics">B</emphasis> (second-order overall):</para>
+<equation id="fs-idm26928768" class="unnumbered"><m:math><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mi>A</m:mi><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mi>B</m:mi><m:mo stretchy="false">]</m:mo></m:math></equation>
+<para id="fs-idp220120832">For the second type, in which two identical molecules collide and react, the rate law is second order in <emphasis effect="italics">A</emphasis>:</para>
+<equation id="fs-idp93993280" class="unnumbered"><m:math><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mi>A</m:mi><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mi>A</m:mi><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mi>A</m:mi><m:msup><m:mo stretchy="false">]</m:mo><m:mn>2</m:mn></m:msup></m:math></equation><para id="fs-idp43609744">Some chemical reactions occur by mechanisms that consist of a single bimolecular elementary reaction. One example is the reaction of nitrogen dioxide with carbon monoxide:</para>
+<equation id="fs-idm24253872" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp38254032">(see <link target-id="CNX_Chem_12_06_BimoElRe"/>)</para>
+<figure id="CNX_Chem_12_06_BimoElRe" class="scaled-down"><media id="fs-idp70495312" alt="This figure provides an illustration of a reaction between two H I molecules using space filling models. H atoms are shown as white spheres, and I atoms are shown as purple spheres. On the left, two H I molecules are shownwith a small white sphere bonded to a much larger purple sphere. The label, “Two H I molecules,” appears below. An arrow points right to a similar structure in which the two molecules appear pushed together, so that the purple spheres of the two molecules are touching. Below appears the label, “Transition state.” Following another arrow, two white spheres are shown vertically oriented and bonded together with the label, “H subscript 2” above. The H subscript 2 molecule is followed by a plus sign and two purple spheres bonded together with the label, “I subscript 2” above. Below these structures is the label, “Hydrogen iodide molecules decompose to produce hydrogen H subscript 2 and iodine I subscript 2.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_06_BimoElRe.jpg"/>
+</media>
+<caption>The probable mechanism for the reaction between NO<sub>2</sub> and CO to yield NO and CO<sub>2</sub>.</caption></figure><para id="fs-idp38432416">Bimolecular elementary reactions may also be involved as steps in a multistep reaction mechanism. The reaction of atomic oxygen with ozone is the second step of the two-step ozone decomposition mechanism discussed earlier in this section:</para>
+<equation id="fs-idp100763440" class="unnumbered"><m:math><m:mrow><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>2O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+</section>
+<section id="fs-idp38909440">
+<title>Termolecular Elementary Reactions</title>
+<para id="fs-idm9155392">An elementary <term>termolecular reaction</term> involves the simultaneous collision of three atoms, molecules, or ions. Termolecular elementary reactions are uncommon because the probability of three particles colliding simultaneously is less than one one-thousandth of the probability of two particles colliding. There are, however, a few established termolecular elementary reactions. The reaction of nitric oxide with oxygen appears to involve termolecular steps:</para>
+<equation id="fs-idp196238032" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>2NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp136937056">Likewise, the reaction of nitric oxide with chlorine appears to involve termolecular steps:</para>
+<equation id="fs-idp128771280" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>2NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>NOCl</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mtext>[NO]</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
+</section>
+<section id="fs-idp270477600">
+<title>Relating Reaction Mechanisms to Rate Laws</title>
+<para id="fs-idp253615520">It’s often the case that one step in a multistep reaction mechanism is significantly slower than the others. Because a reaction cannot proceed faster than its slowest step, this step will limit the rate at which the overall reaction occurs. The slowest step is therefore called the <term>rate-limiting step</term> (or rate-determining step) of the reaction <link target-id="CNX_Chem_12_06_Cattle"/>.</para>
+<figure id="CNX_Chem_12_06_Cattle" class="scaled-down">
+<media id="fs-idp96445120" alt="A photo is shown of cattle passing through a narrow chute into a holding pen. A person directs them through the gate with a long white and red pole.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_06_Cattle.jpg"/>
+</media>
+<caption>A cattle chute is a nonchemical example of a rate-determining step. Cattle can only be moved from one holding pen to another as quickly as one animal can make its way through the chute. (credit: Loren Kerns)</caption>
+</figure>
+<para id="fs-idp41680064">As described earlier, rate laws may be derived directly from the chemical equations for elementary reactions. This is not the case, however, for ordinary chemical reactions. The balanced equations most often encountered represent the overall change for some chemical system, and very often this is the result of some multistep reaction mechanisms. In every case, the rate law must be determined from experimental data and the reaction mechanism subsequently deduced from the rate law (and sometimes from other data). The reaction of NO<sub>2</sub> and CO provides an illustrative example:</para>
+<equation id="fs-idp193034480" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp18907792">For temperatures above 225 °C, the rate law has been found to be:</para>
+<equation id="fs-idp70556928" class="unnumbered"><m:math><m:mrow><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp43466688">The reaction is first order with respect to NO<sub>2</sub> and first-order with respect to CO. This is consistent with a single-step bimolecular mechanism and it is <emphasis effect="italics">possible</emphasis> that this is the mechanism for this reaction at high temperatures.</para>
+<para id="fs-idp232335904">At temperatures below 225 °C<emphasis effect="italics">,</emphasis> the reaction is described by a rate law that is second order with respect to NO<sub>2</sub>:</para>
+<equation id="fs-idm80864896" class="unnumbered"><m:math><m:mrow><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp70725520">This rate law is not consistent with the single-step mechanism, but is consistent with the following two-step mechanism:</para>
+<equation id="fs-idp34145072" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>slow</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>CO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>fast</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp107509104">The rate-determining (slower) step gives a rate law showing second-order dependence on the NO<sub>2</sub> concentration, and the sum of the two equations gives the net overall reaction.</para>
+<para id="fs-idp37457664">In general, when the rate-determining (slower) step is the first step in a mechanism, the rate law for the overall reaction is the same as the rate law for this step. However, when the rate-determining step is preceded by a step involving a rapidly reversible reaction the rate law for the overall reaction may be more difficult to derive.</para>
+<para id="fs-idp17102832">As discussed in several chapters of this text, a reversible reaction is at <emphasis effect="italics">equilibrium</emphasis> when the rates of the forward and reverse processes are equal. Consider the reversible elementary reaction in which NO dimerizes to yield an intermediate species N<sub>2</sub>O<sub>2</sub>. When this reaction is at equilibrium:</para>
+<equation id="fs-idp65516752" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:mtext>NO</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>rate</m:mtext><m:mrow><m:mtext>forward</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mtext>rate</m:mtext><m:mrow><m:mtext>reverse</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:msup><m:mo stretchy="false">]</m:mo><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo>=</m:mo><m:msub><m:mi>k</m:mi><m:mrow><m:mn>−1</m:mn></m:mrow></m:msub><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm76069968">This expression may be rearranged to express the concentration of the intermediate in terms of the reactant NO:</para>
+<equation id="fs-idp95214240" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mtext>k</m:mtext><m:mn>1</m:mn></m:msub><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:msup><m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msub><m:mtext>k</m:mtext><m:mrow><m:mn>−1</m:mn></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp32322000">Since intermediate species concentrations are not used in formulating rate laws for overall reactions, this approach is sometimes necessary, as illustrated in the following example exercise.</para>
+<example id="fs-idp252983408"><para id="fs-idm378927696"><title>Deriving a Rate Law from a Reaction Mechanism</title>
+The two-step mechanism below has been proposed for a reaction between nitrogen monoxide and molecular chlorine:</para>
+<equation id="fs-idm496065264" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Step 1:</m:mtext><m:mspace width="0.2em"/><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>⇌</m:mo><m:msub><m:mtext>NOCl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>fast</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>Step 2:</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>NOCl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2NOCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>slow</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm352158848">Use this mechanism to derive the equation and predicted rate law for the overall reaction.</para>
+<para id="fs-idm359312208"><title>Solution</title>
+The equation for the overall reaction is obtained by adding the two elementary reactions:</para>
+<equation id="fs-idm345484992" class="unnumbered"><m:math><m:mrow><m:mtext>2NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>⟶</m:mo><m:mtext>2NOCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation><para id="fs-idm345501040">To derive a rate law from this mechanism, first write rates laws for each of the two steps.</para>
+<equation id="fs-idm514969616" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:msub><m:mtext>rate</m:mtext><m:mn>1</m:mn></m:msub></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mtext>for the forward reaction of step 1</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:msub><m:mtext>rate</m:mtext><m:mn>−1</m:mn></m:msub></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msub><m:mi>k</m:mi><m:mn>−1</m:mn></m:msub><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>NOCl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mtext>for the reverse reaction of step 1</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:msub><m:mtext>rate</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msub><m:mi>k</m:mi><m:mn>2</m:mn></m:msub><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>NOCl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mtext>for step 2</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm328804768">Step 2 is the rate-determining step, and so the rate law for the overall reaction should be the same as for this step. However, the step 2 rate law, as written, contains an intermediate species concentration, [NOCl<sub>2</sub>]. To remedy this, use the first step’s rate laws to derive an expression for the intermediate concentration in terms of the reactant concentrations.</para>
+<para id="fs-idm328530432">Assuming step 1 is at equilibrium:</para>
+<equation id="fs-idm386271152" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mrow><m:msub><m:mtext>rate</m:mtext><m:mn>1</m:mn></m:msub></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msub><m:mtext>rate</m:mtext><m:mn>−1</m:mn></m:msub></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msub><m:mi>k</m:mi><m:mn>−1</m:mn></m:msub><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>NOCl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>NOCl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>(</m:mo><m:mfrac><m:mrow><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mn>−1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>)</m:mo></m:mrow><m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm385514496">Substituting this expression into the rate law for step 2 yields:</para>
+<equation id="fs-idm373566368" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>rate</m:mtext><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mtext>rate</m:mtext><m:mtext>overall</m:mtext></m:msub><m:mo>=</m:mo><m:mo>(</m:mo><m:mfrac><m:mrow><m:msub><m:mi>k</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mn>−1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>)</m:mo><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:msup><m:mo stretchy="false">]</m:mo><m:mn>2</m:mn></m:msup><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm328658256"><title>Check Your Learning</title>
+The first step of a proposed multistep mechanism is:</para>
+<equation id="fs-idm389297024" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>⇌</m:mo><m:mtext>2F</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>fast</m:mtext></m:mrow></m:math></equation><para id="fs-idm373041168">Derive the equation relating atomic fluorine concentration to molecular fluorine concentration.</para>
+<note id="fs-idm330964176">
+<title>Answer:</title>
+<para id="fs-idm361032656"><m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>F</m:mtext><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mo>(</m:mo><m:mfrac><m:mrow><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mn>−1</m:mn></m:msub></m:mrow></m:mfrac><m:msup><m:mo>)</m:mo><m:mn>1/2</m:mn></m:msup></m:mrow></m:math></para>
+</note>
+</example>
+</section>
+<section id="fs-idp145811120" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp240124176">The sequence of individual steps, or elementary reactions, by which reactants are converted into products during the course of a reaction is called the reaction mechanism. The molecularity of an elementary reaction is the number of reactant species involved, typically one (unimolecular), two (bimolecular), or, less commonly, three (termolecular). The overall rate of a reaction is determined by the rate of the slowest in its mechanism, called the rate-determining step. Unimolecular elementary reactions have first-order rate laws, while bimolecular elementary reactions have second-order rate laws. By comparing the rate laws derived from a reaction mechanism to that determined experimentally, the mechanism may be deemed either incorrect or plausible.</para>
+</section>
+<section id="fs-idm483184" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idm14620304">
+<problem id="fs-idp30088816">
+<para id="fs-idp78909952">Why are elementary reactions involving three or more reactants very uncommon?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp146992064">
+<problem id="fs-idp164463488">
+<para id="fs-idp253834368">In general, can we predict the effect of doubling the concentration of <emphasis effect="italics">A</emphasis> on the rate of the overall reaction <m:math><m:mrow><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>B</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>C</m:mi></m:mrow></m:math>? Can we predict the effect if the reaction is known to be an elementary reaction?</para>
+</problem>
+<solution id="fs-idp48393072">
+<para id="fs-idp153239360">No. In general, for the overall reaction, we cannot predict the effect of changing the concentration without knowing the rate law. Yes. If the reaction is an elementary reaction, then doubling the concentration of <emphasis effect="italics">A</emphasis> doubles the rate.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp48807664">
+<problem id="fs-idp199939888">
+<para id="fs-idp192842416">Define these terms:</para>
+<para id="fs-idp147769328">(a) unimolecular reaction</para>
+<para id="fs-idm14282208">(b) bimolecular reaction</para>
+<para id="fs-idm33506976">(c) elementary reaction</para>
+<para id="fs-idp19671456">(d) overall reaction</para>
+</problem>
+</exercise>
+<exercise id="fs-idm4441216">
+<problem id="fs-idp131250560">
+<para id="fs-idm33972032">What is the rate law for the elementary termolecular reaction <m:math><m:mrow><m:mi>A</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>B</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>products?</m:mtext></m:mrow></m:math> For <m:math><m:mrow><m:mn>3</m:mn><m:mi>A</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>products?</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp15537216">
+<para id="fs-idp74514816">Rate = <emphasis effect="italics">k</emphasis>[<emphasis effect="italics">A</emphasis>][<emphasis effect="italics">B</emphasis>]<sup>2</sup>; Rate = <emphasis effect="italics">k</emphasis>[<emphasis effect="italics">A</emphasis>]<sup>3</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp38703248">
+<problem id="fs-idp135813952">
+<para id="fs-idp46432976">Given the following reactions and the corresponding rate laws, in which of the reactions might the elementary reaction and the overall reaction be the same?</para>
+<para id="fs-idp67815216"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>(a)</m:mtext></m:mtd><m:mtd><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>CO</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mtext>3/2</m:mtext></m:mrow></m:msup><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-idp74086640"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>(b)</m:mtext></m:mtd><m:mtd><m:msub><m:mtext>PCl</m:mtext><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>PCl</m:mtext><m:mn>5</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>PCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-idp6788416"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>(c)</m:mtext></m:mtd><m:mtd><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></para><para id="fs-idp196669424"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>(d)</m:mtext></m:mtd><m:mtd><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mtext>[NO]</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-idp16831200"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>(e)</m:mtext></m:mtd><m:mtd><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp199466816">
+<problem id="fs-idp65295552">
+<para id="fs-idp232339888">Write the rate law for each of the following elementary reactions:</para>
+<para id="fs-idp19897360">(a) <m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.2em"/><m:mtext>sunlight</m:mtext><m:mspace width="0.2em"/></m:mrow></m:mover><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm10573776">(b) <m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mtext>Cl</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mtext>ClO</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp84028352">(c) <m:math><m:mrow><m:mtext>ClO</m:mtext><m:mo>+</m:mo><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cl</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idp138181888">(d) <m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mtext>NO</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idp252526240">(e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp139186432">
+<para id="fs-idm1295248">(a) Rate<sub>1</sub> = <emphasis effect="italics">k</emphasis>[O<sub>3</sub>]; (b) Rate<sub>2</sub> = <emphasis effect="italics">k</emphasis>[O<sub>3</sub>][Cl]; (c) Rate<sub>3</sub> = <emphasis effect="italics">k</emphasis>[ClO][O]; (d) Rate<sub>2</sub> = <emphasis effect="italics">k</emphasis>[O<sub>3</sub>][NO]; (e) Rate<sub>3</sub> = <emphasis effect="italics">k</emphasis>[NO<sub>2</sub>][O]</para>
+</solution>
+</exercise>
+<exercise id="fs-idp63617152">
+<problem id="fs-idp202037216">
+<para id="fs-idm34461424">Nitrogen monoxide, NO, reacts with hydrogen, H<sub>2</sub>, according to the following equation:<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para><para id="fs-idp105142944">What would the rate law be if the mechanism for this reaction were:<newline/>
+<m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>slow</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>fast</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm20987200">
+<problem id="fs-idp157852080">
+<para id="fs-idp105816432">Experiments were conducted to study the rate of the reaction represented by this equation.<footnote id="fs-idm12821888">This question is taken from the Chemistry Advanced Placement Examination and is used with the permission of the Educational Testing Service.</footnote><newline/>
+<m:math><m:mrow><m:mtext>2NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp138927296">Initial concentrations and rates of reaction are given here.</para>
+<table id="fs-idp16941152" summary="This table has four columns and five rows. The first row is a header row and it labels each column, “Experiment,” “Initial Concentration [ N O ] ( mol / L ),” “Initial Concentration, [ H subscript 2 ] ( mol / L ),” and “Initial Rate of Formation of N subscript 2 ( mol / L min ).” Under the “Experiment” columns are the numbers: 1, 2, 3, and 4. Under the “Initial Concentration [ N O ] ( mol / L )” column are the numbers: 0.0060, 0.0060, 0.0010, and 0.0020. Under the “Initial Concentration, [ H subscript 2 ] ( mol / L )” column are the numbers: 0.0010, 0.0020, 0.0060, 0.0060. Under the “Initial Rate of Formation of N subscript 2 ( mol / L min )” are the numbers: 1.8 times ten to the negative 4; 3.6 times ten to the negative 4; 0.30 times ten to the negative 4; and 1.2 times ten to the negative 4." class="unnumbered">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="middle">
+<entry align="left">Experiment</entry>
+<entry align="left">Initial Concentration [NO] (mol L<sup>−1</sup>)</entry>
+<entry align="left">Initial Concentration, [H<sub>2</sub>] (mol L<sup>−1</sup> min<sup>−1</sup>)</entry>
+<entry align="left">Initial Rate of Formation of N<sub>2</sub> (mol L<sup>−1</sup> min<sup>−1</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">1</entry>
+<entry align="left">0.0060</entry>
+<entry align="left">0.0010</entry>
+<entry align="left">1.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">2</entry>
+<entry align="left">0.0060</entry>
+<entry align="left">0.0020</entry>
+<entry align="left">3.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">3</entry>
+<entry align="left">0.0010</entry>
+<entry align="left">0.0060</entry>
+<entry align="left">0.30 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">4</entry>
+<entry align="left">0.0020</entry>
+<entry align="left">0.0060</entry>
+<entry align="left">1.2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp12567072">Consider the following questions:</para>
+<para id="fs-idp65094304">(a) Determine the order for each of the reactants, NO and H<sub>2</sub>, from the data given and show your reasoning.</para>
+<para id="fs-idp59515264">(b) Write the overall rate law for the reaction.</para>
+<para id="fs-idp219904240">(c) Calculate the value of the rate constant, <emphasis effect="italics">k</emphasis>, for the reaction. Include units.</para>
+<para id="fs-idp37050608">(d) For experiment 2, calculate the concentration of NO remaining when exactly one-half of the original amount of H<sub>2</sub> had been consumed.</para>
+<para id="fs-idp79345216">(e) The following sequence of elementary steps is a proposed mechanism for the reaction.</para>
+<para id="fs-idp196835696">Step 1: <m:math><m:mrow><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:mtext>NO</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idp65580160">Step 2: <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp265543072">Step 3: <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp72418144">Based on the data presented, which of these is the rate determining step? Show that the mechanism is consistent with the observed rate law for the reaction and the overall stoichiometry of the reaction.</para>
+</problem>
+<solution id="fs-idp18094976">
+<para id="fs-idp77008528">(a) Doubling [H<sub>2</sub>] doubles the rate. [H<sub>2</sub>] must enter the rate law to the first power. Doubling [NO] increases the rate by a factor of 4. [NO] must enter the rate law to the second power. (b) Rate = <emphasis effect="italics">k</emphasis> [NO]<sup>2</sup>[H<sub>2</sub>]; (c) <emphasis effect="italics">k</emphasis> = 5.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> mol<sup>−2</sup> L<sup>−2</sup> min<sup>−1</sup>; (d) 0.0050 mol/L; (e) Step II is the rate-determining step. If step I gives N<sub>2</sub>O<sub>2</sub> in adequate amount, steps 1 and 2 combine to give <m:math><m:mrow><m:mn>2</m:mn><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>.</m:mo></m:mrow></m:math> This reaction corresponds to the observed rate law. Combine steps 1 and 2 with step 3, which occurs by supposition in a rapid fashion, to give the appropriate stoichiometry.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp225129424">
+<problem id="fs-idp107377632">
+<para id="fs-idp244877904">The reaction of CO with Cl<sub>2</sub> gives phosgene (COCl<sub>2</sub>), a nerve gas that was used in World War I. Use the mechanism shown here to complete the following exercises:<newline/>
+<m:math><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> (fast, k<sub>1</sub> represents the forward rate constant, <emphasis effect="italics">k</emphasis><sub>−1</sub> the reverse rate constant)<newline/>
+<m:math><m:mrow><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>COCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> (slow, <emphasis effect="italics">k</emphasis><sub>2</sub> the rate constant)<newline/>
+<m:math><m:mrow><m:mtext>COCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>COCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> (fast, <emphasis effect="italics">k</emphasis><sub>3</sub> the rate constant)</para>
+<para id="fs-idp38932624">(a) Write the overall reaction.</para>
+<para id="fs-idp180368">(b) Identify all intermediates.</para>
+<para id="fs-idp106886192">(c) Write the rate law for each elementary reaction.</para>
+<para id="fs-idp107103328">(d) Write the overall rate law expression.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp131244384">
+<term>bimolecular reaction</term>
+<meaning id="fs-idm21928512">elementary reaction involving two reactant species</meaning>
+</definition>
+<definition id="fs-idp36862592">
+<term>elementary reaction</term>
+<meaning id="fs-idp56117440">reaction that takes place in a single step, precisely as depicted in its chemical equation</meaning>
+</definition>
+<definition id="fs-idp63453216">
+<term>intermediate</term>
+<meaning id="fs-idp42175008">species produced in one step of a reaction mechanism and consumed in a subsequent step</meaning>
+</definition>
+<definition id="fs-idp7133520">
+<term>molecularity</term>
+<meaning id="fs-idp108318064">number of reactant species involved in an elementary reaction</meaning>
+</definition>
+<definition id="fs-idp105000160">
+<term>rate-determining step</term>
+<meaning id="fs-idp105335120">(also, rate-limiting step) slowest elementary reaction in a reaction mechanism; determines the rate of the overall reaction</meaning>
+</definition>
+<definition id="fs-idp154473568">
+<term>reaction mechanism</term>
+<meaning id="fs-idp74962800">stepwise sequence of elementary reactions by which a chemical change takes place</meaning>
+</definition>
+<definition id="fs-idp251542624">
+<term>termolecular reaction</term>
+<meaning id="fs-idp96748560">elementary reaction involving three reactant species</meaning>
+</definition>
+<definition id="fs-idm2926992">
+<term>unimolecular reaction</term>
+<meaning id="fs-idp46376128">elementary reaction involving a single reactant species</meaning>
+</definition>
+</glossary>
+</document>

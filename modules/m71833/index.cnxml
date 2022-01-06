@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Chemical Equilibria</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71833</md:content-id>
+  <md:title>Chemical Equilibria</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the nature of equilibrium systems</item>
+<item>Explain the dynamic nature of a chemical equilibrium</item>
+</list></md:abstract>
+  <md:uuid>5ba4be2f-b0d1-4b87-a65c-ddd234dda79e</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp222368384">The convention for writing chemical equations involves placing reactant formulas on the left side of a reaction arrow and product formulas on the right side. By this convention, and the definitions of “reactant” and “product,” a chemical equation represents the reaction in question as proceeding from left to right. <term>Reversible reactions</term>, however, may proceed in both forward (left to right) and reverse (right to left) directions. When the rates of the forward and reverse reactions are equal, the concentrations of the reactant and product species remain constant over time and the system is at <term>equilibrium</term>. The relative concentrations of reactants and products in equilibrium systems vary greatly; some systems contain mostly products at equilibrium, some contain mostly reactants, and some contain appreciable amounts of both.</para>
+<para id="fs-idp3488592"><link target-id="CNX_Chem_13_01_equilibrium"/> illustrates fundamental equilibrium concepts using the reversible decomposition of colorless dinitrogen tetroxide to yield brown nitrogen dioxide, an elementary reaction described by the equation:</para>
+<equation class="unnumbered" id="fs-idp102698592"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp239057616">Note that a special double arrow is used to emphasize the reversible nature of the reaction.</para>
+<figure id="CNX_Chem_13_01_equilibrium"><media id="fs-idp272099696" alt="A three-part diagram is shown and labeled, “a,” “b,” and “c.” In part a, at the top of the diagram, three beakers are shown, and each one contains a sealed tube. The tube in the left beaker is labeled “t equals 0.” It is full of a colorless gas which is connected to a zoom-in view of the particles in the tube by a downward-facing arrow. This particle view shows seven particles, each composed of two connected blue spheres. Each blue sphere is connected to two red spheres. This type of particle is labeled “N subscript 2 O subscript 4.” The tube in the middle beaker is labeled “pre-equilibrium.” It is full of a light brown gas which is connected to a zoom-in view of the particles in the tube by a downward-facing arrow. This particle view shows nine particles, five of which are composed of two connected blue spheres. Each blue sphere is connected to two red spheres. This type of particle is labeled “N subscript 2 O subscript 4.” The remaining four are composed of two red spheres connected to a blue sphere. This type of particle is labeled “N O subscript 2.”  The tube in the right beaker is labeled “at equilibrium.” It is full of a brown gas which is connected to a zoom-in view of the particles in the tube by a downward-facing arrow. This particle view shows eleven particles, three of which are composed of two connected blue spheres. Each blue sphere is connected to two red spheres. The remaining eight are composed of two red spheres connected to a blue sphere. In part b, in the middle of the image, is one graph. This graph has a y-axis labeled, “Concentration,” and an x-axis labeled, “Time.” A red line labeled, “N O subscript 2,” begins in the bottom left corner of the graph at a point labeled, “0,” and rises near the highest point on the y-axis before it levels off and becomes horizontal. A blue line labeled, “N subscript 2 O subscript 4,” begins near the highest point on the y-axis and drops below the midpoint of the y-axis before leveling off. In part c, at the bottom of the image is another graph. This graph has a y-axis labeled, “Rate,” and an x-axis labeled, “Time.” A red line labeled, “k subscript f, [ N subscript 2 O subscript 4 ],” begins in the bottom left corner of the graph at a point labeled, “0,” and rises near the middle of the y-axis before it levels off and becomes horizontal. A blue line labeled, “k subscript f, [ N O subscript 2 ] superscript 2,” begins near the highest point on the y-axis and drops to the same point on the y-axis as the red line before leveling off. The point where both lines become horizontal is labeled, “Equilibrium achieved.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_13_01_equilibrium.jpg"/>
+</media>
+<caption>(a) A sealed tube containing colorless N<sub>2</sub>O<sub>4</sub> darkens as it decomposes to yield brown NO<sub>2</sub>. (b) Changes in concentration over time as the decomposition reaction achieves equilibrium. (c) At equilibrium, the forward and reverse reaction rates are equal.</caption></figure><para id="fs-idp53505568">For this elementary process, rate laws for the forward and reverse reactions may be derived directly from the reaction stoichiometry:</para>
+<equation class="unnumbered" id="fs-idm362234848"><m:math><m:mrow><m:msub><m:mrow><m:mtext>rate</m:mtext></m:mrow><m:mi>f</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>k</m:mi><m:mi>f</m:mi></m:msub><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>­2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idm322190144"><m:math><m:mrow><m:msub><m:mrow><m:mtext>rate</m:mtext></m:mrow><m:mi>r</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>k</m:mi><m:mi>r</m:mi></m:msub><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm323556016">As the reaction begins (<emphasis effect="italics">t</emphasis> = 0), the concentration of the N<sub>2</sub>O<sub>4</sub> reactant is finite and that of the NO<sub>2</sub> product is zero, so the forward reaction proceeds at a finite rate while the reverse reaction rate is zero. As time passes, N<sub>­2</sub>O<sub>4</sub> is consumed and its concentration falls, while NO<sub>2</sub> is produced and its concentration increases (<link target-id="CNX_Chem_13_01_equilibrium"/><emphasis effect="bold">b</emphasis>). The decreasing concentration of the reactant slows the forward reaction rate, and the increasing product concentration speeds the reverse reaction rate (<link target-id="CNX_Chem_13_01_equilibrium"/><emphasis effect="bold">c</emphasis>). This process continues until <emphasis effect="italics">the forward and reverse reaction rates become equal</emphasis>, at which time the reaction has reached equilibrium, as characterized by constant concentrations of its reactants and products (shaded areas of <link target-id="CNX_Chem_13_01_equilibrium"/><emphasis effect="bold">b</emphasis> and <link target-id="CNX_Chem_13_01_equilibrium"/><emphasis effect="bold">c</emphasis>). It’s important to emphasize that chemical equilibria are dynamic; a reaction at equilibrium has not “stopped,” but is proceeding in the forward and reverse directions at the same rate. This dynamic nature is essential to understanding equilibrium behavior as discussed in this and subsequent chapters of the text.</para>
+<figure id="CNX_Chem_13_01_dynamic">
+<media id="fs-idp224130880" alt="Two people are shown throwing juggling pins back and forth to one another.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_13_01_dynamic.jpg"/>
+</media>
+<caption>A two-person juggling act illustrates the dynamic aspect of chemical equilibria. Each person is throwing and catching clubs at the same rate, and each holds a (approximately) constant number of clubs.</caption>
+</figure>
+<para id="fs-idp238702080">Physical changes, such as phase transitions, are also reversible and may establish equilibria. This concept was introduced in another chapter of this text through discussion of the vapor pressure of a condensed phase (liquid or solid). As one example, consider the vaporization of bromine:</para>
+<equation class="unnumbered" id="fs-idp92494336"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp164650592">When liquid bromine is added to an otherwise empty container and the container is sealed, the forward process depicted above (vaporization) will commence and continue at a roughly constant rate as long as the exposed surface area of the liquid and its temperature remain constant. As increasing amounts of gaseous bromine are produced, the rate of the reverse process (condensation) will increase until it equals the rate of vaporization and equilibrium is established. A photograph showing this phase transition equilibrium is provided in <link target-id="CNX_Chem_13_01_bromine"/>.</para>
+<figure id="CNX_Chem_13_01_bromine"><media id="fs-idp74803760" alt="A glass container is shown that is filled with an orange-brown gas and a small amount of dark orange liquid.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_13_01_bromine.jpg"/>
+</media>
+
+<caption>A sealed tube containing an equilibrium mixture of liquid and gaseous bromine. (credit: http://images-of-elements.com/bromine.php)</caption></figure><section id="fs-idp62938640" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp125631520">A reversible reaction is at equilibrium when the forward and reverse processes occur at equal rates. Chemical equilibria are dynamic processes characterized by constant amounts of reactant and product species.</para>
+</section>
+<section id="fs-idp157340304" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idp156600272">
+<problem id="fs-idp161308576">
+<para id="fs-idp78194656">What does it mean to describe a reaction as “reversible”?</para>
+</problem>
+<solution id="fs-idp117378016">
+<para id="fs-idp270955920">The reaction can proceed in both the forward and reverse directions.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp122639232">
+<problem id="fs-idp211200816">
+<para id="fs-idp244879360">When writing an equation, how is a reversible reaction distinguished from a nonreversible reaction?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp77430432">
+<problem id="fs-idp73301088">
+<para id="fs-idp238496784">If a reaction is reversible, when can it be said to have reached equilibrium?</para>
+</problem>
+<solution id="fs-idp218635792">
+<para id="fs-idp120287136">When a system has reached equilibrium, no further changes in the reactant and product concentrations occur; the forward and reverse reactions continue to proceed, but at equal rates.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp13186176">
+<problem id="fs-idm2291424">
+<para id="fs-idp280981664">Is a system at equilibrium if the rate constants of the forward and reverse reactions are equal?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp9783616">
+<problem id="fs-idp38335040">
+<para id="fs-idp73299680">If the concentrations of products and reactants are equal, is the system at equilibrium?</para>
+</problem>
+<solution id="fs-idp52478624">
+<para id="fs-idp15954560">Not necessarily. A system at equilibrium is characterized by <emphasis effect="italics">constant</emphasis> reactant and product concentrations, but the values of the reactant and product concentrations themselves need not be equal.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp87452944">
+<term>equilibrium</term>
+<meaning id="fs-idp271213856">state of a reversible reaction in which the forward and reverse processes occur at equal rates</meaning>
+</definition>
+<definition id="fs-idp4379168">
+<term>reversible reaction</term>
+<meaning id="fs-idp36703792">chemical reaction that can proceed in both the forward and reverse directions under given conditions</meaning>
+</definition>
+</glossary>
+</document>

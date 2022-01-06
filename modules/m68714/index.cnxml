@@ -1,0 +1,276 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Reaction Yields</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68714</md:content-id>
+  <md:title>Reaction Yields</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list><item>Explain the concepts of theoretical yield and limiting reactants/reagents.</item>
+<item>Derive the theoretical yield for a reaction under specified conditions.</item>
+<item>Calculate the percent yield for a reaction.</item></list></md:abstract>
+  <md:uuid>3da1a637-2826-47bf-8b06-e32ffbdfd60a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp24998416">The relative amounts of reactants and products represented in a balanced chemical equation are often referred to as <emphasis effect="italics">stoichiometric amounts</emphasis>. All the exercises of the preceding module involved stoichiometric amounts of reactants. For example, when calculating the amount of product generated from a given amount of reactant, it was assumed that any other reactants required were available in stoichiometric amounts (or greater). In this module, more realistic situations are considered, in which reactants are not present in stoichiometric amounts.</para>
+<section id="fs-idp5731792">
+<title>Limiting Reactant</title>
+<para id="fs-idp103911360">Consider another food analogy, making grilled cheese sandwiches (<link target-id="CNX_Chem_04_04_sandwich"/>):</para>
+<equation class="unnumbered" id="fs-idp59817360"><m:math><m:mrow><m:mtext>1 slice of cheese</m:mtext><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mtext>2 slices of bread</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>1 sandwich</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp39531056">Stoichiometric amounts of sandwich ingredients for this recipe are bread and cheese slices in a 2:1 ratio. Provided with 28 slices of bread and 11 slices of cheese, one may prepare 11 sandwiches per the provided recipe, using all the provided cheese and having six slices of bread left over. In this scenario, the number of sandwiches prepared has been <emphasis effect="italics">limited</emphasis> by the number of cheese slices, and the bread slices have been provided in <emphasis effect="italics">excess</emphasis>.</para>
+<figure id="CNX_Chem_04_04_sandwich">
+<media id="fs-idm59912944" alt="This figure has three rows showing the ingredients needed to make a sandwich. The first row reads, “1 sandwich = 2 slices of bread + 1 slice of cheese.” Two slices of bread and one slice of cheese are shown. The second row reads, “Provided with: 28 slices of bread + 11 slices of cheese.” There are 28 slices of bread and 11 slices of cheese shown. The third row reads, “We can make: 11 sandwiches + 6 slices of bread left over.” 11 sandwiches are shown with six extra slices of bread.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_04_sandwich.jpg"/>
+</media>
+<caption>Sandwich making can illustrate the concepts of limiting and excess reactants.</caption>
+</figure>
+<para id="fs-idm48112848">Consider this concept now with regard to a chemical process, the reaction of hydrogen with chlorine to yield hydrogen chloride:</para>
+<equation class="unnumbered" id="fs-idp62209424"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2HCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></equation><para id="fs-idp157494624">The balanced equation shows the hydrogen and chlorine react in a 1:1 stoichiometric ratio. If these reactants are provided in any other amounts, one of the reactants will nearly always be entirely consumed, thus limiting the amount of product that may be generated. This substance is the <term>limiting reactant</term>, and the other substance is the <term>excess reactant</term>. Identifying the limiting and excess reactants for a given situation requires computing the molar amounts of each reactant provided and comparing them to the stoichiometric amounts represented in the balanced chemical equation. For example, imagine combining 3 moles of H<sub>2</sub> and 2 moles of Cl<sub>2</sub>. This represents a 3:2 (or 1.5:1) ratio of hydrogen to chlorine present for reaction, which is greater than the stoichiometric ratio of 1:1. Hydrogen, therefore, is present in excess, and chlorine is the limiting reactant. Reaction of all the provided chlorine (2 mol) will consume 2 mol of the 3 mol of hydrogen provided, leaving 1 mol of hydrogen unreacted.</para>
+<para id="fs-idp22005824">An alternative approach to identifying the limiting reactant involves comparing the amount of product expected for the complete reaction of each reactant. Each reactant amount is used to separately calculate the amount of product that would be formed per the reaction’s stoichiometry. The reactant yielding the lesser amount of product is the limiting reactant. For the example in the previous paragraph, complete reaction of the hydrogen would yield</para>
+<equation class="unnumbered" id="fs-idp67209632"><m:math><m:mrow><m:mtext>mol HCl produced</m:mtext><m:mo>=</m:mo><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>2 mol HCl</m:mtext></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>6 mol HCl</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm20022400">Complete reaction of the provided chlorine would produce</para>
+<equation class="unnumbered" id="fs-idp10471024"><m:math><m:mrow><m:mtext>mol HCl produced</m:mtext><m:mo>=</m:mo><m:mtext>2 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>2 mol HCl</m:mtext></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>4 mol HCl</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm39942944">The chlorine will be completely consumed once 4 moles of HCl have been produced. Since enough hydrogen was provided to yield 6 moles of HCl, there will be unreacted hydrogen remaining once this reaction is complete. Chlorine, therefore, is the limiting reactant and hydrogen is the excess reactant (<link target-id="CNX_Chem_04_04_limiting"/>).</para>
+<figure id="CNX_Chem_04_04_limiting">
+<media id="fs-idp182564432" alt="The figure shows a space-filling molecular models reacting. There is a reaction arrow pointing to the right in the middle. To the left of the reaction arrow there are three molecules each consisting of two green spheres bonded together. There are also five molecules each consisting of two smaller, white spheres bonded together. Above these molecules is the label, “Before reaction,” and below these molecules is the label, “6 H subscript 2 and 4 C l subscript 2.” To the right of the reaction arrow, there are eight molecules each consisting of one green sphere bonded to a smaller white sphere. There are also two molecules each consisting of two white spheres bonded together. Above these molecules is the label, “After reaction,” and below these molecules is the label, “8 H C l and 2 H subscript 2.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_04_limiting.jpg"/>
+</media>
+<caption>When H<sub>2</sub> and Cl<sub>2</sub> are combined in nonstoichiometric amounts, one of these reactants will limit the amount of HCl that can be produced. This illustration shows a reaction in which hydrogen is present in excess and chlorine is the limiting reactant.</caption>
+</figure>
+<note id="fs-idp162031984" class="chemistry link-to-learning">
+<para id="fs-idm52028528">View this interactive <link url="http://openstax.org/l/16reactantprod">simulation</link> illustrating the concepts of limiting and excess reactants.</para>
+</note>
+<example id="fs-idp70587344">
+<para id="fs-idm3583984"><title>Identifying the Limiting Reactant</title>
+Silicon nitride is a very hard, high-temperature-resistant ceramic used as a component of turbine blades in jet engines. It is prepared according to the following equation:</para>
+<equation class="unnumbered" id="fs-idm22587536"><m:math><m:mrow><m:mtext>3Si</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp52711328">Which is the limiting reactant when 2.00 g of Si and 1.50 g of N<sub>2</sub> react?</para>
+<para id="fs-idm18749312"><title>Solution</title>
+Compute the provided molar amounts of reactants, and then compare these amounts to the balanced equation to identify the limiting reactant.</para>
+<equation class="unnumbered" id="fs-idp16604400"><m:math><m:mrow><m:mtext>mol Si</m:mtext><m:mo>=</m:mo><m:mn>2.00</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Si</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol Si</m:mtext></m:mrow><m:mrow><m:mn>28.09</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Si</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0.0712 mol Si</m:mtext></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idp42210944"><m:math><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>1.50</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mn>28.02</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0.0535 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation><para id="fs-idp47057824">The provided Si:N<sub>2</sub> molar ratio is:</para>
+<equation class="unnumbered" id="fs-idp107313360"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>0.0712 mol Si</m:mtext></m:mrow><m:mrow><m:mtext>0.0535 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1.33 mol Si</m:mtext></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm100978944">The stoichiometric Si:N<sub>2</sub> ratio is:</para>
+<equation class="unnumbered" id="fs-idm60202256"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>3 mol Si</m:mtext></m:mrow><m:mrow><m:mtext>2 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1.5 mol Si</m:mtext></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm1915936">Comparing these ratios shows that Si is provided in a less-than-stoichiometric amount, and so is the limiting reactant.</para>
+<para id="fs-idm9495168">Alternatively, compute the amount of product expected for complete reaction of each of the provided reactants. The 0.0712 moles of silicon would yield</para>
+<equation class="unnumbered" id="fs-idp161973712"><m:math><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>produced</m:mtext><m:mo>=</m:mo><m:mtext>0.0712 mol Si</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub></m:mrow><m:mrow><m:mtext>3 mol Si</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0.0237 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm3691696">while the 0.0535 moles of nitrogen would produce</para>
+<equation class="unnumbered" id="fs-idm62043536"><m:math><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>produced</m:mtext><m:mo>=</m:mo><m:mtext>0.0535 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub></m:mrow><m:mrow><m:mtext>2 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0.0268 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm55343248">Since silicon yields the lesser amount of product, it is the limiting reactant.</para>
+<para id="fs-idp70544208"><title>Check Your Learning</title>
+Which is the limiting reactant when 5.00 g of H<sub>2</sub> and 10.0 g of O<sub>2</sub> react and form water?</para>
+<note id="fs-idm19095728">
+<title>Answer:</title>
+<para id="fs-idp69025056">O<sub>2</sub></para>
+</note>
+</example>
+</section>
+<section id="fs-idm20935792">
+<title>Percent Yield</title>
+<para id="fs-idm22072192">The amount of product that <emphasis effect="italics">may be</emphasis> produced by a reaction under specified conditions, as calculated per the stoichiometry of an appropriate balanced chemical equation, is called the <term>theoretical yield</term> of the reaction. In practice, the amount of product obtained is called the <term>actual yield</term>, and it is often less than the theoretical yield for a number of reasons. Some reactions are inherently inefficient, being accompanied by <emphasis effect="italics">side reactions</emphasis> that generate other products. Others are, by nature, incomplete (consider the partial reactions of weak acids and bases discussed earlier in this chapter). Some products are difficult to collect without some loss, and so less than perfect recovery will reduce the actual yield. The extent to which a reaction’s theoretical yield is achieved is commonly expressed as its <term>percent yield</term>:</para>
+<equation class="unnumbered" id="fs-idp47653952"><m:math><m:mrow><m:mtext>percent yield</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>actual yield</m:mtext></m:mrow><m:mrow><m:mtext>theoretical yield</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi>%</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm52282816">Actual and theoretical yields may be expressed as masses or molar amounts (or any other appropriate property; e.g., volume, if the product is a gas). As long as both yields are expressed using the same units, these units will cancel when percent yield is calculated.</para>
+<example id="fs-idm49018784">
+<para id="fs-idm68646768"><title>Calculation of Percent Yield</title>
+Upon reaction of 1.274 g of copper sulfate with excess zinc metal, 0.392 g copper metal was obtained according to the equation:</para>
+<equation class="unnumbered" id="fs-idp101757552"><m:math><m:mrow><m:msub><m:mtext>CuSO</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Zn</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>ZnSO</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp104261712">What is the percent yield?</para>
+<para id="fs-idp98890704"><title>Solution</title>
+The provided information identifies copper sulfate as the limiting reactant, and so the theoretical yield is found by the approach illustrated in the previous module, as shown here:</para>
+<equation class="unnumbered" id="fs-idp104521856"><m:math><m:mrow><m:mn>1.274</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>159.62</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Cu</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>63.55</m:mn><m:mspace width="0.2em"/><m:mtext>g Cu</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Cu</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0.5072 g Cu</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp47540336">Using this theoretical yield and the provided value for actual yield, the percent yield is calculated to be</para>
+<equation class="unnumbered" id="fs-idp217309712"><m:math><m:mrow><m:mtext>percent yield</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>actual yield</m:mtext></m:mrow><m:mrow><m:mtext>theoretical yield</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idp182503696"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mtext>percent yield</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>0.392 g Cu</m:mtext></m:mrow><m:mrow><m:mtext>0.5072 g Cu</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mo>=</m:mo><m:mn>77.3</m:mn><m:mi>%</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp38988928"><title>Check Your Learning</title>What is the percent yield of a reaction that produces 12.5 g of the gas Freon CF<sub>2</sub>Cl<sub>2</sub> from 32.9 g of CCl<sub>4</sub> and excess HF?</para><equation class="unnumbered" id="fs-idp61435552"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>HF</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CF</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>HCl</m:mtext></m:mrow></m:math></equation>
+<note id="fs-idp47749920">
+<title>Answer:</title>
+<para id="fs-idp47655136">48.3%</para>
+</note>
+</example>
+<note id="fs-idm21958480" class="chemistry sciences-interconnect">
+<title>Green Chemistry and Atom Economy</title>
+<para id="fs-idm49080288">The purposeful design of chemical products and processes that minimize the use of environmentally hazardous substances and the generation of waste is known as <emphasis effect="italics">green chemistry</emphasis>. Green chemistry is a philosophical approach that is being applied to many areas of science and technology, and its practice is summarized by guidelines known as the “Twelve Principles of Green Chemistry” (see details at this <link url="http://openstax.org/l/16greenchem">website</link>). One of the 12 principles is aimed specifically at maximizing the efficiency of processes for synthesizing chemical products. The <emphasis effect="italics">atom economy</emphasis> of a process is a measure of this efficiency, defined as the percentage by mass of the final product of a synthesis relative to the masses of <emphasis effect="italics">all</emphasis> the reactants used:</para>
+<equation class="unnumbered" id="fs-idp116950848"><m:math><m:mrow><m:mtext>atom economy</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mass of product</m:mtext></m:mrow><m:mrow><m:mtext>mass of reactants</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi>%</m:mi></m:mrow></m:math></equation>
+<para id="fs-idp59920960">Though the definition of atom economy at first glance appears very similar to that for percent yield, be aware that this property represents a difference in the <emphasis effect="italics">theoretical</emphasis> efficiencies of <emphasis effect="italics">different</emphasis> chemical processes. The percent yield of a given chemical process, on the other hand, evaluates the efficiency of a process by comparing the yield of product actually obtained to the maximum yield predicted by stoichiometry.</para>
+<para id="fs-idp167996000">The synthesis of the common nonprescription pain medication, ibuprofen, nicely illustrates the success of a green chemistry approach (<link target-id="CNX_Chem_04_04_GreenChem"/>). First marketed in the early 1960s, ibuprofen was produced using a six-step synthesis that required 514 g of reactants to generate each mole (206 g) of ibuprofen, an atom economy of 40%. In the 1990s, an alternative process was developed by the BHC Company (now BASF Corporation) that requires only three steps and has an atom economy of ~80%, nearly twice that of the original process. The BHC process generates significantly less chemical waste; uses less-hazardous and recyclable materials; and provides significant cost-savings to the manufacturer (and, subsequently, the consumer). In recognition of the positive environmental impact of the BHC process, the company received the Environmental Protection Agency’s Greener Synthetic Pathways Award in 1997.</para>
+<figure id="CNX_Chem_04_04_GreenChem" class="scaled-down">
+<media id="fs-idp994368" alt="This figure is labeled, “a,” and, “b.” Part a shows an open bottle of ibuprofen and a small pile of ibuprofen tablets beside it. Part b shows a reaction along with line structures. The first line structure looks like a diagonal line pointing down and to the right, then up and to the right and then down and to the right. At this point it connects to a hexagon with alternating double bonds. At the first trough there is a line that points straight down. From this structure, there is an arrow pointing downward. The arrow is labeled, “H F,” on the left and “( C H subscript 3 C O ) subscript 2 O,” on the right. The next line structure looks exactly like the first line structure, but it has a line angled down and to the right from the lower right point of the hexagon. This line is connected to another line which points straight down. Where these two lines meet, there is a double bond to an O atom. There is another arrow pointing downward, and it is labeled, “H subscript 2, Raney N i.” The next structure looks very similar to the second, previous structure, except in place of the double bonded O, there is a singly bonded O H group. There is a final reaction arrow pointing downward, and it is labeled, “C O, [ P d ].” The final structure is similar to the third, previous structure except in place of the O H group, there is another line that points down and to the right to an O H group. At these two lines, there is a double bonded O.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_04_GreenChem.jpg"/>
+</media>
+<caption>(a) Ibuprofen is a popular nonprescription pain medication commonly sold as 200 mg tablets. (b) The BHC process for synthesizing ibuprofen requires only three steps and exhibits an impressive atom economy. (credit a: modification of work by Derrick Coetzee)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idm64875168" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm5314032">When reactions are carried out using less-than-stoichiometric quantities of reactants, the amount of product generated will be determined by the limiting reactant. The amount of product generated by a chemical reaction is its actual yield. This yield is often less than the amount of product predicted by the stoichiometry of the balanced chemical equation representing the reaction (its theoretical yield). The extent to which a reaction generates the theoretical amount of product is expressed as its percent yield.</para>
+</section>
+<section id="fs-idp36036608" class="key-equations">
+<title>Key Equations</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="key equations table"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mtext>percent yield</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>actual yield</m:mtext></m:mrow><m:mrow><m:mtext>theoretical yield</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idm49138160" class="exercises">
+<title>Chemistry End of Chapter Exercises</title>
+<exercise id="fs-idm72007808">
+<problem id="fs-idp58837040">
+<para id="fs-idp158025632">The following quantities are placed in a container: 1.5 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>24</sup> atoms of hydrogen, 1.0 mol of sulfur, and 88.0 g of diatomic oxygen.</para>
+<para id="fs-idp10708080">(a) What is the total mass in grams for the collection of all three elements?</para>
+<para id="fs-idm64569408">(b) What is the total number of moles of atoms for the three elements?</para>
+<para id="fs-idp46468992">(c) If the mixture of the three elements formed a compound with molecules that contain two hydrogen atoms, one sulfur atom, and four oxygen atoms, which substance is consumed first?</para>
+<para id="fs-idm56547920">(d) How many atoms of each remaining element would remain unreacted in the change described in (c)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm48529264">
+<problem id="fs-idp11141376">
+<para id="fs-idp101303920">What is the limiting reactant in a reaction that produces sodium chloride from 8 g of sodium and 8 g of diatomic chlorine?</para>
+</problem>
+<solution id="fs-idp69899344">
+<para id="fs-idp22297728">The limiting reactant is Cl2.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm47361200">
+<problem id="fs-idp26308256">
+<para id="fs-idp62729328">Which of the postulates of Dalton's atomic theory explains why we can calculate a theoretical yield for a chemical reaction?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm38653920">
+<problem id="fs-idp98512336">
+<para id="fs-idp10358416">A student isolated 25 g of a compound following a procedure that would theoretically yield 81 g. What was his percent yield?</para>
+</problem>
+<solution id="fs-idm45772288">
+<para id="fs-idp46323152">
+<m:math><m:mrow><m:mtext>Percent yield</m:mtext><m:mo>=</m:mo><m:mtext>31%</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idp61299760">
+<problem id="fs-idp221706336">
+<para id="fs-idp6755168">A sample of 0.53 g of carbon dioxide was obtained by heating 1.31 g of calcium carbonate. What is the percent yield for this reaction?</para>
+<para id="fs-idp4609920"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CaCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CaO</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm57693344">
+<problem id="fs-idm6761360">
+<para id="fs-idp5068384">Freon-12, CCl<sub>2</sub>F<sub>2</sub>, is prepared from CCl<sub>4</sub> by reaction with HF. The other product of this reaction is HCl. Outline the steps needed to determine the percent yield of a reaction that produces 12.5 g of CCl<sub>2</sub>F<sub>2</sub> from 32.9 g of CCl<sub>4</sub>. Freon-12 has been banned and is no longer used as a refrigerant because it catalyzes the decomposition of ozone and has a very long lifetime in the atmosphere. Determine the percent yield.</para>
+</problem>
+<solution id="fs-idp215202608">
+<para id="fs-idp59773152"><m:math><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mtext>percent yield</m:mtext><m:mo>=</m:mo><m:mtext>48.3%</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idp99327968">
+<problem id="fs-idm34002944">
+<para id="fs-idp27686272">Citric acid, C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>, a component of jams, jellies, and fruity soft drinks, is prepared industrially via fermentation of sucrose by the mold <emphasis effect="italics">Aspergillus niger</emphasis>. The equation representing this reaction is<newline/>
+<m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>22</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>11</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm8793984">What mass of citric acid is produced from exactly 1 metric ton (1.000 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>3</sup> kg) of sucrose if the yield is 92.30%?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp34342864">
+<problem id="fs-idm26296528">
+<para id="fs-idm48555120">Toluene, C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>, is oxidized by air under carefully controlled conditions to benzoic acid, C<sub>6</sub>H<sub>5</sub>CO<sub>2</sub>H, which is used to prepare the food preservative sodium benzoate, C<sub>6</sub>H<sub>5</sub>CO<sub>2</sub>Na. What is the percent yield of a reaction that converts 1.000 kg of toluene to 1.21 kg of benzoic acid?</para>
+<para id="fs-idp58383920"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp161963872">
+<para id="fs-idm18984464"><m:math><m:mrow><m:mtext>percent yield</m:mtext><m:mo>=</m:mo><m:mtext>91.3%</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idm7557120">
+<problem id="fs-idp67978352">
+<para id="fs-idp94004800">In a laboratory experiment, the reaction of 3.0 mol of H<sub>2</sub> with 2.0 mol of I<sub>2</sub> produced 1.0 mol of HI. Determine the theoretical yield in grams and the percent yield for this reaction.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm46525040">
+<problem id="fs-idp107511744">
+<para id="fs-idm3264240">Outline the steps needed to solve the following problem, then do the calculations. Ether, (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>O, which was originally used as an anesthetic but has been replaced by safer and more effective medications, is prepared by the reaction of ethanol with sulfuric acid.</para>
+<para id="fs-idm120301824">2C<sub>2</sub>H<sub>5</sub>OH + H<sub>2</sub>SO<sub>4</sub> ⟶ (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>O + H<sub>2</sub>SO<sub>4</sub>·H<sub>2</sub>O</para><para id="fs-idp39307056">What is the percent yield of ether if 1.17 L (d = 0.7134 g/mL) is isolated from the reaction of 1.500 L of C<sub>2</sub>H<sub>5</sub>OH<newline/>(d = 0.7894 g/mL)?</para>
+</problem>
+<solution id="fs-idp98805200">
+<para id="fs-idm48114608">Convert mass of ethanol to moles of ethanol; relate the moles of ethanol to the moles of ether produced using the stoichiometry of the balanced equation. Convert moles of ether to grams; divide the actual grams of ether (determined through the density) by the theoretical mass to determine the percent yield; 87.6%</para>
+</solution>
+</exercise>
+<exercise id="fs-idm43326768">
+<problem id="fs-idp52880736">
+<para id="fs-idp68715040">Outline the steps needed to determine the limiting reactant when 30.0 g of propane, C<sub>3</sub>H<sub>8</sub>, is burned with 75.0 g of oxygen.</para><para id="fs-idp201350320">Determine the limiting reactant.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm49726752">
+<problem id="fs-idp65728368">
+<para id="fs-idp101414208">Outline the steps needed to determine the limiting reactant when 0.50 mol of Cr and 0.75 mol of H<sub>3</sub>PO<sub>4</sub> react according to the following chemical equation.<newline/>
+<m:math><m:mrow><m:mn>2</m:mn><m:mtext>Cr</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CrPO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para><para id="fs-idm522144">Determine the limiting reactant.</para>
+</problem>
+<solution id="fs-idp31491504">
+<para id="fs-idm38791728">The conversion needed is <m:math><m:mrow><m:mtext>mol Cr</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math> Then compare the amount of Cr to the amount of acid present. Cr is the limiting reactant.</para></solution>
+</exercise>
+<exercise id="fs-idm21873728">
+<problem id="fs-idp26219728">
+<para id="fs-idp47839312">What is the limiting reactant when 1.50 g of lithium and 1.50 g of nitrogen combine to form lithium nitride, a component of advanced batteries, according to the following unbalanced equation?<newline/>
+<m:math><m:mrow><m:mtext>Li</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Li</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>N</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp70668864">
+<problem id="fs-idm47524112">
+<para id="fs-idp62392768">Uranium can be isolated from its ores by dissolving it as UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub>, then separating it as solid UO<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)·3H<sub>2</sub>O. Addition of 0.4031 g of sodium oxalate, Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>, to a solution containing 1.481 g of uranyl nitrate, UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub>, yields 1.073 g of solid UO<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)·3H<sub>2</sub>O.</para><para id="fs-idm72766640">Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub> + UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub> + 3H<sub>2</sub>O ⟶ UO<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)·3H<sub>2</sub>O + 2NaNO<sub>3</sub></para>
+<para id="fs-idp232896464">Determine the limiting reactant and the percent yield of this reaction.</para>
+</problem>
+<solution id="fs-idp91587744"><para id="fs-idp74993536">Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub> is the limiting reactant. percent yield = 86.56%</para></solution>
+</exercise>
+<exercise id="fs-idm574992">
+<problem id="fs-idm64892416">
+<para id="fs-idm51429104">How many molecules of C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub> can be prepared from 15 C<sub>2</sub>H<sub>4</sub> molecules and 8 Cl<sub>2</sub> molecules?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm71853216">
+<problem id="fs-idp98807392">
+<para id="fs-idp16595856">How many molecules of the sweetener saccharin can be prepared from 30 C atoms, 25 H atoms, 12 O atoms, 8 S atoms, and 14 N atoms?</para>
+<media id="fs-idp36082896" alt="A structural formula is shown. A hexagonal ring of 6 C atoms with alternating double bonds has single H atoms bonded to four consecutive C atoms on the left side of the ring. The two C atoms on the right side of the ring, which are joined by a double bond, are also included in a 5 atom ring to their right. The C atom of this pair that is nearest the top of the structure is singly bonded to a C atom at the top of the 5 atom ring which has an O atom double bonded above. An N atom is singly bonded to the lower right of this same C atom. The N atom has an H atom bonded to its right and to its lower left, it is bonded to an S atom. The S atom is connected to the second C atom that is shared in the two rings. The S atom is also double bonded to an O atom to its lower right and is double bonded to a second O atom directly below it.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_04_saccharin_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp30000464"><para id="fs-idp81228400">Only four molecules can be made.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp41861648">
+<problem id="fs-idp130711232">
+<para id="fs-idm1521280">The phosphorus pentoxide used to produce phosphoric acid for cola soft drinks is prepared by burning phosphorus in oxygen.</para>
+<para id="fs-idm55530368">(a) What is the limiting reactant when 0.200 mol of P<sub>4</sub> and 0.200 mol of O<sub>2</sub> react according to <m:math><m:mrow><m:msub><m:mtext>P</m:mtext><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>P</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>10</m:mn></m:mrow></m:msub></m:mrow></m:math></para>
+<para id="fs-idp39236672">(b) Calculate the percent yield if 10.0 g of P<sub>4</sub>O<sub>10</sub> is isolated from the reaction.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm19471568">
+<problem id="fs-idp215625584">
+<para id="fs-idp8946384">Would you agree to buy 1 trillion (1,000,000,000,000) gold atoms for $5? Explain why or why not. Find the current price of gold at http://money.cnn.com/data/commodities/ <m:math><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>1 troy ounce</m:mtext><m:mo>=</m:mo><m:mtext>31.1 g</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp17552400"><para id="fs-idp8960064">This amount cannot be weighted by ordinary balances and is worthless.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm47393392">
+<term>actual yield</term>
+<meaning id="fs-idp169189008">amount of product formed in a reaction
+</meaning>
+</definition>
+<definition id="fs-idm46343008">
+<term>excess reactant</term>
+<meaning id="fs-idp169769328">reactant present in an amount greater than required by the reaction stoichiometry
+</meaning>
+</definition>
+<definition id="fs-idp182610272">
+<term>limiting reactant</term>
+<meaning id="fs-idp67500512">reactant present in an amount lower than required by the reaction stoichiometry, thus limiting the amount of product generated</meaning>
+</definition>
+<definition id="fs-idp51447712">
+<term>percent yield</term>
+<meaning id="fs-idp172539984">measure of the efficiency of a reaction, expressed as a percentage of the theoretical yield
+</meaning>
+</definition>
+<definition id="fs-idp30967968">
+<term>theoretical yield</term>
+<meaning id="fs-idm94035648">amount of product that may be produced from a given amount of reactant(s) according to the reaction stoichiometry</meaning>
+</definition>
+</glossary>
+</document>

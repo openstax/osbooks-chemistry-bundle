@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+
+<title>Fundamental Physical Constants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68862</md:content-id>
+  <md:title>Fundamental Physical Constants</md:title>
+  <md:abstract/>
+  <md:uuid>89acae8f-68fd-4f9e-88e3-e545c290c96c</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table id="fs-idm136825040" class="top-titled" summary="A table titled “Fundamental Physical Constants” has a column for “Name and Symbol” and a column for “Value.” For atomic mass unit, the symbol is a m u, and the value is 1.6605402 times 10 to the negative superscript 27 kg. For Avogadro’s number, the value is 6.0221367 times 10 to the superscript 23 mol to the negative superscript 1. For Boltzmann’s constant, the symbols is lowercase italic k, and the value is 1.380658 times 10 superscript negative 23 J K superscript negative 1. For charge-to-mass ratio for electron, the symbol is lowercase italic e/m subscript lowercase italic e, and the value is 1.75881962 times 10 superscript 11 C kg superscript negative one. For electron charge, the symbol is lowercase italic e, and the value is 1.60217733 times 10 superscript negative 19 C. For electron rest mass, the symbol is lowercase italic m subscript lowercase italic e, and the value is 9.1093897 times 10 superscript negative 31kg. For Faraday’s constant, the symbol is uppercase italic F, and the value is 9.6485309 times 10 superscript 4 C mol superscript negative 1. For gas constant, the symbol is uppercase italic R, and the value is 9.6485309 times 10 superscript 4 C mol superscript negative 1, equals 8.314510 J mol superscript negative 1K superscript negative 1. For molar volume of an ideal gas, 1 atm, 0 °C, the value is 22.41409 L mol superscript negative 1. For molar volume of an ideal gas, 1 bar, 0 °C, the value is 22.71108 L mol superscript negative 1. For neutron rest mass, the symbol is lowercase italic m subscript lowercase italic n, and the value is 1.6749274 times 10 superscript negative 27 kg. For Planck’s constant, the symbol is lowercase italic h, and the value is 6.6260755 times 10 superscript negative 34 J s. For proton rest mass, the symbol is lowercase italic m subscript lowercase italic p, and the value is 1.6726231 times 10 superscript negative 27 kg. For Rydberg constant, the symbol is uppercase R, and the value is 1.0973731534 times 10 superscript 7 m superscript negative 1 equals 2.1798736 times 10 superscript negative 18 J. For speed of light in a vacuum, the symbol is lowercase italic c, and the value is 2.99792458 times 10 superscript 8 m s superscript negative 1.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c2">Fundamental Physical Constants</entry>
+</row>
+<row valign="middle">
+<entry align="left">Name and Symbol</entry>
+<entry align="left">Value</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">atomic mass unit (amu)</entry>
+<entry align="left">1.6605402 <m:math><m:mo>×</m:mo></m:math>  10<sup>−27</sup> kg</entry>
+</row>
+<row valign="middle">
+<entry align="left">Avogadro’s number</entry>
+<entry align="left">6.02214076 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> mol<sup>−1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Boltzmann’s constant (<emphasis effect="italics">k</emphasis>)</entry>
+<entry align="left">1.380649 <m:math><m:mo>×</m:mo></m:math> 10<sup>−23</sup> J K<sup>−1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">charge-to-mass ratio for electron (<emphasis effect="italics">e/m<sub>e</sub></emphasis>)</entry>
+<entry align="left">1.75881962 <m:math><m:mo>×</m:mo></m:math> 10<sup>11</sup> C kg<sup>−1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">fundamental unit of charge (<emphasis effect="italics">e</emphasis>)</entry>
+<entry align="left">1.602176634 <m:math><m:mo>×</m:mo></m:math> 10<sup>−19</sup> C</entry>
+</row>
+<row valign="middle">
+<entry align="left">electron rest mass (<emphasis effect="italics">m<sub>e</sub></emphasis>)</entry>
+<entry align="left">9.1093897 <m:math><m:mo>×</m:mo></m:math> 10<sup>−31</sup> kg</entry>
+</row>
+<row valign="middle">
+<entry align="left">Faraday’s constant (<emphasis effect="italics">F</emphasis>)</entry>
+<entry align="left">9.6485309 <m:math><m:mo>×</m:mo></m:math> 10<sup>4</sup> C mol<sup>−1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">gas constant (<emphasis effect="italics">R</emphasis>)</entry>
+<entry align="left">8.205784 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup> L atm mol<sup>−1</sup> K<sup>−1</sup> = 8.314510 J mol<sup>−1</sup> K<sup>−1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">molar volume of an ideal gas, 1 atm, 0 °C</entry>
+<entry align="left">22.41409 L mol<sup>–1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">molar volume of an ideal gas, 1 bar, 0 °C</entry>
+<entry align="left">22.71108 L mol<sup>–1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">neutron rest mass (<emphasis effect="italics">m<sub>n</sub></emphasis>)</entry>
+<entry align="left">1.6749274 <m:math><m:mo>×</m:mo></m:math> 10<sup>−27</sup> kg</entry>
+</row>
+<row valign="middle">
+<entry align="left">Planck’s constant (<emphasis effect="italics">h</emphasis>)</entry>
+<entry align="left">6.62607015 <m:math><m:mo>×</m:mo></m:math> 10<sup>−34</sup> J s</entry>
+</row>
+<row valign="middle">
+<entry align="left">proton rest mass (<emphasis effect="italics">m<sub>p</sub></emphasis>)</entry>
+<entry align="left">1.6726231 <m:math><m:mo>×</m:mo></m:math> 10<sup>−27</sup> kg</entry>
+</row>
+<row valign="middle">
+<entry align="left">Rydberg constant (R)</entry>
+<entry align="left">1.0973731534 <m:math><m:mo>×</m:mo></m:math> 10<sup>7</sup> m<sup>−1</sup> = 2.1798736 <m:math><m:mo>×</m:mo></m:math> 10<sup>−18</sup> J</entry>
+</row>
+<row valign="middle">
+<entry align="left">speed of light (in vacuum) (<emphasis effect="italics">c</emphasis>)</entry>
+<entry align="left">2.99792458 <m:math><m:mo>×</m:mo></m:math> 10<sup>8</sup> m s<sup>−1</sup></entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table>   </content>
+</document>
