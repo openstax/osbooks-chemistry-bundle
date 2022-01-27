@@ -1,4 +1,4 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="chemistry-2e" collection-id="col26069" href="../collections/chemistry-2e.collection.xml" />
-    <book slug="chemistry-atoms-first-2e" collection-id="col26488" href="../collections/chemistry-atoms-first-2e.collection.xml" />
+    <book slug="chemistry-2e" collection-id="col26069" style="chemistry" href="../collections/chemistry-2e.collection.xml" />
+    <book slug="chemistry-atoms-first-2e" collection-id="col26488" style="chemistry" href="../collections/chemistry-atoms-first-2e.collection.xml" />
 </container>
