@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68847</md:content-id>
   <md:title>Alcohols and Ethers</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
 <item>Describe the structure and properties of alcohols</item>
 <item>Describe the structure and properties of ethers</item>
 <item>Name and draw structures for alcohols and ethers</item>
@@ -16,7 +16,7 @@
 <section id="fs-idm30613248">
 <title>Alcohols</title>
 <para id="fs-idm66465552">Incorporation of an oxygen atom into carbon- and hydrogen-containing molecules leads to new functional groups and new families of compounds. When the oxygen atom is attached by single bonds, the molecule is either an alcohol or ether.</para>
-<para id="fs-idm33604032"><term>Alcohols</term> are derivatives of hydrocarbons in which an –OH group has replaced a hydrogen atom. Although all alcohols have one or more hydroxyl (–OH) functional groups, they do not behave like bases such as NaOH and KOH. NaOH and KOH are ionic compounds that contain OH<sup>–</sup> ions. Alcohols are covalent molecules; the –OH group in an alcohol molecule is attached to a carbon atom by a covalent bond.</para>
+<para id="fs-idm33604032"><term id="term-00001">Alcohols</term> are derivatives of hydrocarbons in which an –OH group has replaced a hydrogen atom. Although all alcohols have one or more hydroxyl (–OH) functional groups, they do not behave like bases such as NaOH and KOH. NaOH and KOH are ionic compounds that contain OH<sup>–</sup> ions. Alcohols are covalent molecules; the –OH group in an alcohol molecule is attached to a carbon atom by a covalent bond.</para>
 <para id="fs-idm13274688">Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH, also called ethyl alcohol, is a particularly important alcohol for human use. Ethanol is the alcohol produced by some species of yeast that is found in wine, beer, and distilled drinks. It has long been prepared by humans harnessing the metabolic efforts of yeasts in fermenting various sugars:</para>
 <media id="fs-idm70402400" class="scaled-down" alt="This figure shows the reaction of glucose to produce ethanol and C O subscript 2. The reaction shows C subscript 6 H subscript 12 O subscript 6 ( a q ) arrow labeled “yeast” 2 C subscript 2 H subscript 5 O H (a q) plus 2 C O subscript 2 ( g ). The O H in ethanol is shown in red.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_02_ferment_img.jpg"/>
@@ -53,7 +53,7 @@ Name the following molecule:</para>
 </section>
 <section id="fs-idm24652464">
 <title>Ethers</title>
-<para id="fs-idp6654240"><term>Ethers</term> are compounds that contain the functional group –O–. Ethers do not have a designated suffix like the other types of molecules we have named so far. In the IUPAC system, the oxygen atom and the smaller carbon branch are named as an alkoxy substituent and the remainder of the molecule as the base chain, as in alkanes. As shown in the following compound, the red symbols represent the smaller alkyl group and the oxygen atom, which would be named “methoxy.” The larger carbon branch would be ethane, making the molecule methoxyethane. Many ethers are referred to with common names instead of the IUPAC system names. For common names, the two branches connected to the oxygen atom are named separately and followed by “ether.” The common name for the compound shown in <link target-id="fs-idm48177328"/> is ethylmethyl ether:</para>
+<para id="fs-idp6654240"><term id="term-00002">Ethers</term> are compounds that contain the functional group –O–. Ethers do not have a designated suffix like the other types of molecules we have named so far. In the IUPAC system, the oxygen atom and the smaller carbon branch are named as an alkoxy substituent and the remainder of the molecule as the base chain, as in alkanes. As shown in the following compound, the red symbols represent the smaller alkyl group and the oxygen atom, which would be named “methoxy.” The larger carbon branch would be ethane, making the molecule methoxyethane. Many ethers are referred to with common names instead of the IUPAC system names. For common names, the two branches connected to the oxygen atom are named separately and followed by “ether.” The common name for the compound shown in <link target-id="fs-idm48177328"/> is ethylmethyl ether:</para>
 <media id="fs-idm6486336" class="scaled-down" alt="A molecular structure is shown with a red C H subscript 3 group bonded up and to the right to a red O atom. The O atom is bonded down and to the right to a C H subscript 2 group. The C H subscript 2 group is bonded up and to the right to a C H subscript 3 group.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_02_NameEthers_img.jpg"/>
 </media>

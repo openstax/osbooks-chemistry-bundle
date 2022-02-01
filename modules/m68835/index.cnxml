@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68835</md:content-id>
   <md:title>Occurrence, Preparation, and Properties of Nitrogen</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe the properties, preparation, and uses of nitrogen</item>
 </list></md:abstract>
   <md:uuid>fa6592b5-4723-4955-816d-2a0d46641b8c</md:uuid>
@@ -12,7 +12,7 @@
 
 <content>
 <para id="fs-idp100617568">Most pure nitrogen comes from the fractional distillation of liquid air. The atmosphere consists of 78% nitrogen by volume. This means there are more than 20 million tons of nitrogen over every square mile of the earth’s surface. Nitrogen is a component of proteins and of the genetic material (DNA/RNA) of all plants and animals.</para>
-<para id="fs-idp20917824">Under ordinary conditions, nitrogen is a colorless, odorless, and tasteless gas. It boils at 77 K and freezes at 63 K. Liquid nitrogen is a useful coolant because it is inexpensive and has a low boiling point. Nitrogen is very unreactive because of the very strong triple bond between the nitrogen atoms. The only common reactions at room temperature occur with lithium to form Li<sub>3</sub>N, with certain transition metal complexes, and with hydrogen or oxygen in nitrogen-fixing bacteria. The general lack of reactivity of nitrogen makes the remarkable ability of some bacteria to synthesize nitrogen compounds using atmospheric nitrogen gas as the source one of the most exciting chemical events on our planet. This process is one type of <term>nitrogen fixation</term>. In this case, nitrogen fixation is the process where organisms convert atmospheric nitrogen into biologically useful chemicals. Nitrogen fixation also occurs when lightning passes through air, causing molecular nitrogen to react with oxygen to form nitrogen oxides, which are then carried down to the soil.</para>
+<para id="fs-idp20917824">Under ordinary conditions, nitrogen is a colorless, odorless, and tasteless gas. It boils at 77 K and freezes at 63 K. Liquid nitrogen is a useful coolant because it is inexpensive and has a low boiling point. Nitrogen is very unreactive because of the very strong triple bond between the nitrogen atoms. The only common reactions at room temperature occur with lithium to form Li<sub>3</sub>N, with certain transition metal complexes, and with hydrogen or oxygen in nitrogen-fixing bacteria. The general lack of reactivity of nitrogen makes the remarkable ability of some bacteria to synthesize nitrogen compounds using atmospheric nitrogen gas as the source one of the most exciting chemical events on our planet. This process is one type of <term id="term-00001">nitrogen fixation</term>. In this case, nitrogen fixation is the process where organisms convert atmospheric nitrogen into biologically useful chemicals. Nitrogen fixation also occurs when lightning passes through air, causing molecular nitrogen to react with oxygen to form nitrogen oxides, which are then carried down to the soil.</para>
 <note id="fs-idp90361632" class="chemistry everyday-life">
 <title>Nitrogen Fixation</title>
 <para id="fs-idm122679488">All living organisms require nitrogen compounds for survival. Unfortunately, most of these organisms cannot absorb nitrogen from its most abundant source—the atmosphere. Atmospheric nitrogen consists of N<sub>2</sub> molecules, which are very unreactive due to the strong nitrogen-nitrogen triple bond. However, a few organisms can overcome this problem through a process known as nitrogen fixation, illustrated in <link target-id="CNX_Chem_18_07_Nitrogen"/>.</para>

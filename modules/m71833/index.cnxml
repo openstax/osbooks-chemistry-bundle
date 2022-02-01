@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m71833</md:content-id>
   <md:title>Chemical Equilibria</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe the nature of equilibrium systems</item>
 <item>Explain the dynamic nature of a chemical equilibrium</item>
 </list></md:abstract>
@@ -12,7 +12,7 @@
 </metadata>
 
 <content>
-<para id="fs-idp222368384">The convention for writing chemical equations involves placing reactant formulas on the left side of a reaction arrow and product formulas on the right side. By this convention, and the definitions of “reactant” and “product,” a chemical equation represents the reaction in question as proceeding from left to right. <term>Reversible reactions</term>, however, may proceed in both forward (left to right) and reverse (right to left) directions. When the rates of the forward and reverse reactions are equal, the concentrations of the reactant and product species remain constant over time and the system is at <term>equilibrium</term>. The relative concentrations of reactants and products in equilibrium systems vary greatly; some systems contain mostly products at equilibrium, some contain mostly reactants, and some contain appreciable amounts of both.</para>
+<para id="fs-idp222368384">The convention for writing chemical equations involves placing reactant formulas on the left side of a reaction arrow and product formulas on the right side. By this convention, and the definitions of “reactant” and “product,” a chemical equation represents the reaction in question as proceeding from left to right. <term id="term-00001">Reversible reactions</term>, however, may proceed in both forward (left to right) and reverse (right to left) directions. When the rates of the forward and reverse reactions are equal, the concentrations of the reactant and product species remain constant over time and the system is at <term id="term-00002">equilibrium</term>. The relative concentrations of reactants and products in equilibrium systems vary greatly; some systems contain mostly products at equilibrium, some contain mostly reactants, and some contain appreciable amounts of both.</para>
 <para id="fs-idp3488592"><link target-id="CNX_Chem_13_01_equilibrium"/> illustrates fundamental equilibrium concepts using the reversible decomposition of colorless dinitrogen tetroxide to yield brown nitrogen dioxide, an elementary reaction described by the equation:</para>
 <equation class="unnumbered" id="fs-idp102698592"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <para id="fs-idp239057616">Note that a special double arrow is used to emphasize the reversible nature of the reaction.</para>

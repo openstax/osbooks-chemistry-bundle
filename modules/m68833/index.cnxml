@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68833</md:content-id>
   <md:title>Occurrence, Preparation, and Compounds of Hydrogen</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe the properties, preparation, and compounds of hydrogen</item>
 </list></md:abstract>
   <md:uuid>04b97d13-490d-4732-8eb9-221fe8062387</md:uuid>
@@ -56,7 +56,7 @@
 <section id="fs-idp76696176">
 <title>Reactions</title>
 <para id="fs-idp99527488">Under normal conditions, hydrogen is relatively inactive chemically, but when heated, it enters into many chemical reactions.</para>
-<para id="fs-idp151776640">Two thirds of the world’s hydrogen production is devoted to the manufacture of ammonia, which is a fertilizer and used in the manufacture of nitric acid. Large quantities of hydrogen are also important in the process of <term>hydrogenation</term>, discussed in the chapter on organic chemistry.</para>
+<para id="fs-idp151776640">Two thirds of the world’s hydrogen production is devoted to the manufacture of ammonia, which is a fertilizer and used in the manufacture of nitric acid. Large quantities of hydrogen are also important in the process of <term id="term-00001">hydrogenation</term>, discussed in the chapter on organic chemistry.</para>
 <para id="fs-idp268499792">It is possible to use hydrogen as a nonpolluting fuel. The reaction of hydrogen with oxygen is a very exothermic reaction, releasing 286 kJ of energy per mole of water formed. Hydrogen burns without explosion under controlled conditions. The oxygen-hydrogen torch, because of the high heat of combustion of hydrogen, can achieve temperatures up to 2800 °C. The hot flame of this torch is useful in cutting thick sheets of many metals. Liquid hydrogen is also an important rocket fuel (<link target-id="CNX_Chem_18_05_LiqHliqO"/>).</para>
 <figure id="CNX_Chem_18_05_LiqHliqO" class="scaled-down">
 <media id="fs-idp117124896" alt="A rocket is shown taking off.">
@@ -125,7 +125,7 @@
 <title>Nitrogen Hydrogen Compounds</title>
 <para id="fs-idp63169696">Ammonia, NH<sub>3</sub>, forms naturally when any nitrogen-containing organic material decomposes in the absence of air. The laboratory preparation of ammonia is by the reaction of an ammonium salt with a strong base such as sodium hydroxide. The acid-base reaction with the weakly acidic ammonium ion gives ammonia, illustrated in <link target-id="CNX_Chem_18_05_Ammonia"/>. Ammonia also forms when ionic nitrides react with water. The nitride ion is a much stronger base than the hydroxide ion:</para>
 <equation class="unnumbered" id="fs-idp262858864"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Mg</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>3Mg</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
-<para id="fs-idp141680832">The commercial production of ammonia is by the direct combination of the elements in the <term>Haber process</term>:</para>
+<para id="fs-idp141680832">The commercial production of ammonia is by the direct combination of the elements in the <term id="term-00002">Haber process</term>:</para>
 <equation class="unnumbered" id="fs-idp47424384"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mover><m:mtext>⇌</m:mtext><m:mrow><m:mspace width="0.2em"/><m:mtext>catalyst</m:mtext><m:mspace width="0.2em"/></m:mrow></m:mover><m:msub><m:mrow><m:mtext>2NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>−92 kJ</m:mtext></m:mrow></m:math></equation>
 <figure id="CNX_Chem_18_05_Ammonia">
 <media id="fs-idp100427680" alt="A ball-and-stick model shows a nitrogen atom single bonded to three hydrogen atoms. There is a lone pair of electron dots that appears above the nitrogen atom.">
@@ -174,7 +174,7 @@
 </section>
 <section id="fs-idm8364256">
 <title>Halogen Hydrogen Compounds</title>
-<para id="fs-idp30119280">Binary compounds containing only hydrogen and a halogen are <term>hydrogen halides</term>. At room temperature, the pure hydrogen halides HF, HCl, HBr, and HI are gases.</para>
+<para id="fs-idp30119280">Binary compounds containing only hydrogen and a halogen are <term id="term-00003">hydrogen halides</term>. At room temperature, the pure hydrogen halides HF, HCl, HBr, and HI are gases.</para>
 <para id="fs-idp45585904">In general, it is possible to prepare the halides by the general techniques used to prepare other acids. Fluorine, chlorine, and bromine react directly with hydrogen to form the respective hydrogen halide. This is a commercially important reaction for preparing hydrogen chloride and hydrogen bromide.</para>
 <para id="fs-idp39542256">The acid-base reaction between a nonvolatile strong acid and a metal halide will yield a hydrogen halide. The escape of the gaseous hydrogen halide drives the reaction to completion. For example, the usual method of preparing hydrogen fluoride is by heating a mixture of calcium fluoride, CaF<sub>2</sub>, and concentrated sulfuric acid:</para>
 <equation class="unnumbered" id="fs-idp370564368"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CaF</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CaSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>

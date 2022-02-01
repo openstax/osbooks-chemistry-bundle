@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68854</md:content-id>
   <md:title>Radioactive Decay</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
 <item>Recognize common modes of radioactive decay</item>
 <item>Identify common particles and energies involved in nuclear decay reactions</item>
 <item>Write and balance nuclear decay equations</item>
@@ -16,7 +16,7 @@
 
 <content>
 <para id="fs-idp102942608">Following the somewhat serendipitous discovery of radioactivity by Becquerel, many prominent scientists began to investigate this new, intriguing phenomenon. Among them were Marie Curie (the first woman to win a Nobel Prize, and the only person to win two Nobel Prizes in different sciences—chemistry and physics), who was the first to coin the term “radioactivity,” and Ernest Rutherford (of gold foil experiment fame), who investigated and named three of the most common types of radiation. During the beginning of the twentieth century, many radioactive substances were discovered, the properties of radiation were investigated and quantified, and a solid understanding of radiation and nuclear decay was developed.</para>
-<para id="fs-idp202642016">The spontaneous change of an unstable nuclide into another is <term>radioactive decay</term>. The unstable nuclide is called the <term>parent nuclide</term>; the nuclide that results from the decay is known as the <term>daughter nuclide</term>. The daughter nuclide may be stable, or it may decay itself. The radiation produced during radioactive decay is such that the daughter nuclide lies closer to the band of stability than the parent nuclide, so the location of a nuclide relative to the band of stability can serve as a guide to the kind of decay it will undergo (<link target-id="CNX_Chem_21_03_Reaction1"/>).</para>
+<para id="fs-idp202642016">The spontaneous change of an unstable nuclide into another is <term id="term-00001">radioactive decay</term>. The unstable nuclide is called the <term id="term-00002">parent nuclide</term>; the nuclide that results from the decay is known as the <term id="term-00003">daughter nuclide</term>. The daughter nuclide may be stable, or it may decay itself. The radiation produced during radioactive decay is such that the daughter nuclide lies closer to the band of stability than the parent nuclide, so the location of a nuclide relative to the band of stability can serve as a guide to the kind of decay it will undergo (<link target-id="CNX_Chem_21_03_Reaction1"/>).</para>
 <figure id="CNX_Chem_21_03_Reaction1" class="scaled-down">
 <media id="fs-idp2414480" alt="A diagram shows two spheres composed of many smaller white and green spheres connected by a right-facing arrow with another, down-facing arrow coming off of it. The left sphere, labeled “Parent nucleus uranium dash 238” has two white and two green spheres that are near one another and are outlined in red. These two green and two white spheres are shown near the tip of the down-facing arrow and labeled “alpha particle.” The right sphere, labeled “Daughter nucleus radon dash 234,” looks the same as the left, but has a space for four smaller spheres outlined with a red dotted line.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_Reaction1.jpg"/>
@@ -35,7 +35,7 @@
 </media>
 <caption>Alpha particles, which are attracted to the negative plate and deflected by a relatively small amount, must be positively charged and relatively massive. Beta particles, which are attracted to the positive plate and deflected a relatively large amount, must be negatively charged and relatively light. Gamma rays, which are unaffected by the electric field, must be uncharged.</caption>
 </figure>
-<para id="fs-idm41800032"><term>Alpha (α) decay</term> is the emission of an α particle from the nucleus. For example, polonium-210 undergoes α decay:</para>
+<para id="fs-idm41800032"><term id="term-00004">Alpha (α) decay</term> is the emission of an α particle from the nucleus. For example, polonium-210 undergoes α decay:</para>
 <equation id="fs-idp134926448" class="unnumbered"><m:math><m:mrow><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>84</m:mn></m:mrow><m:mn>210</m:mn></m:msubsup><m:mtext>Po</m:mtext>
 
 <m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
@@ -58,7 +58,7 @@
 
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>82</m:mn></m:mrow><m:mn>206</m:mn></m:msubsup><m:mtext>Pb</m:mtext>
 
-</m:mrow></m:math></equation><para id="fs-idp202270256">Alpha decay occurs primarily in heavy nuclei (A &gt; 200, Z &gt; 83). Because the loss of an α particle gives a daughter nuclide with a mass number four units smaller and an atomic number two units smaller than those of the parent nuclide, the daughter nuclide has a larger n:p ratio than the parent nuclide. If the parent nuclide undergoing α decay lies below the band of stability (refer to <link target-id="CNX_Chem_21_01_BandStable" document="m68851"/>), the daughter nuclide will lie closer to the band.</para><para id="fs-idm2875904"><term>Beta (β) decay</term> is the emission of an electron from a nucleus. Iodine-131 is an example of a nuclide that undergoes β decay:</para>
+</m:mrow></m:math></equation><para id="fs-idp202270256">Alpha decay occurs primarily in heavy nuclei (A > 200, Z > 83). Because the loss of an α particle gives a daughter nuclide with a mass number four units smaller and an atomic number two units smaller than those of the parent nuclide, the daughter nuclide has a larger n:p ratio than the parent nuclide. If the parent nuclide undergoing α decay lies below the band of stability (refer to <link target-id="CNX_Chem_21_01_BandStable" document="m68851"/>), the daughter nuclide will lie closer to the band.</para><para id="fs-idm2875904"><term id="term-00005">Beta (β) decay</term> is the emission of an electron from a nucleus. Iodine-131 is an example of a nuclide that undergoes β decay:</para>
 <equation id="fs-idm19827888" class="unnumbered"><m:math><m:mrow>
 
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>53</m:mn></m:mrow><m:mn>131</m:mn></m:msubsup><m:mtext>I</m:mtext>
@@ -84,7 +84,7 @@
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>54</m:mn></m:mrow><m:mn>131</m:mn></m:msubsup><m:mtext>Xe</m:mtext>
 
 </m:mrow></m:math></equation><para id="fs-idp100287120">Beta decay, which can be thought of as the conversion of a neutron into a proton and a β particle, is observed in nuclides with a large n:p ratio. The beta particle (electron) emitted is from the atomic nucleus and is not one of the electrons surrounding the nucleus. Such nuclei lie above the band of stability. Emission of an electron does not change the mass number of the nuclide but does increase the number of its protons and decrease the number of its neutrons. Consequently, the n:p ratio is decreased, and the daughter nuclide lies closer to the band of stability than did the parent nuclide.</para>
-<para id="fs-idp8043424"><term>Gamma emission (γ emission)</term> is observed when a nuclide is formed in an excited state and then decays to its ground state with the emission of a γ ray, a quantum of high-energy electromagnetic radiation. The presence of a nucleus in an excited state is often indicated by an asterisk (*). Cobalt-60 emits γ radiation and is used in many applications including cancer treatment:</para>
+<para id="fs-idp8043424"><term id="term-00006">Gamma emission (γ emission)</term> is observed when a nuclide is formed in an excited state and then decays to its ground state with the emission of a γ ray, a quantum of high-energy electromagnetic radiation. The presence of a nucleus in an excited state is often indicated by an asterisk (*). Cobalt-60 emits γ radiation and is used in many applications including cancer treatment:</para>
 <equation id="fs-idp5264576" class="unnumbered"><m:math><m:mrow><m:mrow>
 
 <m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co*</m:mtext>
@@ -98,7 +98,7 @@
 <m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
 
 </m:mrow></m:math></equation><para id="fs-idp50313008">There is no change in mass number or atomic number during the emission of a γ ray unless the γ emission accompanies one of the other modes of decay.</para>
-<para id="fs-idp18009856"><term>Positron emission (β<sup>+</sup> decay</term>) is the emission of a positron from the nucleus. Oxygen-15 is an example of a nuclide that undergoes positron emission:</para>
+<para id="fs-idp18009856"><term id="term-00007">Positron emission (β<sup>+</sup> decay</term>) is the emission of a positron from the nucleus. Oxygen-15 is an example of a nuclide that undergoes positron emission:</para>
 <equation id="fs-idm9404976" class="unnumbered"><m:math><m:mrow>
 
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>8</m:mn></m:mrow><m:mn>15</m:mn></m:msubsup><m:mtext>O</m:mtext>
@@ -124,7 +124,7 @@
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>15</m:mn></m:msubsup><m:mtext>N</m:mtext>
 
 </m:mrow></m:math></equation><para id="fs-idp125268336">Positron emission is observed for nuclides in which the n:p ratio is low. These nuclides lie below the band of stability. Positron decay is the conversion of a proton into a neutron with the emission of a positron. The n:p ratio increases, and the daughter nuclide lies closer to the band of stability than did the parent nuclide.</para>
-<para id="fs-idp123320528"><term>Electron capture</term> occurs when one of the inner electrons in an atom is captured by the atom’s nucleus. For example, potassium-40 undergoes electron capture:</para>
+<para id="fs-idp123320528"><term id="term-00008">Electron capture</term> occurs when one of the inner electrons in an atom is captured by the atom’s nucleus. For example, potassium-40 undergoes electron capture:</para>
 <equation id="fs-idm22074816" class="unnumbered"><m:math><m:mrow>
 
 <m:msubsup><m:mrow/><m:mrow><m:mn>19</m:mn></m:mrow><m:mn>40</m:mn></m:msubsup><m:mtext>K</m:mtext>
@@ -174,7 +174,7 @@
 </section>
 <section id="fs-idp89067520">
 <title>Radioactive Decay Series</title>
-<para id="fs-idp54304864">The naturally occurring radioactive isotopes of the heaviest elements fall into chains of successive disintegrations, or decays, and all the species in one chain constitute a radioactive family, or <term>radioactive decay series</term>. Three of these series include most of the naturally radioactive elements of the periodic table. They are the uranium series, the actinide series, and the thorium series. The neptunium series is a fourth series, which is no longer significant on the earth because of the short half-lives of the species involved. Each series is characterized by a parent (first member) that has a long half-life and a series of daughter nuclides that ultimately lead to a stable end-product—that is, a nuclide on the band of stability (<link target-id="CNX_Chem_21_03_DecayS"/>). In all three series, the end-product is a stable isotope of lead. The neptunium series, previously thought to terminate with bismuth-209, terminates with thallium-205.</para>
+<para id="fs-idp54304864">The naturally occurring radioactive isotopes of the heaviest elements fall into chains of successive disintegrations, or decays, and all the species in one chain constitute a radioactive family, or <term id="term-00009">radioactive decay series</term>. Three of these series include most of the naturally radioactive elements of the periodic table. They are the uranium series, the actinide series, and the thorium series. The neptunium series is a fourth series, which is no longer significant on the earth because of the short half-lives of the species involved. Each series is characterized by a parent (first member) that has a long half-life and a series of daughter nuclides that ultimately lead to a stable end-product—that is, a nuclide on the band of stability (<link target-id="CNX_Chem_21_03_DecayS"/>). In all three series, the end-product is a stable isotope of lead. The neptunium series, previously thought to terminate with bismuth-209, terminates with thallium-205.</para>
 <figure id="CNX_Chem_21_03_DecayS">
 <media id="fs-idm36645216" alt="A graph is shown where the x-axis is labeled “Number of neutrons, open parenthesis, n, close parenthesis” and has values of 122 to 148 in increments of 2. The y-axis is labeled “Atomic number” and has values of 80 to 92 in increments of 1. Two types of arrows are used in this graph to connect the points. Green arrows are labeled as “alpha decay” while red arrows are labeled “beta decay.” Beginning at the point “92, 146” that is labeled “superscript 238, U,” a green arrow connects this point to the second point “90, 144” which is labeled “superscript 234, T h.” A red arrow connect this to the third point “91, 143” which is labeled “superscript 234, P a” which is connected to the fourth point “92, 142” by a red arrow and which is labeled “superscript 234, U.” A green arrow leads to the next point, “90, 140” which is labeled “superscript 230, T h” and is connected by a green arrow to the sixth point, “88, 138” which is labeled “superscript 226, R a” that is in turn connected by a green arrow to the seventh point “86, 136” which is labeled “superscript 222, Ra.” The eighth point, at “84, 134” is labeled “superscript 218, P o” and has green arrows leading to it and away from it to the ninth point “82, 132” which is labeled “superscript 214, Pb” which is connected by a red arrow to the tenth point, “83, 131” which is labeled “superscript 214, B i.” A red arrow leads to the eleventh point “84, 130” which is labeled “superscript 214, P o” and a green arrow leads to the twelvth point “82, 128” which is labeled “superscript 210, P b.” A red arrow leads to the thirteenth point “83, 127” which is labeled “superscript 210, B i” and a red arrow leads to the fourteenth point “84, 126” which is labeled “superscript 210, P o.” The final point is labeled “82, 124” and “superscript 206, P b.”">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_DecayS.jpg"/>
@@ -184,7 +184,7 @@
 </section>
 <section id="fs-idp38328768">
 <title>Radioactive Half-Lives</title>
-<para id="fs-idp135905344">Radioactive decay follows first-order kinetics. Since first-order reactions have already been covered in detail in the kinetics chapter, we will now apply those concepts to nuclear decay reactions. Each radioactive nuclide has a characteristic, constant <term>half-life</term> (<emphasis effect="italics">t</emphasis><sub>1/2</sub>), the time required for half of the atoms in a sample to decay. An isotope’s half-life allows us to determine how long a sample of a useful isotope will be available, and how long a sample of an undesirable or dangerous isotope must be stored before it decays to a low-enough radiation level that is no longer a problem.</para>
+<para id="fs-idp135905344">Radioactive decay follows first-order kinetics. Since first-order reactions have already been covered in detail in the kinetics chapter, we will now apply those concepts to nuclear decay reactions. Each radioactive nuclide has a characteristic, constant <term id="term-00010">half-life</term> (<emphasis effect="italics">t</emphasis><sub>1/2</sub>), the time required for half of the atoms in a sample to decay. An isotope’s half-life allows us to determine how long a sample of a useful isotope will be available, and how long a sample of an undesirable or dangerous isotope must be stored before it decays to a low-enough radiation level that is no longer a problem.</para>
 <para id="fs-idm89252176">For example, cobalt-60, an isotope that emits gamma rays used to treat cancer, has a half-life of 5.27 years (<link target-id="CNX_Chem_21_03_HalfLife"/>). In a given cobalt-60 source, since half of the <m:math><m:mrow>
 
 <m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
@@ -312,10 +312,10 @@
 </section>
 <section id="fs-idp25396560">
 <title>Radiometric Dating</title>
-<para id="fs-idm40273488">Several radioisotopes have half-lives and other properties that make them useful for purposes of “dating” the origin of objects such as archaeological artifacts, formerly living organisms, or geological formations. This process is <term>radiometric dating</term> and has been responsible for many breakthrough scientific discoveries about the geological history of the earth, the evolution of life, and the history of human civilization. We will explore some of the most common types of radioactive dating and how the particular isotopes work for each type.</para>
+<para id="fs-idm40273488">Several radioisotopes have half-lives and other properties that make them useful for purposes of “dating” the origin of objects such as archaeological artifacts, formerly living organisms, or geological formations. This process is <term id="term-00011">radiometric dating</term> and has been responsible for many breakthrough scientific discoveries about the geological history of the earth, the evolution of life, and the history of human civilization. We will explore some of the most common types of radioactive dating and how the particular isotopes work for each type.</para>
 <section id="fs-idm78225712">
 <title>Radioactive Dating Using Carbon-14</title>
-<para id="fs-idm42065648">The radioactivity of carbon-14 provides a method for dating objects that were a part of a living organism. This method of radiometric dating, which is also called <term>radiocarbon dating</term> or carbon-14 dating, is accurate for dating carbon-containing substances that are up to about 30,000 years old, and can provide reasonably accurate dates up to a maximum of about 50,000 years old.</para>
+<para id="fs-idm42065648">The radioactivity of carbon-14 provides a method for dating objects that were a part of a living organism. This method of radiometric dating, which is also called <term id="term-00012">radiocarbon dating</term> or carbon-14 dating, is accurate for dating carbon-containing substances that are up to about 30,000 years old, and can provide reasonably accurate dates up to a maximum of about 50,000 years old.</para>
 <para id="fs-idp34827216">Naturally occurring carbon consists of three isotopes: <m:math><m:mrow>
 
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
@@ -653,7 +653,7 @@ A sample of rock contains 6.14 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup
 </exercise>
 <exercise id="fs-idp1698768">
 <problem id="fs-idp134647152">
-<para id="fs-idp142495840">Explain, in terms of <link target-id="CNX_Chem_21_01_BandStable" document="m68851"/>, how unstable heavy nuclides (atomic number &gt; 83) may decompose to form nuclides of greater stability (a) if they are below the band of stability and (b) if they are above the band of stability.</para></problem>
+<para id="fs-idp142495840">Explain, in terms of <link target-id="CNX_Chem_21_01_BandStable" document="m68851"/>, how unstable heavy nuclides (atomic number > 83) may decompose to form nuclides of greater stability (a) if they are below the band of stability and (b) if they are above the band of stability.</para></problem>
 </exercise>
 <exercise id="fs-idp16009760">
 <problem id="fs-idp17984272">

@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68838</md:content-id>
   <md:title>Occurrence, Preparation, and Properties of Sulfur</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe the properties, preparation, and uses of sulfur</item>
 </list></md:abstract>
   <md:uuid>03b0d669-3f4e-450d-a7be-1108051b9f47</md:uuid>
@@ -18,7 +18,7 @@
 </media>
 <caption>Volcanic gases contain hydrogen sulfide. (credit: Daniel Julie/Wikimedia Commons)</caption>
 </figure>
-<para id="fs-idm89076784">The <term>Frasch process</term>, illustrated in <link target-id="CNX_Chem_18_10_FrachMine"/>, is important in the mining of free sulfur from enormous underground deposits in Texas and Louisiana. Superheated water (170 °C and 10 atm pressure) is forced down the outermost of three concentric pipes to the underground deposit. The hot water melts the sulfur. The innermost pipe conducts compressed air into the liquid sulfur. The air forces the liquid sulfur, mixed with air, to flow up through the outlet pipe. Transferring the mixture to large settling vats allows the solid sulfur to separate upon cooling. This sulfur is 99.5% to 99.9% pure and requires no purification for most uses.</para>
+<para id="fs-idm89076784">The <term id="term-00001">Frasch process</term>, illustrated in <link target-id="CNX_Chem_18_10_FrachMine"/>, is important in the mining of free sulfur from enormous underground deposits in Texas and Louisiana. Superheated water (170 °C and 10 atm pressure) is forced down the outermost of three concentric pipes to the underground deposit. The hot water melts the sulfur. The innermost pipe conducts compressed air into the liquid sulfur. The air forces the liquid sulfur, mixed with air, to flow up through the outlet pipe. Transferring the mixture to large settling vats allows the solid sulfur to separate upon cooling. This sulfur is 99.5% to 99.9% pure and requires no purification for most uses.</para>
 <figure id="CNX_Chem_18_10_FrachMine" class="scaled-down">
 <media id="fs-idm119715872" alt="A diagram is shown in which a vertical tube is embedded on the lower end into a multilayered solid. The upper layer is labeled, “Soil,” and the lower layer is labeled, “Solid sulfur deposit.” A thin tube, beginning at the top of the diagram, leads into the vertical tube to the bottom and is labeled, “Compressed air.” Left-facing and then down-facing arrows are drawn on this inner tube. These arrows then turn upward at the bottom of the tube and are drawn upward to indicate the flow of, “Liquid sulfur,” from the bottom of the diagram to the top outside the inner tube. These arrows lead to a chamber at the top right of the diagram with arrows facing to the left labeled, “Sulfur, water and air.” A horizontal tube in the center right of the diagram leads to the outer tube and arrows drawn downward lead back to the bottom of the diagram. This tube is labeled, “Superheated water.”">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_18_10_FrachMine.jpg"/>

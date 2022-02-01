@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68821</md:content-id>
   <md:title>Review of Redox Chemistry</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe defining traits of redox chemistry</item>
 <item>Identify the oxidant and reductant of a redox reaction</item>
 <item>Balance chemical equations for redox reactions using the half-reaction method</item>
@@ -200,7 +200,7 @@ Aqueous permanganate ion may also be reduced using aqueous bromide ion, Br<sup>�
 <para id="fs-idm55354096">Why don’t hydrogen ions appear in equations for half-reactions occurring in basic solution?</para>
 </problem>
 <solution id="fs-idp88267456">
-<para id="fs-idp88267712">In basic solution, [OH<sup>−</sup>] &gt; 1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup> <emphasis effect="italics">M</emphasis> &gt; [H<sup>+</sup>]. Hydrogen ion cannot appear as a reactant because its concentration is essentially zero. If it were produced, it would instantly react with the excess hydroxide ion to produce water. Thus, hydrogen ion should <emphasis effect="italics">not</emphasis> appear as a reactant or product in basic solution.</para>
+<para id="fs-idp88267712">In basic solution, [OH<sup>−</sup>] > 1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup> <emphasis effect="italics">M</emphasis> > [H<sup>+</sup>]. Hydrogen ion cannot appear as a reactant because its concentration is essentially zero. If it were produced, it would instantly react with the excess hydroxide ion to produce water. Thus, hydrogen ion should <emphasis effect="italics">not</emphasis> appear as a reactant or product in basic solution.</para>
 </solution>
 </exercise>
 <exercise id="fs-idp22326976">

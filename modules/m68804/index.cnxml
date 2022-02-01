@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68804</md:content-id>
   <md:title>pH and pOH</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
 <item>Explain the characterization of aqueous solutions as acidic, basic, or neutral</item>
 <item>Express hydronium and hydroxide ion concentrations on the pH and pOH scales</item>
 <item>Perform calculations relating pH and pOH</item>
@@ -12,14 +12,14 @@
 </metadata>
 
 <content>
-<para id="fs-idp11137424">As discussed earlier, hydronium and hydroxide ions are present both in pure water and in all aqueous solutions, and their concentrations are inversely proportional as determined by the ion product of water (<emphasis effect="italics">K</emphasis><sub>w</sub>). The concentrations of these ions in a solution are often critical determinants of the solution’s properties and the chemical behaviors of its other solutes, and specific vocabulary has been developed to describe these concentrations in relative terms. A solution is <term>neutral</term> if it contains equal concentrations of hydronium and hydroxide ions; <term>acidic</term> if it contains a greater concentration of hydronium ions than hydroxide ions; and <term>basic</term> if it contains a lesser concentration of hydronium ions than hydroxide ions.</para>
+<para id="fs-idp11137424">As discussed earlier, hydronium and hydroxide ions are present both in pure water and in all aqueous solutions, and their concentrations are inversely proportional as determined by the ion product of water (<emphasis effect="italics">K</emphasis><sub>w</sub>). The concentrations of these ions in a solution are often critical determinants of the solution’s properties and the chemical behaviors of its other solutes, and specific vocabulary has been developed to describe these concentrations in relative terms. A solution is <term id="term-00001">neutral</term> if it contains equal concentrations of hydronium and hydroxide ions; <term id="term-00002">acidic</term> if it contains a greater concentration of hydronium ions than hydroxide ions; and <term id="term-00003">basic</term> if it contains a lesser concentration of hydronium ions than hydroxide ions.</para>
 <para id="fs-idm21650320">A common means of expressing quantities that may span many orders of magnitude is to use a logarithmic scale. One such scale that is very popular for chemical concentrations and equilibrium constants is based on the p-function, defined as shown where “X” is the quantity of interest and “log” is the base-10 logarithm:</para>
 <equation id="fs-idp27819744" class="unnumbered"><m:math><m:mrow><m:mtext>pX</m:mtext><m:mo>=</m:mo><m:mtext>−log X</m:mtext></m:mrow></m:math></equation>
-<para id="fs-idm40569744">The <term>pH</term> of a solution is therefore defined as shown here, where [H<sub>3</sub>O<sup>+</sup>] is the molar concentration of hydronium ion in the solution:</para>
+<para id="fs-idm40569744">The <term id="term-00004">pH</term> of a solution is therefore defined as shown here, where [H<sub>3</sub>O<sup>+</sup>] is the molar concentration of hydronium ion in the solution:</para>
 <equation id="fs-idm104306928" class="unnumbered"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:math></equation>
 <para id="fs-idm112635600">Rearranging this equation to isolate the hydronium ion molarity yields the equivalent expression:</para>
 <equation id="fs-idm34387328" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−pH</m:mtext></m:mrow></m:msup></m:mrow></m:math></equation>
-<para id="fs-idp55544688">Likewise, the hydroxide ion molarity may be expressed as a p-function, or <term>pOH</term>:</para>
+<para id="fs-idp55544688">Likewise, the hydroxide ion molarity may be expressed as a p-function, or <term id="term-00005">pOH</term>:</para>
 <equation id="fs-idp66748048" class="unnumbered"><m:math><m:mrow><m:mtext>pOH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:math></equation>
 <para id="fs-idp67153952">or</para>
 <equation id="fs-idp102994080" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup></m:mrow><m:mo>]</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−pOH</m:mtext></m:mrow></m:msup></m:mrow></m:math></equation>
@@ -55,7 +55,7 @@
 <tbody>
 <row valign="top">
 <entry align="center">acidic</entry>
-<entry align="center">[H<sub>3</sub>O<sup>+</sup>] &gt; [OH<sup>−</sup>]</entry>
+<entry align="center">[H<sub>3</sub>O<sup>+</sup>] > [OH<sup>−</sup>]</entry>
 <entry align="center">pH &lt; 7</entry>
 </row>
 <row valign="top">
@@ -66,7 +66,7 @@
 <row valign="top">
 <entry align="center">basic</entry>
 <entry align="center">[H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>−</sup>]</entry>
-<entry align="center">pH &gt; 7</entry>
+<entry align="center">pH > 7</entry>
 </row>
 </tbody>
 </tgroup>
@@ -159,7 +159,7 @@ The hydronium ion concentration of vinegar is approximately 4 <m:math><m:mo>×</
 </figure>
 <section id="fs-idm51820592" class="summary">
 <title>Key Concepts and Summary</title>
-<para id="fs-idp58752272">Concentrations of hydronium and hydroxide ions in aqueous media are often represented as logarithmic pH and pOH values, respectively. At 25 °C, the autoprotolysis equilibrium for water requires the sum of pH and pOH to equal 14 for any aqueous solution. The relative concentrations of hydronium and hydroxide ion in a solution define its status as acidic ([H<sub>3</sub>O<sup>+</sup>] &gt; [OH<sup>−</sup>]), basic ([H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>−</sup>]), or neutral ([H<sub>3</sub>O<sup>+</sup>] = [OH<sup>−</sup>]). At 25 °C, a pH &lt; 7 indicates an acidic solution, a pH &gt; 7 a basic solution, and a pH = 7 a neutral solution.</para>
+<para id="fs-idp58752272">Concentrations of hydronium and hydroxide ions in aqueous media are often represented as logarithmic pH and pOH values, respectively. At 25 °C, the autoprotolysis equilibrium for water requires the sum of pH and pOH to equal 14 for any aqueous solution. The relative concentrations of hydronium and hydroxide ion in a solution define its status as acidic ([H<sub>3</sub>O<sup>+</sup>] > [OH<sup>−</sup>]), basic ([H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>−</sup>]), or neutral ([H<sub>3</sub>O<sup>+</sup>] = [OH<sup>−</sup>]). At 25 °C, a pH &lt; 7 indicates an acidic solution, a pH > 7 a basic solution, and a pH = 7 a neutral solution.</para>
 </section>
 <section id="fs-idp66998992" class="key-equations">
 <title>Key Equations</title>
@@ -260,7 +260,7 @@ The hydronium ion concentration of vinegar is approximately 4 <m:math><m:mo>×</
 <glossary>
 <definition id="fs-idm64563696">
 <term>acidic</term>
-<meaning id="fs-idm110209904">a solution in which [H<sub>3</sub>O<sup>+</sup>] &gt; [OH<sup>−</sup>]</meaning>
+<meaning id="fs-idm110209904">a solution in which [H<sub>3</sub>O<sup>+</sup>] > [OH<sup>−</sup>]</meaning>
 </definition>
 <definition id="fs-idm111671584">
 <term>basic</term>
