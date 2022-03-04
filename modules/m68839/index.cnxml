@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68839</md:content-id>
   <md:title>Occurrence, Preparation, and Properties of Halogens</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list><item>Describe the preparation, properties, and uses of halogens</item>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001"><item>Describe the preparation, properties, and uses of halogens</item>
 <item>Describe the properties, preparation, and uses of halogen compounds</item></list></md:abstract>
   <md:uuid>8868d0bc-22c9-4dff-abcd-28ed4c40aae2</md:uuid>
 </metadata>
@@ -53,7 +53,7 @@
 <section id="fs-idp115160752">
 <title>Halides of the Representative Metals</title>
 <para id="fs-idp13779456">Thousands of salts of the representative metals have been prepared. The binary halides are an important subclass of salts. A salt is an ionic compound composed of cations and anions, other than hydroxide or oxide ions. In general, it is possible to prepare these salts from the metals or from oxides, hydroxides, or carbonates. We will illustrate the general types of reactions for preparing salts through reactions used to prepare binary halides.</para>
-<para id="fs-idp78956208">The binary compounds of a metal with the halogens are the <term>halides</term>. Most binary halides are ionic. However, mercury, the elements of group 13 with oxidation states of 3+, tin(IV), and lead(IV) form covalent binary halides.</para>
+<para id="fs-idp78956208">The binary compounds of a metal with the halogens are the <term id="term-00001">halides</term>. Most binary halides are ionic. However, mercury, the elements of group 13 with oxidation states of 3+, tin(IV), and lead(IV) form covalent binary halides.</para>
 <para id="fs-idm99323744">The direct reaction of a metal and a halogen produce the halide of the metal. Examples of these oxidation-reduction reactions include:</para>
 <equation class="unnumbered" id="fs-idp3643552"><m:math><m:mrow><m:mtext>Cd</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CdCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <equation class="unnumbered" id="fs-idp10322128"><m:math><m:mrow><m:mtext>2Ga</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>GaBr</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
@@ -88,7 +88,7 @@
 </section>
 <section id="fs-idm71704144">
 <title>Interhalogens</title>
-<para id="fs-idm123500464">Compounds formed from two or more different halogens are <term>interhalogens</term>. Interhalogen molecules consist of one atom of the heavier halogen bonded by single bonds to an odd number of atoms of the lighter halogen. The structures of IF<sub>3</sub>, IF<sub>5</sub>, and IF<sub>7</sub> are illustrated in <link target-id="CNX_Chem_18_11_IF3IF5IF7"/>. Formulas for other interhalogens, each of which comes from the reaction of the respective halogens, are in <link target-id="fs-idm73111648"/>.</para>
+<para id="fs-idm123500464">Compounds formed from two or more different halogens are <term id="term-00002">interhalogens</term>. Interhalogen molecules consist of one atom of the heavier halogen bonded by single bonds to an odd number of atoms of the lighter halogen. The structures of IF<sub>3</sub>, IF<sub>5</sub>, and IF<sub>7</sub> are illustrated in <link target-id="CNX_Chem_18_11_IF3IF5IF7"/>. Formulas for other interhalogens, each of which comes from the reaction of the respective halogens, are in <link target-id="fs-idm73111648"/>.</para>
 <figure id="CNX_Chem_18_11_IF3IF5IF7">
 <media id="fs-idm69260048" alt="Three ball-and-stick models are shown. The left structure, labeled, “I F subscript 3,” shows a purple atom labeled, “I,” bonded to three green atoms labeled, “F,” and with two lone pairs of electrons. The middle structure, labeled, “I F subscript 5,” shows a purple atom labeled, “I,” bonded to five green atoms labeled, “F,” and with one lone pair of electrons. The right image, labeled, “I F subscript 7,” shows a purple atom labeled, “I,” bonded to seven green atoms labeled, “F.”">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_18_11_IF3IF5IF7.jpg"/>

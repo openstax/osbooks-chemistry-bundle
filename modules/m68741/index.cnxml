@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68741</md:content-id>
   <md:title>Strengths of Ionic and Covalent Bonds</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe the energetics of covalent and ionic bond formation and breakage</item>
 <item>Use the Born-Haber cycle to compute lattice energies for ionic compounds</item>
 <item>Use average covalent bond energies to estimate enthalpies of reaction</item>
@@ -303,7 +303,7 @@ Ethyl alcohol, CH<sub>3</sub>CH<sub>2</sub>OH, was one of the first organic chem
 </section>
 <section id="fs-idm34679504">
 <title>Ionic Bond Strength and Lattice Energy</title>
-<para id="fs-idm57606496">An ionic compound is stable because of the electrostatic attraction between its positive and negative ions. The lattice energy of a compound is a measure of the strength of this attraction. The <term>lattice energy (Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub>)</term> of an ionic compound is defined as the energy required to separate one mole of the solid into its component gaseous ions. For the ionic solid MX, the lattice energy is the enthalpy change of the process:</para>
+<para id="fs-idm57606496">An ionic compound is stable because of the electrostatic attraction between its positive and negative ions. The lattice energy of a compound is a measure of the strength of this attraction. The <term id="term-00001">lattice energy (Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub>)</term> of an ionic compound is defined as the energy required to separate one mole of the solid into its component gaseous ions. For the ionic solid MX, the lattice energy is the enthalpy change of the process:</para>
 <equation class="unnumbered" id="fs-idp69066736"><m:math><m:mrow><m:mtext>MX</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>M</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>X</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>lattice</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
 <para id="fs-idm45000976">Note that we are using the convention where the ionic solid is separated into ions, so our lattice energies will be <emphasis effect="italics">endothermic</emphasis> (positive values). Some texts use the equivalent but opposite convention, defining lattice energy as the energy released when separate ions combine to form a lattice and giving negative (exothermic) values. Thus, if you are looking up lattice energies in another reference, be certain to check which definition is being used. In both cases, a larger magnitude for lattice energy indicates a more stable ionic compound. For sodium chloride, Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub> = 769 kJ. Thus, it requires 769 kJ to separate one mole of solid NaCl into gaseous Na<sup>+</sup> and Cl<sup>–</sup> ions. When one mole each of gaseous Na<sup>+</sup> and Cl<sup>–</sup> ions form solid NaCl, 769 kJ of heat is released.</para>
 <para id="fs-idp17453088">The lattice energy Δ<emphasis effect="italics">H</emphasis><sub>lattice</sub> of an ionic crystal can be expressed by the following equation (derived from Coulomb’s law, governing the forces between electric charges):</para>
@@ -323,7 +323,7 @@ Zinc oxide, ZnO, is a very effective sunscreen. How would the lattice energy of 
 </note>
 </example>
 </section>
-<section id="fs-idp112167568"><title>The Born-Haber Cycle</title><para id="fs-idp51725632">It is not possible to measure lattice energies directly. However, the lattice energy can be calculated using the equation given in the previous section or by using a thermochemical cycle. The <term>Born-Haber cycle</term> is an application of Hess’s law that breaks down the formation of an ionic solid into a series of individual steps:</para>
+<section id="fs-idp112167568"><title>The Born-Haber Cycle</title><para id="fs-idp51725632">It is not possible to measure lattice energies directly. However, the lattice energy can be calculated using the equation given in the previous section or by using a thermochemical cycle. The <term id="term-00002">Born-Haber cycle</term> is an application of Hess’s law that breaks down the formation of an ionic solid into a series of individual steps:</para>
 <list id="fs-idp77725760" list-type="bulleted" bullet-style="bullet">
 <item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> the standard enthalpy of formation of the compound</item>
 <item><emphasis effect="italics">IE</emphasis>, the ionization energy of the metal</item>
