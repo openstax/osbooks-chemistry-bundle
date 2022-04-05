@@ -372,7 +372,7 @@ Calculate the molar solubility of aluminum hydroxide, Al(OH)<sub>3</sub>, in a 0
 <m:mtr/>
 <m:mtr>
   <m:mtd><m:mrow/></m:mtd><m:mtd><m:mrow><m:munder accentunder="true"><m:mrow><m:mi>x</m:mi></m:mrow><m:mo stretchy="true">_</m:mo></m:munder></m:mrow></m:mtd>
-  <m:mtd><m:munder accentunder="true"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>x</m:mi></m:mrow></m:munder>
+  <m:mtd><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>x</m:mi></m:mrow>
 </m:mtd></m:mtr></m:mtable></m:mrow></m:math><newline/>
 (e)<newline/>
  <m:math><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:msub><m:mrow><m:mtext>Ca</m:mtext></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msub><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo></m:mrow></m:mtd><m:mtd><m:mrow><m:msup><m:mrow><m:mtext>5Ca</m:mtext></m:mrow><m:mtext>2+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo></m:mrow></m:mtd><m:mtd><m:mrow><m:msub><m:mrow><m:mtext>3PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>3−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo></m:mrow></m:mtd><m:mtd><m:mrow><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>−</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mrow/></m:mtd><m:mtd><m:mrow><m:munder accentunder="true"><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi></m:mrow><m:mo stretchy="true">_</m:mo></m:munder></m:mrow></m:mtd><m:mtd><m:mrow><m:munder accentunder="true"><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi></m:mrow><m:mo stretchy="true">_</m:mo></m:munder></m:mrow></m:mtd><m:mtd><m:mi>x</m:mi></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para></solution>
@@ -593,7 +593,7 @@ This value is greater than 5%, so a more exact method, such as successive approx
 </exercise>
 <exercise id="fs-idp14922048">
 <problem id="fs-idp14922176">
-<para id="fs-idp14922304">The solubility product of CaSO<sub>4</sub>·2H<sub>2</sub>O is 2.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup>. What mass of this salt will dissolve in 1.0 L of 0.010 <emphasis effect="italics">M</emphasis> <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext><m:mn>4</m:mn></m:mrow></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mo>?</m:mo></m:mrow></m:math></para>
+<para id="fs-idp14922304">The solubility product of CaSO<sub>4</sub>·2H<sub>2</sub>O is 2.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup>. What mass of this salt will dissolve in 1.0 L of 0.010 <emphasis effect="italics">M</emphasis> <m:math><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mo>?</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-idp14927136">
 <para id="fs-idp14927392">Mass (CaSO<sub>4</sub>·2H<sub>2</sub>O) = 0.72 g/L</para></solution>
