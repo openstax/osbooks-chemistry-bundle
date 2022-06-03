@@ -43,7 +43,7 @@
 </media>
 <caption>The immense pressures beneath glaciers result in partial melting to produce a layer of water that provides lubrication to assist glacial movement. This satellite photograph shows the advancing edge of the Perito Moreno glacier in Argentina. (credit: NASA)</caption>
 </figure>
-<para id="fs-idm105744432">The point of intersection of all three curves is labeled B in <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>. At the pressure and temperature represented by this point, all three phases of water coexist in equilibrium. This temperature-pressure data pair is called the <term id="term-00002">triple point</term>. At pressures lower than the triple point, water cannot exist as a liquid, regardless of the temperature.</para>
+<para id="fs-idm105744432">The point of intersection of all three curves is labeled B in <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>. At the pressure and temperature represented by this point, three phases of water coexist in equilibrium. This temperature-pressure data pair is called the <term id="term-00002">triple point</term>. At pressures lower than the triple point, water cannot exist as a liquid, regardless of the temperature.</para>
 <example id="fs-idm211145632">
 <para id="fs-idm84608528"><title>Determining the State of Water</title>
 Using the phase diagram for water given in <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>, determine the state of water at the following temperatures and pressures:</para>
@@ -174,7 +174,7 @@ Ammonia can be liquefied by compression at room temperature; oxygen cannot be li
 </section>
 <section id="fs-idm39505456" class="summary">
 <title>Key Concepts and Summary</title>
-<para id="fs-idm183316720">The temperature and pressure conditions at which a substance exists in solid, liquid, and gaseous states are summarized in a phase diagram for that substance. Phase diagrams are combined plots of three pressure-temperature equilibrium curves: solid-liquid, liquid-gas, and solid-gas. These curves represent the relationships between phase-transition temperatures and pressures. The point of intersection of all three curves represents the substance’s triple point—the temperature and pressure at which all three phases are in equilibrium. At pressures below the triple point, a substance cannot exist in the liquid state, regardless of its temperature. The terminus of the liquid-gas curve represents the substance’s critical point, the pressure and temperature above which a liquid phase cannot exist.</para>
+<para id="fs-idm183316720">The temperature and pressure conditions at which a substance exists in solid, liquid, and gaseous states are summarized in a phase diagram for that substance. Phase diagrams are combined plots of pressure-temperature equilibrium curves representing the relationships between phase transition temperatures and pressures. The point of intersection of any three curves in a phase diagram represents a substance’s triple point—the temperature and pressure at which three different phases are in equilibrium. At pressures below a solid-liquid-gas triple point, a substance cannot exist in the liquid state, regardless of its temperature. The terminus of the liquid-gas curve represents the substance’s critical point, the pressure and temperature above which a liquid phase cannot exist.</para>
 </section>
 <section id="fs-idm278580384" class="exercises">
 <title>Chemistry End of Chapter Exercises</title>
@@ -297,7 +297,7 @@ Ammonia can be liquefied by compression at room temperature; oxygen cannot be li
 </definition>
 <definition id="fs-idm153679600">
 <term>triple point</term>
-<meaning id="fs-idm192540240">temperature and pressure at which the vapor, liquid, and solid phases of a substance are in equilibrium</meaning>
+<meaning id="fs-idm192540240">temperature and pressure at which three phases of a substance are in equilibrium</meaning>
 </definition>
 </glossary>
 </document>
