@@ -51,13 +51,11 @@ The data from <link target-id="CNX_Chem_12_01_KDataH2O2" document="m68786"/> are
 <table id="fs-idp114347648" summary="This table contains four columns and six rows. The first row is a header row, and it labels each column, “Trial,” “Time ( h ),” “[ H subscript 2 O subscript 2 ] ( M ),” and “l n [ H subscript 2 O subscript 2 ].” Under the “Trial” column are the numbers: 1, 2, 3, 4, and 5. Under the column, “Time ( h )” are the numbers 0, 6.00, 12.00, 18.00, and 24.00. Under the column “[ H subscript 2 O subscript 2 ] ( M ),” are the numbers 1.000, 0.500, 0.250, 0.125, and 0.0625. Under the column, “l n [ H subscript 2 O subscript 2 ],” are the numbers: 0.0, negative 0.693, negative 1.386, negative 2.079, and negative 2.772." class="unnumbered">
 <label/>
 <tgroup cols="4">
-<colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
 <colspec colnum="4" colname="c4"/>
 <thead>
 <row valign="middle">
-<entry align="left">Trial</entry>
 <entry align="left">Time (h)</entry>
 <entry align="left">[H<sub>2</sub>O<sub>2</sub>] (<emphasis effect="italics">M</emphasis>)</entry>
 <entry align="left">ln[H<sub>2</sub>O<sub>2</sub>]</entry>
@@ -65,31 +63,26 @@ The data from <link target-id="CNX_Chem_12_01_KDataH2O2" document="m68786"/> are
 </thead>
 <tbody>
 <row valign="middle">
-<entry align="left">1</entry>
 <entry align="left">0.00</entry>
 <entry align="left">1.000</entry>
 <entry align="left">0.000</entry>
 </row>
 <row valign="middle">
-<entry align="left">2</entry>
 <entry align="left">6.00</entry>
 <entry align="left">0.500</entry>
 <entry align="left">−0.693</entry>
 </row>
 <row valign="middle">
-<entry align="left">3</entry>
 <entry align="left">12.00</entry>
 <entry align="left">0.250</entry>
 <entry align="left">−1.386</entry>
 </row>
 <row valign="middle">
-<entry align="left">4</entry>
 <entry align="left">18.00</entry>
 <entry align="left">0.125</entry>
 <entry align="left">−2.079</entry>
 </row>
 <row valign="middle">
-<entry align="left">5</entry>
 <entry align="left">24.00</entry>
 <entry align="left">0.0625</entry>
 <entry align="left">−2.772</entry>
@@ -118,39 +111,32 @@ Graph the following data to determine whether the reaction <m:math><m:mrow><m:mi
 <table id="fs-idm149704608" summary="This table has three columns and six rows. The first row is a header row, and it labels each column, “Trial,” “Time ( s ),” and, “[ A ].” Under the “Trial” column are the numbers: 1, 2, 3, 4, and 5. Under the “Time ( s )” column are the numbers: 4.0, 8.0, 12.0, 16.0, and 20.0. Under the “ [ A ]” column are the numbers: 0.220, 0.144, 0.110, 0.088, and 0.074." class="unnumbered">
 <label/>
 <tgroup cols="3">
-<colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
 <thead>
 <row valign="middle">
-<entry align="left">Trial</entry>
 <entry align="left">Time (s)</entry>
 <entry align="left">[<emphasis effect="italics">A</emphasis>]</entry>
 </row>
 </thead>
 <tbody>
 <row valign="middle">
-<entry align="left">1</entry>
 <entry align="left">4.0</entry>
 <entry align="left">0.220</entry>
 </row>
 <row valign="middle">
-<entry align="left">2</entry>
 <entry align="left">8.0</entry>
 <entry align="left">0.144</entry>
 </row>
 <row valign="middle">
-<entry align="left">3</entry>
 <entry align="left">12.0</entry>
 <entry align="left">0.110</entry>
 </row>
 <row valign="middle">
-<entry align="left">4</entry>
 <entry align="left">16.0</entry>
 <entry align="left">0.088</entry>
 </row>
 <row valign="middle">
-<entry align="left">5</entry>
 <entry align="left">20.0</entry>
 <entry align="left">0.074</entry>
 </row>
@@ -196,42 +182,35 @@ If the initial concentration of butadiene is 0.0200 <emphasis effect="italics">M
 <example id="fs-idp69093472">
 <para id="fs-idm27496000"><title>Graphical Determination of Reaction Order and Rate Constant</title>
 The data below are for the same reaction described in <link target-id="fs-idm85213520"/>. Prepare and compare two appropriate data plots to identify the reaction as being either first or second order. After identifying the reaction order, estimate a value for the rate constant.</para><para id="fs-idp4978176"><title>Solution</title>
-<table id="fs-idm140502592" summary="This table contains three columns and six rows. The first row is a header row and it labels each column, “Trial,” “Time ( s ),” and “[ C subscript 4 H subscript 6 ] ( M ).” Under the “Trial” column are the numbers: 1, 2, 3, 4, and 5. Under the “Time ( s )” column are the numbers: 0, 1600, 3200, 4800, and 6200. Under the column “[ C subscript 4 H subscript 6 ] ( M )” are the numbers: 1.00 times ten to the negative 2; 5.04 times ten to the negative 3; 3.37 times ten to the negative 3; 2.53 times ten to the negative 3; and 2.08 times ten to the negative 3." class="unnumbered">
+<table id="fs-idm140502592" summary="This table contains two columns and six rows. The first row is a header row and it labels each column, “Time ( s ),” and “[ C subscript 4 H subscript 6 ] ( M ).”  Under the “Time ( s )” column are the numbers: 0, 1600, 3200, 4800, and 6200. Under the column “[ C subscript 4 H subscript 6 ] ( M )” are the numbers: 1.00 times ten to the negative 2; 5.04 times ten to the negative 3; 3.37 times ten to the negative 3; 2.53 times ten to the negative 3; and 2.08 times ten to the negative 3." class="unnumbered">
 <label/>
 <tgroup cols="3">
-<colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
 <thead>
 <row valign="middle">
-<entry align="left">Trial</entry>
 <entry align="left">Time (s)</entry>
 <entry align="left">[C<sub>4</sub>H<sub>6</sub>] (<emphasis effect="italics">M</emphasis>)</entry>
 </row>
 </thead>
 <tbody>
 <row valign="middle">
-<entry align="left">1</entry>
 <entry align="left">0</entry>
 <entry align="left">1.00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−2</sup></entry>
 </row>
 <row valign="middle">
-<entry align="left">2</entry>
 <entry align="left">1600</entry>
 <entry align="left">5.04 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup></entry>
 </row>
 <row valign="middle">
-<entry align="left">3</entry>
 <entry align="left">3200</entry>
 <entry align="left">3.37 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup></entry>
 </row>
 <row valign="middle">
-<entry align="left">4</entry>
 <entry align="left">4800</entry>
 <entry align="left">2.53 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup></entry>
 </row>
 <row valign="middle">
-<entry align="left">5</entry>
 <entry align="left">6200</entry>
 <entry align="left">2.08 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup></entry>
 </row>
@@ -292,47 +271,39 @@ The data below are for the same reaction described in <link target-id="fs-idm852
 <equation id="fs-idm363866800" class="unnumbered"><m:math><m:mrow><m:mi>k</m:mi><m:mo>=</m:mo><m:mtext>slope</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>481</m:mn><m:mspace width="0.2em"/><m:msup><m:mi>M</m:mi><m:mn>−1</m:mn></m:msup><m:mo>−</m:mo><m:mn>100</m:mn><m:mspace width="0.2em"/><m:msup><m:mi>M</m:mi><m:mn>−1</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6200</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext><m:mo>−</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.0614</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>M</m:mtext><m:mn>−1</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mn>−1</m:mn></m:msup></m:mrow></m:math></equation>
 <para id="fs-idm56284464"><title>Check Your Learning</title>
 Do the following data fit a second-order rate law?</para>
-<table id="fs-idm88760288" summary="This table contains three columns and seven rows. The first row is a header row, and it labels each column, “Trial,” “Time ( s ),” and, “[ A ] ( M ).” Under the “Trial” column are the numbers: 1, 2, 3, 4, 5, and 6. Under the “Time ( s )” column are the numbers: 5, 10, 15, 20, 25, and 35. Under the “[ A ] ( M )” column are the numbers 0.952, 0.625, 0.465, 0.370, 0.308, and 0.230." class="unnumbered">
+<table id="fs-idm88760288" summary="This table contains two columns and seven rows. The first row is a header row, and it labels each column “Time ( s )” and “[ A ] ( M ).” Under the “Time ( s )” column are the numbers: 5, 10, 15, 20, 25, and 35. Under the “[ A ] ( M )” column are the numbers 0.952, 0.625, 0.465, 0.370, 0.308, and 0.230." class="unnumbered">
 <label/>
 <tgroup cols="3">
-<colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
 <thead>
 <row valign="middle">
-<entry align="left">Trial</entry>
 <entry align="left">Time (s)</entry>
 <entry align="left">[<emphasis effect="italics">A</emphasis>] (<emphasis effect="italics">M</emphasis>)</entry>
 </row>
 </thead>
 <tbody>
 <row valign="middle">
-<entry align="left">1</entry>
 <entry align="left">5</entry>
 <entry align="left">0.952</entry>
 </row>
 <row valign="middle">
-<entry align="left">2</entry>
 <entry align="left">10</entry>
 <entry align="left">0.625</entry>
 </row>
 <row valign="middle">
-<entry align="left">3</entry>
 <entry align="left">15</entry>
 <entry align="left">0.465</entry>
 </row>
 <row valign="middle">
-<entry align="left">4</entry>
 <entry align="left">20</entry>
 <entry align="left">0.370</entry>
 </row>
 <row valign="middle">
-<entry align="left">5</entry>
 <entry align="left">25</entry>
 <entry align="left">0.308</entry>
 </row>
 <row valign="middle">
-<entry align="left">6</entry>
 <entry align="left">35</entry>
 <entry align="left">0.230</entry>
 </row>
