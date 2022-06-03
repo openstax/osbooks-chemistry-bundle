@@ -77,7 +77,8 @@ Define Gibbs free energy, and describe its relation to spontaneity</item>
   </m:mrow>
 </m:math>
 </equation>
-<para id="fs-idm236757664">However, as noted previously in this chapter, such conditions are not realistic. In addition, the technologies used to extract work from a spontaneous process (e.g., automobile engine, steam turbine) are never 100% efficient, and so the work done by these processes is always less than the theoretical maximum. Similar reasoning may be applied to a nonspontaneous process, for which the free energy change represents the <emphasis effect="italics">minimum</emphasis> amount of work that must be done on the system to carry out the process.</para>
+<para id="para-00001">where <m:math><m:mrow><m:msub><m:mi>w</m:mi><m:mrow><m:mi>max</m:mi></m:mrow></m:msub></m:mrow></m:math> refers to all types of work except expansion (pressure-volume) work.</para>
+<para id="fs-idm236757664">However, as noted previously in this chapter, such conditions are not realistic. In addition, the technologies used to extract work from a spontaneous process (e.g., batteries) are never 100% efficient, and so the work done by these processes is always less than the theoretical maximum. Similar reasoning may be applied to a nonspontaneous process, for which the free energy change represents the <emphasis effect="italics">minimum</emphasis> amount of work that must be done on the system to carry out the process.</para>
 </section>
 <section id="fs-idm305910384">
 <title>Calculating Free Energy Change</title>
