@@ -23,7 +23,7 @@
 <para id="fs-idm500275472">Unlike balanced equations representing an overall reaction, the equations for elementary reactions are explicit representations of the chemical change taking place. The reactant(s) in an elementary reaction’s equation undergo only the bond-breaking and/or making events depicted to yield the product(s). For this reason, <emphasis effect="italics">the rate law for an elementary reaction may be derived directly from the balanced chemical equation describing the reaction</emphasis>. This is not the case for typical chemical reactions, for which rate laws may be reliably determined only via experimentation.</para>
 <section id="fs-idp262348128">
 <title>Unimolecular Elementary Reactions</title>
-<para id="fs-idp205522704">The <term id="term-00004">molecularity</term> of an elementary reaction is the number of reactant species (atoms, molecules, or ions). For example, a <term id="term-00005">unimolecular reaction</term> involves the reaction of a <emphasis effect="italics">single</emphasis> reactant species to produce one or more molecules of product:</para>
+<para id="fs-idp205522704">The <term id="term-00004">molecularity</term> of an elementary reaction is the number of reactant entities (atoms, molecules, or ions). For example, a <term id="term-00005">unimolecular reaction</term> involves the reaction of a <emphasis effect="italics">single</emphasis> reactant entities to produce one or more molecules of product:</para>
 <equation id="fs-idp34074352" class="unnumbered"><m:math><m:mrow><m:mi>A</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>products</m:mtext></m:mrow></m:math></equation>
 <para id="fs-idp13674832">The rate law for a unimolecular reaction is first order:</para>
 <equation id="fs-idm26736096" class="unnumbered"><m:math><m:mrow><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mi>A</m:mi><m:mo stretchy="false">]</m:mo></m:mrow></m:math></equation>
@@ -39,7 +39,7 @@
 </section>
 <section id="fs-idp108234736">
 <title>Bimolecular Elementary Reactions</title>
-<para id="fs-idp87793216">A <term id="term-00006">bimolecular reaction</term> involves two reactant species, for example:</para>
+<para id="fs-idp87793216">A <term id="term-00006">bimolecular reaction</term> involves two reactant entities, for example:</para>
 <equation id="fs-idp211065760" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>B</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>products</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>and</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>2</m:mn><m:mi>A</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>products</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
 <para id="fs-idm80729584">For the first type, in which the two reactant molecules are different, the rate law is first-order in <emphasis effect="italics">A</emphasis> and first order in <emphasis effect="italics">B</emphasis> (second-order overall):</para>
 <equation id="fs-idm26928768" class="unnumbered"><m:math><m:mtext>rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mi>A</m:mi><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mi>B</m:mi><m:mo stretchy="false">]</m:mo></m:math></equation>
@@ -111,7 +111,7 @@ The first step of a proposed multistep mechanism is:</para>
 </section>
 <section id="fs-idp145811120" class="summary">
 <title>Key Concepts and Summary</title>
-<para id="fs-idp240124176">The sequence of individual steps, or elementary reactions, by which reactants are converted into products during the course of a reaction is called the reaction mechanism. The molecularity of an elementary reaction is the number of reactant species involved, typically one (unimolecular), two (bimolecular), or, less commonly, three (termolecular). The overall rate of a reaction is determined by the rate of the slowest in its mechanism, called the rate-determining step. Unimolecular elementary reactions have first-order rate laws, while bimolecular elementary reactions have second-order rate laws. By comparing the rate laws derived from a reaction mechanism to that determined experimentally, the mechanism may be deemed either incorrect or plausible.</para>
+<para id="fs-idp240124176">The sequence of individual steps, or elementary reactions, by which reactants are converted into products during the course of a reaction is called the reaction mechanism. The molecularity of an elementary reaction is the number of reactant entities involved, typically one (unimolecular), two (bimolecular), or, less commonly, three (termolecular). The overall rate of a reaction is determined by the rate of the slowest in its mechanism, called the rate-determining step. Unimolecular elementary reactions have first-order rate laws, while bimolecular elementary reactions have second-order rate laws. By comparing the rate laws derived from a reaction mechanism to that determined experimentally, the mechanism may be deemed either incorrect or plausible.</para>
 </section>
 <section id="fs-idm483184" class="exercises">
 <title>Chemistry End of Chapter Exercises</title>
@@ -254,7 +254,7 @@ The first step of a proposed multistep mechanism is:</para>
 <glossary>
 <definition id="fs-idp131244384">
 <term>bimolecular reaction</term>
-<meaning id="fs-idm21928512">elementary reaction involving two reactant species</meaning>
+<meaning id="fs-idm21928512">elementary reaction involving two reactant entities</meaning>
 </definition>
 <definition id="fs-idp36862592">
 <term>elementary reaction</term>
@@ -262,11 +262,11 @@ The first step of a proposed multistep mechanism is:</para>
 </definition>
 <definition id="fs-idp63453216">
 <term>intermediate</term>
-<meaning id="fs-idp42175008">species produced in one step of a reaction mechanism and consumed in a subsequent step</meaning>
+<meaning id="fs-idp42175008">entities produced in one step of a reaction mechanism and consumed in a subsequent step</meaning>
 </definition>
 <definition id="fs-idp7133520">
 <term>molecularity</term>
-<meaning id="fs-idp108318064">number of reactant species involved in an elementary reaction</meaning>
+<meaning id="fs-idp108318064">number of reactant entities involved in an elementary reaction</meaning>
 </definition>
 <definition id="fs-idp105000160">
 <term>rate-determining step</term>
@@ -278,11 +278,11 @@ The first step of a proposed multistep mechanism is:</para>
 </definition>
 <definition id="fs-idp251542624">
 <term>termolecular reaction</term>
-<meaning id="fs-idp96748560">elementary reaction involving three reactant species</meaning>
+<meaning id="fs-idp96748560">elementary reaction involving three reactant entities</meaning>
 </definition>
 <definition id="fs-idm2926992">
 <term>unimolecular reaction</term>
-<meaning id="fs-idp46376128">elementary reaction involving a single reactant species</meaning>
+<meaning id="fs-idp46376128">elementary reaction involving a single reactant entities</meaning>
 </definition>
 </glossary>
 </document>
