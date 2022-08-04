@@ -353,9 +353,9 @@ Determine whether aqueous solutions of the following salts are acidic, basic, or
   <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msup>
    <m:mrow>
     <m:mtext>Al</m:mtext></m:mrow>
-   <m:mn>3</m:mn>
+   <m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow>
   </m:msup>
-  <m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub>
+  <m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub>
    <m:mrow>
     <m:mtext>NO</m:mtext></m:mrow>
    <m:mn>3</m:mn>
