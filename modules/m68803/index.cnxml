@@ -27,11 +27,11 @@
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_14_01_NH3_img.jpg"/>
 </media>
 <para id="eip-304">The preceding ionization reactions suggest that water may function as both a base (as in its reaction with hydrogen fluoride) and an acid (as in its reaction with ammonia).  Species capable of either donating or accepting protons are called <term id="term-00008">amphiprotic</term>, or more generally, <term id="term-00009">amphoteric</term>, a term that may be used for acids and bases per definitions other than the Brønsted-Lowry one.  The equations below show the two possible acid-base reactions for two amphiprotic species, bicarbonate ion and water:</para><equation id="eip-402" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>HCO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mtext fontstyle="italic">l</m:mtext><m:mo>)</m:mo>
-<m:mspace width="4em"/>
+  <m:mo stretchy="false">⇌</m:mo>
 <m:msub><m:mtext>CO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>2–</m:mo></m:msup><m:mo>(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo>)</m:mo>
 
 </m:mrow></m:math></equation><equation id="eip-167" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>HCO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mtext fontstyle="italic">l</m:mtext><m:mo>)</m:mo>
-<m:mspace width="4em"/>
+  <m:mo stretchy="false">⇌</m:mo>
 <m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>CO</m:mtext><m:mn>3</m:mn></m:msub><m:mo>(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo>)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>OH</m:mtext><m:mn>–</m:mn></m:msup><m:mo>(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo>)</m:mo>
 
 </m:mrow></m:math></equation><para id="fs-idp176970528">The first equation represents the reaction of bicarbonate as an acid with water as a base, whereas the second represents reaction of bicarbonate as a base with water as an acid. When bicarbonate is added to water, both these equilibria are established simultaneously and the composition of the resulting solution may be determined through appropriate equilibrium calculations, as described later in this chapter.</para>
