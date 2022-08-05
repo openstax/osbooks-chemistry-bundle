@@ -123,11 +123,11 @@ Using this information, determine if liquid water will spontaneously freeze at t
 </row>
 <row valign="top">
 <entry align="left">C<sub>2</sub>H<sub>4</sub>(<emphasis effect="italics">g</emphasis>)</entry>
-<entry align="center">219.5</entry>
+<entry align="center">219.3</entry>
 </row>
 <row valign="top">
 <entry align="left">C<sub>2</sub>H<sub>6</sub>(<emphasis effect="italics">g</emphasis>)</entry>
-<entry align="center">229.5</entry>
+<entry align="center">229.2</entry>
 </row>
 <row valign="top">
 <entry align="left">CH<sub>3</sub>OH(<emphasis effect="italics">l</emphasis>)</entry>
@@ -142,19 +142,19 @@ Using this information, determine if liquid water will spontaneously freeze at t
 </row>
 <row valign="top">
 <entry align="left">H<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
-<entry align="center">130.57</entry>
+<entry align="center">130.7</entry>
 </row>
 <row valign="top">
 <entry align="left">H(<emphasis effect="italics">g</emphasis>)</entry>
-<entry align="center">114.6</entry>
+<entry align="center">114.7</entry>
 </row>
 <row valign="top">
 <entry align="left">H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)</entry>
-<entry align="center">188.71</entry>
+<entry align="center">188.8</entry>
 </row>
 <row valign="top">
 <entry align="left">H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)</entry>
-<entry align="center">69.91</entry>
+<entry align="center">70.0</entry>
 </row>
 <row valign="top">
 <entry align="left">HCI(<emphasis effect="italics">g</emphasis>)</entry>
@@ -169,7 +169,7 @@ Using this information, determine if liquid water will spontaneously freeze at t
 </row>
 <row valign="top">
 <entry align="left">O<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
-<entry align="center">205.03</entry>
+<entry align="center">205.2</entry>
 </row>
 </tbody>
 </tgroup>
@@ -196,7 +196,7 @@ Calculate the standard entropy change for the combustion of methanol, CH<sub>3</
 <para id="fs-idp118976224"><title>Solution</title>
 Calculate the entropy change using standard entropies as shown above:</para>
 <equation id="fs-idp26460064" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mo>∑</m:mo><m:mi>ν</m:mi><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mtext>(products)</m:mtext><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mo>∑</m:mo><m:mi>ν</m:mi><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mtext>(reactants)</m:mtext></m:mrow></m:math></equation>
-<equation id="fs-idm2438144" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mrow><m:mo mathvariant="bold">{</m:mo><m:mrow><m:mspace width="0.1em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mn>213.8</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>70.0</m:mn></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>126.8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>205.03</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mspace width="0.2em"/></m:mrow><m:mo mathvariant="bold">}</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−161.1</m:mn><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm27377968"><title>Check Your Learning</title>
+<equation id="fs-idm2438144" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mrow><m:mo mathvariant="bold">{</m:mo><m:mrow><m:mspace width="0.1em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>2</m:mn><m:mo>(</m:mo><m:mn>213.8</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>70.0</m:mn></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>126.8</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>205.2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mspace width="0.2em"/></m:mrow><m:mo mathvariant="bold">}</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−161.6</m:mn><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm27377968"><title>Check Your Learning</title>
 Calculate the standard entropy change for the following reaction:</para>
 <equation id="fs-idp53679664" class="unnumbered"><m:math><m:mrow><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>s</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CaO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <note id="fs-idp174350576"><title>Answer:</title>
