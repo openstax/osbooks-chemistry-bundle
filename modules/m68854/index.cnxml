@@ -1014,9 +1014,7 @@ A sample of rock contains 6.14 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup
 
 <m:msubsup><m:mrow/><m:mrow><m:mn>5</m:mn></m:mrow><m:mn>8</m:mn></m:msubsup><m:mtext>B</m:mtext>
 
-</m:mrow></m:math> atom (mass = 8.0246 amu) decays into a <m:math><m:mrow>
-
-<m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mn>8</m:mn></m:msubsup><m:mtext>B</m:mtext>
+</m:mrow></m:math> atom (mass = 8.0246 amu) decays into a <m:math><m:mrow><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mn>8</m:mn></m:msubsup><m:mtext>Be</m:mtext>
 
 </m:mrow></m:math> atom (mass = 8.0053 amu) by loss of a β<sup>+</sup> particle (mass = 0.00055 amu) or by electron capture. How much energy (in millions of electron volts) is produced by this reaction?</para>
 </problem>
