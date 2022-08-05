@@ -305,7 +305,7 @@ The equation relating free energy change to standard free energy change and reac
 Calculate the free energy change for this same reaction at 875 °C in a 5.00 L mixture containing 0.100 mol of each gas. Is the reaction spontaneous under these conditions?</para>
 <note id="fs-idm329579920">
 <title>Answer:</title>
-<para id="fs-idm247369440">Δ<emphasis effect="italics">G</emphasis> = –123.5 kJ/mol; yes</para></note>
+<para id="fs-idm247369440">Δ<emphasis effect="italics">G</emphasis> = 45.1 kJ/mol; no</para></note>
 </example>
 <para id="fs-idm247911728">For a system at equilibrium, <emphasis effect="italics">Q</emphasis> = <emphasis effect="italics">K</emphasis> and Δ<emphasis effect="italics">G</emphasis> = 0, and the previous equation may be written as</para>
 <equation id="fs-idm228614064" class="unnumbered"><m:math><m:mrow><m:mn>0</m:mn><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>K</m:mi><m:mspace width="5em"/><m:mo stretchy="false">(</m:mo><m:mtext>at equilibrium</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
