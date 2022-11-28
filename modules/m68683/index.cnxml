@@ -50,7 +50,7 @@
 <row valign="top">
 <entry align="left">1 in. = 2.54 cm (exact)</entry>
 <entry align="left">1 qt = 0.94635 L</entry>
-<entry align="left">1 lb = 453.59 g</entry>
+<entry align="left">1 lb = 453.59 g<footnote id="foot-00001">Strictly speaking, the ounce and pound are units of weight, <emphasis effect="italics">W</emphasis> (a force equal to the product of mass and gravitational acceleration, <emphasis effect="italics">W</emphasis> = <emphasis effect="italics">mg</emphasis>). The conversion relations in this table are commonly used to equate masses and weight assuming a nominal value for <emphasis effect="italics">g</emphasis> at the surface of the earth. </footnote></entry>
 </row>
 <row valign="top">
 <entry align="left">1 km = 0.62137 mi</entry>
