@@ -269,7 +269,7 @@
 </tbody>
 </tgroup>
 </table>
-<para id="fs-idm81523280">While there are many ways to determine the density of an object, perhaps the most straightforward method involves separately finding the mass and volume of the object, and then dividing the mass of the sample by its volume. In the following example, the mass is found directly by weighing, but the volume is found indirectly through length measurements.</para>
+<para id="fs-idm81523280">While there are many ways to determine the density of an object, perhaps the most straightforward method involves separately finding the mass and volume of the object, and then dividing the mass of the sample by its volume. In the following example, the object's mass is measured using a scale, but its volume is calculated geometrically from length measurements.</para>
 <equation id="fs-idm166517584" class="unnumbered"><m:math><m:mrow><m:mtext>density</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mass</m:mtext></m:mrow><m:mrow><m:mtext>volume</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
 </section>
 <example id="Example_01_04_01">
