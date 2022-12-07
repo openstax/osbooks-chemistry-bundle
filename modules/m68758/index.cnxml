@@ -138,12 +138,12 @@ Convert the temperature into Kelvin:</para>
 </exercise>
 <exercise id="fs-idm124543936">
 <problem id="fs-idm49064864">
-<para id="fs-idm153083536">A 1-L sample of CO initially at STP is heated to 546 K, and its volume is increased to 2 L.</para><para id="fs-idm216426960">(a) What effect do these changes have on the number of collisions of the molecules of the gas per unit area of the container wall?</para>
+<para id="fs-idm153083536">A 1-L sample of CO initially at STP is heated to 546 K, and its volume is increased to 2 L.</para><para id="fs-idm216426960">(a) What effect do these changes have on the pressure exerted by the gas?</para>
 <para id="fs-idm124781200">(b) What is the effect on the average kinetic energy of the molecules?</para>
 <para id="fs-idm151776736">(c) What is the effect on the root mean square speed of the molecules?</para>
 </problem>
 <solution id="fs-idm175816864">
-<para id="fs-idm47263904">(a) The number of collisions per unit area of the container wall is constant. (b) The average kinetic energy doubles. (c) The root mean square speed increases to <m:math><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:math> times its initial value; <emphasis effect="italics">u</emphasis><sub>rms</sub> is proportional to <m:math><m:mrow><m:msqrt><m:mrow><m:msub><m:mrow><m:mtext>KE</m:mtext></m:mrow><m:mrow><m:mtext>avg</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idm47263904">(a) The pressure of the gas remains constant. (b) The average kinetic energy doubles. (c) The root mean square speed increases to <m:math><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:math> times its initial value; <emphasis effect="italics">u</emphasis><sub>rms</sub> is proportional to <m:math><m:mrow><m:msqrt><m:mrow><m:msub><m:mrow><m:mtext>KE</m:mtext></m:mrow><m:mrow><m:mtext>avg</m:mtext></m:mrow></m:msub></m:mrow></m:msqrt><m:mo>.</m:mo></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-idm98413904">
