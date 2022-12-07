@@ -89,17 +89,22 @@ Unexposed silver halides are removed from photographic film when they react with
 <para id="eip-881">Combining these two equilibrium equations yields</para><para id="eip-601"><m:math><m:mtable>
 <m:mtr><m:mtd><m:mrow>
 <m:mtext>AgBr</m:mtext><m:mo stretchy="false">(</m:mo>
-<m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow><m:mn>2–</m:mn></m:msup><m:mo stretchy="false">(</m:mo>
-<m:mtext fontstyle="italic">aq</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd>
-
+<m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow><m:mn>2–</m:mn></m:msup>
+<m:mo stretchy="false">(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd>
+<m:mtd><m:mo>⇌</m:mo></m:mtd>
 <m:mtd>
 <m:mrow><m:mtext>Ag</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>3–</m:mn></m:msup><m:mo stretchy="false">(</m:mo>
-<m:mtext fontstyle="italic">aq</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd>
+<m:mtext fontstyle="italic">aq</m:mtext><m:mo stretchy="false">)</m:mo>  
+
+<m:mo stretchy="false">+</m:mo><m:msup><m:mtext>Br</m:mtext><m:mn>–</m:mn></m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mtext fontstyle="italic">aq</m:mtext><m:mo stretchy="false">)</m:mo>
+</m:mrow></m:mtd>
 </m:mtr>
 
-<m:mtr><m:mtd>
+<m:mtr><m:mtd><m:mi>K</m:mi><m:mo>=</m:mo>
 <m:mfrac><m:mrow>
-<m:mi>K</m:mi><m:mo>=</m:mo><m:mo stretchy="false">[</m:mo><m:mtext>Ag</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>3–</m:mn></m:msup><m:mo stretchy="false">]</m:mo>
+<m:mo stretchy="false">[</m:mo><m:mtext>Ag</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>3–</m:mn></m:msup><m:mo stretchy="false">]</m:mo>
 <m:mo stretchy="false">[</m:mo><m:msup><m:mtext>Br</m:mtext><m:mo>–</m:mo></m:msup>
 <m:mo stretchy="false">]</m:mo>
 </m:mrow>
@@ -152,7 +157,8 @@ Unexposed silver halides are removed from photographic film when they react with
 </m:mfrac>
 <m:mo>=</m:mo>
 <m:mn>0.0011</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi>
-</m:mrow></m:math></equation><para id="fs-idm388155072">Finally, the total mass of <m:math><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow></m:math> required to provide enough thiosulfate to yield the concentrations cited above can be calculated.</para><para id="eip-672">Mass of <m:math><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow></m:math> required to yield 0.00532 M <m:math><m:mrow><m:mtext>Ag</m:mtext><m:mo>(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mo>)</m:mo><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>3–</m:mn></m:msup> </m:mrow></m:math></para><equation id="fs-idm330874144" class="unnumbered"><m:math><m:mrow>
+</m:mrow></m:math></equation><para id="fs-idm388155072">Finally, the total mass of <m:math><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow></m:math> required to provide enough thiosulfate to yield the concentrations cited above can be calculated.</para>
+<para id="eip-672">Mass of <m:math><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow></m:math> required to yield 0.00532 M <m:math><m:mrow><m:mtext>Ag</m:mtext><m:mo>(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mo>)</m:mo><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>3–</m:mn></m:msup> </m:mrow></m:math></para><equation id="fs-idm330874144" class="unnumbered"><m:math><m:mrow>
 <m:mn>0.00532</m:mn>
 <m:mfrac><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/>
 <m:mtext>Ag</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub>
@@ -172,12 +178,12 @@ Unexposed silver halides are removed from photographic film when they react with
 </m:mrow>
 </m:mfrac>
 <m:mo>×</m:mo>
-<m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>Na</m:mtext><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow>
+<m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow>
 <m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mn>2–</m:mn></m:msup></m:mrow>
 </m:mfrac>
 <m:mo>×</m:mo>
-<m:mfrac><m:mrow><m:mn>158.1</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:mtext>Na</m:mtext><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow>
-<m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>Na</m:mtext><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow>
+<m:mfrac><m:mrow><m:mn>158.1</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow>
+<m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow>
 </m:mfrac>
 <m:mo>=</m:mo>
 <m:mn>1.68</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:math></equation><para id="fs-idm124142688">Mass of <m:math><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow></m:math> required to yield 0.00110 M <m:math><m:mrow><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub>
