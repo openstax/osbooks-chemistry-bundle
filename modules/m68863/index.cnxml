@@ -318,10 +318,10 @@
 <entry align="left">C°(H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)) = 4.184 J∙g<sup>-1</sup>∙°C<sup>-1</sup></entry>
 </row>
 <row valign="middle">
-<entry align="left">C°(H<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)) = 2.093 J∙K<sup>−1</sup>∙g<sup>−1</sup></entry>
+<entry align="left">C°(H<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)) = 2.093 J∙g<sup>−1</sup>∙C<sup>−1</sup></entry>
 </row>
 <row valign="middle">
-<entry align="left">C°(H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)) = 1.864 J∙K<sup>−1</sup>∙g<sup>−1</sup></entry>
+<entry align="left">C°(H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)) = 1.864 J∙g<sup>−1</sup>∙C<sup>−1</sup></entry>
 </row>
 </tbody>
 
