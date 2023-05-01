@@ -261,8 +261,7 @@ What is the molecular formula of a compound with a percent composition of 49.47%
 <table id="key-equations-table" class="unnumbered unstyled" summary="key equations table"><label/>
 <tgroup cols="1"><colspec colnum="1" colname="c1"/>
 <tbody>
-<row><entry><m:math><m:mrow><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>X</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mass X</m:mtext></m:mrow><m:mrow><m:mtext>mass compound</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi>%</m:mi></m:mrow></m:math></entry>
-</row>
+
 <row><entry><m:math><m:mrow><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>X</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mass X</m:mtext></m:mrow><m:mrow><m:mtext>mass compound</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi>%</m:mi></m:mrow></m:math></entry></row>
 <row>
 <entry><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>molecular or molar mass</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>amu or</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mtext>g</m:mtext><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>empirical formula mass</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>amu or</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mtext>g</m:mtext><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mi>n</m:mi><m:mspace width="0.2em"/><m:mtext>formula units/molecule</m:mtext></m:mrow></m:math></entry></row>
