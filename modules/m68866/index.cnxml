@@ -78,12 +78,7 @@
 </row>
 
 
-<row valign="middle">
-<entry valign="middle" align="left">cyanic</entry>
-<entry valign="middle" align="left"><emphasis class="emphasis-one">H</emphasis>CNO</entry>
-<entry valign="middle" align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
-<entry valign="middle" align="left"><media id="fs-idp104543264" alt=" " class="scaled-down"><image mime-type="image/jpeg" src="../../media/CNX_Chem_00_HH_1scyanic_img.jpg"/></media></entry>
-</row>
+
 
 <row valign="middle">
 <entry valign="middle" align="left">formic</entry>
@@ -181,7 +176,13 @@
 <entry valign="middle" align="left"/>
 </row>
 
-
+<row valign="middle">
+  <entry valign="middle" align="left">isocyanic</entry>
+  <entry valign="middle" align="left"><emphasis class="emphasis-one">H</emphasis>CNO</entry>
+  <entry valign="middle" align="left">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+  <entry valign="middle" align="left"><media id="fs-idp104543264" alt=" " class="scaled-down"><image mime-type="image/jpeg" src="../../media/CNX_Chem_00_HH_1scyanic_img.jpg"/></media></entry>
+  </row>
+  
 <row valign="middle">
 <entry valign="middle" align="left">nitrous</entry>
 <entry valign="middle" align="left"><emphasis class="emphasis-one">H</emphasis>NO<sub>2</sub></entry>
