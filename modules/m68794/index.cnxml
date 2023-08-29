@@ -190,7 +190,7 @@ The first step of a proposed multistep mechanism is:</para>
 <row valign="middle">
 <entry align="left">Experiment</entry>
 <entry align="left">Initial Concentration [NO] (mol L<sup>−1</sup>)</entry>
-<entry align="left">Initial Concentration, [H<sub>2</sub>] (mol L<sup>−1</sup> min<sup>−1</sup>)</entry>
+<entry align="left">Initial Concentration, [H<sub>2</sub>] (mol L<sup>−1</sup>)</entry>
 <entry align="left">Initial Rate of Formation of N<sub>2</sub> (mol L<sup>−1</sup> min<sup>−1</sup>)</entry>
 </row>
 </thead>
