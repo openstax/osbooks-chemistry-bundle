@@ -151,7 +151,7 @@ Unlike the previous example exercise, this one does not involve the reaction of 
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
-<m:mo>=</m:mo><m:mn>744</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
+<m:mo>=</m:mo><m:mo>–</m:mo><m:mn>744</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
@@ -162,7 +162,7 @@ Unlike the previous example exercise, this one does not involve the reaction of 
 <m:mrow>
 <m:mrow><m:mo>(</m:mo>
 <m:mrow>
-<m:mn>744</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
+  <m:mo>–</m:mo><m:mn>744</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
@@ -174,7 +174,7 @@ Unlike the previous example exercise, this one does not involve the reaction of 
 <m:mn>3</m:mn>
 </m:msub>
 </m:mrow>
-<m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>5960</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow>
+<m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mo>–</m:mo><m:mn>5960</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow>
 </m:math></equation>
 <para id="fs-idm379229776">The enthalpy change for this reaction is −5960 kJ, and the thermochemical equation is:</para>
 <equation id="fs-idp90097408" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>22</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>11</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:mn>8</m:mn><m:msub><m:mrow><m:mtext>KClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>12</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>11</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>8</m:mn><m:mtext>KCl</m:mtext><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mstyle mathvariant="italic"><m:mtext>H</m:mtext></m:mstyle><m:mo>=</m:mo><m:mn>−5960</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
