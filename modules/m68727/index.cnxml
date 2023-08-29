@@ -112,7 +112,7 @@ Unlike the previous example exercise, this one does not involve the reaction of 
 <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
 <m:mrow>
 <m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mtext>/</m:mtext><m:mn>122.5</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow>
-<m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>0.0587</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
+<m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>0.0587</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCl</m:mtext><m:msub>
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
@@ -123,7 +123,7 @@ Unlike the previous example exercise, this one does not involve the reaction of 
 <para id="fs-idm329792512">The provided molar ratio of perchlorate-to-sucrose is then</para>
 <equation id="fs-idm378911456" class="unnumbered"><m:math>
 <m:mrow>
-<m:mn>0.0587</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
+<m:mn>0.0587</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCl</m:mtext><m:msub>
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
@@ -147,11 +147,11 @@ Unlike the previous example exercise, this one does not involve the reaction of 
 <para id="fs-idm379230752">The balanced equation indicates 8 mol KClO<sub>3</sub> are required for reaction with 1 mol C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>. Since the provided amount of KClO<sub>3</sub> is less than the stoichiometric amount, it is the limiting reactant and may be used to compute the enthalpy change:</para>
 <equation id="fs-idm352441488" class="unnumbered"><m:math>
 <m:mrow>
-<m:mo>△</m:mo><m:mtext>H</m:mtext><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>43.7</m:mn><m:mtext>​</m:mtext><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mn>0.0587</m:mn><m:mspace width="0.2em"/><m:mtext>mol KCI</m:mtext><m:msub>
+<m:mo>△</m:mo><m:mtext>H</m:mtext><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>43.7</m:mn><m:mtext>​</m:mtext><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mn>0.0587</m:mn><m:mspace width="0.2em"/><m:mtext>mol KCl</m:mtext><m:msub>
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
-<m:mo>=</m:mo><m:mo>–</m:mo><m:mn>744</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
+<m:mo>=</m:mo><m:mo>–</m:mo><m:mn>744</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCl</m:mtext><m:msub>
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
@@ -162,14 +162,14 @@ Unlike the previous example exercise, this one does not involve the reaction of 
 <m:mrow>
 <m:mrow><m:mo>(</m:mo>
 <m:mrow>
-  <m:mo>–</m:mo><m:mn>744</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
+  <m:mo>–</m:mo><m:mn>744</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>/</m:mtext><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCl</m:mtext><m:msub>
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
 </m:mrow>
 <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
 <m:mrow>
-<m:mn>8</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCI</m:mtext><m:msub>
+<m:mn>8</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>KCl</m:mtext><m:msub>
 <m:mtext>O</m:mtext>
 <m:mn>3</m:mn>
 </m:msub>
