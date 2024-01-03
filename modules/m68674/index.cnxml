@@ -411,17 +411,16 @@ Following the water displacement approach, use the simulator to measure the dens
 </problem>
 </exercise>
 <exercise id="fs-idm165750544">
-<problem id="fs-idm233862592">
-<para id="fs-idm250881440">Visit this <link url="http://openstax.org/l/16phetmasvolden">density simulation</link> and click the "turn fluid into water" button to adjust the density of liquid in the beaker to 1.00 g/mL.</para>
-<para id="fs-idm148389344">(a) Use the water displacement approach to measure the mass and volume of the unknown material (select the green block with question marks).</para>
-<para id="fs-idm329801072">(b) Use the measured mass and volume data from step (a) to calculate the density of the unknown material.</para>
-<para id="fs-idm344699344">(c) Link out to the link provided. </para>
-<para id="fs-idm338418880">(d) Assuming this material is a copper-containing gemstone, identify its three most likely identities by comparing the measured density to the values tabulated at <link url="https://www.ajsgem.com/articles/gemstone-density-definitive-guide.html">this gemstone density guide</link>.</para>
-<para id="fs-idm310048112">(e) How are mass and density related for blocks of the same volume?</para>
-</problem>
-<solution id="fs-idm23354144">
-<para id="fs-idp31066016"> (a) m = 18.58 g, V = 5.7 mL. (b) d = 3.3 g/mL (c) dioptase (copper cyclosilicate, d = 3.28—3.31 g/mL); malachite (basic copper carbonate, d = 3.25—4.10 g/mL); Paraiba tourmaline (sodium lithium boron silicate with copper, d = 2.82—3.32 g/mL)</para></solution>
-</exercise>
+  <problem id="fs-idm233862592">
+    <para id="fs-idm250881440">Visit this <link url="http://openstax.org/l/16phetmasvolden">density simulation</link> and click the "turn fluid into water" button to adjust the density of liquid in the beaker to 1.00 g/mL.</para>
+    <para id="fs-idm148389344">(a) Use the water displacement approach to measure the mass and volume of the unknown material (select the green block with question marks).</para>
+    <para id="fs-idm329801072">(b) Use the measured mass and volume data from step (a) to calculate the density of the unknown material.</para>
+    <para id="fs-idm338418880">(c) Assuming this material is a widely available copper-containing gemstone, what is its likely identity? Compare the measured density to the values tabulated at <link url="https://www.gemsociety.org/article/select-gems-ordered-density/">this gemstone density guide</link>.</para>
+    <para id="fs-idm310048112">(d) How are mass and density related for blocks of the same volume?</para>
+    </problem>
+    <solution id="fs-idm23354144">
+    <para id="fs-idp31066016"> (a) m = 18.58 g, V = 5.7 mL; (b) d = 3.3 g/mL; (c) malachite (basic copper carbonate, d = 3.25—4.10 g/mL).</para></solution>
+    </exercise>
 <exercise id="fs-idm307823136">
 <problem id="fs-idm201651312">
 <para id="fs-idm366109136">Visit this <link url="http://openstax.org/l/16phetmasvolden">density simulation</link> and click the "reset" button to ensure all simulator parameters are at their default values.</para>
