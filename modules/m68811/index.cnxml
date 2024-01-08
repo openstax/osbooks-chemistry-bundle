@@ -524,35 +524,25 @@ Check: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>5.7</m:mn><m:mspace width="0.2em"/
 </exercise>
 <exercise id="fs-idp14499248">
 <problem id="fs-idp14499376">
-<para id="fs-idp14499504">Assuming that no equilibria other than dissolution are involved, calculate the concentration of all solute species in each of the following solutions of salts in contact with a solution containing a common ion. Show that it is not appropriate to neglect the changes in the initial concentrations of the common ions.</para>
+<para id="fs-idp14499504">Assuming that no equilibria other than dissolution are involved, calculate the concentration of all solute species in each of the following solutions of salts in contact with a solution containing a common ion. State whether or not it is appropriate to neglect the changes in the initial concentrations of the common ions.</para>
 <para id="fs-idp14500224">(a) TlCl(<emphasis effect="italics">s</emphasis>) in 0.025 <emphasis effect="italics">M</emphasis> TlNO<sub>3</sub></para>
-<para id="fs-idp14502112">(b) BaF<sub>2</sub>(<emphasis effect="italics">s</emphasis>) in 0.0313 <emphasis effect="italics">M</emphasis> KF</para>
+<para id="fs-idp14502112">(b) BaF<sub>2</sub>(<emphasis effect="italics">s</emphasis>) in 0.313 <emphasis effect="italics">M</emphasis> KF</para>
 <para id="fs-idp14504128">(c) MgC<sub>2</sub>O<sub>4</sub> in 2.250 L of a solution containing 8.156 g of Mg(NO<sub>3</sub>)<sub>2</sub></para>
 <para id="fs-idp14505984">(d) Ca(OH)<sub>2</sub>(<emphasis effect="italics">s</emphasis>) in an unbuffered solution initially with a pH of 12.700</para>
 </problem>
 <solution id="fs-idp14507504">
-<para id="fs-idp272462288">(a) [Cl<sup>–</sup>] = 7.6 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup> <emphasis effect="italics">M</emphasis><newline/>
-Check: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>7.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>0.025</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi>%</m:mi><m:mo>=</m:mo><m:mn>30</m:mn><m:mi>%</m:mi></m:mrow></m:math><newline/>
-This value is too large to drop <emphasis effect="italics">x</emphasis>. Therefore solve by using the quadratic equation:<newline/>
-[Ti<sup>+</sup>] = 3.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>–2</sup> <emphasis effect="italics">M</emphasis><newline/>
-[Cl<sup>–</sup>] = 6.1 <m:math><m:mo>×</m:mo></m:math> 10<sup>–3</sup><newline/>
-(b) [Ba<sup>2+</sup>] = 7.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup> <emphasis effect="italics">M</emphasis><newline/>
-Check: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>7.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>0.0313</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi>%</m:mi><m:mo>=</m:mo><m:mn>2.4</m:mn><m:mi>%</m:mi></m:mrow></m:math><newline/>
-Therefore, the condition is satisfied.<newline/>
-[Ba<sup>2+</sup>] = 7.7 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup> <emphasis effect="italics">M</emphasis><newline/>
-[F<sup>–</sup>] = 0.0321 <emphasis effect="italics">M</emphasis>;<newline/>
-(c) Mg(NO<sub>3</sub>)<sub>2</sub> = 0.02444 <emphasis effect="italics">M</emphasis><newline/>
-<m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>2.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−5</m:mtext></m:mrow></m:msup></m:mrow></m:math><newline/>
-Check: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−5</m:mtext></m:mrow></m:msup></m:mrow><m:mrow><m:mn>0.02444</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi>%</m:mi><m:mo>=</m:mo><m:mn>0.12</m:mn><m:mi>%</m:mi></m:mrow></m:math><newline/>
-The condition is satisfied; the above value is less than 5%.<newline/>
-<m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>2.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−5</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math><newline/>
+<para id="fs-idp272462288">(a) The change in initial concentration of common ion may not be neglected (must solve quadratic equation)<newline/>
+[Ti<sup>+</sup>] =0.031  <emphasis effect="italics">M</emphasis><newline/>
+[Cl<sup>–</sup>] = 0.0056 <emphasis effect="italics">M</emphasis>
+(b) The change in initial concentration of common ion may be neglected.<newline/>
+[Ba<sup>2+</sup>] = 2.4 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup> <emphasis effect="italics">M</emphasis><newline/>
+[F<sup>–</sup>] = 0.313 <emphasis effect="italics">M</emphasis>;<newline/>
+(c) The change in initial concentration of common ion may be neglected.<newline/>
 [Mg<sup>2+</sup>] = 0.0244 <emphasis effect="italics">M</emphasis><newline/>
-(d) [OH<sup>–</sup>] = 0.0501 <emphasis effect="italics">M</emphasis><newline/>
-[Ca<sup>2+</sup>] = 3.15 <m:math><m:mo>×</m:mo></m:math> 10<sup>–3</sup><newline/>
-Check: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>3.15</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−3</m:mtext></m:mrow></m:msup></m:mrow><m:mrow><m:mn>0.050</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi>%</m:mi><m:mo>=</m:mo><m:mn>6.28</m:mn><m:mi>%</m:mi></m:mrow></m:math><newline/>
-This value is greater than 5%, so a more exact method, such as successive approximations, must be used.<newline/>
-[Ca<sup>2+</sup>] = 2.8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–3</sup> <emphasis effect="italics">M</emphasis><newline/>
-[OH<sup>–</sup>] = 0.053 <m:math><m:mo>×</m:mo></m:math> 10<sup>–2</sup> <emphasis effect="italics">M</emphasis></para></solution>
+<m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>2.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−5</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math><newline/>
+(d) The change in initial concentration of common ion may be neglected.<newline/>
+[Ca<sup>2+</sup>] = 5.18 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup> <emphasis effect="italics">M</emphasis><newline/>
+[C<sub>2</sub>)<sub>4</sub><sup>2–</sup>] = 0.051 <emphasis effect="italics">M</emphasis></para></solution>
 </exercise>
 <exercise id="fs-idp14702288">
 <problem id="fs-idp14702416">
