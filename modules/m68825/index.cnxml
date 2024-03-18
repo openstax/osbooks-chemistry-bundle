@@ -330,10 +330,10 @@
 </exercise>
 <exercise id="fs-idm192431088">
 <problem id="fs-idm157418320">
-<para id="fs-idm144130976">Using the information thus far in this chapter, explain why battery-powered electronics perform poorly in low temperatures.</para>
+<para id="fs-idm144130976">Automobile batteries are often rated with regard to “cold-cranking amps,” a measure of the ability of the battery to perform in low-temperature weather. Suggest a reason to explain why a battery’s ability to deliver current is diminished at low temperatures. (Hint: Consider the kinetics of chemical reactions.)</para>
 </problem>
 <solution id="fs-idp17014976">
-<para id="fs-idm171425232"><emphasis effect="italics">E</emphasis><sub>cell</sub>, as described in the Nernst equation, has a term that is directly proportional to temperature. At low temperatures, this term is decreased, resulting in a lower cell voltage provided by the battery to the device—the same effect as a battery running dead.</para>
+<para id="fs-idm171425232">According to kinetic theory, chemical reactions occur more slowly at lower temperatures due to the decreased rate of collisions between reactant molecules. The rates of the redox reactions taking place within batteries decrease with temperature, resulting in a decreased production of electrical current.</para>
 </solution>
 </exercise>
 </section>
