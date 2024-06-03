@@ -330,7 +330,7 @@ Use the thermodynamic data provided in <link document="m68865">Appendix G</link>
 <m:mn>2</m:mn><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <note id="fs-idm197604384">
 <title>Answer:</title>
-<para id="fs-idm135514416"><emphasis effect="italics">K</emphasis> = 3.1</para>
+<para id="fs-idm135514416"><emphasis effect="italics">K</emphasis> = 0.32</para>
 </note>
 </example>
 <para id="fs-idm66775936">To further illustrate the relation between these two essential thermodynamic concepts, consider the observation that reactions spontaneously proceed in a direction that ultimately establishes equilibrium. As may be shown by plotting the free energy change versus the extent of the reaction (for example, as reflected in the value of <emphasis effect="italics">Q</emphasis>), equilibrium is established when the system’s free energy is minimized (<link target-id="CNX_Chem_16_04_Gibbs"/>). If a system consists of reactants and products in nonequilibrium amounts (<emphasis effect="italics">Q</emphasis> ≠ <emphasis effect="italics">K</emphasis>), the reaction will proceed spontaneously in the direction necessary to establish equilibrium.</para><figure id="CNX_Chem_16_04_Gibbs">
