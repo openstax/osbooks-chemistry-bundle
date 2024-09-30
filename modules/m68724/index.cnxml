@@ -353,11 +353,11 @@ A piece of unknown metal weighs 217 g. When the metal piece absorbs 1.43 kJ of h
 </definition>
 <definition id="fs-idp25507984">
 <term>joule (J)</term>
-<meaning id="fs-idp25508624">SI unit of energy; 1 joule is the kinetic energy of an object with a mass of 1 kilogram moving with a velocity of 1 meter per second, 1 J = 1 kg m<sup>2</sup>/s<sup>2</sup> and 4.184 J = 1 cal</meaning>
+<meaning id="fs-idp25508624">SI unit of energy; amount of energy used when a force of 1 newton moves an object 1 meter, 1 J = 1 kg m<sup>2</sup>/s<sup>2</sup> and 4.184 J = 1 cal</meaning>
 </definition>
 <definition id="fs-idp25509680">
 <term>kinetic energy</term>
-<meaning id="fs-idp25510320">energy of a moving body, in joules, equal to <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>m</m:mi><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> (where <emphasis effect="italics">m</emphasis> = mass and <emphasis effect="italics">v</emphasis> = velocity)</meaning>
+<meaning id="fs-idp25510320">energy associated with an object's motion, equal to one-half the product of the object's mass and the square of its velocity, <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>m</m:mi><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> (where <emphasis effect="italics">m</emphasis> = mass and <emphasis effect="italics">v</emphasis> = velocity)</meaning>
 </definition>
 <definition id="fs-idp25515184">
 <term>potential energy</term>
