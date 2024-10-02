@@ -39,17 +39,17 @@
   <m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub>
   <m:mo>=</m:mo>
   <m:mfrac>
-    <m:mrow><m:msub><m:mi>P</m:mi><m:mtext fontstyle="italic">HI</m:mtext></m:msub><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:mrow>
-    <m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mrow></m:math></equation>
+    <m:mrow><m:msub><m:mi>P</m:mi><m:mtext>HI</m:mtext></m:msub><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:mrow>
+    <m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mrow></m:math></equation>
 <para id="fs-idm224442448">If the volume occupied by an equilibrium mixture of these species is decreased by a factor of 3, the partial pressures of all three species will be increased by a factor of 3:</para>
-<equation id="fs-idm214218336" class="unnumbered"><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:msup><m:mrow/><m:mo>'</m:mo></m:msup><m:mo>=</m:mo>
+<equation id="fs-idm214218336" class="unnumbered"><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:msup><m:mrow/><m:mo>'</m:mo></m:msup><m:mo>=</m:mo>
 <m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>HI</m:mtext></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow>
 <m:mrow><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/><m:mn>3</m:mn>
 <m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo>
-<m:mfrac><m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mtext>HI</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup></m:mrow></m:msub></m:mrow>
+<m:mfrac><m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mtext>HI</m:mtext></m:msub><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:mrow>
 <m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/>
 <m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo>
-<m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mtext>HI</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup></m:mrow></m:msub></m:mrow>
+<m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>HI</m:mtext></m:msub><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:mrow>
 <m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/>
 <m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo>
 <m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub>

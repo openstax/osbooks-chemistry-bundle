@@ -35,57 +35,75 @@
 <equation id="fs-idm217533888" class="unnumbered"><m:math><m:mrow><m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>n</m:mi><m:mi>V</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>P</m:mi><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
 <para id="fs-idm212656624">and so changes in the partial pressures of any reactant or product are essentially changes in concentrations and thus yield the same effects on equilibria. Aside from adding or removing reactant or product, the pressures (concentrations) of species in a gas-phase equilibrium can also be changed by <emphasis effect="italics">changing the volume occupied by the system</emphasis>. Since all species of a gas-phase equilibrium occupy the same volume, a given change in volume will cause the same change in concentration for both reactants and products. In order to discern what shift, if any, this type of stress will induce the stoichiometry of the reaction must be considered.</para>
 <para id="fs-idm210397920">At equilibrium, the reaction <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>HI</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> is described by the reaction quotient</para>
-<equation id="fs-idm191705744" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo>
-<m:mfrac><m:mrow>
-<m:msub><m:mi>P</m:mi>
- <m:mrow>
-  <m:msup>
-  <m:mrow><m:mtext>HI</m:mtext></m:mrow>
- <m:mn>2</m:mn>
-  </m:msup>
- </m:mrow>
-</m:msub></m:mrow>
-<m:mrow>
-<m:msub><m:mi>P</m:mi>
- <m:mrow><m:msup><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msup></m:mrow>
-</m:msub><m:mspace width="0.2em"/>
-<m:msub><m:mi>P</m:mi>
- <m:mrow><m:msup><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msup></m:mrow>
-</m:msub></m:mrow>
-</m:mfrac><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub></m:mrow></m:math></equation><para id="fs-idm203184864">If the volume occupied by an equilibrium mixture of these species is decreased by a factor of 3, the partial pressures of all three species will be increased by a factor of 3:</para>
-<equation id="fs-idm226616528" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="left">
-<m:msup><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:mtext>'</m:mtext></m:msup>
-<m:mo>=</m:mo>
-<m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>HI</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow>
- <m:mrow><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub>
-<m:mspace width="0.2em"/>
-<m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow></m:mfrac>
-<m:mo>=</m:mo>
-<m:mfrac><m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mtext>HI</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup></m:mrow></m:msub></m:mrow><m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow></m:mfrac>
-<m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mtext>HI</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup></m:mrow></m:msub></m:mrow>
-<m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:msup><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:mtext>'</m:mtext></m:msup><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm203648224">And so, changing the volume of this gas-phase equilibrium mixture does not result in a shift of the equilibrium.</para><para id="fs-idm229145328">A similar treatment of a different system, <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow></m:math> however, yields a different result:</para>
-<equation id="fs-idm210336432" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:msup><m:mrow/><m:mrow/></m:msup><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow>
-<m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:msup><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msup><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow></m:mfrac>
-<m:mo>=</m:mo>
-<m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:msup><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:mtext>'</m:mtext></m:msup>
-<m:mo>=</m:mo><m:mfrac><m:mrow>
-<m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>NO</m:mtext></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup>
-<m:mspace width="0.2em"/><m:mn>3</m:mn>
-<m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup></m:mrow></m:msub><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow><m:mrow>
-<m:mn>9</m:mn>
-
-<m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:msup><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msup><m:mo>)</m:mo></m:mrow>
-<m:mn>2</m:mn></m:msup>
-</m:mrow>
-</m:msub>
-</m:mrow></m:mfrac>
-<m:mo>=</m:mo>
-<m:mfrac><m:mrow><m:mn>27</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow><m:mrow>
-
-<m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:msup><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msup><m:mo>)</m:mo></m:mrow>
-<m:mn>2</m:mn></m:msup>
-</m:mrow>
-</m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>3</m:mn><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:mo>></m:mo><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:msup><m:mrow/><m:mtext>'</m:mtext></m:msup><m:mo>=</m:mo><m:mn>3</m:mn><m:msub><m:mi>Q</m:mi><m:mi>p</m:mi></m:msub><m:mo>></m:mo><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm211224256">In this case, the change in volume results in a reaction quotient greater than the equilibrium constant, and so the equilibrium will shift left.</para>
+<equation id="fs-idm216219232" class="unnumbered">
+  <m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub>
+  <m:mo>=</m:mo>
+  <m:mfrac>
+    <m:mrow><m:msub><m:mi>P</m:mi><m:mtext>HI</m:mtext></m:msub><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:mrow>
+    <m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm224442448">If the volume occupied by an equilibrium mixture of these species is decreased by a factor of 3, the partial pressures of all three species will be increased by a factor of 3:</para>
+<equation id="fs-idm214218336" class="unnumbered"><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:msup><m:mrow/><m:mo>'</m:mo></m:msup><m:mo>=</m:mo>
+<m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>HI</m:mtext></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow>
+<m:mrow><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/><m:mn>3</m:mn>
+<m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo>
+<m:mfrac><m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mtext>HI</m:mtext></m:msub><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:mrow>
+<m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/>
+<m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo>
+<m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>HI</m:mtext></m:msub><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:mrow>
+<m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/>
+<m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo>
+<m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub>
+<m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub>
+<m:msup><m:mrow/><m:mo>'</m:mo></m:msup><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:mo>=</m:mo>
+<m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm219505680">And so, changing the volume of this gas-phase equilibrium mixture does not result in a shift of the equilibrium.</para>
+<para id="fs-idm171975824">A similar treatment of a different system, 2NO<sub>2</sub>(<emphasis effect="italics">g</emphasis>) ⇌ 2 NO(<emphasis effect="italics">g</emphasis>) + O<sub>2</sub>(<emphasis effect="italics">g</emphasis>), however, yields a different result:</para>
+<equation id="fs-idm215260720" class="unnumbered">
+  <m:math><m:mtable><m:mtr><m:mtd columnalign="left">
+    <m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:mo>=</m:mo>
+    <m:mfrac><m:mrow><m:msup><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>NO</m:mtext></m:msub></m:mrow><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/>
+    <m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow>
+    <m:mrow><m:msup><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow><m:mn>2</m:mn></m:msup></m:mrow>
+  </m:mfrac></m:mtd></m:mtr>
+  <m:mtr><m:mtd columnalign="left">
+    <m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:msup><m:mrow/><m:mo>'</m:mo></m:msup><m:mo>=</m:mo>
+    <m:mfrac><m:mrow>
+      <m:msup>
+        <m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn>
+    <m:msub><m:mi>P</m:mi><m:mrow><m:mtext>NO</m:mtext></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow>
+    <m:mn>2</m:mn></m:msup>
+    <m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow>
+    <m:mrow><m:msup>
+      <m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub>
+    <m:mo stretchy="false">)</m:mo></m:mrow>
+    <m:mn>2</m:mn></m:msup>
+  </m:mrow>
+  </m:mfrac>
+    <m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:msup><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>NO</m:mtext></m:msub></m:mrow><m:mtext>2</m:mtext></m:msup>
+    <m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow>
+    <m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow></m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac><m:mrow><m:mn>27</m:mn><m:msup><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>NO</m:mtext></m:msub></m:mrow><m:mtext>2</m:mtext></m:msup><m:mspace width="0.2em"/>
+    <m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow>
+    <m:mrow><m:mn>9</m:mn>
+    <m:msup>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+            <m:mrow><m:msub>
+              <m:mtext>NO</m:mtext>
+              <m:mn>2</m:mn>
+            </m:msub>
+         </m:mrow></m:msub>
+       </m:mrow>
+      <m:mn>2</m:mn></m:msup></m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo><m:mn>3</m:mn><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub>
+    <m:mo>></m:mo>
+    <m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mtd></m:mtr>
+    <m:mtr><m:mtd columnalign="left"><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:msup><m:mrow/><m:mo>'</m:mo></m:msup>
+    <m:mo>=</m:mo><m:mn>3</m:mn><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:mo>></m:mo><m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mtd></m:mtr>
+  </m:mtable></m:math></equation><para id="fs-idm211224256">In this case, the change in volume results in a reaction quotient greater than the equilibrium constant, and so the equilibrium will shift left.</para>
 <para id="fs-idm193223648">These results illustrate the relationship between the stoichiometry of a gas-phase equilibrium and the effect of a volume-induced pressure (concentration) change. If the total molar amounts of reactants and products are equal, as in the first example, a change in volume does not shift the equilibrium. If the molar amounts of reactants and products are different, a change in volume will shift the equilibrium in a direction that better “accommodates” the volume change. In the second example, two moles of reactant (NO<sub>2</sub>) yield three moles of product (2NO + O<sub>2</sub>), and so decreasing the system volume causes the equilibrium to shift left since the reverse reaction produces less gas (2 mol) than the forward reaction (3 mol). Conversely, increasing the volume of this equilibrium system would result in a shift towards products.</para>
 <note id="fs-idp6099552" class="chemistry link-to-learning">
 <para id="fs-idp75936512">Check out this <link url="http://openstax.org/l/16equichange">link</link> to see a dramatic visual demonstration of how equilibrium changes with pressure changes.</para>
