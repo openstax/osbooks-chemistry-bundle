@@ -81,11 +81,38 @@
   </m:mfrac>
     <m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:msup><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>NO</m:mtext></m:msub></m:mrow><m:mtext>2</m:mtext></m:msup>
     <m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow>
-    <m:mrow><m:mn>9</m:mn><m:msub><m:mi>P</m:mi><m:mrow><m:msup><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:msub></m:mrow></m:mfrac>
+    <m:mrow><m:mn>9</m:mn>
+    <m:msup>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+            <m:mrow><m:msub>
+              <m:mtext>NO</m:mtext>
+              <m:mn>2</m:mn>
+            </m:msub>
+         </m:mrow></m:msub>
+       </m:mrow>
+      <m:mn>2</m:mn></m:msup></m:mrow></m:mfrac>
     <m:mo>=</m:mo>
     <m:mfrac><m:mrow><m:mn>27</m:mn><m:msup><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>NO</m:mtext></m:msub></m:mrow><m:mtext>2</m:mtext></m:msup><m:mspace width="0.2em"/>
     <m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow>
     <m:mrow><m:mn>9</m:mn>
+    <m:msup>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+            <m:mrow><m:msub>
+              <m:mtext>NO</m:mtext>
+              <m:mn>2</m:mn>
+            </m:msub>
+         </m:mrow></m:msub>
+       </m:mrow>
+      <m:mn>2</m:mn></m:msup></m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>NO</m:mtext></m:msub></m:mrow><m:mtext>2</m:mtext></m:msup><m:mspace width="0.2em"/>
+    <m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow>
+    <m:mrow>
     <m:msup>
       <m:mrow>
         <m:msub>
@@ -103,7 +130,8 @@
     <m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mtd></m:mtr>
     <m:mtr><m:mtd columnalign="left"><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:msup><m:mrow/><m:mo>'</m:mo></m:msup>
     <m:mo>=</m:mo><m:mn>3</m:mn><m:msub><m:mi>Q</m:mi><m:mi>P</m:mi></m:msub><m:mo>></m:mo><m:msub><m:mi>K</m:mi><m:mi>P</m:mi></m:msub></m:mtd></m:mtr>
-  </m:mtable></m:math></equation><para id="fs-idm211224256">In this case, the change in volume results in a reaction quotient greater than the equilibrium constant, and so the equilibrium will shift left.</para>
+  </m:mtable></m:math></equation>
+  <para id="fs-idm211224256">In this case, the change in volume results in a reaction quotient greater than the equilibrium constant, and so the equilibrium will shift left.</para>
 <para id="fs-idm193223648">These results illustrate the relationship between the stoichiometry of a gas-phase equilibrium and the effect of a volume-induced pressure (concentration) change. If the total molar amounts of reactants and products are equal, as in the first example, a change in volume does not shift the equilibrium. If the molar amounts of reactants and products are different, a change in volume will shift the equilibrium in a direction that better “accommodates” the volume change. In the second example, two moles of reactant (NO<sub>2</sub>) yield three moles of product (2NO + O<sub>2</sub>), and so decreasing the system volume causes the equilibrium to shift left since the reverse reaction produces less gas (2 mol) than the forward reaction (3 mol). Conversely, increasing the volume of this equilibrium system would result in a shift towards products.</para>
 <note id="fs-idp6099552" class="chemistry link-to-learning">
 <para id="fs-idp75936512">Check out this <link url="http://openstax.org/l/16equichange">link</link> to see a dramatic visual demonstration of how equilibrium changes with pressure changes.</para>
