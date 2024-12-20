@@ -416,7 +416,7 @@ Calculate Δ<emphasis effect="italics">G</emphasis>° using (a) free energies of
 <m:mtext>O</m:mtext>
 <m:mn>2</m:mn>
 </m:msub>
-<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>SO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>=</m:mo><m:mn>201.3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>+</m:mo><m:mtext>−</m:mtext><m:mn>300.1</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mn>98.8</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow>
+<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>SO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>=</m:mo><m:mn>201.3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>+</m:mo><m:mtext>−</m:mtext><m:mn>300.1</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mn>98.8</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow>
 </m:math>
 </equation>
 <para id="fs-idm225059872">This process is typically carried out at elevated temperatures, so this result obtained using standard free energy values is just an estimate. The gist of the calculation, however, holds true.</para>
