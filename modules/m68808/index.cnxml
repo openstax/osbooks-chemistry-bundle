@@ -411,7 +411,7 @@ Excess base is removed by the reaction:
    </content>
 <glossary>
 <definition id="fs-idp88494848"><term>buffer capacity</term> <meaning id="fs-idp88495360">amount of an acid or base that can be added to a volume of a buffer solution before its pH changes significantly (usually by one pH unit)</meaning></definition>
-<definition id="fs-idp88495904"><term>buffer</term> <meaning id="fs-idp88496416">mixture of appreciable amounts of a weak acid-base pair the pH of a buffer resists change when small amounts of acid or base are added</meaning></definition>
+<definition id="fs-idp88495904"><term>buffer</term> <meaning id="fs-idp88496416">mixture of appreciable amounts of a weak acid-base pair. The pH of a buffer resists change when small amounts of acid or base are added</meaning></definition>
 <definition id="fs-idm71412016"><term>Henderson-Hasselbalch equation</term> <meaning id="fs-idm71411504">logarithmic version of the acid ionization constant expression, conveniently formatted for calculating the pH of buffer solutions</meaning></definition>
 </glossary>
 </document>
