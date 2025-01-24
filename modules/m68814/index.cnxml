@@ -144,17 +144,17 @@ Unexposed silver halides are removed from photographic film when they react with
 <m:mo stretchy="false">[</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow><m:mn>2–</m:mn></m:msup><m:mo stretchy="false">]</m:mo>
 <m:mo>=</m:mo>
 <m:mfrac>
-<m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ag</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>3–</m:mn></m:msup>
-<m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup><m:mtext>Br</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">]</m:mo></m:mrow>
+<m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ag</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mn>3–</m:mn></m:msup>
+<m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup><m:mtext>Br</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:msqrt></m:mrow>
 <m:mi>K</m:mi>
 </m:mfrac>
-<m:mo>=</m:mo>
+<m:mo>=</m:mo><m:msqrt>
 <m:mfrac>
 <m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0.00532</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi><m:mo stretchy="false">)</m:mo>
 <m:mo stretchy="false">(</m:mo><m:mn>0.00532</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi><m:mo stretchy="false">)</m:mo>
 </m:mrow>
 <m:mrow><m:mn>24</m:mn></m:mrow>
-</m:mfrac>
+</m:mfrac></m:msqrt>
 <m:mo>=</m:mo>
 <m:mn>0.0011</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi>
 </m:mrow></m:math></equation><para id="fs-idm388155072">Finally, the total mass of <m:math><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow></m:math> required to provide enough thiosulfate to yield the concentrations cited above can be calculated.</para>
