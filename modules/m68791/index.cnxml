@@ -464,10 +464,10 @@ The reaction in question is second order, is initiated with a 0.200 mol L<sup>�
 <equation id="fs-idm493908080" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mn>1</m:mn><m:mrow><m:mo stretchy="false">[</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.0576</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>mol</m:mtext><m:mn>−1</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>min</m:mtext><m:mn>−1</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.200</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mn>−1</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>86.8</m:mn><m:mspace width="0.2em"/><m:mtext>min</m:mtext></m:mtd></m:mtr>
 </m:mtable></m:math></equation>
 <para id="fs-idm327019216"><title>Check Your Learning</title>
-What is the half-life (min) for the thermal decomposition of ammonia on tungsten (see <link target-id="CNX_Chem_12_04_AmDecomK"/>)?</para>
+What is the half-life (min) for the thermal decomposition of ammonia on tungsten (see <link target-id="fs-idm339943456"/>)?</para>
 <note id="fs-idm366642224">
 <title>Answer:</title>
-<para id="fs-idm339802240">19 min</para>
+<para id="fs-idm339802240">18 min</para>
 </note>
 </example>
 </section>
