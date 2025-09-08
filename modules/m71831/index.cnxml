@@ -106,7 +106,7 @@ The process of interest is the following:</para>
 <tbody>
 <row valign="top">
 <entry align="center">H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)</entry>
-<entry align="center">−286.83</entry>
+<entry align="center">−285.83</entry>
 <entry align="center">70.0</entry>
 </row>
 <row valign="top">
@@ -182,7 +182,7 @@ The process of interest is the following:</para>
 <m:mrow>
 <m:mo>(</m:mo>
 <m:mrow>
-<m:mtext>−286.83</m:mtext>
+<m:mtext>−285.83</m:mtext>
 </m:mrow>
 <m:mo>)</m:mo>
 </m:mrow>
@@ -192,7 +192,7 @@ The process of interest is the following:</para>
 <m:mspace width="0.2em"/>
 <m:mtext>kJ/mol</m:mtext>
 <m:mo>=</m:mo>
-<m:mtext>45.01 kJ</m:mtext>
+<m:mtext>44.01 kJ</m:mtext>
 </m:mtd>
 </m:mtr>
 </m:mtable>
@@ -277,7 +277,7 @@ The process of interest is the following:</para>
 </equation>
 <equation id="fs-idm129668064" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>−</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext></m:mrow></m:math></equation>
 <para id="fs-idp11689536">Substitution into the standard free energy equation yields:</para>
-<equation id="fs-idm246654432" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>−</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mtext>45.01 kJ</m:mtext><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>298 K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>118.8</m:mn><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 kJ</m:mtext></m:mrow><m:mrow><m:mtext>1000 J</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation><equation id="fs-idm135070448" class="unnumbered"><m:math><m:mrow><m:mtext>45.01 kJ</m:mtext><m:mo>−</m:mo><m:mtext>35.4 kJ</m:mtext><m:mo>=</m:mo><m:mtext>9.6 kJ</m:mtext></m:mrow></m:math></equation><para id="fs-idm276144320">At 298 K (25 °C) <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>></m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> so boiling is nonspontaneous (<emphasis effect="italics">not</emphasis> spontaneous).</para>
+<equation id="fs-idm246654432" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>−</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mtext>44.01 kJ</m:mtext><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>298 K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>118.8</m:mn><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 kJ</m:mtext></m:mrow><m:mrow><m:mtext>1000 J</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation><equation id="fs-idm135070448" class="unnumbered"><m:math><m:mrow><m:mtext>44.01 kJ</m:mtext><m:mo>−</m:mo><m:mtext>35.4 kJ</m:mtext><m:mo>=</m:mo><m:mtext>8.6 kJ</m:mtext></m:mrow></m:math></equation><para id="fs-idm276144320">At 298 K (25 °C) <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>></m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> so boiling is nonspontaneous (<emphasis effect="italics">not</emphasis> spontaneous).</para>
 <para id="fs-idm248587360"><title>Check Your Learning</title>
 Use standard enthalpy and entropy data from <link document="m68865">Appendix G</link> to calculate the standard free energy change for the reaction shown here (298 K). What does the computed value for Δ<emphasis effect="italics">G</emphasis>° say about the spontaneity of this process?</para>
 <equation id="fs-idm276750416" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
