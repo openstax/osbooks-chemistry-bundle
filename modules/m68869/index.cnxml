@@ -43,7 +43,7 @@
 <entry align="left">2.3 <m:math><m:mo>×</m:mo></m:math> 10<sup>33</sup></entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>CN</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>CN</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>16</sup></entry>
 </row>
 <row valign="middle">
@@ -107,7 +107,7 @@
 <entry align="left">1 <m:math><m:mo>×</m:mo></m:math> 10<sup>16</sup></entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>CN</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>CN</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">1.0 <m:math><m:mo>×</m:mo></m:math> 10<sup>25</sup></entry>
 </row>
 <row valign="middle">
