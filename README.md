@@ -9,7 +9,7 @@ To view these books online and view contributors, please visit:
 - _Chemistry: Atoms First 2e_ [online](https://openstax.org/details/books/chemistry-atoms-first-2e)
 
 ## License
-_Chemistry 2e and Chemistry: Atoms First 2e_ are available under the [Creative Commons Attribution License](./LICENSE) license.
+_Chemistry 2e and Chemistry: Atoms First 2e_ are available under the [Creative Commons Attribution-NonCommercial-ShareAlike License](./LICENSE) license.
 
 ## Support
 If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).
