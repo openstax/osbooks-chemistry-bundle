@@ -422,9 +422,10 @@ An irregularly shaped piece of a shiny yellowish material is weighed and then su
 <term>rounding</term>
 <meaning id="fs-idp21808480">procedure used to ensure that calculated results properly reflect the uncertainty in the measurements used in the calculation</meaning>
 </definition>
+<definition id="def-00001"><term>significant digits</term><meaning> (also, <emphasis>significant figures</emphasis>) all of the measured digits in a determination, including the uncertain last digit </meaning></definition>
 <definition id="fs-idp3346000">
 <term>significant figures</term>
-<meaning id="fs-idp130723504">(also, significant digits) all of the measured digits in a determination, including the uncertain last digit</meaning>
+<meaning id="fs-idp130723504">(also, <emphasis>significant digits</emphasis>) all of the measured digits in a determination, including the uncertain last digit</meaning>
 </definition>
 <definition id="fs-idp96606928">
 <term>uncertainty</term>
