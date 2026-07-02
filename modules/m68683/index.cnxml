@@ -554,8 +554,9 @@ Only two significant figures are justified.</para>
 <glossary>
 <definition id="fs-idm216300016">
 <term>dimensional analysis</term>
-<meaning id="fs-idp11307184">(also, factor-label method) versatile mathematical approach that can be applied to computations ranging from simple unit conversions to more complex, multi-step calculations involving several different quantities</meaning>
+<meaning id="fs-idp11307184">(also, <emphasis>factor-label method</emphasis>) versatile mathematical strategy for calculations involving quantities that subjects the quantities’ units to the same mathematical operations as their numbers</meaning>
 </definition>
+<definition id="def-00001"><term>factor-label method</term><meaning> (also, <emphasis>dimensional analysis</emphasis>) versatile mathematical strategy for calculations involving quantities that subjects the quantities’ units to the same mathematical operations as their numbers</meaning></definition>
 <definition id="fs-idm207141104">
 <term>Fahrenheit</term>
 <meaning id="fs-idp1441728">unit of temperature; water freezes at 32 °F and boils at 212 °F on this scale</meaning>
