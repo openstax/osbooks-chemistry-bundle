@@ -58,14 +58,14 @@ Define Gibbs free energy, and describe its relation to spontaneity</item>
 <section id="fs-idm233479872">
 <title>What’s “Free” about Δ<emphasis effect="italics">G</emphasis>?</title>
 <para id="fs-idm229806576">In addition to indicating spontaneity, the free energy change also provides information regarding the amount of useful work (<emphasis effect="italics">w</emphasis>) that may be accomplished by a spontaneous process. Although a rigorous treatment of this subject is beyond the scope of an introductory chemistry text, a brief discussion is helpful for gaining a better perspective on this important thermodynamic property.</para>
-<para id="fs-idm215836800">For this purpose, consider a spontaneous, exothermic process that involves a decrease in entropy. The free energy, as defined by</para>
+<para id="fs-idm215836800">For this purpose, consider a spontaneous, exothermic process that involves a decrease in entropy. The free energy change, as defined by</para>
 <equation id="fs-idm222474000" class="unnumbered">
 <m:math>
  <m:mrow>
   <m:mi>Δ</m:mi><m:mi>G</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>H</m:mi><m:mo>−</m:mo><m:mi>T</m:mi><m:mi>Δ</m:mi><m:mi>S</m:mi></m:mrow>
 </m:math>
 </equation>
-<para id="fs-idm229204848">may be interpreted as representing the difference between the energy produced by the process, Δ<emphasis effect="italics">H</emphasis>, and the energy lost to the surroundings, <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>. The difference between the energy produced and the energy lost is the energy available (or “free”) to do useful work by the process, Δ<emphasis effect="italics">G</emphasis>. If the process somehow could be made to take place under conditions of thermodynamic reversibility, the amount of work that could be done would be maximal:</para>
+<para id="fs-idm229204848">may be interpreted as representing the difference between the enthalpy change of the process, Δ<emphasis effect="italics">H</emphasis>, and the energy lost to the surroundings, <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>. The difference between the energy produced and the energy lost is the energy available (or “free”) to do useful work by the process, Δ<emphasis effect="italics">G</emphasis>. If the process somehow could be made to take place under conditions of thermodynamic reversibility, the amount of work that could be done would be maximal:</para>
 <equation id="fs-idm240532528" class="unnumbered">
 <m:math>
  <m:mrow>
