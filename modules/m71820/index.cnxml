@@ -243,7 +243,7 @@ We can derive the number of moles of a compound from its mass following the same
 <para id="fs-idm24120480">The provided mass of glycine (~28 g) is a bit more than one-third the molar mass (~75 g/mol), so we would expect the computed result to be a bit greater than one-third of a mole (~0.33 mol). Dividing the compound’s mass by its molar mass yields:</para>
 <equation id="fs-idp15857520" class="unnumbered">
   <m:math><m:mrow><m:mn>28.35</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:mtext>glycine</m:mtext></m:menclose><m:mspace width="0.2em"/>
-  <m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol glycine</m:mtext></m:mrow><m:mrow><m:mn>75.07</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g glycine</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0.378</m:mn><m:mspace width="0.2em"/><m:mtext>mol glycine</m:mtext></m:mrow></m:math></equation>
+  <m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol glycine</m:mtext></m:mrow><m:mrow><m:mn>75.07</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g glycine</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0.3776</m:mn><m:mspace width="0.2em"/><m:mtext>mol glycine</m:mtext></m:mrow></m:math></equation>
 <para id="fs-idp10905424">This result is consistent with our rough estimate.</para>
 <para id="fs-idm30097376"><title>Check Your Learning</title>
 How many moles of sucrose, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>, are in a 25-g sample of sucrose?</para>
